@@ -6,193 +6,206 @@
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Frappes Israël/Iran",
-      "title": "Frappes israéliennes sur sites iraniens",
-      "summary": "Tel-Aviv revendique trois frappes ciblées sur des installations militaires iraniennes ; Téhéran annonce des représailles « proportionnées » dans les 72 h.",
-      "source": "Reuters",
-      "url": "https://example.com/iran-strikes"
+      "short_title": "Iran : trêve rejetée",
+      "title": "Trump rejette l'offre de cessez-le-feu iranienne",
+      "summary": "Trump a repoussé la contre-proposition iranienne et déclaré le cessez-le-feu au bord de l'échec, mettant fin à plusieurs semaines de négociations discrètes. Le conflit, déclenché le 28 février par des frappes américano-israéliennes sur les sites nucléaires et militaires iraniens, reste sans issue diplomatique visible. La mort du Guide suprême Khamenei lors des premières frappes a fragilisé la chaîne de commandement à Téhéran, rendant toute décision rapide difficile.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html"
     },
     {
       "id": "n02",
       "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 105 $",
-      "title": "Brent franchit 105 $, plus haut de l'année",
-      "summary": "Le baril prend +6,8 % en deux séances sur la prime de risque iranienne. Les contrats à terme novembre s'envolent.",
+      "short_title": "Brent dépasse $107",
+      "title": "Pétrole : le Brent franchit 107 dollars, WTI au-dessus de 100",
+      "summary": "Le baril de Brent s'échange à 107,46 dollars (+3,1 % sur la journée), tandis que le WTI dépasse 101 dollars. Depuis le début de la guerre contre l'Iran le 28 février, les deux références pétrolières ont progressé de plus de 40 %. L'AIE qualifie la fermeture du détroit d'Ormuz — qui assure 20 % de l'approvisionnement mondial — de défi énergétique mondial sans précédent dans l'Histoire.",
       "source": "Bloomberg",
-      "url": "https://example.com/brent-spike"
+      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "BCE alerte récession",
-      "title": "BCE alerte sur le choc énergétique européen",
-      "summary": "Lagarde évoque un risque de récession technique en zone euro si le pétrole se maintient au-dessus de 100 $ plus d'un trimestre.",
-      "source": "Financial Times",
-      "url": "https://example.com/bce-warning"
+      "theme": "geopol",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Sommet Trump-Xi Pékin",
+      "title": "Trump se rend à Pékin pour un sommet avec Xi Jinping (13-15 mai)",
+      "summary": "Pour la première fois depuis 2017, un président américain effectue une visite d'État en Chine. Commerce (Boeing, produits agricoles), Taiwan et la guerre en Iran figurent en tête de l'agenda. Les négociateurs des deux pays se sont réunis à Séoul en amont du sommet, signalant une volonté de progresser vers un accord partiel.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-trade-iran-taiwan.html"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "europe",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Gel embauches tech UE",
-      "title": "Gel des embauches dans la tech européenne",
-      "summary": "Trois licornes — Mistral, Aleph Alpha, Helsing — annoncent un freeze partiel. Justification : visibilité macro dégradée.",
-      "source": "Les Échos",
-      "url": "https://example.com/hiring-freeze"
+      "short_title": "Zone € : inflation à 3%",
+      "title": "BCE : taux maintenus, mais l'inflation en zone euro atteint 3 %",
+      "summary": "La BCE a maintenu ses taux directeurs à 2 % lors de sa réunion d'avril, mais l'inflation de la zone euro a bondi à 3 % en avril, portée par la flambée énergétique liée à la guerre en Iran. Les économistes scrutent la réunion de juin, où une hausse de 25 points de base est envisagée pour endiguer les anticipations inflationnistes. Cette configuration de stagflation rampante — inflation élevée, croissance menacée — place la BCE dans une posture particulièrement délicate.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/european-central-bank-april-2026-rate-decision-inflation-stagflation-risk-iran-war.html"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Claude Opus 4.7",
-      "title": "Anthropic publie Claude Opus 4.7",
-      "summary": "Le successeur de 4.6 affiche +12 % sur SWE-bench et un raisonnement renforcé. Disponible API et claude.ai.",
-      "source": "Anthropic",
-      "url": "https://example.com/claude-4-7"
+      "theme": "finance",
+      "subtopic": "marches",
+      "importance": 2,
+      "short_title": "Marchés indiens -4%",
+      "title": "Bourse indienne : Sensex perd 915 points, l'IT chute de 3,9 %",
+      "summary": "Le Sensex a cédé plus de 915 points et le Nifty est passé sous les 23 600 points, avec une vente massive centrée sur le secteur technologique (-3,91 %). Les craintes liées à la guerre en Iran, le pétrole au-dessus de 100 dollars et la dégradation des anticipations macro alimentent la fuite des capitaux des marchés émergents. Le secteur IT indien souffre doublement : hausse des coûts opérationnels et recul de l'appétit des investisseurs pour le risque.",
+      "source": "HDFC Sky",
+      "url": "https://hdfcsky.com/news/stock-market-may-12-2026-mid-day-report-markets-extend-losses-into-afternoon-sensex-sheds-over-900-points"
     },
     {
       "id": "n06",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Gemini 3 Ultra",
-      "title": "Gemini 3 Ultra : benchmark multimodal",
-      "summary": "Google DeepMind annonce des gains substantiels en vidéo et raisonnement spatial, mais reste en retrait sur le code.",
-      "source": "The Verge",
-      "url": "https://example.com/gemini-3"
+      "importance": 3,
+      "short_title": "Anthropic agents rêveurs",
+      "title": "Anthropic lance Dreaming, Outcomes et orchestration multi-agents pour Claude",
+      "summary": "Lors de la conférence Code with Claude 2026, Anthropic a présenté trois nouvelles fonctionnalités pour ses agents gérés : Dreaming (révision automatique des sessions passées pour l'auto-amélioration), Outcomes (évaluation des sorties par un agent correcteur) et l'orchestration multi-agents en parallèle. Le Dreaming permet aux agents d'extraire des patterns comportementaux de leurs sessions antérieures sans intervention humaine. Ces annonces concrétisent la vision d'Anthropic d'agents capables de gérer des workflows longs et complexes de manière autonome.",
+      "source": "SiliconAngle",
+      "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "OpenAI : board chaos",
-      "title": "OpenAI : restructuration board et tensions internes",
-      "summary": "Trois départs annoncés dans la même semaine. La gouvernance non-profit / for-profit refait surface dans la presse.",
-      "source": "The Information",
-      "url": "https://example.com/openai-board"
+      "importance": 2,
+      "short_title": "OpenAI lance Daybreak",
+      "title": "OpenAI lance Daybreak, plateforme de cybersécurité fondée sur GPT-5.5",
+      "summary": "Daybreak utilise GPT-5.5 et Codex pour détecter, reproduire et corriger automatiquement les vulnérabilités dans les bases de code. La plateforme répond directement au projet Glasswing d'Anthropic, qui avait utilisé Claude Mythos pour identifier 271 failles dans Firefox. Akamai, Cisco, CrowdStrike et plusieurs autres leaders de la cybersécurité s'intègrent à l'initiative Trusted Access for Cyber.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "Cadre NIST agents",
-      "title": "NIST publie son cadre d'évaluation des LLM agents",
-      "summary": "Premier framework officiel US pour mesurer fiabilité d'agents IA en environnement réel.",
-      "source": "NIST",
-      "url": "https://example.com/nist-eval"
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor valorisé $50 Mds",
+      "title": "Cursor en discussions pour lever 2 Mds$ à 50 Mds$ de valorisation",
+      "summary": "Anysphere (Cursor) négocierait une levée de 2 milliards de dollars à une valorisation de 50 milliards, après avoir atteint 2 milliards de revenus annualisés en seulement trois ans — la croissance la plus rapide de l'histoire du SaaS. Près de 70 % du Fortune 1000 figure parmi ses clients, dont NVIDIA, Adobe et Salesforce. Cette nouvelle valorisation doublerait presque celle de la Série D clôturée à 29 milliards en novembre 2025.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "vibe_coding",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Cursor 3.0",
-      "title": "Cursor 3.0 : refonte du mode agentique",
-      "summary": "Refonte complète du panel agent, intégration MCP native, gestion multi-repo. Branchement Claude 4.7 par défaut.",
-      "source": "Cursor",
-      "url": "https://example.com/cursor-3"
+      "short_title": "IA testée avant sortie US",
+      "title": "Google, Microsoft et xAI acceptent des audits gouvernementaux pré-lancement",
+      "summary": "Google DeepMind, Microsoft et xAI ont signé des accords avec le Centre américain pour les standards et l'innovation de l'IA pour soumettre leurs modèles à des évaluations gouvernementales avant tout lancement public. Ces tests visent la sécurité nationale et la détection de risques systémiques, instituant pour la première fois un cadre formel de certification avant déploiement. C'est la première fois que les grandes plateformes acceptent formellement un accès anticipé régulateur sur leurs modèles les plus puissants.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Bolt.new lève 50 M$",
-      "title": "Bolt.new lève 50 M$ pour son IDE no-code IA",
-      "summary": "StackBlitz capitalise sur la traction de Bolt et vise les non-développeurs.",
-      "source": "TechCrunch",
-      "url": "https://example.com/bolt-funding"
+      "theme": "learn",
+      "importance": 2,
+      "short_title": "IA tuteur > classe active",
+      "title": "Un RCT (Nature) confirme : les tuteurs IA surpassent l'enseignement actif en classe",
+      "summary": "Une étude randomisée contrôlée publiée dans Scientific Reports démontre que les élèves progressent significativement plus vite avec un tuteur IA qu'en cours actif classique, tout en rapportant une plus grande motivation. L'efficacité est cependant conditionnée à une conception pédagogique rigoureuse : sans principes didactiques intégrés, l'IA booste la performance sans générer d'apprentissage profond. L'étude s'impose comme une référence dans les débats politiques sur la place du numérique dans l'éducation.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "design",
-      "importance": 2,
-      "short_title": "Vercel v0 multi-écrans",
-      "title": "Vercel v0 ajoute la génération multi-écrans",
-      "summary": "v0 peut désormais générer des flux complets cohérents (onboarding, settings, dashboard) plutôt que des composants isolés.",
-      "source": "Vercel",
-      "url": "https://example.com/v0-flows"
+      "theme": "learn",
+      "importance": 1,
+      "short_title": "Khanmigo : 18M étudiants",
+      "title": "Khanmigo de Khan Academy atteint 18 millions d'apprenants dans le monde",
+      "summary": "Le tuteur IA de Khan Academy sert désormais 18 millions d'apprenants dans le monde, s'imposant comme la référence des tuteurs IA en éducation formelle. La progression s'est fortement accélérée depuis 2025, portée par des licences institutionnelles passées avec des districts scolaires américains. À cette échelle, Khanmigo offre un terrain d'observation inédit sur l'efficacité à long terme du tutorat adaptatif.",
+      "source": "TutorFlow",
+      "url": "https://tutorflow.io/blog/how-ai-is-transforming-education-2026"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "design",
-      "importance": 1,
-      "short_title": "Linear design system",
-      "title": "Linear refait son design system en public",
-      "summary": "Karri Saarinen partage la refonte typographique et le passage à OKLCH. Thread très commenté.",
-      "source": "Linear",
-      "url": "https://example.com/linear-design"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Force et longévité (JAMA)",
+      "title": "JAMA : la force musculaire prédit la mortalité mieux que l'exercice seul",
+      "summary": "Une étude portant sur plus de 5 000 femmes publiée dans JAMA Network Open montre que chaque tranche de 7 kg de force de préhension supplémentaire est associée à une réduction de 12 % du risque de décès sur huit ans. Cet effet persiste même chez les femmes ne respectant pas les recommandations d'activité physique, suggérant que la force musculaire est un marqueur de santé indépendant de l'exercice. Les auteurs recommandent d'intégrer des tests simples de force dans les bilans de santé préventifs.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm"
     },
     {
       "id": "n13",
-      "theme": "finance",
-      "subtopic": "japon",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "BoJ : taux à 0,75 %",
-      "title": "BoJ remonte ses taux à 0,75 %",
-      "summary": "Première hausse depuis 18 mois. Le yen se renforce sous 150 face au dollar. Conséquences sur le carry trade global.",
-      "source": "Nikkei",
-      "url": "https://example.com/boj-hike"
+      "short_title": "Rapamycin nuit au sport",
+      "title": "La rapamycine atténuerait les bénéfices physiologiques de l'exercice",
+      "summary": "Un médicament pris par des milliers d'Américains pour ses effets supposés sur la longévité pourrait contrecarrer certains bénéfices de l'activité physique, selon une étude récente. Ce paradoxe révèle une tension fondamentale dans la médecine de la longévité : les interventions pharmacologiques et l'exercice n'ont pas toujours des effets synergiques. La communauté biohacker débat désormais de l'opportunité d'ajuster les protocoles de prise les jours d'entraînement.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2026/04/29/rapamycin-exercise-study/"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "importance": 1,
-      "short_title": "Okinawa longévité",
-      "title": "Okinawa : nouvelle étude longévité Blue Zone",
-      "summary": "Suivi 25 ans : marche quotidienne et réseau social local restent les meilleurs prédicteurs, devant le régime alimentaire.",
-      "source": "The Lancet",
-      "url": "https://example.com/okinawa-study"
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 3,
+      "short_title": "EU : renouvelables 1ers",
+      "title": "Europe : les renouvelables dépassent les fossiles dans le mix électrique pour la première fois",
+      "summary": "Selon le rapport annuel d'Ember, l'éolien et le solaire ont fourni 30 % de l'électricité européenne en 2025, dépassant les fossiles (29 %) pour la première fois dans l'histoire. Le solaire seul a atteint 13 % de l'électricité européenne, surpassant le charbon et l'hydroélectricité. L'UE est en bonne voie pour atteindre 63 % de renouvelables dans son mix d'ici 2030, contre 48 % en 2025.",
+      "source": "Ember",
+      "url": "https://ember-energy.org/latest-insights/european-electricity-review-2026/"
     },
     {
       "id": "n15",
       "theme": "climat",
-      "subtopic": "europe",
       "importance": 2,
-      "short_title": "UE étend le CBAM",
-      "title": "UE durcit le CBAM : extension à 4 secteurs",
-      "summary": "Mécanisme d'ajustement carbone aux frontières étendu à l'hydrogène, plastiques, chimie de base et papier.",
-      "source": "Politico EU",
-      "url": "https://example.com/cbam-extension"
+      "short_title": "IEA : ère électrique",
+      "title": "L'AIE déclare que le monde est entré dans l'ère de l'électricité",
+      "summary": "L'Agence internationale de l'énergie annonce que la demande mondiale d'électricité progressera de 3,7 % en 2026, tirée par les véhicules électriques, les pompes à chaleur et les data centers. Les renouvelables devraient apporter 1 000 TWh supplémentaires par an jusqu'en 2030, dont 600 TWh grâce au seul solaire. Ce basculement s'accélère paradoxalement avec la crise du pétrole : les pays cherchent à réduire leur dépendance aux combustibles fossiles.",
+      "source": "IEA",
+      "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
     },
     {
       "id": "n16",
-      "theme": "learn",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "MIT : tuteurs IA",
-      "title": "MIT : étude longue durée sur tuteurs IA",
-      "summary": "12 mois, 4 000 élèves : effet positif sur métacognition, négatif sur effort de récupération non-assisté.",
-      "source": "MIT News",
-      "url": "https://example.com/mit-tutors"
+      "short_title": "Prime editing humain",
+      "title": "Le prime editing entre en phase de validation clinique humaine en 2026",
+      "summary": "La technique d'édition génomique dite prime editing, permettant des corrections ponctuelles de l'ADN avec peu d'effets indésirables, entre en essais cliniques sur des patients atteints de maladies hépatiques et pulmonaires. Elle représente une avancée significative par rapport au CRISPR classique, grâce à une meilleure précision et moins de coupures double-brin. Ces essais devraient fournir les premières données de sécurité et d'efficacité chez l'humain d'ici fin 2026.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
     },
     {
       "id": "n17",
       "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "CRISPR IV approuvé",
-      "title": "CRISPR : première thérapie systémique approuvée",
-      "summary": "La FDA approuve un traitement CRISPR injecté en intraveineuse, ciblant l'hypercholestérolémie familiale. Tournant majeur.",
-      "source": "Nature",
-      "url": "https://example.com/crispr-iv"
+      "short_title": "CAR-T in vivo : phase 1",
+      "title": "Premier essai de Phase 1 pour un CAR-T in vivo contre le myélome multiple",
+      "summary": "Kelonia Therapeutics a lancé un essai de Phase 1 en Australie pour son CAR-T in vivo anti-BCMA ciblant le myélome multiple. Contrairement aux CAR-T conventionnels nécessitant de prélever, modifier et réinjecter des cellules du patient, cette approche reprogramme directement les lymphocytes T à l'intérieur du corps. Si validée, cette technique pourrait réduire drastiquement les coûts et délais des thérapies cellulaires, les rendant accessibles à une population bien plus large.",
+      "source": "Atlantis Bioscience",
+      "url": "https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/"
     },
     {
       "id": "n18",
-      "theme": "sante",
+      "theme": "geopol",
+      "subtopic": "israel",
+      "importance": 2,
+      "short_title": "Crise politique en Israël",
+      "title": "Israël : Lapid annonce une motion pour dissoudre la Knesset",
+      "summary": "Le leader de l'opposition Yaïr Lapid a annoncé que son parti déposerait une motion de dissolution de la Knesset la semaine prochaine, lors d'un meeting à Tel Aviv où il a officialisé son alliance avec Naftali Bennett. La crise politique se nourrit de la gestion contestée des conflits à Gaza et au Liban, et du mécontentement des familles de soldats mobilisés. Cette instabilité intérieure affaiblit la position de Netanyahou alors qu'Israël est engagé simultanément sur plusieurs fronts militaires.",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-may-12-2026/"
+    },
+    {
+      "id": "n19",
+      "theme": "geopol",
+      "subtopic": "afrique",
       "importance": 1,
-      "short_title": "Workout vs musculation",
-      "title": "Méta-analyse street workout vs musculation",
-      "summary": "Sur 18 mois et 1 200 sujets : gains de force quasi équivalents, mais avantage net du calisthenics sur mobilité et endurance.",
-      "source": "BJSM",
-      "url": "https://example.com/calisthenics-meta"
+      "short_title": "Mali : poussée terroriste",
+      "title": "Mali : des groupes jihadistes tentent d'encercler Bamako",
+      "summary": "Des factions armées jihadistes progressent vers la capitale malienne, dans une offensive qui pourrait déstabiliser l'ensemble du Sahel. Le Mali, qui a expulsé les forces françaises et onusiennes au profit de Wagner, se retrouve exposé face à une coordination offensive inédite de plusieurs groupes. La contagion potentielle vers le Burkina Faso et le Niger, déjà sous pression, renforce les craintes d'un effondrement sécuritaire régional.",
+      "source": "MR Geopolitics",
+      "url": "https://www.mrgeopolitics.com/p/may-2026-geopolitical-forecast"
     }
   ],
   "edges": [
@@ -200,61 +213,73 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "La prime de risque sur le pétrole augmente mécaniquement dès qu'un conflit menace les flux du Golfe (20 % du brut mondial transite par Ormuz)."
+      "explanation": "Le rejet par Trump de l'offre iranienne supprime toute perspective de réouverture du détroit d'Ormuz à court terme, maintenant la pression haussière sur le cours du pétrole au-dessus de 107 dollars."
     },
     {
       "source": "n02",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "Un baril durablement >100 $ alourdit la facture énergétique de la zone euro et écrase les marges des entreprises importatrices."
-    },
-    {
-      "source": "n03",
       "target": "n04",
       "type": "cause",
-      "explanation": "Anticipant la dégradation macro, les startups en levée tardive freinent les embauches pour préserver leur runway."
+      "explanation": "La flambée du pétrole au-dessus de 107 dollars alimente directement l'inflation en zone euro (3 % en avril), forçant la BCE à envisager une hausse de taux alors même que la croissance ralentit."
     },
     {
-      "source": "n05",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "Anthropic et OpenAI incarnent deux trajectoires opposées sur la gouvernance : focus AI safety vs course produit. Le contraste devient public."
+      "source": "n02",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "Le choc pétrolier et l'incertitude géopolitique poussent les investisseurs à fuir les marchés émergents ; le secteur IT indien est particulièrement touché car ses marges sont sensibles aux coûts énergétiques et aux anticipations macro mondiales."
     },
     {
-      "source": "n05",
-      "target": "n06",
+      "source": "n01",
+      "target": "n03",
       "type": "meme_sujet",
-      "explanation": "Course aux benchmarks frontier model : sortie quasi simultanée d'Opus 4.7 et Gemini 3 Ultra. Comparaison inévitable."
+      "explanation": "La guerre en Iran est le dossier central du sommet sino-américain : Pékin, allié stratégique de Téhéran, est attendu sur sa capacité à peser en faveur d'une désescalade."
+    },
+    {
+      "source": "n01",
+      "target": "n18",
+      "type": "meme_sujet",
+      "explanation": "La crise politique intérieure en Israël est directement alimentée par les fronts militaires ouverts avec l'Iran et à Gaza, qui épuisent l'opinion publique et fragilisent le gouvernement Netanyahou."
     },
     {
       "source": "n06",
       "target": "n07",
+      "type": "tension",
+      "explanation": "Anthropic (Claude Mythos via Glasswing) et OpenAI (Daybreak / GPT-5.5) sont engagés dans une course directe pour s'imposer comme infrastructure de cybersécurité par IA auprès des grandes entreprises."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Trois acteurs frontier dans la même semaine d'actualité — signal de cycle de release accéléré."
+      "explanation": "Daybreak et les accords de pré-évaluation gouvernementale s'inscrivent dans le même mouvement de cadrage des modèles d'IA les plus puissants avant leur déploiement en environnement sécurisé."
     },
     {
       "source": "n08",
-      "target": "n05",
-      "type": "cause",
-      "explanation": "Le cadre NIST pousse les labs à publier leurs propres benchmarks de fiabilité agent : Anthropic prend les devants avec Opus 4.7."
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "Le succès de Cursor et les nouvelles fonctionnalités des agents Anthropic reflètent le même phénomène : l'IA est devenue le cœur de l'environnement de développement logiciel, côté outils comme côté modèles."
     },
     {
-      "source": "n05",
-      "target": "n09",
-      "type": "cause",
-      "explanation": "Cursor branche Claude 4.7 en modèle par défaut : la sortie d'Opus déclenche la mise à jour majeure de l'IDE."
-    },
-    {
-      "source": "n09",
+      "source": "n10",
       "target": "n11",
       "type": "meme_sujet",
-      "explanation": "Cursor et v0 incarnent la même bascule : passage du copilot ponctuel à l'agent qui livre des flux complets."
+      "explanation": "La validation expérimentale de l'efficacité des tuteurs IA (RCT publiée dans Nature) fournit le socle scientifique qui justifie et accélère l'adoption de Khanmigo à grande échelle."
     },
     {
-      "source": "n13",
-      "target": "n02",
+      "source": "n12",
+      "target": "n13",
+      "type": "tension",
+      "explanation": "La force musculaire ressort comme un prédicteur clé de longévité indépendant de l'exercice, ce qui rend d'autant plus problématique la rapamycine, dont les effets semblent altérer précisément les adaptations physiques bénéfiques."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Deux chocs macro simultanés (pétrole, taux japonais) sur la même fenêtre — la volatilité FX se cumule à la prime énergétique."
+      "explanation": "Le franchissement de la barre symbolique des renouvelables devant les fossiles en Europe est l'illustration régionale concrète de ce que l'AIE désigne comme l'entrée dans l'ère de l'électricité à l'échelle mondiale."
+    },
+    {
+      "source": "n16",
+      "target": "n17",
+      "type": "meme_sujet",
+      "explanation": "Prime editing et CAR-T in vivo représentent deux fronts distincts mais convergents de la médecine génique de nouvelle génération : corriger le génome ou reprogrammer les cellules immunitaires directement à l'intérieur du corps."
     }
   ]
 }

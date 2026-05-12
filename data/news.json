@@ -1,285 +1,277 @@
 {
-  "generated_at": "2026-05-12T06:00:00Z",
+  "generated_at": "2026-05-12T07:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran : trêve rejetée",
-      "title": "Trump rejette l'offre de cessez-le-feu iranienne",
-      "summary": "Trump a repoussé la contre-proposition iranienne et déclaré le cessez-le-feu au bord de l'échec, mettant fin à plusieurs semaines de négociations discrètes. Le conflit, déclenché le 28 février par des frappes américano-israéliennes sur les sites nucléaires et militaires iraniens, reste sans issue diplomatique visible. La mort du Guide suprême Khamenei lors des premières frappes a fragilisé la chaîne de commandement à Téhéran, rendant toute décision rapide difficile.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html"
-    },
-    {
-      "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent dépasse $107",
-      "title": "Pétrole : le Brent franchit 107 dollars, WTI au-dessus de 100",
-      "summary": "Le baril de Brent s'échange à 107,46 dollars (+3,1 % sur la journée), tandis que le WTI dépasse 101 dollars. Depuis le début de la guerre contre l'Iran le 28 février, les deux références pétrolières ont progressé de plus de 40 %. L'AIE qualifie la fermeture du détroit d'Ormuz — qui assure 20 % de l'approvisionnement mondial — de défi énergétique mondial sans précédent dans l'Histoire.",
+      "short_title": "Guerre US-Iran, Hormuz",
+      "title": "Guerre US-Iran : le détroit de Hormuz bloqué depuis février",
+      "summary": "Les frappes aériennes coordonnées américano-israéliennes du 28 février contre l'Iran ont conduit les Gardiens de la Révolution à bloquer le détroit de Hormuz, artère par laquelle transitent 20 % des approvisionnements mondiaux en pétrole. Seuls 2 à 5 navires y passent désormais par jour contre 70 avant le conflit. Le régime iranien est affaibli et la probabilité d'un changement de leadership au cours de l'année augmente significativement.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/"
     },
     {
-      "id": "n03",
+      "id": "n02",
       "theme": "geopol",
-      "subtopic": "usa",
+      "subtopic": "usa-chine",
       "importance": 3,
       "short_title": "Sommet Trump-Xi Pékin",
-      "title": "Trump se rend à Pékin pour un sommet avec Xi Jinping (13-15 mai)",
-      "summary": "Pour la première fois depuis 2017, un président américain effectue une visite d'État en Chine. Commerce (Boeing, produits agricoles), Taiwan et la guerre en Iran figurent en tête de l'agenda. Les négociateurs des deux pays se sont réunis à Séoul en amont du sommet, signalant une volonté de progresser vers un accord partiel.",
+      "title": "Sommet Trump-Xi à Pékin : première visite d'État en Chine depuis 9 ans",
+      "summary": "Donald Trump effectue du 13 au 15 mai sa première visite d'État en Chine depuis presque neuf ans, accompagné d'Elon Musk, Tim Cook et du PDG de Boeing. Les discussions porteront sur le commerce (achats agricoles chinois, commandes Boeing), la crise du Golfe et Hormuz, et Taiwan. Pékin cherche la stabilité diplomatique ; Washington pousse pour des engagements commerciaux concrets destinés à réduire le déficit bilatéral.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-trade-iran-taiwan.html"
     },
     {
+      "id": "n03",
+      "theme": "finance",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Google-Anthropic 40 Mds$",
+      "title": "Google s'engage à investir jusqu'à 40 milliards de dollars dans Anthropic",
+      "summary": "Google a formalisé le 24 avril un engagement d'investissement pouvant atteindre 40 milliards de dollars en cash et capacités de calcul dans Anthropic, faisant de ce laboratoire son partenaire IA stratégique prioritaire. Cet accord confirme la dynamique de consolidation bilatérale qui structure le secteur — Microsoft avec OpenAI, Google avec Anthropic — et dote Anthropic de ressources computationnelles suffisantes pour entraîner des modèles frontier comme Mythos.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/"
+    },
+    {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Zone € : inflation à 3%",
-      "title": "BCE : taux maintenus, mais l'inflation en zone euro atteint 3 %",
-      "summary": "La BCE a maintenu ses taux directeurs à 2 % lors de sa réunion d'avril, mais l'inflation de la zone euro a bondi à 3 % en avril, portée par la flambée énergétique liée à la guerre en Iran. Les économistes scrutent la réunion de juin, où une hausse de 25 points de base est envisagée pour endiguer les anticipations inflationnistes. Cette configuration de stagflation rampante — inflation élevée, croissance menacée — place la BCE dans une posture particulièrement délicate.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/30/european-central-bank-april-2026-rate-decision-inflation-stagflation-risk-iran-war.html"
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Pétrole à 107 $/baril",
+      "title": "Brent à 107 $ : le choc pétrolier de la guerre d'Iran",
+      "summary": "Le Brent s'établit à 107,67 dollars le baril au 11 mai, après un pic à 138 dollars début avril lors de la fermeture effective du détroit de Hormuz — un niveau non vu depuis une décennie. La hausse atteint près de 80 % depuis le 1er janvier 2026, et chaque semaine de fermeture du détroit prive le marché de 100 millions de barils. Les réserves stratégiques mondiales ont été significativement entamées pour compenser.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-05-11-2026/"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "marches",
-      "importance": 2,
-      "short_title": "Marchés indiens -4%",
-      "title": "Bourse indienne : Sensex perd 915 points, l'IT chute de 3,9 %",
-      "summary": "Le Sensex a cédé plus de 915 points et le Nifty est passé sous les 23 600 points, avec une vente massive centrée sur le secteur technologique (-3,91 %). Les craintes liées à la guerre en Iran, le pétrole au-dessus de 100 dollars et la dégradation des anticipations macro alimentent la fuite des capitaux des marchés émergents. Le secteur IT indien souffre doublement : hausse des coûts opérationnels et recul de l'appétit des investisseurs pour le risque.",
-      "source": "HDFC Sky",
-      "url": "https://hdfcsky.com/news/stock-market-may-12-2026-mid-day-report-markets-extend-losses-into-afternoon-sensex-sheds-over-900-points"
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Inflation brûlante USA",
+      "title": "CPI à 3,8 % en avril : les marchés anticipent une hausse de taux Fed",
+      "summary": "L'inflation CPI américaine accélère à 3,8 % en glissement annuel en avril — son plus haut depuis mai 2023 — et les marchés intègrent désormais une probabilité supérieure à un tiers d'une hausse de taux de la Fed avant fin 2026, renversement spectaculaire par rapport aux anticipations de baisses de début d'année. Le choc énergétique lié à la guerre en Iran alimente la composante énergie et risque de se propager vers l'inflation sous-jacente.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic agents rêveurs",
-      "title": "Anthropic lance Dreaming, Outcomes et orchestration multi-agents pour Claude",
-      "summary": "Lors de la conférence Code with Claude 2026, Anthropic a présenté trois nouvelles fonctionnalités pour ses agents gérés : Dreaming (révision automatique des sessions passées pour l'auto-amélioration), Outcomes (évaluation des sorties par un agent correcteur) et l'orchestration multi-agents en parallèle. Le Dreaming permet aux agents d'extraire des patterns comportementaux de leurs sessions antérieures sans intervention humaine. Ces annonces concrétisent la vision d'Anthropic d'agents capables de gérer des workflows longs et complexes de manière autonome.",
-      "source": "SiliconAngle",
-      "url": "https://siliconangle.com/2026/05/06/anthropic-letting-claude-agents-dream-dont-sleep-job/"
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Succession à la Fed",
+      "title": "Powell quitte la Fed : Kevin Warsh nommé pour lui succéder",
+      "summary": "Le mandat de Jay Powell à la présidence de la Fed expire à la mi-mai 2026, et Trump a nommé l'ancien gouverneur Kevin Warsh pour lui succéder. La transition de gouvernance survient au pire moment : le marché intègre zéro probabilité de baisses de taux en 2026, et les membres hawkish n'excluent plus une hausse. Les orientations encore inconnues de Warsh ajoutent une prime d'incertitude sur les marchés obligataires.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/bond-traders-brace-for-inflation-data-as-fed-s-powell-era-ends"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "OpenAI lance Daybreak",
-      "title": "OpenAI lance Daybreak, plateforme de cybersécurité fondée sur GPT-5.5",
-      "summary": "Daybreak utilise GPT-5.5 et Codex pour détecter, reproduire et corriger automatiquement les vulnérabilités dans les bases de code. La plateforme répond directement au projet Glasswing d'Anthropic, qui avait utilisé Claude Mythos pour identifier 271 failles dans Firefox. Akamai, Cisco, CrowdStrike et plusieurs autres leaders de la cybersécurité s'intègrent à l'initiative Trusted Access for Cyber.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/"
+      "short_title": "Aramco : pas avant 2027",
+      "title": "Aramco : normalisation du marché pétrolier repoussée à 2027 au plus tôt",
+      "summary": "Le PDG de Saudi Aramco a déclaré le 11 mai que même si le détroit de Hormuz rouvrait immédiatement, le marché pétrolier mondial ne retrouverait pas l'équilibre avant mi-2027 en raison de l'ampleur des réserves stratégiques entamées. La reconstruction des stocks et la réorientation des flux logistiques prennent plusieurs mois, indépendamment de la vitesse de reprise de la production. Cette évaluation pèse sur les anticipations de détente rapide des prix.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/11/saudi-aramco-oil-iran-war-strait-hormuz.html"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "climat",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Cursor valorisé $50 Mds",
-      "title": "Cursor en discussions pour lever 2 Mds$ à 50 Mds$ de valorisation",
-      "summary": "Anysphere (Cursor) négocierait une levée de 2 milliards de dollars à une valorisation de 50 milliards, après avoir atteint 2 milliards de revenus annualisés en seulement trois ans — la croissance la plus rapide de l'histoire du SaaS. Près de 70 % du Fortune 1000 figure parmi ses clients, dont NVIDIA, Adobe et Salesforce. Cette nouvelle valorisation doublerait presque celle de la Série D clôturée à 29 milliards en novembre 2025.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html"
+      "short_title": "BP et Total : recul EnR",
+      "title": "BP et TotalEnergies renversent leur stratégie renouvelables au profit des fossiles",
+      "summary": "Dans le sillage de la guerre en Iran, BP a annoncé une réorganisation qui inverse son engagement dans les énergies renouvelables, et TotalEnergies a échangé ses projets d'éolien offshore américain contre des actifs pétrogaziers au Texas. La crise d'approvisionnement énergétique repositionne les combustibles fossiles comme priorité stratégique, reléguant les objectifs climatiques au second plan dans les calculs de rentabilité des majors.",
+      "source": "Top1000funds",
+      "url": "https://www.top1000funds.com/2026/04/oil-crisis-curb-or-catalyst-to-the-green-transition/"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "IA testée avant sortie US",
-      "title": "Google, Microsoft et xAI acceptent des audits gouvernementaux pré-lancement",
-      "summary": "Google DeepMind, Microsoft et xAI ont signé des accords avec le Centre américain pour les standards et l'innovation de l'IA pour soumettre leurs modèles à des évaluations gouvernementales avant tout lancement public. Ces tests visent la sécurité nationale et la détection de risques systémiques, instituant pour la première fois un cadre formel de certification avant déploiement. C'est la première fois que les grandes plateformes acceptent formellement un accès anticipé régulateur sur leurs modèles les plus puissants.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html"
+      "importance": 3,
+      "short_title": "Mythos : accès restreint",
+      "title": "Anthropic lance Mythos, son modèle le plus puissant, en accès très restreint",
+      "summary": "Anthropic a déployé Mythos, son modèle frontier le plus avancé à ce jour, uniquement auprès d'un groupe limité de partenaires en raison de risques cybersécuritaires significatifs identifiés par ses équipes de sécurité. Google et des acteurs de la défense figurent parmi les partenaires d'évaluation. Google a confirmé avoir observé des hackers exploitant des modèles IA pour des intrusions, contexte qui justifie la prudence d'Anthropic.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/"
     },
     {
       "id": "n10",
-      "theme": "learn",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "IA tuteur > classe active",
-      "title": "Un RCT (Nature) confirme : les tuteurs IA surpassent l'enseignement actif en classe",
-      "summary": "Une étude randomisée contrôlée publiée dans Scientific Reports démontre que les élèves progressent significativement plus vite avec un tuteur IA qu'en cours actif classique, tout en rapportant une plus grande motivation. L'efficacité est cependant conditionnée à une conception pédagogique rigoureuse : sans principes didactiques intégrés, l'IA booste la performance sans générer d'apprentissage profond. L'étude s'impose comme une référence dans les débats politiques sur la place du numérique dans l'éducation.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41598-025-97652-6"
+      "short_title": "OpenAI : UE et GPT-Cyber",
+      "title": "OpenAI accorde à l'UE un accès limité à GPT-5.5-Cyber",
+      "summary": "OpenAI a annoncé la mise à disposition de GPT-5.5-Cyber — variante cybersécurité de son dernier modèle — auprès d'équipes européennes soigneusement sélectionnées, en accès preview limité. Cette approche proactive contraste directement avec la restriction totale choisie par Anthropic pour Mythos, révélant deux philosophies opposées de gouvernance des LLM à risque élevé. Le geste cible aussi la conformité anticipée avec l'AI Act européen.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html"
     },
     {
       "id": "n11",
-      "theme": "learn",
-      "importance": 1,
-      "short_title": "Khanmigo : 18M étudiants",
-      "title": "Khanmigo de Khan Academy atteint 18 millions d'apprenants dans le monde",
-      "summary": "Le tuteur IA de Khan Academy sert désormais 18 millions d'apprenants dans le monde, s'imposant comme la référence des tuteurs IA en éducation formelle. La progression s'est fortement accélérée depuis 2025, portée par des licences institutionnelles passées avec des districts scolaires américains. À cette échelle, Khanmigo offre un terrain d'observation inédit sur l'efficacité à long terme du tutorat adaptatif.",
-      "source": "TutorFlow",
-      "url": "https://tutorflow.io/blog/how-ai-is-transforming-education-2026"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Tests IA pré-déploiement",
+      "title": "Microsoft, Google et xAI acceptent les tests gouvernementaux avant lancement",
+      "summary": "Microsoft, Google et xAI ont conclu un accord avec le Centre pour les standards IA du département du Commerce américain permettant l'évaluation des modèles frontier avant leur déploiement public. C'est la première fois que des laboratoires majeurs s'engagent volontairement à un examen gouvernemental pré-commercialisation, créant un précédent significatif pour la gouvernance de l'IA aux États-Unis dans un contexte de pression internationale croissante.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models"
     },
     {
       "id": "n12",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Force et longévité (JAMA)",
-      "title": "JAMA : la force musculaire prédit la mortalité mieux que l'exercice seul",
-      "summary": "Une étude portant sur plus de 5 000 femmes publiée dans JAMA Network Open montre que chaque tranche de 7 kg de force de préhension supplémentaire est associée à une réduction de 12 % du risque de décès sur huit ans. Cet effet persiste même chez les femmes ne respectant pas les recommandations d'activité physique, suggérant que la force musculaire est un marqueur de santé indépendant de l'exercice. Les auteurs recommandent d'intégrer des tests simples de force dans les bilans de santé préventifs.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm"
+      "short_title": "Cursor dépasse 2 Mds$ ARR",
+      "title": "Cursor atteint 2 milliards de dollars de revenus annualisés",
+      "summary": "L'éditeur de code IA Cursor a dépassé 2 milliards de dollars de revenus annualisés début 2026, s'imposant comme l'outil de référence des développeurs professionnels dans l'espace vibe coding. Ses fonctionnalités Composer et Agent Mode permettent de modifier plusieurs fichiers simultanément avec supervision humaine minimale. La concurrence s'intensifie avec v0 (Vercel), Lovable et Bolt, chacun dominant une niche différente allant du prototypage rapide à la génération de composants React.",
+      "source": "index.dev",
+      "url": "https://www.index.dev/blog/vibe-coding-tools"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "learn",
+      "subtopic": "ia_tutoring",
       "importance": 2,
-      "short_title": "Rapamycin nuit au sport",
-      "title": "La rapamycine atténuerait les bénéfices physiologiques de l'exercice",
-      "summary": "Un médicament pris par des milliers d'Américains pour ses effets supposés sur la longévité pourrait contrecarrer certains bénéfices de l'activité physique, selon une étude récente. Ce paradoxe révèle une tension fondamentale dans la médecine de la longévité : les interventions pharmacologiques et l'exercice n'ont pas toujours des effets synergiques. La communauté biohacker débat désormais de l'opportunité d'ajuster les protocoles de prise les jours d'entraînement.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/wellness/2026/04/29/rapamycin-exercise-study/"
+      "short_title": "IA > apprentissage actif",
+      "title": "RCT : les tuteurs IA surpassent l'apprentissage actif en classe",
+      "summary": "Un essai contrôlé randomisé publié dans Scientific Reports démontre que les étudiants apprennent significativement plus vite et avec plus d'engagement via des tuteurs IA qu'avec des méthodes d'apprentissage actif en présentiel. Les gains sont conditionnés à une conception pédagogique rigoureuse du dispositif : sans guidage, l'IA améliore la performance sans apprentissage réel. Une année complète avec un tuteur IA bien conçu génère un avantage de 1 à 3 mois sur l'instruction traditionnelle.",
+      "source": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 3,
-      "short_title": "EU : renouvelables 1ers",
-      "title": "Europe : les renouvelables dépassent les fossiles dans le mix électrique pour la première fois",
-      "summary": "Selon le rapport annuel d'Ember, l'éolien et le solaire ont fourni 30 % de l'électricité européenne en 2025, dépassant les fossiles (29 %) pour la première fois dans l'histoire. Le solaire seul a atteint 13 % de l'électricité européenne, surpassant le charbon et l'hydroélectricité. L'UE est en bonne voie pour atteindre 63 % de renouvelables dans son mix d'ici 2030, contre 48 % en 2025.",
-      "source": "Ember",
-      "url": "https://ember-energy.org/latest-insights/european-electricity-review-2026/"
+      "theme": "learn",
+      "subtopic": "ia_tutoring",
+      "importance": 1,
+      "short_title": "Khanmigo : 18M d'élèves",
+      "title": "Khanmigo de Khan Academy : 18 millions d'élèves dans le monde",
+      "summary": "Le tuteur IA de Khan Academy, Khanmigo, sert désormais plus de 18 millions d'élèves à l'échelle mondiale, en faisant le plus grand déploiement opérationnel de tutorat IA. Il est cité comme l'étalon-or des systèmes de tutorat basés sur des principes pédagogiques fondés et adopte une approche socratique plutôt que de fournir directement les réponses. Sa croissance valide empiriquement l'intérêt des familles et établissements pour l'IA éducative personnalisée.",
+      "source": "is4.ai",
+      "url": "https://is4.ai/blog/our-blog-1/top-10-ai-tutoring-systems-2026-learning-outcomes-208"
     },
     {
       "id": "n15",
-      "theme": "climat",
-      "importance": 2,
-      "short_title": "IEA : ère électrique",
-      "title": "L'AIE déclare que le monde est entré dans l'ère de l'électricité",
-      "summary": "L'Agence internationale de l'énergie annonce que la demande mondiale d'électricité progressera de 3,7 % en 2026, tirée par les véhicules électriques, les pompes à chaleur et les data centers. Les renouvelables devraient apporter 1 000 TWh supplémentaires par an jusqu'en 2030, dont 600 TWh grâce au seul solaire. Ce basculement s'accélère paradoxalement avec la crise du pétrole : les pays cherchent à réduire leur dépendance aux combustibles fossiles.",
-      "source": "IEA",
-      "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 3,
+      "short_title": "Gène longévité rat-taupe",
+      "title": "Transfert réussi d'un gène de longévité du rat-taupe nu vers la souris",
+      "summary": "Des scientifiques de l'Université de Rochester ont réussi à transférer un gène du rat-taupe nu — rongeur vivant 30 ans, soit six fois plus que des rongeurs de taille comparable — vers des souris, allongeant leur durée de vie et renforçant leur résistance aux tumeurs. Le gène stimule la production d'acide hyaluronique de haut poids moléculaire, qui réduit l'inflammation chronique et protège contre le cancer. Il s'agit d'une preuve de concept majeure pour les thérapies humaines de longévité.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Prime editing humain",
-      "title": "Le prime editing entre en phase de validation clinique humaine en 2026",
-      "summary": "La technique d'édition génomique dite prime editing, permettant des corrections ponctuelles de l'ADN avec peu d'effets indésirables, entre en essais cliniques sur des patients atteints de maladies hépatiques et pulmonaires. Elle représente une avancée significative par rapport au CRISPR classique, grâce à une meilleure précision et moins de coupures double-brin. Ces essais devraient fournir les premières données de sécurité et d'efficacité chez l'humain d'ici fin 2026.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
+      "theme": "learn",
+      "subtopic": "politique_edu",
+      "importance": 1,
+      "short_title": "OCDE : éducation 2026",
+      "title": "OCDE Digital Education Outlook : 78 % des écoles K-12 utilisent l'IA",
+      "summary": "Le rapport OCDE Digital Education Outlook 2026 documente que 78 % des établissements K-12 et 92 % des universités utilisent désormais des outils IA, contre respectivement 23 % et 41 % en 2023. Cette expansion soulève des questions d'équité d'accès entre pays riches et en développement, et de qualité pédagogique des déploiements. Le rapport appelle à des cadres nationaux de gouvernance de l'IA éducative pour encadrer une adoption souvent précipitée.",
+      "source": "OCDE",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
     },
     {
       "id": "n17",
       "theme": "sciences",
-      "subtopic": "biotech",
+      "subtopic": "gene_editing",
       "importance": 2,
-      "short_title": "CAR-T in vivo : phase 1",
-      "title": "Premier essai de Phase 1 pour un CAR-T in vivo contre le myélome multiple",
-      "summary": "Kelonia Therapeutics a lancé un essai de Phase 1 en Australie pour son CAR-T in vivo anti-BCMA ciblant le myélome multiple. Contrairement aux CAR-T conventionnels nécessitant de prélever, modifier et réinjecter des cellules du patient, cette approche reprogramme directement les lymphocytes T à l'intérieur du corps. Si validée, cette technique pourrait réduire drastiquement les coûts et délais des thérapies cellulaires, les rendant accessibles à une population bien plus large.",
-      "source": "Atlantis Bioscience",
-      "url": "https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/"
+      "short_title": "Prime editing humain",
+      "title": "Prime editing : premiers essais thérapeutiques humains en 2026",
+      "summary": "Le prime editing, technique d'édition génomique capable d'effectuer des modifications ADN de type « chercher-remplacer » avec une précision supérieure au CRISPR classique, entre en 2026 dans ses premiers essais humains ciblant des maladies hépatiques et pulmonaires. Les données cliniques attendues avant fin d'année pourraient valider l'approche pour des pathologies génétiques complexes restées hors de portée thérapeutique jusqu'ici.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
     },
     {
       "id": "n18",
       "theme": "geopol",
-      "subtopic": "israel",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Crise politique en Israël",
-      "title": "Israël : Lapid annonce une motion pour dissoudre la Knesset",
-      "summary": "Le leader de l'opposition Yaïr Lapid a annoncé que son parti déposerait une motion de dissolution de la Knesset la semaine prochaine, lors d'un meeting à Tel Aviv où il a officialisé son alliance avec Naftali Bennett. La crise politique se nourrit de la gestion contestée des conflits à Gaza et au Liban, et du mécontentement des familles de soldats mobilisés. Cette instabilité intérieure affaiblit la position de Netanyahou alors qu'Israël est engagé simultanément sur plusieurs fronts militaires.",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-may-12-2026/"
-    },
-    {
-      "id": "n19",
-      "theme": "geopol",
-      "subtopic": "afrique",
-      "importance": 1,
-      "short_title": "Mali : poussée terroriste",
-      "title": "Mali : des groupes jihadistes tentent d'encercler Bamako",
-      "summary": "Des factions armées jihadistes progressent vers la capitale malienne, dans une offensive qui pourrait déstabiliser l'ensemble du Sahel. Le Mali, qui a expulsé les forces françaises et onusiennes au profit de Wagner, se retrouve exposé face à une coordination offensive inédite de plusieurs groupes. La contagion potentielle vers le Burkina Faso et le Niger, déjà sous pression, renforce les craintes d'un effondrement sécuritaire régional.",
-      "source": "MR Geopolitics",
-      "url": "https://www.mrgeopolitics.com/p/may-2026-geopolitical-forecast"
+      "short_title": "Iran : trêve en suspens",
+      "title": "Cessez-le-feu USA-Iran : Trump rejette la contre-proposition iranienne",
+      "summary": "Après avoir brièvement suspendu l'Opération Project Freedom — mission navale américaine d'escorte dans le Golfe — en évoquant de « grands progrès », Trump a finalement rejeté la contre-proposition iranienne, qualifiant la trêve d'être « sous perfusion ». Les deux parties ne semblent pas plus proches d'un accord qui rouvrirait Hormuz, prolongeant l'incertitude pour les marchés énergétiques mondiaux.",
+      "source": "Dallas Fed",
+      "url": "https://www.dallasfed.org/research/economics/2026/0320"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "Le rejet par Trump de l'offre iranienne supprime toute perspective de réouverture du détroit d'Ormuz à court terme, maintenant la pression haussière sur le cours du pétrole au-dessus de 107 dollars."
-    },
-    {
-      "source": "n02",
       "target": "n04",
       "type": "cause",
-      "explanation": "La flambée du pétrole au-dessus de 107 dollars alimente directement l'inflation en zone euro (3 % en avril), forçant la BCE à envisager une hausse de taux alors même que la croissance ralentit."
+      "explanation": "Le blocus du détroit de Hormuz par les Gardiens de la Révolution iranienne coupe 20 % de l'offre mondiale de pétrole, propulsant le Brent au-delà de 100 dollars le baril pour la première fois depuis une décennie."
     },
     {
-      "source": "n02",
+      "source": "n07",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "L'évaluation d'Aramco que la normalisation du marché ne surviendra pas avant mi-2027 ancre les anticipations de prix élevés et empêche toute correction baissière significative sur le Brent."
+    },
+    {
+      "source": "n04",
       "target": "n05",
       "type": "cause",
-      "explanation": "Le choc pétrolier et l'incertitude géopolitique poussent les investisseurs à fuir les marchés émergents ; le secteur IT indien est particulièrement touché car ses marges sont sensibles aux coûts énergétiques et aux anticipations macro mondiales."
+      "explanation": "Le pétrole au-delà de 100 dollars alimente directement la composante énergie de l'inflation CPI américaine, qui atteint 3,8 % en avril, forçant les marchés à réviser leurs anticipations vers une possible hausse de taux Fed."
     },
     {
-      "source": "n01",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "La guerre en Iran est le dossier central du sommet sino-américain : Pékin, allié stratégique de Téhéran, est attendu sur sa capacité à peser en faveur d'une désescalade."
+      "source": "n05",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "Un contexte d'inflation persistante et de possible hausse de taux rend les orientations encore inconnues du nouveau président de la Fed Kevin Warsh encore plus déterminantes pour la trajectoire monétaire des prochains trimestres."
+    },
+    {
+      "source": "n04",
+      "target": "n08",
+      "type": "cause",
+      "explanation": "Avec le pétrole au-delà de 100 dollars, les investissements dans les fossiles offrent à nouveau des rendements très supérieurs aux renouvelables, renversant les arbitrages stratégiques de BP et TotalEnergies."
     },
     {
       "source": "n01",
       "target": "n18",
       "type": "meme_sujet",
-      "explanation": "La crise politique intérieure en Israël est directement alimentée par les fronts militaires ouverts avec l'Iran et à Gaza, qui épuisent l'opinion publique et fragilisent le gouvernement Netanyahou."
+      "explanation": "Les deux nœuds décrivent la même crise USA-Iran : l'un le volet militaire et le blocus maritime de Hormuz, l'autre la dimension diplomatique des négociations de cessez-le-feu et leur enlisement actuel."
     },
     {
-      "source": "n06",
-      "target": "n07",
+      "source": "n02",
+      "target": "n05",
       "type": "tension",
-      "explanation": "Anthropic (Claude Mythos via Glasswing) et OpenAI (Daybreak / GPT-5.5) sont engagés dans une course directe pour s'imposer comme infrastructure de cybersécurité par IA auprès des grandes entreprises."
+      "explanation": "L'issue du sommet Trump-Xi sur les tarifs douaniers pourrait soit atténuer (accord commercial) soit amplifier (escalade) les pressions inflationnistes américaines, créant une incertitude supplémentaire pour la décision de la Fed."
     },
     {
-      "source": "n07",
+      "source": "n03",
       "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Daybreak et les accords de pré-évaluation gouvernementale s'inscrivent dans le même mouvement de cadrage des modèles d'IA les plus puissants avant leur déploiement en environnement sécurisé."
+      "type": "cause",
+      "explanation": "Les 40 milliards de dollars engagés par Google ont fourni à Anthropic les ressources computationnelles nécessaires au développement de Mythos, dont l'entraînement d'un modèle frontier requiert une infrastructure hors de portée sans ce soutien."
     },
     {
-      "source": "n08",
-      "target": "n06",
-      "type": "meme_sujet",
-      "explanation": "Le succès de Cursor et les nouvelles fonctionnalités des agents Anthropic reflètent le même phénomène : l'IA est devenue le cœur de l'environnement de développement logiciel, côté outils comme côté modèles."
-    },
-    {
-      "source": "n10",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "La validation expérimentale de l'efficacité des tuteurs IA (RCT publiée dans Nature) fournit le socle scientifique qui justifie et accélère l'adoption de Khanmigo à grande échelle."
-    },
-    {
-      "source": "n12",
-      "target": "n13",
+      "source": "n09",
+      "target": "n10",
       "type": "tension",
-      "explanation": "La force musculaire ressort comme un prédicteur clé de longévité indépendant de l'exercice, ce qui rend d'autant plus problématique la rapamycine, dont les effets semblent altérer précisément les adaptations physiques bénéfiques."
+      "explanation": "Anthropic restreint totalement l'accès à Mythos pour des raisons de sécurité, tandis qu'OpenAI adopte la stratégie inverse avec GPT-5.5-Cyber en accordant proactivement un accès encadré à l'UE — deux philosophies opposées de gouvernance des LLM à risque."
     },
     {
-      "source": "n14",
-      "target": "n15",
+      "source": "n09",
+      "target": "n11",
+      "type": "cause",
+      "explanation": "Les risques cybersécuritaires identifiés dans Mythos ont mis en lumière l'urgence d'un mécanisme d'évaluation gouvernementale préalable des LLM puissants, accélérant la conclusion de l'accord volontaire avec Microsoft, Google et xAI."
+    },
+    {
+      "source": "n13",
+      "target": "n14",
       "type": "meme_sujet",
-      "explanation": "Le franchissement de la barre symbolique des renouvelables devant les fossiles en Europe est l'illustration régionale concrète de ce que l'AIE désigne comme l'entrée dans l'ère de l'électricité à l'échelle mondiale."
+      "explanation": "Les deux nœuds documentent l'efficacité du tutorat IA : l'un via une validation expérimentale rigoureuse (RCT en conditions réelles), l'autre via des données de déploiement massif — ils constituent ensemble un dossier probatoire complet."
     },
     {
-      "source": "n16",
+      "source": "n15",
       "target": "n17",
-      "type": "meme_sujet",
-      "explanation": "Prime editing et CAR-T in vivo représentent deux fronts distincts mais convergents de la médecine génique de nouvelle génération : corriger le génome ou reprogrammer les cellules immunitaires directement à l'intérieur du corps."
+      "type": "cause",
+      "explanation": "La démonstration qu'un gène animal de longévité peut être transféré pour modifier le phénotype de l'espèce cible valide scientifiquement l'approche d'édition génomique thérapeutique, renforçant la crédibilité des essais de prime editing chez l'homme."
     }
   ]
 }

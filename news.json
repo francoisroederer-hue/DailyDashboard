@@ -1,0 +1,260 @@
+{
+  "generated_at": "2026-05-12T06:00:00Z",
+  "nodes": [
+    {
+      "id": "n01",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Frappes Israël/Iran",
+      "title": "Frappes israéliennes sur sites iraniens",
+      "summary": "Tel-Aviv revendique trois frappes ciblées sur des installations militaires iraniennes ; Téhéran annonce des représailles « proportionnées » dans les 72 h.",
+      "source": "Reuters",
+      "url": "https://example.com/iran-strikes"
+    },
+    {
+      "id": "n02",
+      "theme": "finance",
+      "importance": 3,
+      "short_title": "Brent à 105 $",
+      "title": "Brent franchit 105 $, plus haut de l'année",
+      "summary": "Le baril prend +6,8 % en deux séances sur la prime de risque iranienne. Les contrats à terme novembre s'envolent.",
+      "source": "Bloomberg",
+      "url": "https://example.com/brent-spike"
+    },
+    {
+      "id": "n03",
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "BCE alerte récession",
+      "title": "BCE alerte sur le choc énergétique européen",
+      "summary": "Lagarde évoque un risque de récession technique en zone euro si le pétrole se maintient au-dessus de 100 $ plus d'un trimestre.",
+      "source": "Financial Times",
+      "url": "https://example.com/bce-warning"
+    },
+    {
+      "id": "n04",
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Gel embauches tech UE",
+      "title": "Gel des embauches dans la tech européenne",
+      "summary": "Trois licornes — Mistral, Aleph Alpha, Helsing — annoncent un freeze partiel. Justification : visibilité macro dégradée.",
+      "source": "Les Échos",
+      "url": "https://example.com/hiring-freeze"
+    },
+    {
+      "id": "n05",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Opus 4.7",
+      "title": "Anthropic publie Claude Opus 4.7",
+      "summary": "Le successeur de 4.6 affiche +12 % sur SWE-bench et un raisonnement renforcé. Disponible API et claude.ai.",
+      "source": "Anthropic",
+      "url": "https://example.com/claude-4-7"
+    },
+    {
+      "id": "n06",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Gemini 3 Ultra",
+      "title": "Gemini 3 Ultra : benchmark multimodal",
+      "summary": "Google DeepMind annonce des gains substantiels en vidéo et raisonnement spatial, mais reste en retrait sur le code.",
+      "source": "The Verge",
+      "url": "https://example.com/gemini-3"
+    },
+    {
+      "id": "n07",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "OpenAI : board chaos",
+      "title": "OpenAI : restructuration board et tensions internes",
+      "summary": "Trois départs annoncés dans la même semaine. La gouvernance non-profit / for-profit refait surface dans la presse.",
+      "source": "The Information",
+      "url": "https://example.com/openai-board"
+    },
+    {
+      "id": "n08",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 1,
+      "short_title": "Cadre NIST agents",
+      "title": "NIST publie son cadre d'évaluation des LLM agents",
+      "summary": "Premier framework officiel US pour mesurer fiabilité d'agents IA en environnement réel.",
+      "source": "NIST",
+      "url": "https://example.com/nist-eval"
+    },
+    {
+      "id": "n09",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor 3.0",
+      "title": "Cursor 3.0 : refonte du mode agentique",
+      "summary": "Refonte complète du panel agent, intégration MCP native, gestion multi-repo. Branchement Claude 4.7 par défaut.",
+      "source": "Cursor",
+      "url": "https://example.com/cursor-3"
+    },
+    {
+      "id": "n10",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Bolt.new lève 50 M$",
+      "title": "Bolt.new lève 50 M$ pour son IDE no-code IA",
+      "summary": "StackBlitz capitalise sur la traction de Bolt et vise les non-développeurs.",
+      "source": "TechCrunch",
+      "url": "https://example.com/bolt-funding"
+    },
+    {
+      "id": "n11",
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 2,
+      "short_title": "Vercel v0 multi-écrans",
+      "title": "Vercel v0 ajoute la génération multi-écrans",
+      "summary": "v0 peut désormais générer des flux complets cohérents (onboarding, settings, dashboard) plutôt que des composants isolés.",
+      "source": "Vercel",
+      "url": "https://example.com/v0-flows"
+    },
+    {
+      "id": "n12",
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 1,
+      "short_title": "Linear design system",
+      "title": "Linear refait son design system en public",
+      "summary": "Karri Saarinen partage la refonte typographique et le passage à OKLCH. Thread très commenté.",
+      "source": "Linear",
+      "url": "https://example.com/linear-design"
+    },
+    {
+      "id": "n13",
+      "theme": "finance",
+      "subtopic": "japon",
+      "importance": 2,
+      "short_title": "BoJ : taux à 0,75 %",
+      "title": "BoJ remonte ses taux à 0,75 %",
+      "summary": "Première hausse depuis 18 mois. Le yen se renforce sous 150 face au dollar. Conséquences sur le carry trade global.",
+      "source": "Nikkei",
+      "url": "https://example.com/boj-hike"
+    },
+    {
+      "id": "n14",
+      "theme": "sante",
+      "importance": 1,
+      "short_title": "Okinawa longévité",
+      "title": "Okinawa : nouvelle étude longévité Blue Zone",
+      "summary": "Suivi 25 ans : marche quotidienne et réseau social local restent les meilleurs prédicteurs, devant le régime alimentaire.",
+      "source": "The Lancet",
+      "url": "https://example.com/okinawa-study"
+    },
+    {
+      "id": "n15",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "UE étend le CBAM",
+      "title": "UE durcit le CBAM : extension à 4 secteurs",
+      "summary": "Mécanisme d'ajustement carbone aux frontières étendu à l'hydrogène, plastiques, chimie de base et papier.",
+      "source": "Politico EU",
+      "url": "https://example.com/cbam-extension"
+    },
+    {
+      "id": "n16",
+      "theme": "learn",
+      "importance": 2,
+      "short_title": "MIT : tuteurs IA",
+      "title": "MIT : étude longue durée sur tuteurs IA",
+      "summary": "12 mois, 4 000 élèves : effet positif sur métacognition, négatif sur effort de récupération non-assisté.",
+      "source": "MIT News",
+      "url": "https://example.com/mit-tutors"
+    },
+    {
+      "id": "n17",
+      "theme": "sciences",
+      "importance": 2,
+      "short_title": "CRISPR IV approuvé",
+      "title": "CRISPR : première thérapie systémique approuvée",
+      "summary": "La FDA approuve un traitement CRISPR injecté en intraveineuse, ciblant l'hypercholestérolémie familiale. Tournant majeur.",
+      "source": "Nature",
+      "url": "https://example.com/crispr-iv"
+    },
+    {
+      "id": "n18",
+      "theme": "sante",
+      "importance": 1,
+      "short_title": "Workout vs musculation",
+      "title": "Méta-analyse street workout vs musculation",
+      "summary": "Sur 18 mois et 1 200 sujets : gains de force quasi équivalents, mais avantage net du calisthenics sur mobilité et endurance.",
+      "source": "BJSM",
+      "url": "https://example.com/calisthenics-meta"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n01",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "La prime de risque sur le pétrole augmente mécaniquement dès qu'un conflit menace les flux du Golfe (20 % du brut mondial transite par Ormuz)."
+    },
+    {
+      "source": "n02",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "Un baril durablement >100 $ alourdit la facture énergétique de la zone euro et écrase les marges des entreprises importatrices."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Anticipant la dégradation macro, les startups en levée tardive freinent les embauches pour préserver leur runway."
+    },
+    {
+      "source": "n05",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Anthropic et OpenAI incarnent deux trajectoires opposées sur la gouvernance : focus AI safety vs course produit. Le contraste devient public."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "Course aux benchmarks frontier model : sortie quasi simultanée d'Opus 4.7 et Gemini 3 Ultra. Comparaison inévitable."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "Trois acteurs frontier dans la même semaine d'actualité — signal de cycle de release accéléré."
+    },
+    {
+      "source": "n08",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "Le cadre NIST pousse les labs à publier leurs propres benchmarks de fiabilité agent : Anthropic prend les devants avec Opus 4.7."
+    },
+    {
+      "source": "n05",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "Cursor branche Claude 4.7 en modèle par défaut : la sortie d'Opus déclenche la mise à jour majeure de l'IDE."
+    },
+    {
+      "source": "n09",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Cursor et v0 incarnent la même bascule : passage du copilot ponctuel à l'agent qui livre des flux complets."
+    },
+    {
+      "source": "n13",
+      "target": "n02",
+      "type": "meme_sujet",
+      "explanation": "Deux chocs macro simultanés (pétrole, taux japonais) sur la même fenêtre — la volatilité FX se cumule à la prime énergétique."
+    }
+  ]
+}

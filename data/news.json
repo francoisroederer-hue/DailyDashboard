@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-05-13T06:00:00Z",
+  "generated_at": "2026-05-14T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran-US: trêve en péril",
-      "title": "Trump rejette le contre-plan iranien, le cessez-le-feu est en danger",
-      "summary": "Le président Trump a qualifié de «Déchet» la contre-proposition iranienne à l'offre de paix américaine, déclarant le cessez-le-feu «en soins intensifs». Dix semaines après le début du conflit armé, les escarmouches se poursuivent autour du détroit d'Hormuz et Téhéran exige la levée du blocus naval et une garantie contre de nouvelles frappes. Washington envisage de reprendre les opérations militaires si aucun accord n'est trouvé.",
-      "source": "Modern Diplomacy",
-      "url": "https://moderndiplomacy.eu/2026/05/13/the-trump-xi-summit-and-the-decline-of-american-crisis-management/"
+      "short_title": "Blocage détroit Hormuz",
+      "title": "Blocus du Détroit de Hormuz : la plus grande crise pétrolière de l'histoire",
+      "summary": "Depuis fin février 2026, les Gardiens de la révolution iraniens bloquent le Détroit de Hormuz en réponse à la guerre lancée par les États-Unis et Israël. Environ 25 % du commerce pétrolier maritime mondial se retrouve coupé. Les États-Unis ont lancé l'opération Project Freedom pour escorter les navires, avant de la suspendre début mai suite à des signaux diplomatiques fragiles.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "usa",
       "importance": 3,
-      "short_title": "Détroit d'Hormuz paralysé",
-      "title": "Le Détroit d'Hormuz: moins de 5 navires/jour, le commerce mondial étranglé",
-      "summary": "Même depuis le cessez-le-feu d'avril, le trafic maritime dans le détroit d'Hormuz est tombé à moins de 4 navires par jour, contre une moyenne de 120 avant la guerre. La crise bloque environ 20 millions de barils de brut par jour, soit un quart du commerce maritime mondial d'hydrocarbures. Cette paralysie prolongée pèse directement sur les économies importatrices d'énergie.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz"
+      "short_title": "Sommet Trump-Xi Pékin",
+      "title": "Trump en visite d'État à Pékin pour un sommet avec Xi Jinping",
+      "summary": "Donald Trump est arrivé à Pékin le 13 mai accompagné de Tim Cook, Elon Musk et Jensen Huang. L'agenda couvre les tarifs douaniers, Taïwan et la guerre en Iran dont l'issue énergétique domine tout. Une possible transaction commerciale incluant 500 Boeing et des achats agricoles massifs est sur la table.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-trade-iran-taiwan.html"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent dépasse 100$/baril",
-      "title": "Le brut repasse au-dessus de 100$ alors que l'espoir d'un accord Iran-USA s'éloigne",
-      "summary": "Le Brent a clôturé à 107,77$/baril, le WTI à 102,18$, au plus haut depuis le début de 2026. Le rebond est directement lié aux nouvelles tensions dans le Golfe et au rejet américain des propositions iraniennes. Les marchés intègrent désormais un scénario de conflit prolongé qui maintiendrait les prix à trois chiffres pour plusieurs mois.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html"
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Trêve Ukraine 3 jours",
+      "title": "Cessez-le-feu de 72h en Ukraine, Poutine évoque la fin de la guerre",
+      "summary": "Trump a obtenu un cessez-le-feu de trois jours entre la Russie et l'Ukraine (9-11 mai), incluant un échange de 1 000 prisonniers de chaque côté. Poutine a laissé entendre que le conflit « touche à sa fin » et s'est dit prêt à des pourparlers directs avec Zelensky. Ce signal de désescalade partielle intervient alors que Trump est simultanément en déplacement à Pékin.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "CPI US 3,8% en avril 2026",
-      "title": "L'inflation américaine surprend à la hausse en avril, portée par l'énergie",
-      "summary": "Le CPI américain d'avril 2026 ressort à 3,8% en glissement annuel, au-dessus des attentes du consensus à 3,7%, et le CPI core à 2,8%. Les prix de l'énergie ont bondi de 3,8% en avril à eux seuls, représentant environ 40% de la hausse totale de l'indice. Les marchés actions ont rechuTé à l'ouverture sur cette publication, avec les indices sous pression.",
-      "source": "BLS",
-      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      "short_title": "Pétrole >100$ choc offre",
+      "title": "Le Brent dépasse 100 $ : le plus grand choc pétrolier de l'histoire",
+      "summary": "Le blocus de Hormuz a fait grimper le Brent au-dessus de 100 $ le baril, avec des pics à 114 $, constituant la plus grande perturbation de l'offre pétrolière jamais enregistrée. L'IEA anticipe une contraction de la demande mondiale d'environ 1,5 million de barils/jour au T2 2026. Les prix à la pompe en Europe et aux États-Unis atteignent des records historiques.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Fed reporte ses baisses",
-      "title": "Bank of America repousse ses prévisions de baisse de taux Fed à juillet 2027",
-      "summary": "Face à une inflation qui ne montre pas de signe clair de retour sous 3%, Bank of America a annoncé qu'elle n'attendait plus aucune baisse de taux de la Fed en 2026, déplaçant sa prévision à mi-2027. Les marchés à terme ont entièrement effacé les probabilités de coupure pour l'année en cours. L'impact sur le crédit aux entreprises et l'immobilier commence à se faire sentir.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation-bank-of-america/"
+      "subtopic": "banques-centrales",
+      "importance": 3,
+      "short_title": "Stagflation: BC coincées",
+      "title": "Les banques centrales coincées entre inflation pétrolière et risque de récession",
+      "summary": "Le choc pétrolier alimente simultanément l'inflation (CPI américain attendu à +3,7 % en avril) et ralentit la croissance, plaçant la Fed et les banques centrales mondiales dans un dilemme stagflationniste classique. Baisser les taux risque d'amplifier l'inflation ; les maintenir risque d'étouffer une économie déjà fragilisée. Vanguard et le FMI évoquent une fenêtre de manœuvre historiquement étroite.",
+      "source": "Vanguard",
+      "url": "https://corporate.vanguard.com/content/corporatesite/us/en/corp/vemo/oil-shock-complicates-central-bank-outlooks.html"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "usa",
-      "importance": 3,
-      "short_title": "Sommet Trump-Xi à Pékin",
-      "title": "Trump à Pékin pour un sommet à haut risque sur le commerce, l'Iran et Taïwan",
-      "summary": "Donald Trump arrive en Chine pour un sommet de deux jours avec Xi Jinping, première rencontre face-à-face depuis la trêve commerciale d'octobre dernier. L'agenda officiel couvre les tarifs douaniers, Taïwan et la crise iranienne, Xi pouvant potentiellement servir d'intermédiaire auprès de Téhéran. Les analystes anticipent une stabilisation plutôt que des avancées majeures, avec une probable extension de la trêve commerciale.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/trump-xi-china-trade-iran-taiwan.html"
+      "theme": "finance",
+      "subtopic": "emergents",
+      "importance": 2,
+      "short_title": "FMI dégrade émergents",
+      "title": "Le FMI abaisse ses prévisions pour les marchés émergents, inflation en hausse",
+      "summary": "Le FMI a révisé à la baisse ses prévisions de croissance pour les économies émergentes, de 4,2 % à 3,9 % en 2026, tout en relevant l'inflation attendue de 4,8 % à 5,5 %. Ces pays subissent doublement le choc : inflation importée via le pétrole et risque de fuite de capitaux si les économies avancées resserrent leur politique monétaire. L'Asie-Pacifique est la zone la plus exposée.",
+      "source": "PIIE",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/amid-wartime-disruptions-most-emerging-market-central-banks-will"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI Daybreak vs Mythos",
-      "title": "OpenAI lance Daybreak pour rivaliser avec Claude Mythos d'Anthropic sur la cybersécurité",
-      "summary": "OpenAI a lancé Daybreak, une initiative de cybersécurité propulsée par GPT-5.5-Cyber et Codex Security, en réponse directe à Claude Mythos d'Anthropic, qui avait récemment aidé Mozilla à corriger plus de 270 vulnérabilités dans Firefox. Les deux labos IA se livrent une course à la crédibilité dans la sécurité défensive, un marché B2B lucratif et stratégique. Cela marque un tournant: l'IA de sécurité devient un produit distinct, pas seulement une fonction.",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/2026/05/openai-daybreak-vs-anthropic-mythos-ai-cybersecurity-initiative.html"
+      "importance": 3,
+      "short_title": "Mythos: trop dangereux",
+      "title": "Anthropic refuse de publier Mythos : premier modèle jugé trop dangereux pour le public",
+      "summary": "Anthropic a présenté Claude Mythos Preview en avril 2026 mais refuse tout accès public au modèle, capable selon eux de découvrir et exploiter des failles logicielles dans tous les grands systèmes d'exploitation et navigateurs. Dario Amodei avertit d'une fenêtre de 6 à 12 mois pour patcher des dizaines de milliers de vulnérabilités avant que des acteurs adverses ne développent des capacités équivalentes. Le consortium Project Glasswing partage une version limitée avec Apple, Microsoft, Amazon et Google.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/05/anthropic-ceo-cyber-moment-of-danger-mythos-vulnerabilities.html"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Google Gemini sur Android",
-      "title": "Google accélère l'intégration de Gemini dans Android avant le virage IA d'Apple",
-      "summary": "Alphabet mise sur Gemini pour consolider sa position face à OpenAI et Anthropic, en faisant du modèle l'épine dorsale d'Android et de ses services grand public. La stratégie vise à verrouiller l'expérience IA au niveau OS avant le lancement attendu du renouveau IA d'Apple sur iOS. Cette course à l'intégration redéfinit les batailles d'adoption entre les trois géants de l'IA.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/google-races-put-gemini-at-center-of-android-before-apples-ai-reboot.html"
+      "importance": 3,
+      "short_title": "Google IA vs zero-days",
+      "title": "Google documente le premier cas d'IA utilisée pour exploiter une faille zero-day",
+      "summary": "Le Threat Intelligence Group de Google a identifié le premier cas avéré d'un attaquant utilisant l'IA pour découvrir et armer une vulnérabilité zero-day, une attaque de masse qui a été déjouée in extremis. Cela confirme que la menace théorique décrite par Anthropic avec Mythos est déjà une réalité opérationnelle pour des acteurs malveillants. La course entre défenseurs et attaquants augmentés par l'IA est officiellement ouverte.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/05/12/google-hackers-using-ai-to-weaponize-zero-day-vulnerabilities/"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Accord US sur tests IA",
-      "title": "Microsoft, Google et xAI acceptent des tests gouvernementaux pré-déploiement de leurs modèles IA",
-      "summary": "Le département du Commerce américain a annoncé que Microsoft, Google et xAI laisseront son Centre pour les Standards et l'Innovation IA évaluer leurs modèles frontier avant mise sur le marché. Les tests portent sur les capacités offensives potentielles: piratage, usage militaire non autorisé et comportements inattendus. C'est la première fois que le gouvernement américain obtient un accès anticipé systématique à des modèles commerciaux avancés.",
+      "short_title": "OpenAI cyber accès UE",
+      "title": "OpenAI donne accès à GPT-5.5-Cyber aux équipes de cybersécurité européennes",
+      "summary": "OpenAI a annoncé un accès preview limité à GPT-5.5-Cyber, une variante de son dernier modèle, pour des équipes de cybersécurité européennes vérifiées. Contrairement à Anthropic qui maintient un embargo total sur Mythos, OpenAI choisit une stratégie d'ouverture contrôlée pour renforcer les défenses. Cette divergence stratégique entre les deux leaders alimente le débat sur la bonne politique de diffusion des modèles à capacités offensives.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html"
+      "url": "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "design",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Figma AI: Make & Skills",
-      "title": "Figma déploie ses mises à jour majeures de mai: Make avec Skills, voix et Zapier",
-      "summary": "Figma a publié ses notes de version de mai 2026, introduisant dans Figma Make les «Skills» — des fichiers markdown définissant des conventions de workflow — ainsi que les prompts vocaux, l'historique de versions et un connecteur Zapier. Le Dev Mode, Figma AI et les outils d'images par référence ont également reçu des mises à jour significatives. Ces fonctionnalités positionnent Figma comme une plateforme de co-design IA complète, concurrençant directement les builders vibe coding.",
-      "source": "Figma",
-      "url": "https://www.figma.com/release-notes/"
+      "short_title": "Google Stitch tacle Figma",
+      "title": "Google Stitch : la mise à jour fait chuter le cours de Figma de 12 %",
+      "summary": "La mise à jour de mars 2026 de Google Stitch, intégrant un canvas vocal et infini pour la conception par IA, a provoqué une chute de 12 % du cours de bourse de Figma, signal que l'industrie prend très au sérieux cette menace. En 2026, quatre outils dominent le vibe design : Stitch, v0 par Vercel, Lovable et Bolt. L'IA générative réorganise profondément le marché des outils de création d'interfaces.",
+      "source": "NxCode",
+      "url": "https://www.nxcode.io/resources/news/vibe-design-tools-compared-stitch-v0-lovable-2026"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Vibe coding: 92% devs/IA",
-      "title": "92% des développeurs américains utilisent des outils IA quotidiennement; 41% du code mondial est généré par IA",
-      "summary": "Le vibe coding — développement applicatif via prompts en langage naturel — est passé d'une curiosité à une pratique standard: 92% des développeurs américains utilisent des outils IA au quotidien et 41% du code produit dans le monde est généré par IA. Les outils se scindent en deux catégories: les builders (Lovable, Bolt, Replit) pour les non-codeurs, et les assistants (Cursor, Claude Code) pour les développeurs professionnels. Cursor, à 20$/mois, domine le segment pro.",
-      "source": "Nimbalyst",
-      "url": "https://nimbalyst.com/blog/best-vibe-coding-tools-2026/"
+      "subtopic": "design",
+      "importance": 1,
+      "short_title": "Figma MCP agents design",
+      "title": "Figma lance son serveur MCP et les Custom Skills pour agents IA",
+      "summary": "Figma a déployé en mai 2026 son serveur MCP permettant aux agents IA de créer et modifier des fichiers Figma directement depuis le canvas via des commandes slash. Les Custom Skills, définies en markdown, permettent aux équipes d'entraîner les agents sur leurs conventions de design spécifiques. Ces mises à jour repositionnent Figma comme plateforme d'orchestration d'agents plutôt que simple outil de design.",
+      "source": "Figma",
+      "url": "https://help.figma.com/hc/en-us/articles/40219873508247-Release-notes-roundup-May-2026"
     },
     {
       "id": "n12",
       "theme": "learn",
-      "subtopic": "ia_tutorat",
-      "importance": 3,
-      "short_title": "Tuteur IA > classe active",
-      "title": "Les tuteurs IA surpassent l'enseignement actif en classe selon un essai randomisé contrôlé",
-      "summary": "Une étude publiée dans Scientific Reports (Nature) a comparé, via un RCT en contexte éducatif réel, des étudiants utilisant un tuteur IA à ceux participant à des cours actifs en classe. Les élèves avec tuteur IA ont appris significativement plus en moins de temps, tout en se déclarant plus engagés et motivés. Ce résultat robuste bouscule les certitudes pédagogiques et ouvre un débat sur le rôle futur des enseignants face à des agents d'apprentissage personnalisés.",
+      "subtopic": "tutorat-ia",
+      "importance": 2,
+      "short_title": "IA tuteur > classe active",
+      "title": "RCT : les tuteurs IA surpassent l'apprentissage actif en classe",
+      "summary": "Un essai contrôlé randomisé publié dans Scientific Reports montre que des étudiants travaillant seuls avec un tuteur IA bien conçu apprennent significativement plus, en moins de temps, que lors des mêmes contenus en mode apprentissage actif en classe. L'effet repose sur la personnalisation, la gestion de la charge cognitive et le rythme adaptatif. Les auteurs insistent : le design pédagogique du tuteur importe autant que le modèle sous-jacent.",
       "source": "Nature / Scientific Reports",
       "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
@@ -138,140 +138,123 @@
       "theme": "sante",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Xfer gène taupe → +4% vie",
-      "title": "Des scientifiques transfèrent un gène de longévité du rat-taupe nu à la souris, allongeant sa vie de 4,4%",
-      "summary": "Des chercheurs de l'Université de Rochester ont transféré à des souris un gène spécifique du rat-taupe nu — réputé pour sa résistance exceptionnelle aux maladies — et ont observé une augmentation de 4,4% de la durée de vie médiane. Les souris modifiées présentaient moins d'inflammation tissulaire en vieillissant et une meilleure santé intestinale. C'est la première preuve directe qu'un mécanisme de longévité inter-espèces peut être transposé avec succès chez un mammifère.",
+      "short_title": "Gène longévité rat-taupe",
+      "title": "Un gène du rat-taupe nu transféré à des souris améliore leur santé et prolonge leur vie",
+      "summary": "Des chercheurs de l'Université de Rochester ont transféré chez la souris le gène responsable des niveaux élevés d'acide hyaluronique de haut poids moléculaire (HMW-HA) chez le rat-taupe nu, animal connu pour sa longévité exceptionnelle. Les souris modifiées sont en meilleure santé et vivent plus longtemps. Cette preuve de concept ouvre la voie à des interventions pharmacologiques ciblant HMW-HA chez l'humain.",
       "source": "ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Thymus et longévité",
-      "title": "Le thymus, longtemps ignoré, révélé comme régulateur clé du vieillissement immunitaire",
-      "summary": "Une série de recherches récentes redéfinit le rôle du thymus, longtemps considéré comme accessoire après l'enfance, en régulateur puissant de l'immunité et du vieillissement. Les études montrent que son déclin progressif avec l'âge est directement lié à une vulnérabilité accrue aux cancers et aux infections. Ces travaux ouvrent des pistes thérapeutiques pour stimuler ou régénérer l'organe chez les adultes âgés.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/health/2026/05/03/thymus-longevity-cancer-research/"
-    },
-    {
-      "id": "n15",
       "theme": "climat",
-      "subtopic": "renouvelables",
+      "subtopic": "transition",
       "importance": 2,
-      "short_title": "Record mondial: 800 GW",
-      "title": "Les installations solaires et éoliennes mondiales atteignent un record historique de 800 GW en 2025",
-      "summary": "Les déploiements annuels d'énergie solaire et éolienne ont dépassé 800 GW en 2025, soit un triplement par rapport aux niveaux de 2021, selon le Rocky Mountain Institute. Les installations de stockage annuelles devraient dépasser 100 GW pour la première fois en 2026. Cette accélération coïncide avec un contexte géopolitique qui renforce la valeur stratégique de l'indépendance énergétique.",
-      "source": "RMI",
-      "url": "https://rmi.org/the-energy-transition-in-2026-10-trends-to-watch/"
-    },
-    {
-      "id": "n16",
-      "theme": "climat",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Opportunité de transition",
-      "title": "La crise Hormuz comme catalyseur inattendu de la transition énergétique mondiale",
-      "summary": "Le Forum Économique Mondial analyse comment la perturbation des approvisionnements pétroliers liée à la crise Hormuz accélère les décisions d'investissement dans les énergies propres, en rendant le coût relatif de l'électricité renouvelable bien plus attractif. Plusieurs gouvernements ont annoncé des plans d'urgence de souveraineté énergétique incluant des objectifs accélérés d'éolien et de solaire. La crise révèle simultanément la vulnérabilité fossile et les bénéfices de la diversification énergétique.",
+      "short_title": "Crise Iran accélère green",
+      "title": "La crise iranienne : catalyseur ou frein pour la transition énergétique ?",
+      "summary": "Le WEF et plusieurs think tanks analysent la crise de Hormuz comme un accélérateur potentiel de la transition énergétique, en rendant le coût d'opportunité des fossiles brutal et immédiat pour les gouvernements. Simultanément, le choc sur les finances publiques risque de détourner des capitaux des projets verts. Les installations mondiales de stockage énergétique devraient dépasser 100 GW pour la première fois en 2026.",
       "source": "World Economic Forum",
       "url": "https://www.weforum.org/stories/2026/04/the-energy-crisis-could-also-be-an-opportunity-to-speed-the-transition-here-s-how/"
     },
     {
-      "id": "n17",
-      "theme": "learn",
-      "subtopic": "ia_tutorat",
+      "id": "n15",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "OECD: éduc digitale 2026",
-      "title": "L'OCDE publie son Panorama de l'Éducation Numérique 2026: l'IA redessine les systèmes scolaires",
-      "summary": "L'OCDE a publié son Digital Education Outlook 2026, révélant que 78% des établissements K-12 et 92% des universités utilisent désormais des outils IA, contre respectivement 23% et 41% en 2023. Le rapport avertit cependant qu'une utilisation non guidée pédagogiquement risque de créer une «paresse métacognitive»: les élèves délèguent la réflexion à l'IA sans apprendre à apprendre. L'enjeu est désormais de concevoir des pédagogies qui utilisent l'IA comme amplificateur cognitif, non comme substitut.",
-      "source": "OCDE",
-      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
+      "short_title": "UE: politique post-2030",
+      "title": "L'UE négocie son architecture climatique post-2030 dans un contexte de crise",
+      "summary": "L'Union européenne entre en 2026 dans une phase décisive de négociation de sa politique climatique post-2030, avec la Commission proposant d'allouer 35 % du budget pluriannuel d'environ 2 000 milliards d'euros aux objectifs climatiques. Les ONG jugent ce chiffre insuffisant. Un Plan d'Action sur l'Électrification doit être lancé, mais l'incertitude géopolitique liée à la crise iranienne ralentit les investisseurs.",
+      "source": "Cleary Gottlieb",
+      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-05-06"
     },
     {
-      "id": "n18",
+      "id": "n16",
       "theme": "sciences",
       "subtopic": "biotech",
       "importance": 2,
-      "short_title": "Breakthrough Prizes 2026",
-      "title": "Cinq affiliés de Harvard parmi les lauréats des Breakthrough Prizes 2026 en sciences de la vie",
-      "summary": "Cinq chercheurs affiliés à Harvard figurent parmi les lauréats des Breakthrough Prizes 2026 en sciences de la vie, récompensant des avancées en biologie moléculaire, immunologie et neurosciences. Dotés de 3 millions de dollars chacun, ces prix orientent les projecteurs sur les directions les plus prometteuses de la recherche fondamentale mondiale. Les travaux primés incluent des découvertes sur les mécanismes de réparation de l'ADN et de régulation du système immunitaire.",
-      "source": "Harvard Crimson",
-      "url": "https://www.thecrimson.com/article/2026/4/27/breakthrough-life-sciences/"
+      "short_title": "CAR-T in vivo phase 1",
+      "title": "CAR-T in vivo : premiers essais humains de phase 1 sans fabrication ex vivo",
+      "summary": "Kelonia Therapeutics a lancé en Australie un essai de phase 1 de thérapie CAR-T in vivo ciblant le myélome multiple, éliminant les complexes étapes de fabrication ex vivo qui rendent les thérapies cellulaires actuelles si coûteuses et lentes. Si le profil de sécurité se confirme, cette approche pourrait démocratiser radicalement l'accès aux thérapies cellulaires contre le cancer.",
+      "source": "MIT Technology Review",
+      "url": "https://go.zageno.com/blog/whats-new-in-biotech-2026"
+    },
+    {
+      "id": "n17",
+      "theme": "sciences",
+      "subtopic": "vieillissement",
+      "importance": 1,
+      "short_title": "Thymus & vieillissement",
+      "title": "Le thymus, nouvel acteur clé de la longévité et de l'immunité",
+      "summary": "De nouvelles recherches recadrent le thymus non plus comme un organe secondaire mais comme un régulateur puissant du vieillissement immunitaire. Son déclin progressif après la puberté expliquerait une grande partie de la vulnérabilité aux maladies liées à l'âge et au cancer. Des stratégies pour régénérer ou stimuler le thymus adulte émergent comme piste thérapeutique sérieuse.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/health/2026/05/03/thymus-longevity-cancer-research/"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "Le rejet américain du contre-plan iranien empêche toute normalisation du transit maritime: sans accord politique, le blocus de facto persiste et le trafic dans le détroit reste au point mort."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "Avec à peine 4 pétroliers/jour dans le détroit contre 120 en temps normal, la contraction brutale de l'offre de brut pousse mécaniquement le Brent et le WTI au-dessus de la barre des 100$/baril."
-    },
-    {
-      "source": "n03",
       "target": "n04",
       "type": "cause",
-      "explanation": "La flambée des cours du pétrole se répercute directement sur les prix à la pompe et sur l'ensemble des chaînes logistiques, représentant près de 40% de la hausse mensuelle du CPI américain d'avril."
+      "explanation": "Le blocus du Détroit de Hormuz coupe environ 25 % du commerce pétrolier maritime mondial, provoquant mécaniquement une hausse brutale des prix du brut sur les marchés internationaux."
     },
     {
       "source": "n04",
       "target": "n05",
       "type": "cause",
-      "explanation": "Avec un CPI annuel ancré à 3,8% et aucun signe de retour sous 3%, la Fed ne dispose plus d'espace pour assouplir sa politique en 2026, forçant les acteurs de marché à décaler leurs anticipations de baisses à 2027."
+      "explanation": "Le choc pétrolier alimente l'inflation importée tout en freinant la croissance, plaçant les banques centrales dans un dilemme stagflationniste : baisser les taux amplifie l'inflation, les maintenir aggrave la récession."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "Les économies émergentes subissent le choc de manière amplifiée : inflation importée plus forte, monnaies sous pression, et tout resserrement monétaire dans les pays riches déclenche des sorties de capitaux."
     },
     {
       "source": "n01",
-      "target": "n06",
+      "target": "n02",
       "type": "meme_sujet",
-      "explanation": "La crise iranienne est l'un des trois grands dossiers du sommet Trump-Xi: Washington cherche à obtenir de Pékin une pression sur Téhéran, sachant que la Chine est l'un des principaux acheteurs de pétrole iranien."
+      "explanation": "La guerre en Iran et ses conséquences énergétiques dominent l'ordre du jour du sommet Trump-Xi, reliant directement la crise militaire au Moyen-Orient à la diplomatie commerciale sino-américaine."
     },
     {
-      "source": "n06",
-      "target": "n05",
+      "source": "n02",
+      "target": "n04",
       "type": "cause",
-      "explanation": "L'incertitude sur l'issue des négociations tarifaires sino-américaines entretient une pression inflationniste importée sur les biens de consommation américains, renforçant la prudence de la Fed sur les taux."
+      "explanation": "Un accord à Pékin sur les sanctions iraniennes ou un engagement chinois à favoriser une sortie de crise pourrait rouvrir partiellement le flux pétrolier et peser directement à la baisse sur les prix du brut."
     },
     {
-      "source": "n03",
-      "target": "n16",
+      "source": "n04",
+      "target": "n14",
       "type": "cause",
-      "explanation": "Un baril à 100$+ améliore mécaniquement la compétitivité économique des énergies renouvelables et débloque des décisions d'investissement dans le solaire et l'éolien qui stagnaient à des prix fossiles plus bas."
+      "explanation": "Le pétrole au-dessus de 100 $ rend brutalement visible le coût d'opportunité des énergies fossiles, créant une pression politique accrue pour accélérer les investissements dans les alternatives renouvelables."
     },
     {
-      "source": "n15",
-      "target": "n16",
+      "source": "n14",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "La crise de Hormuz et les négociations climatiques européennes convergent sur la même question structurelle : à quelle vitesse et à quel coût réduire la dépendance aux hydrocarbures du Moyen-Orient."
+    },
+    {
+      "source": "n07",
+      "target": "n08",
       "type": "tension",
-      "explanation": "Malgré le record d'installations renouvelables, la crise Hormuz révèle que la dépendance au pétrole reste structurelle: le monde déploie du renouvelable à grande vitesse mais continue de compter sur le fossile comme socle de son économie."
+      "explanation": "Anthropic retient Mythos en invoquant un risque encore théorique, tandis que Google documente que cette menace est déjà une réalité opérationnelle — ce qui fragilise la cohérence de la stratégie de rétention."
     },
     {
       "source": "n07",
       "target": "n09",
-      "type": "cause",
-      "explanation": "La montée en puissance d'IA capables de trouver des failles zero-day (Daybreak, Claude Mythos) accélère la pression politique pour imposer des audits gouvernementaux avant tout déploiement de modèle frontier."
+      "type": "tension",
+      "explanation": "Face au même dilemme de diffusion des modèles cyber offensifs, Anthropic maintient un embargo total sur Mythos tandis qu'OpenAI choisit une ouverture contrôlée vers l'UE, révélant deux philosophies opposées."
     },
     {
-      "source": "n08",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "Google mise sur l'intégration OS de Gemini pour capter l'usage quotidien grand public, tandis qu'OpenAI et Anthropic ciblent des verticales spécialisées comme la cybersécurité — deux stratégies de conquête du marché IA fondamentalement opposées."
-    },
-    {
-      "source": "n12",
-      "target": "n17",
-      "type": "tension",
-      "explanation": "L'efficacité prouvée des tuteurs IA par RCT contraste avec l'avertissement de l'OCDE sur les risques de paresse métacognitive: la question n'est plus «est-ce que ça marche» mais «à quelles conditions ça ne nuit pas à l'apprentissage profond»."
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "La montée de Google Stitch et l'intégration MCP de Figma procèdent de la même dynamique : l'IA générative transforme les outils de design de logiciels statiques en plateformes d'orchestration d'agents."
     },
     {
       "source": "n13",
-      "target": "n14",
+      "target": "n17",
       "type": "meme_sujet",
-      "explanation": "Les deux recherches explorent des mécanismes biologiques longtemps sous-estimés — transmission génétique inter-espèces et rôle du thymus — comme nouvelles pistes pour étendre la durée de vie en bonne santé humaine."
+      "explanation": "Le transfert du gène HMW-HA du rat-taupe et la redécouverte du thymus illustrent la même dynamique : des mécanismes biologiques longtemps sous-estimés deviennent les cibles prioritaires de la recherche en longévité."
     }
   ]
 }

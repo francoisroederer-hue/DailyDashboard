@@ -1,168 +1,168 @@
 {
-  "generated_at": "2026-05-16T06:00:00Z",
+  "generated_at": "2026-05-17T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Impasse Iran-US au Hormuz",
-      "title": "Trump rejette la contre-proposition iranienne, l'impasse au Détroit de Hormuz se prolonge",
-      "summary": "Le président Trump a qualifié de «totalement inacceptable» l'offre de paix iranienne proposant une trêve de 5 ans sur le nucléaire, quand Washington en exigeait 20. Téhéran a répondu qu'il ne capitulerait «jamais», maintenant le blocus du Détroit de Hormuz actif pour la dixième semaine consécutive. La négociation repart à zéro sur le fond, malgré la pression internationale croissante.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html"
+      "short_title": "Iran-US : trêve moribonde",
+      "title": "Négociations Iran-USA en impasse, cessez-le-feu sous pression",
+      "summary": "Après les frappes américano-israéliennes du 28 février et une trêve fragile conclue en avril, les négociations sur le nucléaire iranien sont dans une impasse profonde. Trump a qualifié la réponse de Téhéran de 'totalement inacceptable' et le cessez-le-feu d'être 'en soins intensifs'. L'Iran a posé un ultimatum à 14 points : accepter ses conditions ou faire face à 'l'échec'.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/11/world/live-news/iran-war-proposal-trump"
     },
     {
       "id": "n02",
-      "theme": "geopol",
+      "theme": "finance",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Blocus Hormuz prolongé",
-      "title": "Le Détroit de Hormuz reste fonctionnellement bloqué malgré quelques mouvements de navires",
-      "summary": "Téhéran indique qu'une trentaine de navires ont transité par le Détroit, mais des attaques sur des pétroliers et des saisies de bateaux continuent. Le Détroit de Hormuz reste fermé au commerce international à grande échelle, menaçant environ 20 % des approvisionnements pétroliers mondiaux. Trump a déclaré qu'il perdait patience, accentuant la pression militaire américaine dans la région.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz"
-    },
-    {
-      "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Pactes Inde-EAU anti-Iran",
-      "title": "L'Inde et les Émirats arabes unis signent des accords de défense dans un contexte de tensions avec l'Iran",
-      "summary": "Modi et les dirigeants des EAU ont signé plusieurs pactes de défense lors d'un sommet bilatéral, consolidant une alliance stratégique face à la déstabilisation régionale provoquée par le conflit irano-américain. L'Inde, fortement dépendante du pétrole du Golfe, cherche à sécuriser ses approvisionnements et ses intérêts logistiques dans la région. Ces accords renforcent également la présence navale indienne dans le Golfe d'Oman.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer"
-    },
-    {
-      "id": "n04",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Magyar bat Orbán Hongrie",
-      "title": "Peter Magyar remporte les élections hongroises, mettant fin à 16 ans de règne d'Orbán",
-      "summary": "Le parti Tisza de Peter Magyar a obtenu 53,6 % des voix avec un taux de participation record de 80 %, décrochant 138 sièges sur 199 contre 55 pour le Fidesz d'Orbán. Ce résultat historique met fin à 16 ans d'un régime eurosceptique et pro-russe qui bloquait systématiquement les décisions collectives de l'UE. Magyar a promis de reconstruire les liens de Budapest avec l'Union européenne et l'OTAN.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
-    },
-    {
-      "id": "n05",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent grimpe vers $107",
-      "title": "Le pétrole Brent proche de 107 dollars alors que les tensions au Détroit de Hormuz restent vives",
-      "summary": "Le Brent a progressé de 1,25 % pour atteindre 107,04 dollars le baril après les déclarations de Trump sur sa perte de patience face à l'Iran. L'EIA prévoit que les stocks mondiaux de pétrole baisseront en moyenne de 8,5 millions de barils par jour au second trimestre 2026, soutenant les prix à ces niveaux. C'est la première fois depuis 2022 que le Brent se maintient au-dessus de 100 dollars pendant plusieurs semaines consécutives.",
-      "source": "Pakistan Today",
-      "url": "https://www.pakistantoday.com.pk/2026/05/15/oil-climbs-after-trump-says-he-is-losing-patience-with-iran"
-    },
-    {
-      "id": "n06",
-      "theme": "finance",
-      "subtopic": "usa",
-      "importance": 3,
-      "short_title": "Yield 10 ans US à 4,55 %",
-      "title": "Les rendements des bons du Trésor US à 10 ans bondissent à 4,55 %, un plus haut annuel",
-      "summary": "Le rendement du 10 ans américain a grimpé de 9 points de base pour atteindre 4,55 %, son plus haut niveau depuis un an, sous la pression de nouvelles craintes inflationnistes liées aux prix de l'énergie. Les marchés ont révisé en forte hausse leurs anticipations d'une remontée des taux de la Fed, le coût du pétrole étant désormais perçu comme un vecteur d'inflation importée durable. Le secteur technologique, très sensible aux taux longs, a subi une pression significative en séance.",
-      "source": "Crestwood Advisors",
-      "url": "https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/"
-    },
-    {
-      "id": "n07",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "IEA coupe -1,5 Mb/j Q2",
-      "title": "L'AIE revoit à la baisse sa prévision de demande pétrolière : -1,5 million de barils/jour au T2 2026",
-      "summary": "Dans son rapport mensuel de mai, l'Agence internationale de l'énergie anticipe une contraction de la demande mondiale de pétrole de 1,5 million de barils par jour au deuxième trimestre, le recul le plus sévère depuis la pandémie. Le ralentissement économique induit par la crise du Détroit de Hormuz — hausse des coûts de transport, contraction industrielle en Europe et en Asie — pèse sur la consommation globale. Ce déclin de la demande devrait mécaniquement pousser les prix à la baisse, mais l'effet est neutralisé par la contrainte d'offre.",
+      "short_title": "Hormuz : pétrole >$105",
+      "title": "Brent au-dessus de 105$ : le détroit d'Hormuz toujours bloqué",
+      "summary": "Malgré le cessez-le-feu formel d'avril, le détroit d'Hormuz reste de facto fermé, provoquant selon l'AIE la plus grande rupture d'approvisionnement pétrolier de l'histoire avec plus de 14 millions de barils par jour bloqués. Le Brent s'établit autour de 107$/baril mi-mai et les pertes cumulées dépassent 1 milliard de barils. Les perturbations continuent d'alimenter une volatilité extrême des marchés énergétiques.",
       "source": "IEA",
       "url": "https://www.iea.org/reports/oil-market-report-may-2026"
     },
     {
-      "id": "n08",
+      "id": "n03",
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Warsh : nouveau chef Fed",
+      "title": "Kevin Warsh confirmé président de la Fed par le Sénat (54-45)",
+      "summary": "Le Sénat américain a confirmé Kevin Warsh à la tête de la Réserve fédérale dans le vote le plus serré de l'ère moderne, quasi unanimement partisan. Warsh succède à Jerome Powell dont le mandat a expiré le 15 mai et devrait orienter la politique monétaire vers deux baisses de taux dans la seconde moitié de 2026, visant un taux neutre autour de 3%, dans le sens souhaité par Trump.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html"
+    },
+    {
+      "id": "n04",
       "theme": "finance",
       "subtopic": "usa",
       "importance": 2,
-      "short_title": "Hausse Fed probable à 45%",
-      "title": "Le marché donne désormais 45 % de probabilité à une hausse des taux de la Fed en 2026",
-      "summary": "Selon le CME FedWatch Tool, les probabilités d'une hausse de taux par la Réserve fédérale en 2026 sont passées de 1 % il y a un mois à 45 %, reflétant l'inquiétude croissante face à l'inflation énergétique importée. Ce changement de perception survient alors que la Fed cherchait à couper ses taux depuis fin 2025, et risque de peser durablement sur les valorisations des actifs risqués. Les marges des entreprises du S&P 500 restent historiquement élevées à 13,4 %, mais commencent à subir la pression de la hausse des coûts.",
-      "source": "Crestwood Advisors",
-      "url": "https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/"
+      "short_title": "Fed : taux bloqués, Iran",
+      "title": "La Fed maintient ses taux, dissidences records liées au choc Iran",
+      "summary": "En avril, la Fed a enregistré le plus grand nombre de dissidences internes depuis 34 ans, les taux restant figés entre 3,5 et 3,75%. Le choc pétrolier issu de la crise d'Hormuz alimente une inflation tenace, rendant toute baisse de taux politiquement risquée malgré les pressions de la Maison Blanche. Trois membres refusaient d'inclure un biais accommodant dans la déclaration finale.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/29/fed-powell-interest-rates"
     },
     {
-      "id": "n09",
+      "id": "n05",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Google $40B Anthropic",
-      "title": "Google s'engage à investir jusqu'à 40 milliards de dollars dans Anthropic",
-      "summary": "Google a annoncé un investissement immédiat de 10 milliards de dollars dans Anthropic, avec une option d'aller jusqu'à 40 milliards sous conditions de performance, faisant de ce partenariat le plus grand accord d'investissement de l'histoire de l'IA. Cet engagement stratégique majeur positionne Google comme l'actionnaire le plus important d'Anthropic aux côtés d'Amazon. La transaction renforce la capacité de calcul d'Anthropic via l'infrastructure Google Cloud et l'accès prioritaire aux puces TPU.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html"
+      "short_title": "Mythos : failles zero-day",
+      "title": "Claude Mythos d'Anthropic : des milliers de failles zero-day découvertes",
+      "summary": "Anthropic a présenté Mythos Preview, un modèle d'IA généraliste capable d'identifier de manière autonome des milliers de vulnérabilités zero-day dans les principaux OS et navigateurs, dont une faille vieille de 17 ans dans FreeBSD. La société ne le diffuse pas publiquement et a formé le Project Glasswing — une coalition d'Apple, AWS, Microsoft, Google et 40 autres organisations — pour patcher les vulnérabilités avant que des acteurs adverses ne développent des capacités comparables.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/07/anthropic-claude-mythos-model-project-glasswing-cybersecurity/"
     },
     {
-      "id": "n10",
+      "id": "n06",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Claude Opus 4.7 lancé",
-      "title": "Anthropic lance Claude Opus 4.7 avec des gains majeurs en coding et en vision",
-      "summary": "Claude Opus 4.7 améliore de 13 % les performances sur un benchmark de 93 tâches de coding complexes par rapport à Opus 4.6, et introduit une vision haute résolution inédite pour la famille Opus. Anthropic a simultanément lancé Claude Design, un produit Labs permettant de créer des visuels, prototypes et présentations en collaboration avec le modèle. Une plateforme AWS dédiée rend l'API Claude accessible directement avec l'authentification IAM et la facturation AWS.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7"
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Accord US : IA supervisée",
+      "title": "Microsoft, Google et xAI acceptent la supervision fédérale pré-déploiement des modèles IA",
+      "summary": "Microsoft, Google et xAI ont accepté de donner au gouvernement américain un accès anticipé à leurs modèles frontières pour évaluation par le centre NIST-CAISI. Les tests couvrent les capacités de piratage, les détournements militaires et les comportements émergents inattendus. Cet accord marque un tournant dans la gouvernance de l'IA aux États-Unis, dans un contexte de course aux capacités cybersécurité entre puissances.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models"
     },
     {
-      "id": "n11",
+      "id": "n07",
       "theme": "tech",
       "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Cursor franchit $1B ARR",
-      "title": "Cursor dépasse 1 milliard de dollars de revenus annuels avec moins de 50 employés",
-      "summary": "L'IDE IA Cursor a franchi le cap symbolique du milliard de dollars de revenu annuel récurrent avec une équipe de moins de 50 personnes, un ratio revenus/effectif exceptionnel dans l'histoire des logiciels. En 2026, le vibe coding est passé du statut de tendance de niche à celui de workflow par défaut pour une large majorité de développeurs, et Cursor s'est établi comme l'environnement de référence pour les projets sérieux. La dernière cohorte de Y Combinator affiche 95 % de code généré par IA.",
-      "source": "Medium / Just Talking Tech",
-      "url": "https://justtalkingtech.medium.com/vibe-coding-in-2026-i-tried-cursor-replit-bolt-lovable-and-v0-heres-what-actually-ships-11d0b70cf1d5"
+      "short_title": "Cursor : 2 Mds$ ARR",
+      "title": "Cursor atteint 2 milliards de dollars de revenus annuels, le vibe coding s'impose",
+      "summary": "L'éditeur de code IA Cursor a franchi le cap des 2 Mds$ d'ARR début 2026, confirmant l'essor du vibe coding dans le développement professionnel. Son mode Agent permet à l'IA de modifier plusieurs fichiers simultanément depuis une seule instruction, et son nouveau Design Mode cible les développeurs front-end. 72% des développeurs utilisent désormais des outils IA quotidiennement et 41% du code mondial est généré par IA.",
+      "source": "DEV Community",
+      "url": "https://dev.to/pooyagolchian/vibe-coding-in-2026-92b-cursor-92-humaneval-and-the-end-of-boilerplate-161h"
+    },
+    {
+      "id": "n08",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Vibe coding : code risqué",
+      "title": "45% du code généré par IA contient des vulnérabilités de sécurité",
+      "summary": "L'explosion du vibe coding crée une surface d'attaque croissante : 45% du code généré automatiquement présente des failles de sécurité selon des analyses récentes de l'industrie. Les outils comme Cursor peuvent produire du code redondant, non conforme aux bonnes pratiques et porteur de dette technique, avec des risques amplifiés à l'échelle de l'industrie entière.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/04/02/cursor-refreshes-vibe-coding-platform-focus-ai-agents/"
+    },
+    {
+      "id": "n09",
+      "theme": "geopol",
+      "subtopic": "japon",
+      "importance": 2,
+      "short_title": "Taïwan : PLA à son comble",
+      "title": "Escalade militaire chinoise record autour de Taïwan, Japon en ligne de mire",
+      "summary": "Les opérations militaires aériennes et navales chinoises autour de Taïwan atteignent un niveau sans précédent depuis les déclarations de la Première ministre japonaise Takaichi, qui affirme que Tokyo serait impliqué si Pékin attaquait l'île. La Chine maintient une campagne de pression soutenue, et le sommet Xi-Trump des 13-15 mai n'a débouché sur aucun accord de désescalade.",
+      "source": "AEI",
+      "url": "https://www.aei.org/articles/china-taiwan-update-may-15-2026/"
+    },
+    {
+      "id": "n10",
+      "theme": "geopol",
+      "subtopic": "japon",
+      "importance": 1,
+      "short_title": "Japon : pivot défensif",
+      "title": "Le Japon accélère ses alliances régionales face à la pression chinoise",
+      "summary": "Face aux tensions avec Pékin, le Japon a participé pour la première fois comme membre actif aux exercices Balikatan en mer des Philippines, et s'est engagé à transférer des frégates aux Philippines et des navires de guerre à l'Australie. Ce pivot stratégique représente une rupture historique pour un pays longtemps contraint par sa constitution pacifiste.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/2/25/japan-to-install-missiles-near-taiwan-are-china-tensions-set-to-spike"
+    },
+    {
+      "id": "n11",
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Ukraine : trêve 3 jours",
+      "title": "Trêve Ukraine-Russie de 72h sous médiation Trump, paix toujours bloquée",
+      "summary": "Trump a négocié une trêve de 72 heures entre l'Ukraine et la Russie (9-11 mai), accompagnée d'un échange de 1000 prisonniers de chaque côté. Les négociations de paix durables restent bloquées sur le Donbass : Moscou exige le retrait ukrainien de zones non encore conquises militairement. Poutine a laissé entendre que la guerre approchait de sa fin, sans concession visible.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "design",
+      "theme": "climat",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Stitch: Figma perd 12 %",
-      "title": "Google Stitch fait chuter le cours de Figma de 12 % avec sa mise à jour canvas infini et voix",
-      "summary": "La mise à jour de mars 2026 de Google Stitch, introduisant un canvas infini et une interface vocale, a provoqué une chute immédiate du cours de Figma de 12 %, signe que le marché prend cette concurrence très au sérieux. Stitch s'impose dans le workflow vibe coding en amont : on explore le design avec Stitch, on affine dans Figma, puis on implémente avec Lovable ou Bolt. Ce mouvement s'inscrit dans une offensive plus large de Google pour s'emparer du workflow créatif des développeurs.",
-      "source": "NxCode",
-      "url": "https://www.nxcode.io/resources/news/vibe-design-tools-compared-stitch-v0-lovable-2026"
+      "short_title": "Hormuz : catalyseur vert",
+      "title": "Le choc pétrolier d'Hormuz accélère la transition vers les énergies propres",
+      "summary": "Le Forum économique mondial observe que la crise d'approvisionnement causée par la fermeture d'Hormuz peut paradoxalement accélérer la transition énergétique mondiale. Les gouvernements intensifient leurs politiques industrielles — crédits d'impôt, subventions, règles de contenu local — pour sécuriser leur indépendance énergétique. En 2026, deux tiers des investissements énergétiques mondiaux vont déjà vers le propre.",
+      "source": "World Economic Forum",
+      "url": "https://www.weforum.org/stories/2026/04/the-energy-crisis-could-also-be-an-opportunity-to-speed-the-transition-here-s-how/"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "learn",
+      "subtopic": "ai_tutorat",
       "importance": 2,
-      "short_title": "JV Anthropic $1.5B",
-      "title": "Anthropic forme une joint-venture de 1,5 milliard de dollars avec Blackstone, Goldman Sachs et H&F",
-      "summary": "Anthropic, Blackstone, Hellman & Friedman et Goldman Sachs ont lancé une entité commune de 1,5 milliard de dollars pour déployer Claude dans les centaines d'entreprises détenues par ces fonds de private equity. La structure est inédite : des ingénieurs Anthropic seront directement intégrés chez les portfolio companies pour reconfigurer leurs workflows autour de l'IA, combinant conseil et implémentation. Apollo, General Atlantic, GIC et Sequoia ont également rejoint le tour en tant qu'investisseurs fondateurs.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html"
+      "short_title": "OCDE : IA et pédagogie",
+      "title": "OCDE : l'IA en éducation efficace seulement si guidée par des principes pédagogiques",
+      "summary": "L'OCDE Digital Education Outlook 2026 conclut que l'IA générative peut soutenir l'apprentissage uniquement lorsqu'elle est encadrée par des principes pédagogiques clairs. Sans ce cadrage, les élèves qui délèguent les tâches à l'IA voient leurs performances progresser sans apprentissage réel. 92% des établissements d'enseignement supérieur utilisent désormais des outils IA, contre 41% en 2023.",
+      "source": "OECD",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
     },
     {
       "id": "n14",
       "theme": "learn",
-      "subtopic": "ai_education",
-      "importance": 2,
-      "short_title": "IA surpasse et engourdit",
-      "title": "Les tuteurs IA surpassent l'enseignement actif mais érodent la métacognition des élèves",
-      "summary": "Une RCT publiée dans Scientific Reports montre que les tuteurs IA bien conçus produisent des gains d'apprentissage significativement supérieurs à l'enseignement actif en classe, avec des effets de taille de 0,80 dans la dimension cognitive. Mais le rapport OCDE 2026 sur l'éducation numérique alerte : les apprenants assistés par IA montrent une réduction de l'auto-surveillance, une procrastination accrue et ce que les chercheurs nomment une «paresse métacognitive». L'enjeu pédagogique est de maintenir l'humain dans la boucle cognitive sans sacrifier la performance.",
+      "subtopic": "metacognition",
+      "importance": 1,
+      "short_title": "IA : paresse cognitive",
+      "title": "Les tuteurs IA induisent une 'paresse métacognitive' chez les apprenants",
+      "summary": "Des études publiées dans Scientific Reports montrent que les apprenants assistés par IA développent une réduction de l'auto-surveillance, une procrastination accrue et ce que les chercheurs nomment une 'paresse métacognitive'. Ce phénomène souligne la nécessité de concevoir les outils IA pédagogiques pour stimuler la régulation cognitive plutôt que la contourner.",
       "source": "Nature / Scientific Reports",
       "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
     {
       "id": "n15",
-      "theme": "sante",
+      "theme": "sciences",
       "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Longévité murine: percée",
-      "title": "Transfert d'un gène de longévité du rat-taupe nu vers la souris : durée de vie allongée de 4,4 %",
-      "summary": "Des chercheurs de l'Université de Rochester ont transféré un gène caractéristique du rat-taupe nu — espèce reconnue pour sa résistance exceptionnelle au cancer et au vieillissement — vers des souris ordinaires. Les souris modifiées ont vécu en meilleure santé et plus longtemps, avec une augmentation de 4,4 % de la durée de vie médiane et une nette réduction des marqueurs inflammatoires et cancéreux. C'est la première démonstration qu'un mécanisme de longévité interspécifique peut être transposé avec succès à un mammifère modèle.",
+      "importance": 2,
+      "short_title": "Gène HAS2 : vie +4%",
+      "title": "Transfert du gène de longévité du rat-taupe nu : +4,4% de durée de vie chez les souris",
+      "summary": "Des chercheurs de l'Université de Rochester ont transféré avec succès le gène HAS2 du rat-taupe nu — qui vit 41 ans, soit 10 fois plus qu'une souris ordinaire — dans des souris, augmentant leur durée de vie médiane de 4,4% et réduisant significativement l'inflammation liée à l'âge. C'est la première démonstration que des traits de longévité peuvent être transférés fonctionnellement entre espèces différentes.",
       "source": "ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
     },
@@ -171,33 +171,11 @@
       "theme": "sante",
       "subtopic": "longevite",
       "importance": 1,
-      "short_title": "NAD+ : hype vs science",
-      "title": "Suppléments NAD+ : l'enthousiasme commercial devance largement les preuves cliniques",
-      "summary": "Une enquête de NPR montre que les infusions et suppléments de NAD+ attirent célébrités et biohackers malgré l'absence de grandes études cliniques humaines concluantes. Les recherches sur modèles animaux sont prometteuses mais les bénéfices chez l'humain restent non établis à ce stade, et la FDA n'a pas formellement régulé ces produits. Le prix d'un traitement complet peut atteindre plusieurs milliers de dollars, créant un marché lucratif peu encadré.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science"
-    },
-    {
-      "id": "n17",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Climat: 1,5°C hors portée",
-      "title": "L'objectif 1,5°C est officiellement hors d'atteinte, l'UE prépare son cadre post-2030",
-      "summary": "Dix ans après l'Accord de Paris, il est désormais largement reconnu que l'objectif de 1,5°C est irréalisable, selon le rapport annuel de Resources for the Future : sécurité énergétique et compétitivité ont supplanté le climat comme priorités des gouvernements. En parallèle, la Commission européenne prépare son cadre climatique post-2030, avec un budget dédiant 35 % de ses 2 000 milliards d'euros aux objectifs verts — jugé insuffisant par les ONG. L'entrée de la Hongrie dans la dynamique européenne sous Magyar pourrait faciliter des accords plus ambitieux.",
-      "source": "Resources for the Future",
-      "url": "https://www.rff.org/publications/reports/global-energy-outlook-2026/"
-    },
-    {
-      "id": "n18",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Algue dépollue plastiques",
-      "title": "Des algues génétiquement modifiées éliminent 91 % des microplastiques de l'eau en une heure",
-      "summary": "Des chercheurs de l'Université du Missouri ont développé une souche d'algues modifiées qui produit du limonène, une huile aromatique qui attire et agglomère les microplastiques hydrophobes en amas facilement filtrables. Le système atteint un taux d'élimination de 91,4 % des microplastiques en une heure sous conditions contrôlées, tout en valorisant les eaux usées comme nutriments pour la croissance des algues. L'objectif est d'intégrer ce procédé aux stations d'épuration existantes et de recycler le plastique capturé en bioplastique.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213201.htm"
+      "short_title": "Le débat longévité pivote",
+      "title": "Longevity 2026 : la science passe de 'réparer' à 'coordonner' le vieillissement",
+      "summary": "La conférence Targeting Longevity 2026 marque un tournant conceptuel : plutôt que de traiter le vieillissement comme une accumulation d'erreurs moléculaires à corriger, les chercheurs proposent de préserver la coordination biologique systémique de l'organisme. Cette approche reconnaît le vieillissement comme un phénomène de désynchronisation entre systèmes, ouvrant la voie à des thérapies ciblant les mécanismes de régulation plutôt que les symptômes.",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1116021"
     }
   ],
   "edges": [
@@ -205,67 +183,67 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "Le rejet par Trump de la contre-proposition iranienne prive les négociateurs de toute base de compromis, prolongeant mécaniquement le blocus militaire du Détroit de Hormuz sans perspective de résolution à court terme."
+      "explanation": "L'impasse diplomatique irano-américaine maintient la fermeture effective du détroit d'Hormuz, soutenant le Brent au-dessus de 105$/baril et bloquant 14 Mb/j de pétrole du marché mondial."
     },
     {
       "source": "n02",
-      "target": "n05",
+      "target": "n04",
       "type": "cause",
-      "explanation": "Le Détroit de Hormuz étant le passage d'environ 20 % du pétrole mondial, son blocage maintient une contrainte sévère côté offre qui propulse le Brent au-dessus de 100 dollars et le maintient à ces niveaux malgré la contraction de la demande."
+      "explanation": "Le choc pétrolier issu de la fermeture d'Hormuz alimente une inflation persistante aux États-Unis, contraignant la Fed à geler ses taux malgré les pressions politiques en faveur d'une baisse."
+    },
+    {
+      "source": "n04",
+      "target": "n03",
+      "type": "meme_sujet",
+      "explanation": "Les dissidences records à la Fed illustrent exactement le contexte de tensions politiques sur la politique monétaire que la confirmation de Warsh — favorable aux baisses — est censée résoudre."
+    },
+    {
+      "source": "n02",
+      "target": "n12",
+      "type": "cause",
+      "explanation": "La rupture inédite des approvisionnements pétroliers expose la dépendance structurelle aux fossiles et accélère les politiques industrielles gouvernementales en faveur des énergies renouvelables."
     },
     {
       "source": "n05",
       "target": "n06",
       "type": "cause",
-      "explanation": "La flambée des prix pétroliers réactive les craintes d'inflation importée aux États-Unis, poussant les investisseurs obligataires à vendre des Treasuries et faisant monter les rendements à leur plus haut niveau depuis un an."
-    },
-    {
-      "source": "n06",
-      "target": "n08",
-      "type": "cause",
-      "explanation": "Des rendements à 10 ans à 4,55 % signalent que les marchés obligataires anticipent que la Fed devra relever ses taux pour contenir une inflation désormais portée par le choc énergétique, renversant le scénario de baisse de taux dominant en début d'année."
+      "explanation": "La révélation par Mythos de milliers de failles zero-day dans les infrastructures critiques mondiales a directement motivé l'accord de supervision pré-déploiement imposé aux grands labs IA par le gouvernement américain."
     },
     {
       "source": "n07",
-      "target": "n05",
+      "target": "n08",
+      "type": "cause",
+      "explanation": "L'essor du vibe coding industrialisé génère massivement du code non audité — dont 45% contient des vulnérabilités — élargissant la surface d'attaque à l'échelle de l'industrie."
+    },
+    {
+      "source": "n05",
+      "target": "n08",
       "type": "tension",
-      "explanation": "L'AIE prédit une forte contraction de la demande pétrolière au T2, ce qui devrait logiquement faire baisser les prix ; mais la perturbation de l'offre au Détroit de Hormuz neutralise cet effet baissier, illustrant un découplage prix/demande atypique caractéristique des chocs géopolitiques."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "La déstabilisation régionale provoquée par le conflit irano-américain pousse les puissances du Golfe et leurs partenaires à consolider des alliances défensives pour prévenir une escalade qui menacerait leurs intérêts énergétiques et commerciaux."
-    },
-    {
-      "source": "n04",
-      "target": "n17",
-      "type": "cause",
-      "explanation": "Le retour de la Hongrie dans l'orbite pro-européenne sous Magyar lève le principal veto interne à l'UE sur les décisions climatiques ambitieuses, rendant un accord post-2030 plus solide politiquement et débloquant des négociations qui stagnaieint depuis des années."
+      "explanation": "Mythos démontre que l'IA peut identifier et corriger des failles à grande échelle, mais les outils de vibe coding en créent simultanément de nouvelles — une course entre défenseurs IA et surface d'attaque IA-générée."
     },
     {
       "source": "n09",
       "target": "n10",
       "type": "cause",
-      "explanation": "L'injection immédiate de 10 milliards de dollars par Google accélère le pipeline de R&D d'Anthropic et permet de déployer simultanément Opus 4.7, Claude Design et la plateforme AWS sur un cycle de développement plus court."
+      "explanation": "La pression militaire chinoise croissante autour de Taïwan et les déclarations de Takaichi poussent le Japon à accélérer la construction d'un réseau d'alliances défensives avec les Philippines et l'Australie."
     },
     {
-      "source": "n09",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "L'investissement de Google et le JV avec Blackstone/Goldman sont deux facettes du même phénomène : une vague de capital institutionnel massif qui converge vers Anthropic pour s'assurer un accès stratégique au modèle d'IA considéré comme le plus capable sur les tâches entreprise."
+      "source": "n13",
+      "target": "n14",
+      "type": "cause",
+      "explanation": "L'adoption massive de tuteurs IA sans cadre pédagogique solide, documentée par l'OCDE, est directement liée au développement de la 'paresse métacognitive' observée dans les études comportementales."
     },
     {
-      "source": "n12",
+      "source": "n01",
       "target": "n11",
-      "type": "tension",
-      "explanation": "Google Stitch attaque directement le segment design-to-code là où Cursor domine le coding en IDE ; les deux outils convergent vers le même workflow vibe coding frontend, forçant chacun à différencier son offre pour ne pas se marcher dessus."
+      "type": "meme_sujet",
+      "explanation": "Les négociations Iran-USA et Ukraine-Russie sont toutes deux conduites sous médiation américaine de Trump simultanément, révélant une stratégie de désengagement diplomatique parallèle sur plusieurs fronts."
     },
     {
       "source": "n15",
       "target": "n16",
-      "type": "tension",
-      "explanation": "La preuve expérimentale sur un mécanisme biologique précis de longévité contraste avec les allégations des suppléments NAD+ largement commercialisés sans validation clinique robuste, révélant le fossé béant entre la recherche fondamentale et l'industrie du bien-être."
+      "type": "meme_sujet",
+      "explanation": "Le transfert du gène HAS2 et le nouveau paradigme 'coordination vs réparation' s'inscrivent dans la même révolution scientifique de la longévité systémique, passant du moléculaire vers le systémique."
     }
   ]
 }

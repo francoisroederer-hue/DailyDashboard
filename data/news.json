@@ -1,249 +1,277 @@
 {
-  "generated_at": "2026-05-17T06:00:00Z",
+  "generated_at": "2026-05-18T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran-US : trêve moribonde",
-      "title": "Négociations Iran-USA en impasse, cessez-le-feu sous pression",
-      "summary": "Après les frappes américano-israéliennes du 28 février et une trêve fragile conclue en avril, les négociations sur le nucléaire iranien sont dans une impasse profonde. Trump a qualifié la réponse de Téhéran de 'totalement inacceptable' et le cessez-le-feu d'être 'en soins intensifs'. L'Iran a posé un ultimatum à 14 points : accepter ses conditions ou faire face à 'l'échec'.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/05/11/world/live-news/iran-war-proposal-trump"
+      "short_title": "Détroit Hormuz bloqué",
+      "title": "Le détroit de Hormuz reste effectivement fermé au commerce maritime",
+      "summary": "Depuis fin février 2026, le détroit de Hormuz est pratiquement fermé suite au déclenchement du conflit USA/Israël contre l'Iran et à l'assassinat du guide suprême Khamenei. L'Iran contrôle le transit et exige plus d'un million de dollars par navire, tandis qu'un double blocus américano-iranien immobilise 20% des échanges pétroliers mondiaux. Un cessez-le-feu conditionnel est en place depuis début avril, mais aucun navire commercial ne transite encore normalement.",
+      "source": "OPB",
+      "url": "https://www.opb.org/article/2026/05/07/these-numbers-show-the-global-impact-of-iran-s-grip-on-the-strait-of-hormuz/"
     },
     {
       "id": "n02",
-      "theme": "finance",
+      "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz : pétrole >$105",
-      "title": "Brent au-dessus de 105$ : le détroit d'Hormuz toujours bloqué",
-      "summary": "Malgré le cessez-le-feu formel d'avril, le détroit d'Hormuz reste de facto fermé, provoquant selon l'AIE la plus grande rupture d'approvisionnement pétrolier de l'histoire avec plus de 14 millions de barils par jour bloqués. Le Brent s'établit autour de 107$/baril mi-mai et les pertes cumulées dépassent 1 milliard de barils. Les perturbations continuent d'alimenter une volatilité extrême des marchés énergétiques.",
-      "source": "IEA",
-      "url": "https://www.iea.org/reports/oil-market-report-may-2026"
+      "short_title": "Cessez-le-feu en péril",
+      "title": "Trump rejette la proposition iranienne : le cessez-le-feu est 'sous assistance respiratoire'",
+      "summary": "Le président Trump a qualifié le cessez-le-feu d'Iran de 'sous assistance respiratoire' après avoir rejeté la dernière proposition de Téhéran, jugée insuffisante sur le dossier nucléaire. L'Iran refuse toute limite permanente à son programme d'enrichissement d'uranium, tandis que Washington exige le démantèlement du stock existant. Xi Jinping aurait proposé une médiation chinoise pour sortir de l'impasse.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Warsh : nouveau chef Fed",
-      "title": "Kevin Warsh confirmé président de la Fed par le Sénat (54-45)",
-      "summary": "Le Sénat américain a confirmé Kevin Warsh à la tête de la Réserve fédérale dans le vote le plus serré de l'ère moderne, quasi unanimement partisan. Warsh succède à Jerome Powell dont le mandat a expiré le 15 mai et devrait orienter la politique monétaire vers deux baisses de taux dans la seconde moitié de 2026, visant un taux neutre autour de 3%, dans le sens souhaité par Trump.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html"
+      "short_title": "Brent à 110$ le baril",
+      "title": "Le Brent se stabilise autour de 110$/baril après un pic à 138$ début avril",
+      "summary": "Le pétrole Brent a culminé à 138$ le 7 avril au plus fort de la panique sur l'offre, avant de se stabiliser à 110$/baril mi-mai sur l'espoir d'une trêve fragile. L'AIE avertit que le marché mondial restera structurellement en déficit — inventaires en chute de 8,5 Mb/j au T2 — jusqu'en octobre même si le conflit se résout prochainement. La volatilité implicite atteint 78% en moyenne depuis le début de la crise, un niveau record.",
+      "source": "Fortune / EIA",
+      "url": "https://fortune.com/article/price-of-oil-05-13-2026/"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Fed : taux bloqués, Iran",
-      "title": "La Fed maintient ses taux, dissidences records liées au choc Iran",
-      "summary": "En avril, la Fed a enregistré le plus grand nombre de dissidences internes depuis 34 ans, les taux restant figés entre 3,5 et 3,75%. Le choc pétrolier issu de la crise d'Hormuz alimente une inflation tenace, rendant toute baisse de taux politiquement risquée malgré les pressions de la Maison Blanche. Trois membres refusaient d'inclure un biais accommodant dans la déclaration finale.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/04/29/fed-powell-interest-rates"
+      "short_title": "BC entre pétrole et crise",
+      "title": "Les banques centrales tétanisées entre inflation pétrolière et risque récessif",
+      "summary": "La BCE maintient une posture attentiste malgré les signes de ralentissement, la RBA a relevé ses taux de 25 pb à 4,35% en réponse à l'inflation importée, et la BoJ a conservé son taux à 0,75% avec trois dissidents favorables à une hausse — le plus grand nombre depuis janvier 2016. La plupart des banques centrales des marchés émergents devraient suivre la Fed dans une politique de pause prolongée, piégées entre inflation énergétique et risque de récession.",
+      "source": "PIIE",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/amid-wartime-disruptions-most-emerging-market-central-banks-will"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Mythos : failles zero-day",
-      "title": "Claude Mythos d'Anthropic : des milliers de failles zero-day découvertes",
-      "summary": "Anthropic a présenté Mythos Preview, un modèle d'IA généraliste capable d'identifier de manière autonome des milliers de vulnérabilités zero-day dans les principaux OS et navigateurs, dont une faille vieille de 17 ans dans FreeBSD. La société ne le diffuse pas publiquement et a formé le Project Glasswing — une coalition d'Apple, AWS, Microsoft, Google et 40 autres organisations — pour patcher les vulnérabilités avant que des acteurs adverses ne développent des capacités comparables.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/04/07/anthropic-claude-mythos-model-project-glasswing-cybersecurity/"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 2,
+      "short_title": "Risque récession ignoré",
+      "title": "Les marchés 'somnambules' ignorent le risque de récession induit par le choc pétrolier",
+      "summary": "Selon CNBC, les marchés font preuve d'une 'euphorie mal placée' en ignorant les signaux récessifs — consommation sous pression, marges comprimées et demande mondiale en recul — déclenchés par le choc pétrolier iranien. Les économistes rappellent que les effets récessifs des chocs pétroliers se matérialisent avec 6 à 12 mois de décalage, ce que les marchés actions continuent de sous-estimer dans leur valorisation actuelle.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/04/strait-hormuz-gas-price-oil-shock-recession-risk-economy-iran-us-war.html"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "usa",
+      "theme": "climat",
+      "subtopic": "transition",
       "importance": 2,
-      "short_title": "Accord US : IA supervisée",
-      "title": "Microsoft, Google et xAI acceptent la supervision fédérale pré-déploiement des modèles IA",
-      "summary": "Microsoft, Google et xAI ont accepté de donner au gouvernement américain un accès anticipé à leurs modèles frontières pour évaluation par le centre NIST-CAISI. Les tests couvrent les capacités de piratage, les détournements militaires et les comportements émergents inattendus. Cet accord marque un tournant dans la gouvernance de l'IA aux États-Unis, dans un contexte de course aux capacités cybersécurité entre puissances.",
-      "source": "CNN Business",
-      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models"
+      "short_title": "Guerre accélère les ENR",
+      "title": "La crise énergétique 'supercharge' paradoxalement la transition vers les renouvelables",
+      "summary": "Le chef de l'AIE parle de la 'plus grande crise énergétique de l'histoire', mais le secrétaire général de l'ONU Climat Simon Stiell estime que le conflit accélère paradoxalement l'abandon des fossiles en rendant la dépendance aux hydrocarbures politiquement intenable. Plus de 50 pays se sont réunis en Colombie pour une réunion inédite dédiée à coordonner des mesures commerciales visant à réduire structurellement la demande de combustibles fossiles.",
+      "source": "WEF",
+      "url": "https://www.weforum.org/stories/2026/05/world-facing-biggest-ever-energy-crisis-and-more-top-energy-stories/"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Cursor : 2 Mds$ ARR",
-      "title": "Cursor atteint 2 milliards de dollars de revenus annuels, le vibe coding s'impose",
-      "summary": "L'éditeur de code IA Cursor a franchi le cap des 2 Mds$ d'ARR début 2026, confirmant l'essor du vibe coding dans le développement professionnel. Son mode Agent permet à l'IA de modifier plusieurs fichiers simultanément depuis une seule instruction, et son nouveau Design Mode cible les développeurs front-end. 72% des développeurs utilisent désormais des outils IA quotidiennement et 41% du code mondial est généré par IA.",
-      "source": "DEV Community",
-      "url": "https://dev.to/pooyagolchian/vibe-coding-in-2026-92b-cursor-92-humaneval-and-the-end-of-boilerplate-161h"
+      "short_title": "EU bloque tech solaire CN",
+      "title": "L'UE exclut les onduleurs chinois (Huawei, Sungrow) des financements européens pour l'énergie",
+      "summary": "Depuis le 1er mai, Bruxelles interdit d'utiliser les fonds européens — incluant la BEI — pour des projets d'énergie renouvelable ou de stockage intégrant des onduleurs de fournisseurs 'à haut risque', ciblant principalement Huawei et Sungrow. La mesure est justifiée par des risques de cybersécurité et intervient alors que les onduleurs chinois représentent 61% du marché européen des importations. Pékin a officiellement protesté contre cette décision.",
+      "source": "ESS News",
+      "url": "https://www.ess-news.com/2026/05/04/eu-funding-ban-on-high-risk-inverters-including-chinese-suppliers-extends-to-bess-pcs/"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Vibe coding : code risqué",
-      "title": "45% du code généré par IA contient des vulnérabilités de sécurité",
-      "summary": "L'explosion du vibe coding crée une surface d'attaque croissante : 45% du code généré automatiquement présente des failles de sécurité selon des analyses récentes de l'industrie. Les outils comme Cursor peuvent produire du code redondant, non conforme aux bonnes pratiques et porteur de dette technique, avec des risques amplifiés à l'échelle de l'industrie entière.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/04/02/cursor-refreshes-vibe-coding-platform-focus-ai-agents/"
+      "theme": "climat",
+      "subtopic": "chine",
+      "importance": 2,
+      "short_title": "Chine, 11% PIB en ENR",
+      "title": "L'énergie propre représente 11,4% du PIB chinois : la Chine domine la transition mondiale",
+      "summary": "Les secteurs d'énergie propre — solaire, éolien, véhicules électriques et batteries — ont contribué 15 400 milliards de yuans (2 100 Md$) à l'économie chinoise en 2025, soit 11,4% du PIB national. La capacité solaire installée a bondi de 35% à 1 200 GW, dépassant pour la première fois en Chine la capacité charbon. Avec deux tiers des 2 100 Md$ investis mondialement dans la transition énergétique en 2024, la Chine creuse l'écart sur ses concurrents.",
+      "source": "Time / Carbon Brief",
+      "url": "https://time.com/7265783/how-china-is-boosting-renewable-energy-goals/"
     },
     {
       "id": "n09",
-      "theme": "geopol",
-      "subtopic": "japon",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Taïwan : PLA à son comble",
-      "title": "Escalade militaire chinoise record autour de Taïwan, Japon en ligne de mire",
-      "summary": "Les opérations militaires aériennes et navales chinoises autour de Taïwan atteignent un niveau sans précédent depuis les déclarations de la Première ministre japonaise Takaichi, qui affirme que Tokyo serait impliqué si Pékin attaquait l'île. La Chine maintient une campagne de pression soutenue, et le sommet Xi-Trump des 13-15 mai n'a débouché sur aucun accord de désescalade.",
-      "source": "AEI",
-      "url": "https://www.aei.org/articles/china-taiwan-update-may-15-2026/"
+      "short_title": "Claude Design & agents IA",
+      "title": "Anthropic lance Claude Design et accélère l'infrastructure agents à Code with Claude 2026",
+      "summary": "Lors de son événement Code with Claude 2026, Anthropic a mis l'accent sur l'infrastructure d'agents plutôt que sur un nouveau modèle : lancement de Claude Design (création visuelle collaborative), beta étendue des agents autonomes capables de coordonner des sous-agents, et lancement de Claude pour les PME. Anthropic aurait atteint 30 Md$ d'ARR en avril 2026, avec huit des dix premières entreprises du Fortune 10 comme clients de Claude.",
+      "source": "MindStudio",
+      "url": "https://www.mindstudio.ai/blog/code-with-claude-2026-new-agent-features"
     },
     {
       "id": "n10",
-      "theme": "geopol",
-      "subtopic": "japon",
-      "importance": 1,
-      "short_title": "Japon : pivot défensif",
-      "title": "Le Japon accélère ses alliances régionales face à la pression chinoise",
-      "summary": "Face aux tensions avec Pékin, le Japon a participé pour la première fois comme membre actif aux exercices Balikatan en mer des Philippines, et s'est engagé à transférer des frégates aux Philippines et des navires de guerre à l'Australie. Ce pivot stratégique représente une rupture historique pour un pays longtemps contraint par sa constitution pacifiste.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/2/25/japan-to-install-missiles-near-taiwan-are-china-tensions-set-to-spike"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Opus 4.7 vs GPT-5.5",
+      "title": "Claude Opus 4.7 et GPT-5.5 dominent des niches distinctes — aucun ne s'impose universellement",
+      "summary": "Claude Opus 4.7 (lancé le 16 avril) surpasse GPT-5.5 sur les benchmarks de code — SWE-bench Pro à 64,3% contre 58,6% — tandis que GPT-5.5 (23 avril) est nativement omnimodal et 72% plus efficace en tokens sur des tâches équivalentes. Aucun modèle ne domine l'ensemble des cas d'usage : Claude excelle en ingénierie logicielle, GPT-5.5 prend la tête sur les workflows agentiques et Terminal-Bench. Cette fragmentation des cas d'usage phares marque une nouvelle maturité du marché des LLM.",
+      "source": "MindStudio / DataCamp",
+      "url": "https://www.mindstudio.ai/blog/gpt-55-vs-claude-opus-47-coding-comparison"
     },
     {
       "id": "n11",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Ukraine : trêve 3 jours",
-      "title": "Trêve Ukraine-Russie de 72h sous médiation Trump, paix toujours bloquée",
-      "summary": "Trump a négocié une trêve de 72 heures entre l'Ukraine et la Russie (9-11 mai), accompagnée d'un échange de 1000 prisonniers de chaque côté. Les négociations de paix durables restent bloquées sur le Donbass : Moscou exige le retrait ukrainien de zones non encore conquises militairement. Poutine a laissé entendre que la guerre approchait de sa fin, sans concession visible.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war"
+      "short_title": "Cursor atteint 1Md$ ARR",
+      "title": "Cursor franchit 1 milliard de dollars d'ARR, le marché du vibe coding pèse 4,7 Md$",
+      "summary": "Cursor, l'IDE IA pour développeurs professionnels, a franchi la barre du milliard de dollars d'ARR avec moins de 50 employés, s'imposant comme l'outil de référence des équipes tech. Le marché global du vibe coding atteint 4,7 Md$ en 2026 avec 63% d'utilisateurs non développeurs, et Lovable dépasse 400 M$ d'ARR en 18 mois. YCombinator note que plus de 25% de ses startups ont des bases de code générées à 95% par IA.",
+      "source": "index.dev",
+      "url": "https://www.index.dev/blog/vibe-coding-tools"
     },
     {
       "id": "n12",
-      "theme": "climat",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Hormuz : catalyseur vert",
-      "title": "Le choc pétrolier d'Hormuz accélère la transition vers les énergies propres",
-      "summary": "Le Forum économique mondial observe que la crise d'approvisionnement causée par la fermeture d'Hormuz peut paradoxalement accélérer la transition énergétique mondiale. Les gouvernements intensifient leurs politiques industrielles — crédits d'impôt, subventions, règles de contenu local — pour sécuriser leur indépendance énergétique. En 2026, deux tiers des investissements énergétiques mondiaux vont déjà vers le propre.",
-      "source": "World Economic Forum",
-      "url": "https://www.weforum.org/stories/2026/04/the-energy-crisis-could-also-be-an-opportunity-to-speed-the-transition-here-s-how/"
-    },
-    {
-      "id": "n13",
       "theme": "learn",
-      "subtopic": "ai_tutorat",
-      "importance": 2,
-      "short_title": "OCDE : IA et pédagogie",
-      "title": "OCDE : l'IA en éducation efficace seulement si guidée par des principes pédagogiques",
-      "summary": "L'OCDE Digital Education Outlook 2026 conclut que l'IA générative peut soutenir l'apprentissage uniquement lorsqu'elle est encadrée par des principes pédagogiques clairs. Sans ce cadrage, les élèves qui délèguent les tâches à l'IA voient leurs performances progresser sans apprentissage réel. 92% des établissements d'enseignement supérieur utilisent désormais des outils IA, contre 41% en 2023.",
-      "source": "OECD",
-      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
-    },
-    {
-      "id": "n14",
-      "theme": "learn",
-      "subtopic": "metacognition",
-      "importance": 1,
-      "short_title": "IA : paresse cognitive",
-      "title": "Les tuteurs IA induisent une 'paresse métacognitive' chez les apprenants",
-      "summary": "Des études publiées dans Scientific Reports montrent que les apprenants assistés par IA développent une réduction de l'auto-surveillance, une procrastination accrue et ce que les chercheurs nomment une 'paresse métacognitive'. Ce phénomène souligne la nécessité de concevoir les outils IA pédagogiques pour stimuler la régulation cognitive plutôt que la contourner.",
+      "subtopic": "tutorat_ia",
+      "importance": 3,
+      "short_title": "IA > apprentissage actif",
+      "title": "RCT dans Scientific Reports : le tutorat IA surpasse l'enseignement actif mais génère une 'paresse métacognitive'",
+      "summary": "Une étude randomisée contrôlée démontre que les apprenants tutorés par IA progressent significativement plus vite et se déclarent plus motivés que leurs pairs en apprentissage actif traditionnel. Revers de la médaille : ces mêmes apprenants montrent une réduction du suivi de leurs propres progrès, une procrastination accrue et ce que les auteurs nomment une 'paresse métacognitive' — une délégation silencieuse du contrôle de l'apprentissage à la machine. L'étude appelle à repenser les dispositifs pédagogiques pour préserver l'autonomie des apprenants sur le long terme.",
       "source": "Nature / Scientific Reports",
       "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
     {
+      "id": "n13",
+      "theme": "learn",
+      "subtopic": "politique_educ",
+      "importance": 2,
+      "short_title": "OCDE : IA pédagogique",
+      "title": "L'OCDE publie son panorama éducation numérique 2026 : l'IA générative aide si elle est guidée",
+      "summary": "Le rapport OCDE Digital Education Outlook 2026 confirme que l'IA générative améliore les apprentissages lorsqu'elle est intégrée avec un objectif pédagogique clair et dans des scénarios collaboratifs. En trois ans, l'adoption des outils IA dans l'enseignement supérieur est passée de 41% à 92% des établissements. L'université d'État de Washington a adopté une politique 'AI-Positive' avec trois niveaux d'usage standardisés, abandonnant définitivement le modèle 'détecter et punir'.",
+      "source": "OCDE",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
+    },
+    {
+      "id": "n14",
+      "theme": "sante",
+      "subtopic": "glp1",
+      "importance": 2,
+      "short_title": "Wegovy pilule : FDA go",
+      "title": "La FDA approuve la première pilule GLP-1 pour la perte de poids : le Wegovy oral",
+      "summary": "La FDA a approuvé la version orale du semaglutide, première pilule GLP-1 autorisée pour la perte de poids aux États-Unis. Les essais de phase 3 montrent une perte de poids de 16,6% en 64 semaines contre 2,7% sous placebo — résultat comparable à la version injectable. Cette approbation élargit considérablement l'accès au traitement en supprimant la barrière de l'injection hebdomadaire pour des millions de patients.",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/wegovy-pill-becomes-first-oral-glp-1-weight-loss-drug-approved-in-u-s/"
+    },
+    {
       "id": "n15",
+      "theme": "sante",
+      "subtopic": "glp1",
+      "importance": 2,
+      "short_title": "Ozempic : -44% dépression",
+      "title": "Le semaglutide réduit de 44% le risque de dépression et de 47% les troubles liés aux addictions",
+      "summary": "Une étude suédoise de grande envergure montre que pendant les périodes de prise de semaglutide, les hospitalisations psychiatriques et les arrêts maladie pour dépression chutent de 44%, et de 47% pour les troubles liés aux substances. Ces bénéfices sur la santé mentale semblent indépendants de la perte de poids, suggérant une action directe des GLP-1 sur les circuits de la récompense cérébrale. Environ 10% des patients présentent une résistance génétique expliquant la variabilité d'efficacité observée.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502233924.htm"
+    },
+    {
+      "id": "n16",
       "theme": "sciences",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Gène HAS2 : vie +4%",
-      "title": "Transfert du gène de longévité du rat-taupe nu : +4,4% de durée de vie chez les souris",
-      "summary": "Des chercheurs de l'Université de Rochester ont transféré avec succès le gène HAS2 du rat-taupe nu — qui vit 41 ans, soit 10 fois plus qu'une souris ordinaire — dans des souris, augmentant leur durée de vie médiane de 4,4% et réduisant significativement l'inflammation liée à l'âge. C'est la première démonstration que des traits de longévité peuvent être transférés fonctionnellement entre espèces différentes.",
+      "short_title": "Gène longévité souris",
+      "title": "L'Université de Rochester transfère un gène de longévité du rat-taupe nu vers la souris",
+      "summary": "Des chercheurs ont réussi à transférer le gène codant pour l'acide hyaluronique de haut poids moléculaire (HMW-HA) du rat-taupe nu — mammifère à la longévité exceptionnelle — dans des souris ordinaires. Les souris modifiées vivent en meilleure santé et ont une durée de vie médiane allongée d'environ 4,4%, avec une réduction des tumeurs et de l'inflammation. L'étude identifie le HMW-HA comme un mécanisme protecteur évolutif potentiellement transposable à l'humain.",
       "source": "ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
     },
     {
-      "id": "n16",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "id": "n17",
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 2,
+      "short_title": "Prime editing en clinique",
+      "title": "Le prime editing entre en phase de validation humaine pour de multiples pathologies graves",
+      "summary": "Le prime editing — technique d'édition génomique 'rechercher-remplacer' avec moins d'effets hors-cible que le CRISPR classique — entre en 2026 dans une phase d'essais cliniques humains multi-pathologies. En parallèle, des essais CAR-T in vivo d'Interius BioTherapeutics et Kelonia Therapeutics (myélome multiple, phase 1 en Australie) explorent la fabrication de thérapies cellulaires directement dans le corps du patient. Ces deux approches convergent vers une médecine de précision curative à moindre lourdeur hospitalière.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
+    },
+    {
+      "id": "n18",
+      "theme": "climat",
+      "subtopic": "fossiles",
       "importance": 1,
-      "short_title": "Le débat longévité pivote",
-      "title": "Longevity 2026 : la science passe de 'réparer' à 'coordonner' le vieillissement",
-      "summary": "La conférence Targeting Longevity 2026 marque un tournant conceptuel : plutôt que de traiter le vieillissement comme une accumulation d'erreurs moléculaires à corriger, les chercheurs proposent de préserver la coordination biologique systémique de l'organisme. Cette approche reconnaît le vieillissement comme un phénomène de désynchronisation entre systèmes, ouvrant la voie à des thérapies ciblant les mécanismes de régulation plutôt que les symptômes.",
-      "source": "EurekAlert",
-      "url": "https://www.eurekalert.org/news-releases/1116021"
+      "short_title": "50 pays contre fossiles",
+      "title": "Réunion inédite en Colombie : plus de 50 pays s'accordent sur des mesures anti-demande fossiles",
+      "summary": "Plus de cinquante nations se sont réunies en Colombie pour la première conférence dédiée exclusivement à la réduction de la demande en combustibles fossiles via des instruments commerciaux — une première dans l'histoire de la diplomatie climatique. L'initiative intervient dans le contexte de la crise énergétique liée au conflit iranien, qui a brutalement mis en lumière les risques systémiques de la dépendance mondiale aux hydrocarbures importés.",
+      "source": "WEF",
+      "url": "https://www.weforum.org/stories/2026/04/the-energy-crisis-could-also-be-an-opportunity-to-speed-the-transition-here-s-how/"
     }
   ],
   "edges": [
     {
-      "source": "n01",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "L'impasse diplomatique irano-américaine maintient la fermeture effective du détroit d'Hormuz, soutenant le Brent au-dessus de 105$/baril et bloquant 14 Mb/j de pétrole du marché mondial."
+      "source": "n02",
+      "target": "n01",
+      "type": "meme_sujet",
+      "explanation": "L'impasse des négociations nucléaires et le rejet américain des propositions iraniennes maintiennent le contexte de guerre active, ce qui empêche directement la réouverture du détroit de Hormuz — les deux événements sont les deux faces du même blocage diplomatico-militaire."
     },
     {
-      "source": "n02",
+      "source": "n01",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "Le blocage du détroit prive les marchés de 20% du commerce pétrolier mondial, créant une pénurie structurelle qui pousse le Brent au-dessus de 110$/baril et alimente une volatilité record sur les marchés de l'énergie."
+    },
+    {
+      "source": "n03",
       "target": "n04",
       "type": "cause",
-      "explanation": "Le choc pétrolier issu de la fermeture d'Hormuz alimente une inflation persistante aux États-Unis, contraignant la Fed à geler ses taux malgré les pressions politiques en faveur d'une baisse."
+      "explanation": "La flambée pétrolière réinjecte de l'inflation importée dans les économies développées au moment où la croissance ralentit, plaçant les banques centrales dans l'impossibilité d'abaisser les taux sans risquer une résurgence inflationniste."
     },
     {
       "source": "n04",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Les dissidences records à la Fed illustrent exactement le contexte de tensions politiques sur la politique monétaire que la confirmation de Warsh — favorable aux baisses — est censée résoudre."
-    },
-    {
-      "source": "n02",
-      "target": "n12",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La rupture inédite des approvisionnements pétroliers expose la dépendance structurelle aux fossiles et accélère les politiques industrielles gouvernementales en faveur des énergies renouvelables."
+      "explanation": "Des banques centrales figées qui ne peuvent ni monter ni baisser les taux laissent la croissance se contracter sans stimulus disponible, alimentant des projections de récession que les marchés actions continuent d'ignorer dans leur valorisation."
     },
     {
-      "source": "n05",
+      "source": "n03",
       "target": "n06",
       "type": "cause",
-      "explanation": "La révélation par Mythos de milliers de failles zero-day dans les infrastructures critiques mondiales a directement motivé l'accord de supervision pré-déploiement imposé aux grands labs IA par le gouvernement américain."
+      "explanation": "Le choc pétrolier rend politiquement intenable la dépendance structurelle aux hydrocarbures importés, créant une urgence qui accélère paradoxalement les investissements dans les énergies renouvelables — une dynamique déjà observée après 1973 et 2022."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "L'accélération forcée de la transition révèle qu'une grande partie de la chaîne d'approvisionnement solaire européenne est externalisée vers la Chine : Bruxelles répond en excluant les composants à haut risque des financements publics pour reprendre le contrôle de sa souveraineté énergétique."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "cause",
-      "explanation": "L'essor du vibe coding industrialisé génère massivement du code non audité — dont 45% contient des vulnérabilités — élargissant la surface d'attaque à l'échelle de l'industrie."
-    },
-    {
-      "source": "n05",
-      "target": "n08",
       "type": "tension",
-      "explanation": "Mythos démontre que l'IA peut identifier et corriger des failles à grande échelle, mais les outils de vibe coding en créent simultanément de nouvelles — une course entre défenseurs IA et surface d'attaque IA-générée."
+      "explanation": "L'UE restreint les équipements solaires chinois au moment précis où la Chine consolide son leadership mondial dans les énergies propres, révélant une rivalité géopolitique croissante sur le contrôle des technologies critiques de la décarbonation mondiale."
     },
     {
       "source": "n09",
       "target": "n10",
-      "type": "cause",
-      "explanation": "La pression militaire chinoise croissante autour de Taïwan et les déclarations de Takaichi poussent le Japon à accélérer la construction d'un réseau d'alliances défensives avec les Philippines et l'Australie."
+      "type": "meme_sujet",
+      "explanation": "Anthropic et OpenAI ont tous deux lancé leurs modèles phares et nouvelles offres en l'espace de quelques semaines en avril-mai 2026, illustrant la même dynamique de course à la frontière capacitaire de l'IA générative."
     },
     {
-      "source": "n13",
-      "target": "n14",
-      "type": "cause",
-      "explanation": "L'adoption massive de tuteurs IA sans cadre pédagogique solide, documentée par l'OCDE, est directement liée au développement de la 'paresse métacognitive' observée dans les études comportementales."
-    },
-    {
-      "source": "n01",
+      "source": "n10",
       "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "Les négociations Iran-USA et Ukraine-Russie sont toutes deux conduites sous médiation américaine de Trump simultanément, révélant une stratégie de désengagement diplomatique parallèle sur plusieurs fronts."
+      "type": "cause",
+      "explanation": "L'amélioration rapide des modèles de codage IA abaisse la barrière technique du développement logiciel et alimente directement l'explosion des outils vibe coding : la croissance de Cursor suit de près celle des capacités des modèles sous-jacents comme Claude Opus 4.7."
     },
     {
-      "source": "n15",
-      "target": "n16",
+      "source": "n12",
+      "target": "n13",
+      "type": "tension",
+      "explanation": "Le RCT démontre l'efficacité supérieure du tutorat IA mais identifie un risque de 'paresse métacognitive', tandis que l'OCDE plaide pour des usages guidés par des principes pédagogiques — les deux positions révèlent la même tension fondamentale entre gains d'efficacité à court terme et autonomie durable de l'apprenant."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Le transfert du gène HAS2 et le nouveau paradigme 'coordination vs réparation' s'inscrivent dans la même révolution scientifique de la longévité systémique, passant du moléculaire vers le systémique."
+      "explanation": "La pilule orale approuvée et les bénéfices psychiatriques documentés révèlent ensemble l'étendue systémique des effets des GLP-1 : ces deux news redéfinissent la classe thérapeutique bien au-delà de la simple perte de poids vers le métabolisme cérébral et la santé mentale."
+    },
+    {
+      "source": "n16",
+      "target": "n17",
+      "type": "meme_sujet",
+      "explanation": "Le transfert du gène HMW-HA depuis un animal à longévité exceptionnelle et les essais cliniques de prime editing représentent deux approches convergentes de la biologie de la longévité : l'une identifie des mécanismes protecteurs évolutifs, l'autre développe les outils pour les transcrire directement dans les cellules humaines."
     }
   ]
 }

@@ -1,266 +1,271 @@
 {
-  "generated_at": "2026-05-19T06:00:00Z",
+  "generated_at": "2026-05-20T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran: armistice en péril",
-      "title": "Cessez-le-feu US-Iran au bord de la rupture",
-      "summary": "Depuis le 28 février 2026, les frappes américano-israéliennes ont visé le programme nucléaire iranien et les structures militaires, déclenchant la fermeture du détroit d'Ormuz par Téhéran en représailles. Un cessez-le-feu précaire tient depuis avril, mais Trump l'a qualifié le 18 mai d'«assisté» après le rejet iranien de ses conditions. Les deux blocus restent en place, chaque partie exigeant que l'autre retire le sien en premier.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html"
+      "short_title": "Nucléaire: accord Iran/US",
+      "title": "Négociations Iran/US: un accord-cadre se dessine",
+      "summary": "Washington et Téhéran sont proches d'un mémorandum d'une page déclarant la fin de la guerre et ouvrant 30 jours de négociations sur le nucléaire et les sanctions. La durée du moratoire sur l'enrichissement reste le principal point de friction, entre cinq ans proposés par l'Iran et vingt exigés par Washington, avec une fourchette en discussion entre 12 et 15 ans. Le sort des stocks d'uranium hautement enrichi — dont Téhéran accepterait désormais l'exportation — reste en suspens faute d'accord sur le pays destinataire.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran: impasse nucléaire",
-      "title": "Accord nucléaire Iran-US: blocage sur la durée du moratoire",
-      "summary": "Washington et Téhéran tentent de rédiger un protocole d'accord d'une page pour cadrer un futur traité nucléaire, mais achoppent sur la durée du moratoire sur l'enrichissement d'uranium: l'Iran propose 5 ans, les États-Unis exigent au moins 20. Trump a qualifié la contre-proposition iranienne de «totalement inacceptable», et les Gardiens de la révolution poussent à l'escalade plutôt qu'à la concession. Une fenêtre de 30 jours de négociation formelle ne s'ouvrira que si ce premier mémorandum est signé.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo"
+      "short_title": "Détroit Ormuz bloqué",
+      "title": "Crise du détroit d'Ormuz: trafic pétrolier quasi à l'arrêt",
+      "summary": "Depuis la déclaration de fermeture du détroit par les Gardiens de la révolution fin mars, le trafic de tankers a chuté de 70% puis pratiquement cessé, isolant les exportations du Golfe. L'offre mondiale de pétrole a reculé de 1,8 mb/j en avril, avec une production des pays du Golfe inférieure de 14,4 mb/j aux niveaux d'avant-guerre. La crise a provoqué la plus forte hausse mensuelle des prix du pétrole jamais enregistrée en mars 2026.",
+      "source": "IEA / Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Starmer en crise",
-      "title": "UK: Starmer sous pression de démissionner",
-      "summary": "Les élections locales du 7 mai 2026 ont été un désastre pour les Travaillistes: 1 496 conseillers perdus, 38 conseils basculés, et pour la première fois en un siècle le Parti travailliste perd le contrôle du Parlement gallois au profit de Plaid Cymru. Quatre-vingt-dix-sept MPs ont formellement exigé la démission de Keir Starmer ou un calendrier de départ. Un ministre et quatre secrétaires d'État ont démissionné du gouvernement en signe de protestation.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/uk-starmer-mps-quit-eurasia-politics.html"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent à 110$/b",
+      "title": "Pétrole: Brent autour de 110$/b, volatile au gré de la diplomatie",
+      "summary": "Le North Sea Dated s'établit autour de 110 $/b début mai 2026, avec de fortes oscillations à chaque signal diplomatique entre Washington et Téhéran. L'AIE anticipe une moyenne de 86 $/b sur l'ensemble de l'année, à condition que la phase aiguë de la crise se résolve d'ici fin mai et que les exportations du Golfe reprennent au T4. Le marché surveille en temps réel les négociations, faisant du pétrole un indicateur avancé du progrès diplomatique.",
+      "source": "IEA Oil Market Report May 2026",
+      "url": "https://www.iea.org/reports/oil-market-report-may-2026"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent à 112$/baril",
-      "title": "Brent à 112$/baril: +45% depuis le début de la guerre Iran",
-      "summary": "Le brut Brent a atteint 112,10$/baril le 18 mai 2026, soit une hausse de plus de 45% depuis le lancement des frappes américano-israéliennes sur l'Iran le 28 février. Environ 20% du pétrole mondial transitait habituellement par le détroit d'Ormuz, encore largement bloqué. Le PDG de Saudi Aramco a prévenu que les marchés ne se normaliseraient pas avant 2027 même si le détroit rouvrait aujourd'hui.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/18/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude-.html"
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "BCE: taux inchangés",
+      "title": "BCE maintient ses taux face au retour de l'inflation énergétique",
+      "summary": "Lors de sa réunion d'avril, la BCE a laissé ses taux directeurs inchangés, estimant que les données entrantes restaient conformes à ses prévisions. La guerre au Moyen-Orient a cependant entraîné une forte hausse de l'énergie qui relance l'inflation en zone euro et pèse sur la confiance économique. Ce contexte reporte sine die tout nouvel assouplissement monétaire, malgré une activité économique fragilisée en Europe.",
+      "source": "BCE",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html"
     },
     {
       "id": "n05",
       "theme": "finance",
       "subtopic": "usa",
       "importance": 3,
-      "short_title": "Fed pause, Warsh confirmé",
-      "title": "Fed: 3e statu quo consécutif, Kevin Warsh prend la présidence",
-      "summary": "Le 29 avril 2026, la Fed a maintenu ses taux pour la troisième réunion consécutive dans la fourchette 3,50%-3,75% sur un vote 8-4, premier vote à quatre dissidents depuis 1992. L'inflation reste nettement au-dessus de la cible de 2% sous l'effet des prix de l'énergie, tandis que le marché de l'emploi se fragilise. Le Sénat a confirmé le 13 mai Kevin Warsh comme 11e président de la Fed; sa première réunion du FOMC est prévue les 16-17 juin.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html"
+      "short_title": "Warsh succède à Powell",
+      "title": "Kevin Warsh prend la tête de la Fed après Jerome Powell",
+      "summary": "Confirmé par le Sénat le 13 mai 2026, Kevin Warsh a pris la présidence de la Réserve fédérale le 15 mai, succédant à Powell dont le mandat de président expirait. Powell quitte ses fonctions avec une inflation restée au-dessus de 2% pendant cinq ans consécutifs et un marché du travail dont les créations d'emplois seraient surestimées selon ses propres déclarations. JPMorgan anticipe que la Fed maintiendra ses taux inchangés jusqu'en 2026, avec une probable hausse de 25 pb en 2027.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/features/2026-jerome-powell-fed-legacy/"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 3,
-      "short_title": "UE FRTB: acte délégué",
-      "title": "UE: consultation FRTB se clôt, acte délégué imminent",
-      "summary": "La Commission européenne a lancé le 22 avril une consultation publique sur un projet d'acte délégué modifiant le cadre prudentiel de risque de marché (FRTB) pour les banques de l'UE. Le texte propose des ajustements ciblés pour neutraliser l'impact négatif sur les fonds propres pendant trois ans, afin de préserver l'égalité de terrain de jeu international face aux retards d'implémentation observés hors UE — notamment aux États-Unis. L'adoption formelle de l'acte délégué est attendue à la clôture de la consultation ce 19 mai 2026.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/commission-seeks-views-market-risk-prudential-requirements-eu-banks-2026-04-22_en"
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "FRTB EU: 3 ans de grâce",
+      "title": "L'UE adopte un allègement de 3 ans sur les règles FRTB (19 mai)",
+      "summary": "La Commission européenne a adopté le 19 mai des amendements ciblés au cadre FRTB, accordant aux banques de l'UE un allègement de capital pendant trois ans jusqu'en 2029 pour maintenir un level playing field face à leurs concurrentes américaines et asiatiques non encore soumises aux mêmes règles. La mesure comprend un multiplicateur neutralisant l'impact capital négatif du FRTB et des ajustements dans les domaines où d'autres grands pays ont déjà dévié. Les banques européennes devront appliquer les règles complètes à partir de 2027 avec cette période d'adaptation.",
+      "source": "Bloomberg / Commission européenne",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/europe-to-shield-banks-from-frtb-trading-rules-for-three-years"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "US Basel III révisé",
-      "title": "USA: Fed/OCC/FDIC proposent de réviser le périmètre Bâle III",
-      "summary": "Le 19 mars 2026, les régulateurs bancaires américains ont soumis à consultation des propositions pour réviser le cadre prudentiel, en réduisant le périmètre des établissements soumis à l'approche élargie, au CVA et aux exigences de risque de marché issues de Bâle III. Cette révision s'écarte du calendrier initial de l'accord de Bâle III finalisé et crée un écart réglementaire transatlantique. Les commentaires publics sont attendus jusqu'au 18 juin 2026.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic vise 900 Mds$",
+      "title": "Anthropic en négociation pour lever 30 Mds$ à 900 Mds$ de valeur",
+      "summary": "Anthropic est en discussions avancées pour lever au moins 30 milliards de dollars à une valorisation supérieure à 900 milliards, ce qui représente plus qu'un doublement par rapport à la valorisation de 380 Mds$ atteinte lors de la série G de février. La société a divulgué début mai une croissance de son ARR de 80 fois sur un an, dépassant 44 Mds$ annualisés. Si l'opération se finalise à ce niveau, Anthropic surpasserait OpenAI (valorisé à 852 Mds$ en mars) pour la première fois.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Anthropic: agents finance",
-      "title": "Anthropic lance 10 agents IA pour la banque et Claude Opus 4.7",
-      "summary": "Le 5 mai 2026, Anthropic a déployé dix modèles d'agents préconstruits couvrant la finance (pitchbooks, analyse des résultats, modélisation financière, KYC, réconciliation comptable) et lancé Claude Opus 4.7, qui domine le benchmark Finance Agent de Vals AI avec 64,4%. L'écosystème s'enrichit d'intégrations données avec FactSet, MSCI, LSEG, S&P Capital IQ et d'une connexion native à Microsoft 365. Ces agents ciblent exactement les flux de travail que les banques gèrent aujourd'hui manuellement dans les domaines du risque de marché, du crédit et de la conformité.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/"
+      "short_title": "Google I/O: Gemini Spark",
+      "title": "Google I/O 2026: Gemini Spark, agent IA personnel disponible 24/7",
+      "summary": "Lors de Google I/O le 19 mai, Google a dévoilé Gemini Spark, un agent IA en bêta capable d'agir pour l'utilisateur en continu à travers l'ensemble de ses workflows numériques. L'entreprise a simultanément lancé Gemini 3.5 Flash, un modèle léger offrant des capacités de pointe à la moitié ou au tiers du prix des modèles comparables, et un nouveau palier AI Ultra à 100 $/mois. WebMCP, un standard web ouvert permettant aux agents de naviguer dans le navigateur, est en essai expérimental dans Chrome 149.",
+      "source": "CNBC / Google Developers Blog",
+      "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic JV Blackstone",
-      "title": "Anthropic: JV à 1,5 Md$ avec Blackstone et Goldman Sachs",
-      "summary": "Le 4 mai 2026, Anthropic a annoncé une coentreprise de 1,5 milliard de dollars avec Blackstone, Hellman & Friedman et Goldman Sachs pour créer un véhicule de déploiement d'agents IA natif dans les grandes entreprises financières. Ce partenariat institutionnalise Claude dans les services financiers avant même la commercialisation à grande échelle. La JV positionne Anthropic comme un potentiel «operating system» pour Wall Street.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/anthropic-financial-services-agents-claude-opus-4-7-fis"
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Vibe coding: 60% code IA",
+      "title": "Vibe coding: 60% du nouveau code est généré par IA en 2026",
+      "summary": "L'adoption du développement assisté par IA a atteint un point d'inflexion: 92% des développeurs américains utilisent des outils de vibe coding et 60% de tout le nouveau code est généré par IA. Cursor a atteint 2 Mds$ de revenus annualisés et une valorisation de 29,3 Mds$, tandis que l'adoption en entreprise a progressé de 340% depuis 2024. Les gains de productivité rapportés sont de 3 à 5 fois pour les tâches standards, avec des délais d'idée à prototype compressés de semaines à heures.",
+      "source": "DEV Community",
+      "url": "https://dev.to/pooyagolchian/vibe-coding-in-2026-92b-cursor-92-humaneval-and-the-end-of-boilerplate-161h"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "OpenAI: smartphone 2027",
-      "title": "OpenAI prépare un smartphone IA sans applications traditionnelles",
-      "summary": "OpenAI accélère la production d'un téléphone IA conçu par Jony Ive, ciblant une mise en production des puces en second semestre 2026 via TSMC N2P (MediaTek Dimensity 9600 personnalisé) et un lancement grand public en 2027. La promesse centrale est de remplacer les applications traditionnelles par des agents IA qui comprennent le contexte et agissent pour l'utilisateur. Les projections de ventes atteignent 30 millions d'unités sur 2027-2028.",
+      "short_title": "OpenAI: smartphone IA",
+      "title": "OpenAI accélère son smartphone IA conçu avec Jony Ive",
+      "summary": "OpenAI finalise les spécifications de son premier smartphone IA, dont la production de masse est ciblée pour le premier semestre 2027. Conçu en partenariat avec l'ex-designer en chef d'Apple Jony Ive (via l'acquisition d'io Products pour 6,4 Mds$ en 2025), l'appareil remplacerait les applications par des agents IA accomplissant les tâches. Le processeur sera une version personnalisée du MediaTek Dimensity 9600 gravé en N2P chez TSMC, avec une architecture dual-NPU pour le calcul IA embarqué.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Vibe coding: 138+ outils",
-      "title": "Vibe coding 2026: marché fragmenté, déploiement reste un frein",
-      "summary": "Une analyse de plus de 1 000 commentaires Reddit identifie le déploiement et le débogage comme les deux principaux points de friction du vibe coding en 2026, même pour les développeurs expérimentés. Le marché compte désormais plus de 138 outils répartis en sept catégories (IDE augmenté, génération UI, full-stack…) sans qu'un acteur ne s'impose globalement. Cursor, v0 by Vercel, Bolt et Lovable dominent chacun leur niche dans un marché structurellement non-winner-takes-all.",
-      "source": "Medium / Nadia Okafor",
-      "url": "https://justtalkingtech.medium.com/vibe-coding-in-2026-i-tried-cursor-replit-bolt-lovable-and-v0-heres-what-actually-ships-11d0b70cf1d5"
+      "subtopic": "llm_agents",
+      "importance": 2,
+      "short_title": "Labs IA: accès gov US",
+      "title": "Cinq grands labs IA acceptent la revue pré-lancement du gouvernement US",
+      "summary": "Google, Microsoft, xAI, OpenAI et Anthropic ont accepté de donner au gouvernement américain un accès anticipé à leurs modèles avant lancement public, pour évaluation par le Centre for AI Standards and Innovation du Département du Commerce. Ce mouvement volontaire marque un changement de posture de l'industrie vis-à-vis de la régulation, dans un contexte de débat intense sur la gouvernance de l'IA. Il préfigure un cadre de supervision public-privé qui pourrait devenir un standard international.",
+      "source": "Claims Journal",
+      "url": "https://www.claimsjournal.com/news/national/2026/05/05/337371.htm"
     },
     {
       "id": "n12",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Variété sport + longévité",
-      "title": "Harvard: varier les sports réduit de 19% la mortalité prématurée",
-      "summary": "Une étude publiée dans BMJ Medicine (janvier 2026) portant sur 111 000 adultes suivis 30 ans conclut que la diversité des types d'activités physiques pratiquées est associée à 19% de risque moindre de décès prématuré, indépendamment du volume total d'exercice. Marche, musculation, jardinage et vélo ciblent des systèmes physiologiques distincts (cardio-respiratoire, musculo-squelettique, équilibre) et réduisent les blessures par surutilisation. Cette relation tient à tous les niveaux d'activité totale, suggérant que la variété est un levier indépendant de la quantité.",
-      "source": "Harvard T.H. Chan School of Public Health",
-      "url": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/"
+      "short_title": "Europe: pénurie carburant",
+      "title": "Crise énergétique: Lufthansa coupe des vols, l'Europe prépare ses réserves",
+      "summary": "La crise du détroit d'Ormuz se répercute rapidement sur l'économie européenne: Lufthansa a annoncé des suppressions de rotations face à la flambée du kérosène, et plusieurs gouvernements ont activé des plans de gestion des pénuries de carburant. Les marchés oscillent à chaque signal diplomatique entre Washington et Téhéran, rendant la planification des compagnies aériennes et des industriels extrêmement difficile. L'Europe cherche à accélérer les achats de GNL américain et norvégien en parallèle.",
+      "source": "World Economic Forum",
+      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
     },
     {
       "id": "n13",
-      "theme": "sciences",
+      "theme": "sante",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Taupe rat: gène longévité",
-      "title": "Le gène de longévité du rat-taupe nu étend la vie des souris de 4,4%",
-      "summary": "Un suivi de colonie publié en mai 2026 (ScienceDaily) confirme que les souris ayant reçu le gène produisant l'acide hyaluronique de haut poids moléculaire (HMW-HA) du rat-taupe nu vivent 4,4% plus longtemps avec une inflammation réduite et une meilleure santé générale. Des candidats médicaments conçus pour mimer cette configuration moléculaire sans édition génomique sont désormais en essais précliniques. Ces résultats établissent qu'un mécanisme de longévité évolutif peut être transféré entre espèces mammifères.",
-      "source": "ScienceDaily",
+      "short_title": "Gène longévité rat-taupe",
+      "title": "Le gène HAS2 du rat-taupe nu allonge la vie des souris de 4,4%",
+      "summary": "Des chercheurs de l'Université de Rochester ont transféré le gène HAS2 du rat-taupe nu — une espèce qui vit jusqu'à 41 ans malgré sa petite taille — dans des souris, augmentant leur production d'acide hyaluronique de haut poids moléculaire. Les souris modifiées ont montré une réduction de l'incidence des cancers spontanés, une meilleure intégrité de la barrière intestinale et un gain de durée de vie médiane d'environ 4,4%. Ces résultats démontrent que des mécanismes de longévité évolutifs sélectionnés dans une espèce peuvent être transposés à d'autres mammifères.",
+      "source": "ScienceDaily / University of Rochester",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
     },
     {
       "id": "n14",
-      "theme": "learn",
-      "subtopic": "llm_agents",
-      "importance": 2,
-      "short_title": "IA tutor et metacognition",
-      "title": "OCDE 2026: l'IA tuteur risque d'induire une paresse métacognitive",
-      "summary": "Le rapport OCDE Digital Education Outlook 2026 alerte sur le risque de «paresse métacognitive»: déléguer des tâches cognitives à une IA généraliste améliore la performance immédiate mais réduit l'apprentissage réel lorsqu'aucun guidage pédagogique n'est apporté. Les systèmes de tutorat efficaces (Khanmigo, Thinkster) sont ceux qui enseignent à apprendre par approche socratique plutôt qu'à répondre à la place de l'élève. Les dépenses mondiales en systèmes de tutorat intelligents devraient atteindre 3,2 Md$ en 2026.",
-      "source": "OECD",
-      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
-    },
-    {
-      "id": "n15",
       "theme": "climat",
       "subtopic": "chine",
       "importance": 2,
-      "short_title": "Chine 15e FYP: 52% propre",
-      "title": "Chine: 15e Plan quinquennal, 52% d'électricité renouvelable atteint",
-      "summary": "Le 15e Plan quinquennal chinois (2026-2030) prévoit des ajouts annuels de capacités renouvelables de 200 à 300 GW, après avoir déjà dépassé 52% d'électricité propre en février 2026 pour la première fois. La cible de réduction d'intensité carbone est fixée à 17%, en deçà du 18% du 14e Plan, sans objectif absolu de réduction des émissions ni date de sortie du charbon. En 2025, la Chine a installé plus de solaire et d'éolien que la totalité des installations historiques cumulées des États-Unis.",
-      "source": "Green Finance & Development Center",
-      "url": "https://greenfdc.org/chinas-15th-five-year-plan-2026-2030-a-comprehensive-analysis-for-chinas-green-transition-in-climate-emissions-energy-industry-metals-and-finance/"
+      "short_title": "Chine: plan quinquennal",
+      "title": "15e Plan quinquennal chinois: 200-300 GW/an de renouvelables d'ici 2030",
+      "summary": "Publié en mars 2026, le 15e Plan quinquennal (2026-2030) fixe des objectifs ambitieux: 200 à 300 GW de nouvelles capacités renouvelables par an, 100 GW d'éolien offshore et 110 GW de nucléaire d'ici 2030, avec une cible de 25% d'énergies non fossiles dans le mix. La Chine a terminé 2025 avec 1 200 GW de solaire installé (+35,4%) et 640 GW d'éolien (+22,9%). Le plan fait de la Chine la nation pivot de la transition énergétique mondiale, en opposition frontale à la stratégie fossile de l'administration américaine.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-mean-for-climate-change/"
+    },
+    {
+      "id": "n15",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Défense: hausse budgets",
+      "title": "Conflit Iran-US: budgets défense en hausse en Europe et dans le Golfe",
+      "summary": "La crise Moyen-Orient a déclenché une révision urgente des doctrines de sécurité: les pays du Golfe et d'Europe accélèrent leurs dépenses militaires, renforcent les alliances régionales et relancent de nouvelles commandes de matériel. L'Europe et l'Asie-Pacifique s'engagent dans des coopérations de sécurité collective inédites depuis la Guerre froide. La question de la sécurité énergétique et de la défense collective figurera en bonne place à l'agenda du prochain G7.",
+      "source": "The World Now",
+      "url": "https://www.the-world-now.com/news/us-geopolitics-in-2026-how-middle-east-diplomacy-is-forging-unintended-global-alliances-mny9guhz"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "EU CBAM passe à l'action",
-      "title": "UE: le CBAM entre en phase d'application, Inde lance son marché carbone",
-      "summary": "Le mécanisme d'ajustement carbone aux frontières de l'UE (CBAM) sort de sa phase de reporting pour entrer dans sa phase de mise en application effective sur plusieurs secteurs industriels, exposant les importateurs à de nouvelles obligations d'achat de certificats carbone. Parallèlement, l'Inde prépare le lancement de son propre marché carbone à conformité obligatoire pour le second semestre 2026. Ces deux mouvements simultanés accélèrent la mise à prix mondiale du carbone dans les échanges commerciaux internationaux.",
-      "source": "Earth.org / RMI",
-      "url": "https://earth.org/energy-transition-where-are-we-headed-in-2026/"
+      "short_title": "Code IA: 2.74x vulnérable",
+      "title": "Étude: le code généré par IA est 2,74x plus exposé aux failles sécurité",
+      "summary": "Une analyse de 470 pull requests réalisée fin 2025 révèle que le code produit par des outils d'IA est 1,7 fois plus susceptible de présenter des problèmes majeurs et 2,74 fois plus exposé aux vulnérabilités de sécurité que le code humain. Ce résultat contredit l'argument de qualité avancé par les éditeurs de ces outils et suggère que l'adoption sans revue systématique dégrade structurellement la posture de sécurité des bases de code. Les RSSI et les équipes AppSec commencent à intégrer cet impératif dans leurs politiques de revue de code.",
+      "source": "Braiviq",
+      "url": "https://www.braiviq.com/blog/vibe-coding-ai-development-2026-cursor-copilot-claude-code"
     },
     {
       "id": "n17",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Claude vs Copilot Studio",
-      "title": "Anthropic: la vraie bataille enterprise est le contrôle des agents",
-      "summary": "Selon VentureBeat, la prochaine compétition d'Anthropic n'est pas sur les modèles de langage mais sur la couche d'orchestration des agents en entreprise. Microsoft Copilot Studio et Azure AI Studio captent 38,6% d'adoption primaire en enterprise contre seulement 5,7% pour Anthropic en février 2026. Le marché est en train de se décider: qui contrôle la planification et l'exécution des agents contrôle la valeur ajoutée de l'IA en entreprise.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"
+      "short_title": "Emploi US fragilisé",
+      "title": "Marché du travail américain fragilisé, données révisées à la baisse",
+      "summary": "Powell a indiqué en quittant ses fonctions que les statistiques d'emploi sont probablement surestimées et que les États-Unis perdraient des emplois depuis avril selon les données révisées. Le taux de chômage est passé de 4,1% à 4,4% en 2025, signal que la demande de travail fléchit plus que l'offre. Warsh devra évaluer dans quelle mesure l'IA est simultanément un amplificateur de productivité et un frein à l'embauche — deux effets contradictoires qui compliquent le calibrage de la politique monétaire.",
+      "source": "SIEPR Stanford",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/us-economy-2026-what-watch"
+    },
+    {
+      "id": "n18",
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 1,
+      "short_title": "Thymus: clé longévité",
+      "title": "Le thymus redécouvert comme régulateur central du vieillissement immunitaire",
+      "summary": "Une vague de recherches publiées en 2026 recadre le thymus — longtemps considéré comme un organe résiduel après la puberté — en régulateur actif de l'immunosénescence et de la résistance au cancer. L'atrophie thymique avec l'âge serait un mécanisme central dans la fragilité immunitaire des personnes âgées et leur vulnérabilité aux tumeurs. Ces travaux ouvrent des pistes thérapeutiques autour de la régénération ou de la stimulation thymique pour maintenir l'immunité à des âges avancés.",
+      "source": "Washington Post / Nature Aging",
+      "url": "https://www.washingtonpost.com/health/2026/05/03/thymus-longevity-cancer-research/"
     }
   ],
   "edges": [
     {
-      "source": "n01",
+      "source": "n02",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "La fermeture de facto du détroit d'Ormuz a soustrait 1,8 mb/j de l'offre mondiale en avril, créant un déficit structurel qui a propulsé le Brent au-dessus de 110 $/b — effet direct et mécanique de l'arrêt du trafic pétrolier du Golfe."
+    },
+    {
+      "source": "n03",
       "target": "n04",
       "type": "cause",
-      "explanation": "La fermeture du détroit d'Ormuz par l'Iran en riposte aux frappes a bloqué environ 20% des flux mondiaux de brut, propulsant le Brent au-dessus de 112$/baril en moins de trois mois — transmission directe conflit militaire → choc d'offre énergétique."
+      "explanation": "La flambée pétrolière relance les pressions inflationnistes en zone euro, privant la BCE de la marge nécessaire pour abaisser ses taux et bloquant la normalisation monétaire malgré une économie fragilisée."
+    },
+    {
+      "source": "n03",
+      "target": "n12",
+      "type": "cause",
+      "explanation": "La hausse du kérosène et l'incertitude sur l'approvisionnement contraignent directement les compagnies aériennes à couper des rotations et poussent les gouvernements à activer des plans de gestion de pénuries."
+    },
+    {
+      "source": "n01",
+      "target": "n02",
+      "type": "meme_sujet",
+      "explanation": "Les négociations diplomatiques et le blocus du détroit sont les deux visages de la même crise iran-US: chaque signal de négociation fait osciller les marchés pétroliers, liant inextricablement diplomatie et énergie."
     },
     {
       "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Le volet diplomatique (MOU nucléaire) et le volet militaire (cessez-le-feu) sont deux dimensions du même blocage: chaque échec des négociations augmente la probabilité d'une reprise des hostilités et du maintien du blocus d'Ormuz."
-    },
-    {
-      "source": "n04",
-      "target": "n05",
+      "target": "n15",
       "type": "cause",
-      "explanation": "La flambée des prix de l'énergie entretient une inflation américaine nettement supérieure à la cible de 2%, ôtant à la Fed toute marge pour baisser ses taux et imposant un troisième statu quo consécutif avec un vote inhabituellement divisé."
+      "explanation": "Le conflit a révélé la fragilité des routes énergétiques mondiales, déclenchant une révision urgente des doctrines de défense et une hausse des budgets militaires en Europe et dans le Golfe."
     },
     {
       "source": "n07",
-      "target": "n06",
+      "target": "n08",
       "type": "tension",
-      "explanation": "Les régulateurs américains retardent et réduisent le périmètre de Bâle III, fragilisant l'égalité de conditions de concurrence: c'est précisément ce décrochage transatlantique qui a conduit la Commission européenne à proposer un allègement temporaire de l'impact FRTB sur les fonds propres des banques européennes."
+      "explanation": "La valorisation record d'Anthropic à 900 Mds$ et sa croissance ARR de 80x exercent une pression compétitive directe sur Google, qui a accéléré ses annonces d'agents IA lors de Google I/O pour ne pas perdre le leadership narratif."
     },
     {
       "source": "n09",
-      "target": "n08",
+      "target": "n16",
       "type": "cause",
-      "explanation": "La JV annoncée le 4 mai a fourni le véhicule commercial et la crédibilité institutionnelle nécessaires pour déployer les agents Claude en environnement bancaire réglementé; la suite de dix agents finance a été livrée dès le lendemain."
+      "explanation": "L'adoption massive du code IA sans encadrement méthodologique suffisant crée une surface d'attaque élargie: les bases de code produites sans revue systématique accumulent des vulnérabilités à un rythme 2,74x supérieur au code humain."
     },
     {
-      "source": "n08",
+      "source": "n09",
       "target": "n17",
       "type": "cause",
-      "explanation": "En ciblant les workflows finance (Excel, pitchbooks, KYC, réconciliation), Anthropic entre en concurrence directe avec Microsoft Copilot Studio qui détient déjà la couche d'orchestration dominante en enterprise avec une avance de marché considérable."
+      "explanation": "L'automatisation du développement logiciel par les outils de vibe coding comprime la demande de développeurs juniors, contribuant à la fragilisation du marché de l'emploi US que la Fed observe avec inquiétude."
     },
     {
-      "source": "n04",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "La hausse durable des prix de l'énergie a alimenté la crise du coût de la vie au Royaume-Uni depuis 2025, principal facteur d'érosion de la popularité de Starmer; le choc des prix à la consommation a amplifié le vote-sanction aux élections locales du 7 mai."
-    },
-    {
-      "source": "n15",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "La montée en puissance des renouvelables chinois affaiblit structurellement la dépendance de Pékin aux hydrocarbures du Golfe sur le long terme, mais ces capacités n'ont aucun effet à court terme sur le choc d'offre déclenché par la fermeture d'Ormuz."
-    },
-    {
-      "source": "n16",
-      "target": "n15",
+      "source": "n05",
+      "target": "n17",
       "type": "meme_sujet",
-      "explanation": "Le CBAM européen et le 15e Plan quinquennal chinois sont deux instruments simultanés de tarification mondiale du carbone industriel; leur coexistence génère une friction commerciale potentielle sur les exportations manufacturières chinoises vers l'UE."
-    },
-    {
-      "source": "n12",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "L'étude Harvard (diversité des activités physiques) et la recherche sur le gène HMW-HA du rat-taupe convergent vers le même principe: la longévité requiert l'activation simultanée de plusieurs systèmes biologiques, que l'intervention soit comportementale ou moléculaire."
+      "explanation": "Warsh hérite simultanément d'une inflation structurellement supérieure à 2% et de statistiques d'emploi surestimées par l'impact réel de l'IA sur les embauches — deux incertitudes fondamentales pour calibrer la politique monétaire."
     },
     {
       "source": "n14",
-      "target": "n08",
+      "target": "n03",
       "type": "tension",
-      "explanation": "Les chercheurs en sciences cognitives alertent sur le risque de paresse métacognitive quand l'IA prend en charge les tâches intellectuelles, remettant en question la proposition de valeur d'Anthropic qui consiste précisément à automatiser le travail de connaissance complexe en banque."
+      "explanation": "Le déploiement massif de renouvelables chinois (200-300 GW/an) représente la réponse structurelle à long terme à la dépendance aux fossiles dont la crise du détroit d'Ormuz révèle brutalement le coût géopolitique."
     },
     {
-      "source": "n10",
-      "target": "n11",
-      "type": "tension",
-      "explanation": "OpenAI parie sur un appareil IA supprimant toute couche applicative en faveur d'agents autonomes, tandis que le bilan du marché vibe coding 2026 montre que le déploiement et le débogage restent des goulots d'étranglement humains — deux visions opposées du degré réel d'autonomie des agents."
+      "source": "n13",
+      "target": "n18",
+      "type": "meme_sujet",
+      "explanation": "Le transfert du gène HAS2 du rat-taupe et la réévaluation du rôle du thymus participent de la même vague de biologie fondamentale cherchant les leviers mécanistiques du vieillissement pour ouvrir des thérapies anti-âge."
     }
   ]
 }

@@ -1,283 +1,277 @@
 {
-  "generated_at": "2026-05-22T06:00:00Z",
+  "generated_at": "2026-05-23T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "US-Iran MOU en vue",
-      "title": "Négociations US-Iran: mémorandum en 14 points",
-      "summary": "Washington et Téhéran sont proches d'un mémorandum de 14 points visant à mettre fin aux hostilités et à ouvrir 30 jours de négociations détaillées sur le nucléaire iranien. Le point central de friction porte sur la durée du moratoire d'enrichissement : 12-20 ans côté américain contre 5 ans côté iranien. Les envoyés Witkoff et Kushner pilotent les discussions depuis Islamabad et Genève.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo"
+      "short_title": "Hormuz : négos US-Iran",
+      "title": "Négociations Iran-États-Unis : impasse sur l'uranium et les péages du Détroit",
+      "summary": "Les États-Unis et l'Iran ont signalé des progrès dans des négociations indirectes visant à mettre fin aux hostilités ouvertes le 28 février par des frappes américano-israéliennes. Les deux parties restent en désaccord sur le sort des stocks d'uranium enrichi et sur les droits de péage que Téhéran entend imposer aux navires transitant par le Détroit de Hormuz. Le secrétaire d'État Rubio a averti qu'un contrôle permanent du Détroit par l'Iran rendrait tout accord diplomatique infaisable.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz: blocage naval",
-      "title": "Détroit d'Ormuz quasi-fermé, choc pétrolier systémique",
-      "summary": "Le détroit d'Ormuz reste quasi-fermé depuis plusieurs semaines, immobilisant 10,5 millions de barils/jour de production collective des pays du Golfe. L'EIA anticipe une reprise progressive du trafic en juin, mais les stocks mondiaux s'effondrent de 8,5 mb/j au T2. L'événement est devenu un choc énergétique systémique, poussant le FMI à basculer dans son scénario adverse avec inflation à 3,5% et croissance mondiale révisée en baisse.",
-      "source": "IEA Oil Market Report May 2026",
-      "url": "https://www.iea.org/reports/oil-market-report-may-2026"
+      "short_title": "UAE quitte l'OPEC",
+      "title": "Sortie de l'UAE de l'OPEC : rupture structurelle dans l'ordre pétrolier mondial",
+      "summary": "Les Émirats arabes unis ont officialisé leur sortie de l'OPEC et d'OPEC+ le 1er mai 2026, mettant fin à 58 ans de membership. L'incompatibilité entre leur ambition de produire 5 Mb/j et les quotas imposés par l'alliance (3,43 Mb/j) a rendu la rupture inévitable. Abu Dhabi, disposant d'une infrastructure de contournement par pipeline vers le golfe d'Oman, se positionne comme fournisseur alternatif fiable pour l'après-crise du Détroit.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Pétrole à $110 le baril",
-      "title": "Brent à $110 : choc pétrolier de pleine ampleur",
-      "summary": "Le Brent s'établit à 110 $/baril au 20 mai, soit +60% depuis le début du conflit et +80% depuis janvier 2026. L'IEA projette un maintien autour de 106 $/b en mai-juin avant un recul vers 89 $/b au T4 si Ormuz rouvre. Les prix de l'électricité résidentielle américaine devraient augmenter de 5% en 2026, et les prix LNG internationaux restent très élevés en raison de la réduction des flux via le détroit.",
-      "source": "Fortune / IEA",
-      "url": "https://fortune.com/article/price-of-oil-05-21-2026/"
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Magyar bat Orbán",
+      "title": "Hongrie : Péter Magyar élu avec une majorité des deux tiers, fin de l'ère Orbán",
+      "summary": "Péter Magyar et son parti Tisza ont remporté les élections législatives hongroises d'avril 2026 avec une majorité des deux tiers, mettant fin à 16 ans de pouvoir nationaliste de Viktor Orbán. Le nouveau premier ministre, conservateur pro-européen, entend rapprocher Budapest de l'UE sans soutenir militairement l'Ukraine. Bruxelles a accueilli le résultat avec soulagement, Ursula von der Leyen déclarant que la Hongrie a choisi l'Europe.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "europe",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Zone euro PMI 47.5",
-      "title": "Zone euro: PMI 47,5 et emplois en chute libre",
-      "summary": "Le PMI composite flash de la zone euro a plongé à 47,5 en mai (contre 48,8 en avril), son recul le plus rapide depuis deux ans et demi, sous l'effet de la hausse du coût de la vie liée au conflit. Les entreprises réduisent leurs effectifs pour un cinquième mois consécutif, au rythme le plus sévère depuis novembre 2020. En France, l'économie devrait détruire encore 22 000 postes salariés privés d'ici juin, après 60 000 perdus en 2025.",
-      "source": "Invezz / INSEE",
-      "url": "https://invezz.com/news/2026/05/21/euro-zone-economy-weakens-further-as-services-demand-and-jobs-decline/"
+      "short_title": "Brent à 104 $/bbl",
+      "title": "Le Brent dépasse 103 $/bbl sous l'effet du choc Hormuz",
+      "summary": "Le Brent a franchi 103,94 dollars le 22 mai 2026 (+1,33 % sur la journée), avec des prévisions de l'EIA autour de 106 $/bbl pour juin. Le choc est entièrement imputable à l'immobilisation des flux du Golfe Persique, où plus de 840 tankers sont bloqués à l'intérieur ou aux portes du Détroit de Hormuz. Les scénarios de normalisation anticipent un repli vers 89 $/bbl au quatrième trimestre si un accord diplomatique est conclu.",
+      "source": "EIA / Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
     },
     {
       "id": "n05",
-      "theme": "finance",
-      "subtopic": "macro",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "G10: hawkish repricing",
-      "title": "G10: toutes les banques centrales pricent des hausses",
-      "summary": "La Fed maintient ses taux à 3,50-3,75% mais tous les autres membres du G10 sont désormais pricés pour des hausses en 2026, renversement brutal par rapport aux attentes de stabilité de début d'année. L'inflation PCE américaine atteint 3,5% en rythme annuel avec un écart inhabituellement large entre core PCE (3,2%) et core CPI (2,6%). La BCE fait face à une inflation qui pointe vers 4% dans les prochains mois selon son propre Bulletin économique.",
-      "source": "Federal Reserve Financial Stability Report",
-      "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20260508.pdf"
+      "short_title": "840 tankers bloqués Golfe",
+      "title": "Crise de Hormuz : 840 tankers immobilisés, frets spot à 250 000 $/jour",
+      "summary": "Depuis la fermeture militaire du Détroit de Hormuz le 4 mars 2026, plus de 600 tankers sont piégés dans le Golfe Persique et 240 autres attendent à l'extérieur. Les taux de fret spot ont bondi au-delà de 250 000 dollars par jour, un niveau record depuis 2022. Les perturbations réduisent de plus de 90 % les exportations mondiales de brut et de GNL, affectant directement l'approvisionnement européen et asiatique.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/trumpl-iran-proposal-end-war-reopen-hormuz-nuclear-deal-oil-storage-rcna342441"
     },
     {
       "id": "n06",
       "theme": "finance",
       "subtopic": "regulation_bancaire",
       "importance": 3,
-      "short_title": "UE: FRTB adopté 19 mai",
-      "title": "UE adopte l'acte délégué FRTB avec atténuations capital",
-      "summary": "La Commission européenne a formellement adopté le 19 mai 2026 l'acte délégué reportant l'entrée en vigueur du FRTB au 1er janvier 2027, avec des amendements ciblés pour atténuer l'impact capital sur les banques européennes pendant trois ans. L'AFME souligne que certaines composantes demeurent trop conservatrices par rapport au risque économique sous-jacent. La moitié des banques européennes intègre déjà le FRTB dans leur pricing XVA, quatre fois plus que leurs homologues nord-américains.",
-      "source": "European Commission Finance",
-      "url": "https://finance.ec.europa.eu/news/commission-seeks-views-market-risk-prudential-requirements-eu-banks-2026-04-22_en"
+      "short_title": "FRTB : acte délégué UE",
+      "title": "FRTB : la Commission européenne adopte l'acte délégué repoussant l'application à 2028",
+      "summary": "La Commission européenne a adopté le 19 mai 2026 un acte délégué reportant d'un an les règles de fonds propres pour le risque de marché (FRTB) dans l'UE, de janvier 2027 à 2028. Cette décision vise à préserver un level playing field face aux retards persistants des États-Unis et du Royaume-Uni dans leur propre mise en oeuvre de Bâle III. Il s'agit du dernier report autorisé par l'habilitation actuelle de la Commission, rendant l'application 2028 non-négociable.",
+      "source": "A&O Shearman FinReg",
+      "url": "https://finreg.aoshearman.com/European-Commission-Adopts-Delegated-Regulation-A"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "US Basel III re-proposé",
-      "title": "États-Unis re-proposent Bâle III Endgame en mars 2026",
-      "summary": "Les régulateurs américains ont re-proposé le 19 mars 2026 le paquet Bâle III Endgame après rétroaction massive de l'industrie, avec un déploiement progressif sur trois ans incluant un output floor, un régime de risque de marché analogue au FRTB et une nouvelle formule de risque opérationnel. Les commentaires sont attendus avant le 18 juin 2026. Le décalage persistant avec le calendrier européen exerce une pression de level playing field pour les banques actives des deux côtés de l'Atlantique.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+      "short_title": "Warsh : nouveau chef Fed",
+      "title": "Kevin Warsh attendu comme prochain président de la Réserve fédérale",
+      "summary": "Kevin Warsh, ancien gouverneur de la Fed et économiste de marché, devrait être confirmé prochainement comme président de la Réserve fédérale, Jerome Powell restant gouverneur — une configuration inédite depuis 1948. La Fed maintient ses taux entre 3,50 % et 3,75 % dans une posture attentiste, avec deux baisses encore possibles cette année si l'inflation reste contenue. Le choc pétrolier lié à la crise du Détroit brouille cependant ce scénario et renforce les partisans d'un statu quo prolongé.",
+      "source": "SEI Markets",
+      "url": "https://www.seic.com/en-gb/about-sei/market-commentaries/central-bank-depository-may-2026"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic à $900Mds",
-      "title": "Anthropic lève $30Mds à 900 milliards de valorisation",
-      "summary": "Anthropic est en discussions avancées pour clôturer une levée de 30 milliards de dollars à une valorisation pré-money dépassant 900 milliards, dépassant pour la première fois OpenAI (852 milliards en mars). La société a déjà levé 30 milliards en février à 380 milliards post-money. Son ARR dépasse 44 milliards de dollars avec une croissance de 80x sur un an, et le nombre de clients dépensant plus de 100 000 $/an a été multiplié par 7.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation"
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Taux longs remontent",
+      "title": "Marchés obligataires : les taux longs remontent des deux côtés de l'Atlantique",
+      "summary": "Les rendements obligataires à long terme progressent aux États-Unis et en Europe, les marchés réévaluant la durée du cycle de taux élevés face au choc pétrolier et aux déficits publics persistants. Le 10 ans américain subit la double pression d'un baril au-dessus de 100 $ et de l'incertitude sur la trajectoire fiscale américaine. Cette remontée des taux longs pèse sur les valorisations des actifs risqués en relevant mécaniquement le taux d'actualisation.",
+      "source": "ActivTrades",
+      "url": "https://www.activtrades.com/en/news/weekly-outlook-markets-central-banks-key-events-may-2026"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Google Gemini 3.5 Flash",
-      "title": "Google I/O: Gemini 3.5 Flash et plateforme agentique",
-      "summary": "Lors de Google I/O (19-20 mai), Google a lancé Gemini 3.5 Flash, un modèle frontier rapide et moins coûteux que les modèles comparables, reflétant une stratégie de déployabilité massive plutôt que de puissance brute. Google traite désormais plus de 3 trillions de tokens par jour. La plateforme Antigravity, dédiée à l'orchestration d'agents, a été mise à jour pour faciliter la construction de workflows agentiques sur Android et le web.",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
+      "importance": 3,
+      "short_title": "Claude Opus 4.7 lancé",
+      "title": "Anthropic lance Claude Opus 4.7 en disponibilité générale",
+      "summary": "Anthropic a mis Claude Opus 4.7 en disponibilité générale avec des gains notables en ingénierie logicielle avancée et en vision haute résolution. Le modèle gère des tâches longues sur de grandes bases de code (>50 K LOC) avec plus de cohérence que son prédécesseur, et excelle dans la production de documents et d'interfaces professionnels. Il est disponible via AWS Bedrock, Google Vertex AI et Microsoft Foundry aux mêmes tarifs qu'Opus 4.6 (5 $/M tokens en entrée, 25 $/M en sortie).",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI GPT-5.5 Instant",
-      "title": "OpenAI: GPT-5.5 Instant nouveau modèle par défaut ChatGPT",
-      "summary": "OpenAI a fait de GPT-5.5 Instant le modèle par défaut de ChatGPT depuis le 5 mai 2026, avec un score de 81,2 sur AIME 2025 et 76 sur MMMU-Pro pour le raisonnement multimodal. Le modèle se positionne dans la catégorie des modèles rapides et abordables face à Gemini 3.5 Flash. OpenAI, Google, Microsoft et xAI ont par ailleurs accepté de donner au département du Commerce américain un accès anticipé à leurs modèles avant sortie officielle.",
-      "source": "LLM Stats",
-      "url": "https://llm-stats.com/llm-updates"
+      "importance": 3,
+      "short_title": "Gemini 3.5 Flash lancé",
+      "title": "Google I/O 2026 : Gemini 3.5 Flash mise sur la vitesse et les agents, pas la taille",
+      "summary": "Google a présenté à son I/O 2026 Gemini 3.5 Flash, un modèle optimisé pour les agents longue durée et le codage, quatre fois plus rapide que les modèles frontière concurrents en tokens générés par seconde. Il surpasse Gemini 3.1 Pro sur le benchmark agentique Terminal-Bench 2.1 (76,2 %) et peut exécuter des pipelines autonomes de plusieurs heures. Google parie sur la vitesse et le coût plutôt que sur la taille du modèle pour dominer l'adoption en entreprise.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor 3 multi-agents",
-      "title": "Cursor 3: délégation à une équipe d'agents IA",
-      "summary": "Cursor a lancé Cursor 3, une refonte majeure de sa plateforme permettant aux développeurs de déléguer des tâches à une équipe d'agents coordonnés, via une interface en langage naturel qui génère le code et une vidéo de démonstration du résultat. La plateforme atteint 2 milliards de dollars de revenu annualisé et a levé plus de 3 milliards auprès de Nvidia et Google. 72% des développeurs utilisent des outils IA quotidiennement et 41% du code mondial est désormais généré par IA.",
-      "source": "Gizmodo / SiliconAngle",
-      "url": "https://gizmodo.com/cursors-new-tool-lets-users-delegate-to-a-team-of-coding-agents-2000741761"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic : val. 900 Md$",
+      "title": "Anthropic lève plus de 30 Md$ à une valorisation dépassant 900 milliards de dollars",
+      "summary": "La levée de fonds d'Anthropic, estimée à plus de 30 milliards de dollars, valoriserait la société au-delà de 900 milliards, dépassant OpenAI (852 Md$ en mars 2026) pour la première fois. Le revenu annualisé a été multiplié par 80 en glissement annuel au T1 2026 pour dépasser 44 milliards de dollars d'ARR. Avec 34,4 % d'adoption en entreprise contre 32,3 % pour OpenAI, Anthropic prend la tête du marché B2B pour la première fois.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war"
     },
     {
       "id": "n12",
       "theme": "tech",
-      "subtopic": "llm_agents",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "IA agents: 40% des apps",
-      "title": "Agents IA: 40% des applis enterprise d'ici fin 2026",
-      "summary": "Gartner prédit que 40% des applications enterprise intégreront des agents IA spécialisés d'ici fin 2026, contre moins de 5% en 2025. IBM Consulting a annoncé début mai l'expansion de ses capacités agentiques, avec des organisations rapportant 30% de réduction des coûts opérationnels et 76% de gains de temps sur les workflows complexes. Seules 21% des entreprises disposent d'un cadre de gouvernance IA mature, créant un risque systémique non négligeable.",
-      "source": "IBM Newsroom",
-      "url": "https://newsroom.ibm.com/2026-05-06-ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation"
+      "short_title": "Cursor dépasse 2 Md$ ARR",
+      "title": "Cursor atteint 2 milliards de dollars de revenus annualisés, dominant le marché du vibe coding professionnel",
+      "summary": "Cursor, l'IDE IA dominant parmi les développeurs professionnels, a franchi 2 milliards de dollars de revenus annualisés début 2026. Ses fonctionnalités de refactoring multi-fichiers via Agent et Composer, ainsi que sa profonde conscience du dépôt, lui valent une note de 4,9/5. Avec 72 % des développeurs utilisant des outils IA au quotidien et 41 % du code mondial généré par IA, le vibe coding est devenu structurel dans l'industrie logicielle.",
+      "source": "nucamp",
+      "url": "https://www.nucamp.co/blog/top-10-vibe-coding-tools-in-2026-cursor-copilot-claude-code-more"
     },
     {
       "id": "n13",
-      "theme": "learn",
-      "subtopic": "ai_education",
+      "theme": "tech",
+      "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "IA tuteur: 2x gains",
-      "title": "RCT Harvard: tuteurs IA doublent les gains d'apprentissage",
-      "summary": "Un essai randomisé contrôlé mené par Harvard montre que le tutorat IA produit plus du double des gains d'apprentissage comparé à l'enseignement actif en classe de haute qualité. Une revue Brookings de quatre RCTs confirme des gains équivalents à 1,5-2 années de scolarité dans certains contextes. En revanche, les chatbots généralistes sans ancrage cognitif ne produisent pas de gains réels et risquent d'induire une paresse métacognitive chez les étudiants.",
-      "source": "Michelle Miller PhD Substack",
-      "url": "https://michellemillerphd.substack.com/p/r3-44-april-27-2026-ai-research-roundup"
+      "short_title": "Gemini Spark agent IA",
+      "title": "Google lance Gemini Spark, agent personnel IA tournant 24h/24",
+      "summary": "Google a dévoilé à l'I/O 2026 Gemini Spark, un agent personnel alimenté par Gemini 3.5 Flash, capable d'opérer en continu et de se connecter aux applications du quotidien (Gmail, Calendar, Docs). Il peut conduire des tâches complexes de manière autonome sur de longues périodes sans intervention constante de l'utilisateur. Google positionne Spark comme la porte d'entrée grand public de l'IA agentique, face aux offres concurrentes d'OpenAI et d'Anthropic.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html"
     },
     {
       "id": "n14",
-      "theme": "sciences",
+      "theme": "sante",
       "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Cellules zombies ciblées",
-      "title": "Mayo Clinic: aptamères ADN pour éliminer les cellules sénescentes",
-      "summary": "Des chercheurs de la Mayo Clinic ont démontré que de courtes molécules d'ADN synthétique — les aptamères — peuvent s'attacher sélectivement aux cellules sénescentes dites zombies dans les tissus murins, ouvrant la voie à des thérapies sénolytiques de précision sans affecter les cellules saines. Cette technique peu coûteuse et versatile pourrait débloquer l'impasse des 30 essais cliniques sénolytiques qui n'ont produit aucune thérapie approuvée pour l'humain à ce jour.",
-      "source": "Mayo Clinic News Network",
-      "url": "https://newsnetwork.mayoclinic.org/discussion/a-new-tool-to-find-hidden-zombie-cells/"
+      "importance": 2,
+      "short_title": "Leucine & mitochondries",
+      "title": "La leucine renforce les mitochondries musculaires et combat la résistance anabolique",
+      "summary": "Des chercheurs ont identifié le mécanisme par lequel la leucine, acide aminé essentiel présent dans les protéines animales, renforce la performance mitochondriale en stabilisant des protéines clés de la chaîne respiratoire. Chez les sujets âgés, une supplémentation en leucine augmente la respiration couplée à l'ATP et préserve la sensibilité à l'insuline lors de périodes d'inactivité forcée. Ce résultat soutient les recommandations actuelles de 1,2 à 1,5 g/kg/j de protéines pour la santé musculaire après 40 ans.",
+      "source": "Dr. Kara Fitzgerald",
+      "url": "https://www.drkarafitzgerald.com/2026/04/21/overcome-muscle-anabolic-resistance-nutrients-aging/"
     },
     {
       "id": "n15",
       "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Glucides qualité: +50%",
-      "title": "Glucides de qualité: +50% de chances de vieillissement sain",
-      "summary": "Une cohorte de 47 513 femmes américaines suivies sur 30 ans montre que celles au plus fort apport en glucides de haute qualité (fibres, légumineuses, grains entiers) ont 50% plus de chances d'être en bonne santé à 70 ans, et 29% plus pour l'apport glucidique total. La fibre améliore systématiquement les marqueurs métaboliques, la diversité du microbiome et réduit les risques de cancer colorectal et de diabète de type 2.",
-      "source": "PMC Nutrition for Healthy Longevity",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12510027/"
+      "subtopic": "kettlebell",
+      "importance": 1,
+      "short_title": "Musculation : objectif #1",
+      "title": "La force musculaire devient l'objectif santé numéro un aux États-Unis en 2026",
+      "summary": "L'enquête Life Time Wellness 2026 révèle que 42,3 % des Américains font de la force musculaire leur priorité santé de l'année, dépassant la perte de poids pour la première fois. La longévité arrive en deuxième motivation (33,2 %), signe d'un glissement culturel vers une approche préventive et longitudinale de la santé. Les experts reconnaissent désormais le muscle comme organe endocrinien actif avec un rôle métabolique systémique au-delà de la seule performance physique.",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/2026-life-time-wellness-survey-results-are-in-strength-training-and-longevity-lead-new-year-priorities-with-82-focused-more-on-wellbeing-302650843.html"
     },
     {
       "id": "n16",
-      "theme": "sante",
-      "subtopic": "kettlebell",
+      "theme": "sciences",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Force muscu: longévité",
-      "title": "Test de force musculaire prédit la longévité",
-      "summary": "Une étude publiée en mai 2026 confirme que les activités de renforcement musculaire méritent une place renforcée dans les recommandations de santé publique, particulièrement pour les personnes de 40 ans et plus. Des niveaux de force plus élevés sont associés à un risque de mortalité significativement réduit, même chez les femmes en dessous de certains seuils de force absolue. Ces résultats renforcent l'intérêt clinique des pratiques type kettlebell et entraînement de force progressive.",
+      "short_title": "Gène longévité rat-taupe",
+      "title": "Un gène de longévité du rat-taupe nu transféré avec succès dans des souris",
+      "summary": "Des scientifiques de l'Université de Rochester ont transféré dans des souris un gène lié à la longévité exceptionnelle du rat-taupe nu, l'espèce de rongeur la plus longévive connue. Les souris transgéniques ont présenté une espérance de vie supérieure de 6,6 % et de meilleures performances de santé générales par rapport aux témoins. Cette expérience valide l'hypothèse que certains mécanismes de longévité sont transférables entre espèces, ouvrant des pistes thérapeutiques en géroscience humaine.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm"
+      "url": "https://www.sciencedaily.com/news/plants_animals/biology/"
     },
     {
       "id": "n17",
       "theme": "climat",
-      "subtopic": "europe",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "UE: architecture climat",
-      "title": "UE façonne son architecture climatique et énergétique post-2030",
-      "summary": "En 2026, l'UE entre dans une phase décisive pour ses politiques post-2030, avec la Commission préparant une révision du système ETS et négociant le prochain budget pluriannuel. Le Plan d'action Électrification — engagement des dirigeants européens de 2024 — sera un pilier clé pour renforcer le leadership industriel européen. Paradoxalement, le choc pétrolier actuel accélère l'intérêt politique pour diversifier les sources énergétiques vers les renouvelables.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
+      "short_title": "TotalEnergies : net zéro",
+      "title": "TotalEnergies abandonne son objectif de neutralité carbone en 2050",
+      "summary": "TotalEnergies a officiellement renoncé à son objectif net zéro en 2050, invoquant la lenteur de la transition énergétique mondiale. La major française rejoint plusieurs grandes compagnies pétrolières ayant réduit leurs ambitions climatiques en 2025-2026, lors de la première baisse annuelle en huit ans des investissements des majors dans les énergies propres selon BloombergNEF. Cette décision confirme que le choc pétrolier actuel renforce les arbitrages stratégiques en faveur des actifs fossiles.",
+      "source": "Zero Carbon Analytics",
+      "url": "https://zerocarbon-analytics.org/insights/newsletters/the-great-oil-and-gas-reckoning-of-2026/"
     },
     {
       "id": "n18",
-      "theme": "climat",
-      "subtopic": "chine",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Chine: plan énergie 5 ans",
-      "title": "15e plan quinquennal chinois: pivot cleantech mondial",
-      "summary": "La publication du 15e plan quinquennal chinois ce printemps est suivie de près par tous les acteurs de la transition énergétique : la Chine est désormais la nation pivot du basculement mondial vers les énergies propres, ses exportations de panneaux solaires, batteries et véhicules électriques restructurant les chaînes d'approvisionnement internationales. L'objectif 1,5°C étant désormais hors d'atteinte selon RFF, la stratégie chinoise déterminera l'ampleur du dépassement.",
-      "source": "RMI / RFF Global Energy Outlook 2026",
-      "url": "https://rmi.org/the-energy-transition-in-2026-10-trends-to-watch/"
+      "short_title": "Hongrie lève veto Ukraine",
+      "title": "La victoire de Magyar ouvre la voie à la levée du veto hongrois sur le prêt de 90 Md€ à l'Ukraine",
+      "summary": "L'élection de Péter Magyar crée les conditions pour débloquer le prêt de 90 milliards d'euros de l'UE à l'Ukraine, qu'Orbán avait unilatéralement mis sous embargo en février 2026. Le nouveau gouvernement hongrois s'opposera cependant au soutien militaire direct à Kiev et à une adhésion accélérée de l'Ukraine à l'UE. Ce basculement diplomatique renforce la cohésion de l'Union sur le dossier ukrainien à un moment où le financement de la reconstruction reste critique.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Les négociations US-Iran sur le MOU sont directement motivées par la crise d'Ormuz : un accord d'ouverture du détroit est le premier point à régler avant toute discussion nucléaire, faisant des deux événements les deux faces d'une même crise."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "La fermeture du détroit d'Ormuz prive le marché mondial de 10,5 mb/j de production du Golfe, provoquant une chute rapide des stocks mondiaux et une flambée des cours pétroliers vers 110 $/baril."
-    },
-    {
-      "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Le choc pétrolier comprime le pouvoir d'achat des ménages européens et alourdit les coûts de production des entreprises, déclenchant une contraction de l'activité et une destruction d'emplois accélérée mesurée par le PMI composite."
-    },
-    {
-      "source": "n03",
       "target": "n05",
       "type": "cause",
-      "explanation": "La hausse brutale des prix de l'énergie ravive l'inflation dans toutes les économies G10 (PCE US à 3,5%, zone euro vers 4%), forçant les banques centrales à renoncer aux baisses de taux et à priser des hausses pour 2026."
+      "explanation": "Les frappes militaires américano-israéliennes sur l'Iran ont conduit Téhéran à fermer le Détroit de Hormuz le 4 mars 2026, piégeant mécaniquement les centaines de tankers déjà engagés dans le transit du Golfe Persique."
+    },
+    {
+      "source": "n05",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "L'immobilisation de plus de 840 tankers réduit de 90 % les flux de brut et de GNL depuis le Golfe Persique, créant une pénurie d'offre immédiate qui propulse les prix spot au-delà de 100 $/bbl."
     },
     {
       "source": "n04",
-      "target": "n06",
-      "type": "tension",
-      "explanation": "L'adoption du FRTB impose aux banques européennes des exigences de capital supplémentaires précisément quand la contraction économique de la zone euro érode leurs marges et alourdit le risque de crédit dans leurs portefeuilles."
-    },
-    {
-      "source": "n06",
       "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "UE et États-Unis convergent vers une réforme similaire du risque de marché, mais avec un décalage de calendrier et des divergences sur les seuils de capital qui créent une pression de level playing field pour les banques transatlantiques."
+      "type": "cause",
+      "explanation": "Un baril à 104 $ renchérit l'énergie et les intrants industriels mondiaux, réalimentant l'inflation et réduisant la marge de manoeuvre de la nouvelle direction de la Fed pour baisser ses taux sans risquer un rebond des prix à la consommation."
     },
     {
-      "source": "n08",
-      "target": "n09",
+      "source": "n04",
+      "target": "n08",
+      "type": "cause",
+      "explanation": "Le choc pétrolier alimentant l'inflation, les marchés obligataires intègrent une prime de risque supplémentaire et repoussent l'horizon des baisses de taux, faisant remonter les rendements longs sur toutes les maturités."
+    },
+    {
+      "source": "n02",
+      "target": "n04",
       "type": "tension",
-      "explanation": "La valorisation d'Anthropic à 900 milliards dépasse celle d'OpenAI et met Google sous pression concurrentielle directe sur le segment des modèles API : Google riposte avec Gemini 3.5 Flash et sa plateforme agentique lors de Google I/O."
+      "explanation": "À court terme l'UAE ne peut exporter via Hormuz ; mais sa sortie de l'OPEC annonce une stratégie de surproduction (objectif 5 Mb/j) qui exercera une forte pression baissière sur les prix dès que le Détroit se rouvrira, en contradiction directe avec les prix actuellement élevés."
+    },
+    {
+      "source": "n03",
+      "target": "n18",
+      "type": "cause",
+      "explanation": "La victoire électorale de Magyar crée les conditions politiques pour lever le veto hongrois sur le prêt de 90 Md€ à l'Ukraine, directement posé par Orbán en représailles à sa mise en cause par Bruxelles."
+    },
+    {
+      "source": "n01",
+      "target": "n02",
+      "type": "meme_sujet",
+      "explanation": "La décision de l'UAE de quitter l'OPEC est indissociable de la crise du Détroit de Hormuz : Abu Dhabi, incapable d'exporter par le Golfe, se libère de toute contrainte cartellisée pour se positionner en fournisseur alternatif fiable dans l'après-crise."
     },
     {
       "source": "n09",
       "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Gemini 3.5 Flash et GPT-5.5 Instant se positionnent simultanément dans la même catégorie de modèles frontier rapides et bon marché, illustrant la course vers le bas des coûts d'inférence qui transforme l'économie des labs IA."
+      "type": "tension",
+      "explanation": "Anthropic et Google ont publié simultanément leurs meilleurs modèles agentiques en mai 2026, se disputant les mêmes benchmarks de codage autonome et le même budget IT des entreprises pour les workflows IA longue durée."
     },
     {
-      "source": "n08",
-      "target": "n12",
+      "source": "n10",
+      "target": "n13",
       "type": "cause",
-      "explanation": "Les dizaines de milliards investis dans les labs IA financent une amélioration rapide des capacités agentiques qui rend viable et rentable le déploiement d'agents autonomes dans les processus enterprise à grande échelle."
+      "explanation": "Gemini 3.5 Flash est le moteur de raisonnement embarqué dans Gemini Spark : sa vitesse (4× les concurrents) et sa capacité à maintenir des tâches longues sont les prérequis techniques qui rendent l'agent personnel viable à grande échelle."
     },
     {
       "source": "n11",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "L'évolution de Cursor vers des systèmes multi-agents (Cursor 3) normalise l'architecture d'orchestration d'agents dans les équipes de développement, accélérant la généralisation de ce paradigme à l'ensemble des workflows enterprise."
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "La valorisation record d'Anthropic à 900 Md$ est portée par la traction commerciale de Claude Opus 4.7 : les deux événements reflètent la même accélération de l'adoption en entreprise et du chiffre d'affaires au T2 2026."
     },
     {
-      "source": "n12",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "Les tuteurs IA spécialisés et les agents enterprise partagent la même architecture fondamentale (LLM orchestré sur un domaine précis), mais les RCT montrent que la spécialisation pédagogique produit des effets radicalement différents des chatbots généralistes."
+      "source": "n04",
+      "target": "n17",
+      "type": "cause",
+      "explanation": "Un baril durablement au-dessus de 100 $ améliore mécaniquement la rentabilité des actifs fossiles à long terme, renforçant les arbitrages stratégiques des majors pétrolières contre les investissements dans les énergies de transition."
     },
     {
       "source": "n14",
-      "target": "n15",
+      "target": "n16",
       "type": "meme_sujet",
-      "explanation": "Ces deux avancées convergent vers le même objectif de vieillissement sain à des niveaux complémentaires : cellulaire pour les aptamères sénolytiques, nutritionnel pour la qualité des glucides — ensemble, elles esquissent une stratégie de longévité multidimensionnelle."
-    },
-    {
-      "source": "n03",
-      "target": "n17",
-      "type": "tension",
-      "explanation": "La flambée du pétrole à 110 $/baril crée une pression paradoxale sur la politique climatique européenne : elle accélère l'intérêt pour la souveraineté énergétique et les renouvelables, mais les contraintes budgétaires liées à la stagflation compliquent le financement de la transition."
+      "explanation": "Les deux découvertes convergent vers le même axe scientifique : optimiser la fonction mitochondriale — par la nutrition chez l'une, par la génétique chez l'autre — comme levier central de la longévité cellulaire et de la résistance au vieillissement."
     }
   ]
 }

@@ -1,266 +1,271 @@
 {
-  "generated_at": "2026-05-24T06:00:00Z",
+  "generated_at": "2026-05-26T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Accord Iran-US dans 24h",
-      "title": "Accord de paix Iran-États-Unis : brouillon annoncé d'ici dimanche soir",
-      "summary": "Selon un scoop exclusif d'Axios daté du 24 mai, les États-Unis et l'Iran s'apprêtent à annoncer un projet d'accord de paix dans les 24 heures, après des mois de négociations indirectes. L'accord prévoit une extension de 60 jours du cessez-le-feu, la réouverture du Détroit de Hormuz aux navires commerciaux et l'ouverture immédiate de négociations sur le programme nucléaire iranien. Washington aurait accepté de négocier la levée progressive des sanctions en échange d'un arrêt vérifiable des hostilités.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear"
+      "short_title": "Iran-US deal Hormuz",
+      "title": "Accord Iran-USA sur le détroit d'Ormuz en vue",
+      "summary": "Le président Trump a déclaré le 23 mai qu'un accord avec l'Iran pour rouvrir le détroit d'Ormuz est « en grande partie négocié ». L'accord prévu inclurait un cessez-le-feu de 60 jours, pendant lequel l'Iran déminerait le détroit et les États-Unis lèveraient leur blocus des ports iraniens. Des désaccords persistent sur le programme nucléaire iranien et sur la souveraineté du contrôle de la navigation dans le détroit.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz : 60j + nucléaire",
-      "title": "Termes du deal : moratoire nucléaire 12-20 ans et dégel progressif des avoirs iraniens",
-      "summary": "Les termes en cours de finalisation incluent un moratoire sur l'enrichissement d'uranium d'au moins 12 ans (Téhéran proposait 5 ans, Washington exigeait 20) et l'abandon des stocks d'uranium hautement enrichi. L'Iran s'engagerait formellement à ne jamais développer l'arme nucléaire dans le mémorandum. Le dégel des avoirs iraniens et la levée de sanctions ne seraient déclenchés qu'en cas de mise en œuvre vérifiable de l'accord final.",
-      "source": "The Week",
-      "url": "https://www.theweek.in/news/middle-east/2026/05/23/us-iran-ceasefire-extension-nuclear-talks-hormuz-pakistan-deal-mediation.html"
-    },
-    {
-      "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Liban-Israël : négos DC",
-      "title": "Liban-Israël : premières négociations directes à Washington, Hezbollah s'y oppose",
-      "summary": "Des représentants libanais et israéliens se retrouvent à Washington pour des pourparlers directs inédits visant un accord de normalisation dans le sillage de la désescalade régionale. Le Hezbollah a rejeté toute forme de légitimation de l'État hébreu et menace de faire tomber la coalition gouvernementale libanaise si un accord est signé. L'administration Trump voit dans cette fenêtre diplomatique l'occasion de prolonger les Accords Abraham à la partie nord de la région.",
-      "source": "World Economic Forum",
-      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
-    },
-    {
-      "id": "n04",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent $114, deal attendu",
-      "title": "Brent à 114 $/bbl : pic de tension avant l'éventuel accord d'Hormuz",
-      "summary": "Le Brent a bondi à 114,44 dollars le baril sur un rebond de violence dans le Détroit, soit près de +6 % sur la séance, après que le trafic de pétroliers est resté bien en dessous des niveaux d'avant-guerre malgré le cessez-le-feu d'avril. La fermeture prolongée du Détroit depuis début mars a retranché environ 20 % de l'offre pétrolière mondiale et ajouté 0,8 point à l'inflation globale. Si l'accord Axios est signé dimanche, les analystes tablent sur un repli rapide vers 90-95 $/bbl en début de semaine.",
+      "short_title": "Hormuz bloqué - pire choc",
+      "title": "Détroit d'Ormuz bloqué : plus grande perturbation pétrolière de l'histoire selon l'AIE",
+      "summary": "Le conflit irano-américain a provoqué une restriction quasi-totale du trafic maritime dans le détroit d'Ormuz, que l'AIE qualifie de plus grande perturbation d'approvisionnement en pétrole jamais enregistrée. Le baril de Brent a culminé à 114 dollars, déclenchant des plans d'urgence énergétiques en Europe et des coupes de vols chez plusieurs compagnies aériennes. La crise illustre la fragilité structurelle de l'économie mondiale face à ce couloir stratégique qui concentre 20 % du transit pétrolier global.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz"
     },
     {
+      "id": "n03",
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent à 97$ après accord",
+      "title": "Brent chute à 97 $ sur les espoirs d'accord Iran-USA",
+      "summary": "Le Brent a chuté de plus de 6 % sur la semaine pour repasser sous 100 dollars, à environ 97 dollars le baril, au fur et à mesure des progrès diplomatiques irano-américains. Cette correction intervient après un pic à 114 dollars mi-mai, déclenché par les violences en mer près du détroit d'Ormuz. Les marchés intègrent désormais une prime de risque résiduelle liée aux incertitudes persistantes sur le dossier nucléaire.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html"
+    },
+    {
+      "id": "n04",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 3,
+      "short_title": "EU FRTB capital 2027",
+      "title": "UE : la Commission adopte les amendements FRTB, en vigueur janvier 2027",
+      "summary": "La Commission européenne a formellement adopté le 19 mai un acte délégué amendant les règles FRTB (risque de marché) applicables aux banques de l'UE à partir de janvier 2027. Ce texte introduit un multiplicateur correctif pour compenser l'impact négatif sur les fonds propres réglementaires, dans un contexte où les États-Unis ont adopté une version significativement différente du cadre Bâle III. L'objectif est de préserver l'égalité des conditions de concurrence entre banques européennes et américaines sur les activités de trading.",
+      "source": "European Commission",
+      "url": "https://finance.ec.europa.eu/news/commission-seeks-views-market-risk-prudential-requirements-eu-banks-2026-04-22_en"
+    },
+    {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "usa",
-      "importance": 3,
-      "short_title": "Warsh prête serment",
-      "title": "Kevin Warsh prête serment à la tête de la Fed face à une inflation à 3,8 %",
-      "summary": "Kevin Warsh prend officiellement ce 24 mai la présidence de la Réserve fédérale, alors que l'IPC annuel atteint 3,8 %, presque le double de la cible des 2 %. Le nouveau chairman fait face à une configuration délicate : pression de la Maison Blanche pour baisser les taux et FOMC peu enclin à assouplir tant que l'inflation énergétique n'est pas résorbée. Les marchés ont révisé à la baisse leurs anticipations de baisses de taux pour 2026, les gouverneurs les plus accommodants se rangeant eux aussi à la prudence.",
-      "source": "Charles Schwab",
-      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+      "subtopic": "banques_centrales",
+      "importance": 2,
+      "short_title": "BOJ maintient 0,75%",
+      "title": "Banque du Japon maintient ses taux à 0,75 % malgré des pressions internes",
+      "summary": "La Banque du Japon a maintenu son taux directeur à 0,75 % lors de sa réunion de mai, avec trois membres du conseil votant pour une hausse immédiate. Les pressions inflationnistes importées, amplifiées par la crise du détroit d'Ormuz, compliquent la trajectoire de normalisation monétaire envisagée depuis 2025. La BOJ reste l'une des rares grandes banques centrales encore contrainte d'opérer dans un environnement inflationniste partiellement exogène.",
+      "source": "ActivTrades / SEI",
+      "url": "https://www.activtrades.com/en/news/weekly-outlook-markets-central-banks-key-events-may-2026"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "usa",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "US 30Y : record 19 ans",
-      "title": "Obligation 30 ans américaine au plus haut depuis 19 ans sous double pression",
-      "summary": "Le rendement de l'obligation d'État américaine à 30 ans a frôlé un sommet de 19 ans, sous la double contrainte du choc pétrolier inflationniste et d'un déficit budgétaire fédéral persistant sans perspective de consolidation. Cette remontée des taux longs comprime les marges de manœuvre des banques centrales et pèse sur la valorisation des actifs à longue duration. Les taux longs européens enregistrent un effet de contagion limité mais réel via le repricing du risque global.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/15/treasury-inflation-data-rate-cuts-fomc-trump-kevin-warsh/"
+      "short_title": "Magyar bat Orbán",
+      "title": "Hongrie : Péter Magyar renverse Viktor Orbán après 16 ans de Fidesz",
+      "summary": "Le parti Tisza de Péter Magyar a remporté les élections législatives hongroises du 12 avril avec 53,6 % des voix, infligeant une défaite historique à Viktor Orbán et son Fidesz. Le nouveau premier ministre entend réorienter la politique hongroise vers un rapprochement avec l'Union européenne et ses partenaires d'Europe centrale. Le résultat, avec un taux de participation record de 77 %, est salué internationalement comme un signal fort pour les démocraties libérales du continent.",
+      "source": "CNN / Al Jazeera",
+      "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "FRTB US : avis au 18 juin",
-      "title": "FRTB US : la Fed recalibre le cadre Basel III, consultations publiques jusqu'au 18 juin",
-      "summary": "La Fed, la FDIC et l'OCC ont publié en mars 2026 une proposition révisée du cadre FRTB américain qui abandonne la double pile SA+IMA en parallèle et plafonne l'exigence de capital IMA au niveau de l'approche standard. Le délai de commentaires publics expire le 18 juin 2026, avec adoption finale attendue en Q4 2026 et application en 2027. Ce recalibrage réduit la charge opérationnelle des banques de trading tout en maintenant les exigences fondamentales de Bâle III.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+      "theme": "tech",
+      "subtopic": "consulting",
+      "importance": 3,
+      "short_title": "OpenAI lance DeployCo",
+      "title": "OpenAI lance DeployCo, filiale conseil IA à 4 milliards de dollars",
+      "summary": "OpenAI a lancé le 11 mai une filiale de conseil en IA baptisée OpenAI Deployment Company (DeployCo), dotée de plus de 4 milliards de dollars et valorisée 10 milliards en pré-money. La structure associe des partenaires comme McKinsey, Bain & Company et Capgemini, avec des ingénieurs déployés directement chez les clients pour reconfigurer leurs workflows autour de l'IA. Ce mouvement positionne OpenAI sur un marché de conseil estimé à 375 milliards de dollars, en concurrence directe avec les grands cabinets de transformation digitale.",
+      "source": "OpenAI / Axios",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company/"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "consulting",
-      "importance": 3,
-      "short_title": "OpenAI DeployCo $4bn",
-      "title": "OpenAI lance sa filiale de conseil IA (Deployment Company) capitalisée à 4 milliards",
-      "summary": "OpenAI a créé une filiale majoritaire, l'OpenAI Deployment Company, capitalisée à plus de 4 milliards de dollars par 19 fonds et cabinets (TPG, Bain Capital, Brookfield) pour embarquer des ingénieurs IA directement chez les clients enterprise. L'acquisition de Tomoro, cabinet de consulting IA basé à Londres avec 150 ingénieurs spécialisés, fournit le capital humain de l'entité. Cette offensive verticale sur les services IA remet en question le positionnement des ESN et des cabinets de conseil traditionnels qui misaient sur des partenariats avec OpenAI.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/11/openai-deployco-private-equity"
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Google IO Gemini 3.5",
+      "title": "Google I/O 2026 : Gemini 3.5 Flash et plateforme agents Antigravity",
+      "summary": "Google I/O 2026 a été entièrement centré sur l'IA, avec le lancement de Gemini 3.5 Flash, un modèle combinant intelligence frontière et vélocité pour les usages en production. Google a également présenté Antigravity, sa plateforme de développement d'agents IA dotée de nouveaux primitives : sous-agents, hooks et orchestration asynchrone. La conférence marque le pivot stratégique de Google d'un fournisseur de modèles vers une plateforme d'agents enterprise intégrée.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "llm_agents",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Anthropic agents MCP beta",
-      "title": "Anthropic ouvre la beta publique des MCP tunnels pour agents autonomes longue durée",
-      "summary": "Anthropic a mis en beta publique le 19 mai les fonctionnalités MCP tunnels et sandboxes auto-hébergés pour Claude Managed Agents, permettant aux développeurs de déployer des agents qui coordonnent des sous-agents sur des workflows de plusieurs heures sans intervention humaine. Le marché mondial de l'intégration et du conseil IA dépasse 14 milliards de dollars en 2026, alimenté par l'adoption en production des agents dans la finance, le droit et le développement logiciel. Anthropic mise sur une infrastructure ouverte et inter-opérable pour contrer l'approche de verticalisation agressive d'OpenAI DeployCo.",
-      "source": "AI Agent Store",
-      "url": "https://aiagentstore.ai/ai-agent-news/this-week"
+      "short_title": "Cursor CEO: dangers IA",
+      "title": "Le CEO de Cursor alerte sur les risques du vibe coding sans rigueur",
+      "summary": "Michael Truell, PDG de Cursor — leader du marché des éditeurs IA avec 2 milliards de revenus annualisés — a mis en garde contre le vibe coding pratiqué sans rigueur d'ingénierie, estimant qu'il produit des bases de code fragiles, difficilement maintenables et peu sécurisées. Cette prise de position paradoxale intervient alors que 92 % des développeurs américains auraient adopté des pratiques de vibe coding. Truell plaide pour une combinaison entre assistance IA et culture d'ingénierie solide.",
+      "source": "Wio News",
+      "url": "https://www.wionews.com/technology/cursor-ceo-michael-truell-warns-developers-against-over-relying-on-ai-coding-tools-1766740771614"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "vibe_coding",
+      "subtopic": "mlops",
       "importance": 2,
-      "short_title": "AI Studio : vibe coding",
-      "title": "Google I/O 2026 : AI Studio devient un IDE full-stack avec Firebase et Cloud Run",
-      "summary": "Google a dévoilé lors de son I/O développeurs 2026 une expérience de vibe coding full-stack dans AI Studio, permettant de transformer un prompt en langage naturel en application déployée sur Cloud Run avec base de données Firebase et multiplayer. L'intégration native Android (Kotlin + Jetpack Compose) et le déploiement automatique vers le Play Store complètent l'offre orientée développeurs solo. Avec Gemini 3.5 Flash comme modèle par défaut, Google cible directement le segment des fondateurs et des startups early-stage qui dominait jusque-là le marché de Bolt.new et Lovable.",
-      "source": "Google Developers Blog",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/"
+      "short_title": "Amazon silicon 20 Mds $",
+      "title": "Amazon silicon Graviton/Trainium dépasse 20 Mds $ annualisés",
+      "summary": "La division puces personnalisées d'Amazon — Graviton (CPU), Trainium (entraînement IA) et Nitro (sécurité) — a franchi le seuil de 20 milliards de dollars de revenus annualisés, s'imposant parmi les trois premiers acteurs mondiaux en puces pour data centers. OpenAI, Anthropic, Meta et Uber figurent parmi les clients engagés sur plusieurs années. Cette montée en puissance illustre la verticalisation croissante de l'infrastructure IA au sein des hyperscalers, réduisant leur dépendance à Nvidia.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/21/google-ai-anthropic-openai-war"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "learn",
+      "subtopic": "ai_education",
       "importance": 2,
-      "short_title": "Cursor 2.5 + CVE patchée",
-      "title": "Cursor 2.5 avec intégration Jira, mais une CVE critique venait d'être corrigée",
-      "summary": "Cursor a annoncé les 19-20 mai sa version 2.5 ajoutant l'intégration Jira et une Composer améliorée, moins d'un mois après la divulgation et le patch de la CVE-2026-26268 (CVSS 8.1). Cette faille permettait à un dépôt Git malveillant de déclencher une exécution de code arbitraire sur la machine du développeur via un hook de pré-commit caché dans un bare repository imbriqué. Avec 92 % d'adoption quotidienne des outils IA chez les développeurs américains, la popularité de Cursor amplifie considérablement le risque de compromission supply chain via ce vecteur.",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/"
+      "short_title": "OCDE: IA tuteur +2 mois",
+      "title": "OCDE 2026 : les tuteurs IA font gagner 1 à 3 mois d'apprentissage",
+      "summary": "Le rapport OCDE Digital Education Outlook 2026 confirme que les élèves utilisant des tuteurs IA pendant une année scolaire complète progressent en moyenne de 1 à 3 mois de plus que leurs pairs en enseignement traditionnel. Les bénéfices sont conditionnés à une utilisation active (3 à 5 heures par semaine) et à une intégration dans une stratégie pédagogique structurée. L'OCDE avertit cependant que les outils d'IA générative fournissant des réponses directes risquent de réduire l'engagement cognitif des élèves et d'affaiblir leurs compétences profondes.",
+      "source": "OCDE",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
     },
     {
       "id": "n12",
-      "theme": "learn",
-      "subtopic": "ai_labs",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Khanmigo : 18M élèves",
-      "title": "Khan Academy : Khanmigo atteint 18 millions d'élèves avec +1 à 3 mois d'apprentissage",
-      "summary": "Khanmigo, le tuteur IA de Khan Academy alimenté par Claude d'Anthropic, est utilisé par 18 millions d'élèves dans le monde en 2026. Les études d'impact montrent un gain supplémentaire de 1 à 3 mois d'apprentissage sur une année scolaire par rapport à l'enseignement traditionnel, avec les gains les plus marqués dans les zones à faibles ressources pédagogiques. Ce déploiement à grande échelle est la première preuve empirique à ce niveau d'ampleur que l'IA peut réduire les inégalités éducatives quand elle est encadrée par une architecture pédagogique rigoureuse.",
-      "source": "is4.ai",
-      "url": "https://is4.ai/blog/our-blog-1/top-10-ai-tutoring-systems-2026-learning-outcomes-208"
+      "short_title": "Gène longévité taupe nue",
+      "title": "Transfert du gène de longévité du rat-taupe nu : les souris vivent plus longtemps",
+      "summary": "Des chercheurs ont transféré avec succès le gène HAS2 — responsable de la production d'acide hyaluronique de haute masse moléculaire chez le rat-taupe nu — dans le génome de souris ordinaires. Les animaux modifiés ont montré une augmentation médiane de longévité de 4,4 %, une meilleure résistance aux tumeurs et des niveaux d'inflammation réduits. C'est la première démonstration concrète qu'un trait de longévité peut être transféré fonctionnellement entre espèces chez les mammifères.",
+      "source": "ScienceDaily / SBBS",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "sciences",
+      "subtopic": "alzheimer",
       "importance": 2,
-      "short_title": "Harvard : variété sport",
-      "title": "Harvard : pratiquer plusieurs types d'exercices réduit la mortalité prématurée de 19 %",
-      "summary": "Une étude publiée en janvier 2026 dans BMJ Medicine, conduite sur 111 000 adultes suivis plus de 30 ans via les cohortes infirmières et professionnels de santé de Harvard, montre que la diversité des types d'exercices pratiqués réduit le risque de mort prématurée de 19 % indépendamment du volume total d'activité physique. L'effet persiste quel que soit le niveau d'activité initial du participant, des plus sédentaires aux plus actifs. Ces résultats soutiennent une approche multidisciplinaire de l'entraînement — alternant cardio, force, souplesse et activités de la vie quotidienne — plutôt qu'une spécialisation sur un seul type.",
-      "source": "Harvard T.H. Chan School of Public Health",
-      "url": "https://hsph.harvard.edu/news/exercise-variety-not-just-amount-linked-to-lower-risk-of-premature-mortality/"
+      "short_title": "Nanotech efface amyloïde",
+      "title": "Des nanoparticules effacent 50 % de l'amyloïde cérébrale chez la souris",
+      "summary": "Une équipe de l'UCL a développé des nanoparticules supramoléculaires qui, administrées à des souris atteintes d'Alzheimer, réduisent de 50 à 60 % la concentration de protéines amyloïdes dans le cerveau et réparent la barrière hémato-encéphalique. Contrairement aux médicaments classiques, ces nanoparticules sont actives par elles-mêmes, sans transporter de molécule thérapeutique distincte. Des souris âgées traitées ont retrouvé des comportements comparables à des individus jeunes en bonne santé.",
+      "source": "ScienceDaily / UCL",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260517030326.htm"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "climat",
+      "subtopic": "transition",
       "importance": 2,
-      "short_title": "Régime : âge bio en 4 sem",
-      "title": "Un changement de régime sur 4 semaines inverse les marqueurs de l'âge biologique chez les 65-75 ans",
-      "summary": "Une étude parue dans Aging Cell en mai 2026 montre que des adultes de 65 à 75 ans ont enregistré une réduction significative de leur âge biologique estimé après seulement quatre semaines d'intervention diététique ciblée. Les chercheurs soulignent que des modifications alimentaires tardives peuvent rapidement améliorer les biomarqueurs du vieillissement, remettant en cause l'idée que ces marqueurs sont immuables après 60 ans. L'étude ouvre la voie à des protocoles nutritionnels personnalisés pour ralentir le vieillissement cellulaire sans recourir à la pharmacologie.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213144.htm"
+      "short_title": "Solaire: 1re source élec",
+      "title": "Le solaire devient la première source d'électricité mondiale, 1,5 °C officiellement abandonné",
+      "summary": "Le solaire s'apprête à devenir la première source d'électricité mondiale en 2026-2027 selon BloombergNEF, porté par une surabondance de panneaux et une chute continue des coûts de production. En parallèle, l'objectif de 1,5 °C de l'Accord de Paris est désormais officiellement jugé hors de portée par les grandes institutions climatiques, les gouvernements donnant la priorité à la sécurité et à l'accessibilité énergétiques. Les prévisions pour l'éolien sont révisées à la baisse en raison de retards de permitting et de tensions dans les chaînes d'approvisionnement.",
+      "source": "BloombergNEF / RFF",
+      "url": "https://about.bnef.com/insights/clean-energy/bloombergnefs-new-energy-outlook-2026-transition-to-newer-technologies-expanded-electrification-to-strengthen-nations-energy-security/"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Mayo : aptamères zombies",
-      "title": "Mayo Clinic : des aptamères ADN ciblent précisément les cellules sénescentes in vivo",
-      "summary": "Des chercheurs de la Mayo Clinic ont développé des aptamères ADN synthétiques capables de se fixer sélectivement aux cellules sénescentes dans les tissus de souris sans affecter les cellules saines, selon un article paru dans Aging Cell en mai 2026. Ce verrou technologique bloquait depuis 30 ans les essais cliniques de médicaments sénolytiques — aucun n'ayant encore reçu d'autorisation pour l'usage humain malgré plus de 30 essais cliniques. Les aptamères, moins coûteux et plus adaptables que les anticorps traditionnels, ouvrent la voie à un ciblage thérapeutique précis des pathologies liées à la sénescence (Alzheimer, arthrite, insuffisance cardiaque).",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/316688/20260515/mayo-clinic-dna-molecules-pinpoint-aging-zombie-cells-unlocking-precision-senolytic-therapy.htm"
-    },
-    {
-      "id": "n16",
       "theme": "climat",
       "subtopic": "europe",
       "importance": 2,
-      "short_title": "UE post-2030 : juillet",
-      "title": "UE post-2030 : la Commission proposera son cadre climatique et énergétique en juillet",
-      "summary": "La Commission européenne a clôturé sa consultation publique sur le cadre post-2030 début mai 2026 et présentera ses propositions législatives en juillet (révision ETS) puis en décembre (objectifs nationaux, directives énergie et efficacité). L'objectif de réduction des émissions de 90 % d'ici 2040 est juridiquement contraignant depuis l'amendement de la loi climatique européenne de juillet 2025. L'enjeu central des arbitrages à venir est de réconcilier ambition climatique et compétitivité industrielle face à la concurrence américaine et chinoise.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
+      "short_title": "UE: sécurité énergétique",
+      "title": "Crise Ormuz : l'UE accélère ses plans de sécurité énergétique",
+      "summary": "La restriction du trafic pétrolier dans le détroit d'Ormuz a poussé les gouvernements européens à enclencher des plans d'urgence contre les risques de pénuries de carburant dans le transport et l'industrie. L'UE envisage des mesures pour diversifier ses approvisionnements et accélérer la constitution de stocks stratégiques. La crise renforce l'argument politique pour une accélération de la transition vers des sources d'énergie domestiques et renouvelables.",
+      "source": "WEF",
+      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
+    },
+    {
+      "id": "n16",
+      "theme": "geopol",
+      "subtopic": "asie",
+      "importance": 2,
+      "short_title": "Chine-Taïwan: tourisme",
+      "title": "Pékin offre des incitations à Taïwan après la visite du KMT",
+      "summary": "Après la visite du leader du Kuo min-tang (KMT, principale opposition taïwanaise) à Pékin, la Chine a annoncé une série d'incitations vers Taïwan, dont la reprise des vols directs et un meilleur accès pour les médias taïwanais sur le continent. Cette ouverture ciblée vise à renforcer les liens avec les forces pro-rapprochement à Taïwan dans un contexte de tensions persistantes avec Taipei. La démarche est perçue comme une stratégie de soft power en alternative à la pression militaire.",
+      "source": "WEF",
+      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
     },
     {
       "id": "n17",
-      "theme": "climat",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 1,
+      "short_title": "SAP rachète Prior Labs",
+      "title": "SAP acquiert Prior Labs et investit 1,18 Md $ dans un lab IA frontier",
+      "summary": "SAP a annoncé l'acquisition de Prior Labs et la création d'un laboratoire d'IA frontière doté de 1,18 milliard de dollars pour développer des modèles propriétaires intégrés à ses solutions d'entreprise. Ce mouvement illustre la course des grands éditeurs de logiciels à internaliser les capacités d'IA avancée plutôt que de dépendre des APIs de tiers. SAP rejoint ainsi Salesforce et ServiceNow dans la compétition pour l'IA enterprise intégrée.",
+      "source": "imfounder.com",
+      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/"
+    },
+    {
+      "id": "n18",
+      "theme": "finance",
       "subtopic": "energie",
       "importance": 2,
-      "short_title": "Objectif 1.5°C perdu",
-      "title": "Global Energy Outlook 2026 : l'objectif 1,5°C est officiellement hors d'atteinte",
-      "summary": "Le rapport Global Energy Outlook 2026 du think tank Resources for the Future confirme que le monde a collectivement dépassé la trajectoire compatible avec un réchauffement de 1,5°C et que cet objectif ne peut plus être atteint. La crise du Détroit de Hormuz a amplifié ce recul en renforçant les arbitrages stratégiques des majors et des gouvernements vers les actifs fossiles au détriment des investissements dans les énergies propres. Le rapport propose un objectif intermédiaire de -50 % d'émissions d'ici 2035 comme nouvelle norme réaliste pour ancrer les politiques publiques.",
-      "source": "Resources for the Future",
-      "url": "https://www.rff.org/publications/reports/global-energy-outlook-2026/"
+      "short_title": "Lufthansa coupe vols",
+      "title": "Kérosène en flambée : Lufthansa réduit ses vols, l'Europe en alerte",
+      "summary": "La flambée des prix du kérosène liée à la crise du détroit d'Ormuz a conduit Lufthansa à annoncer des réductions de vols et à répercuter des surcoûts significatifs sur ses tarifs. Les gouvernements européens ont parallèlement enclenché des processus de planification pour anticiper d'éventuelles pénuries de carburant dans le transport et l'industrie. La situation illustre comment un choc géopolitique régional se transmet en quelques semaines à l'économie réelle des entreprises.",
+      "source": "WEF / Reuters",
+      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
     }
   ],
   "edges": [
     {
-      "source": "n01",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Les deux nœuds décrivent le même événement diplomatique US-Iran sous deux angles complémentaires : l'annonce imminente du brouillon (n01) et le détail précis des termes en négociation (n02)."
+      "source": "n02",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "La fermeture quasi-totale du détroit d'Ormuz a réduit drastiquement l'offre pétrolière mondiale, propulsant le Brent à 114 dollars. Ce sont précisément les progrès vers un accord qui commencent à inverser cette hausse en faisant anticiper le retour du pétrole iranien."
     },
     {
       "source": "n01",
       "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "L'accord US-Iran et les négociations Liban-Israël s'inscrivent dans la même fenêtre diplomatique de désescalade régionale pilotée par l'administration Trump au printemps 2026."
-    },
-    {
-      "source": "n01",
-      "target": "n04",
       "type": "cause",
-      "explanation": "La perspective d'un accord rouvrant Hormuz crée une anticipation de retour de l'offre pétrolière : dès que la signature sera confirmée, le marché anticipe un repli rapide du Brent depuis ses sommets à 114 $/bbl."
+      "explanation": "Les déclarations de Trump sur un accord 'en grande partie négocié' ont directement déclenché une chute de plus de 6 % du Brent en une semaine, les marchés anticipant la levée du blocus et le retour du pétrole iranien sur le marché mondial."
     },
     {
-      "source": "n04",
+      "source": "n02",
       "target": "n05",
       "type": "cause",
-      "explanation": "Un baril durablement au-dessus de 100 $ alimente l'inflation à 3,8 % et crée la contrainte principale de Warsh : assouplir les taux comme le demande Trump risquerait d'aggraver la surchauffe des prix à la consommation."
+      "explanation": "Le choc pétrolier d'Ormuz alimente une inflation importée persistante dans les économies développées, incitant la BOJ et d'autres banques centrales à maintenir leurs taux à des niveaux élevés par précaution contre un rebond inflationniste."
     },
     {
-      "source": "n05",
-      "target": "n06",
+      "source": "n02",
+      "target": "n18",
       "type": "cause",
-      "explanation": "La posture attentiste de la Fed entretient une prime de terme élevée sur les longues maturités : si les taux courts ne baissent pas à court terme, les investisseurs exigent une compensation accrue pour immobiliser leur capital à 30 ans."
+      "explanation": "La restriction du transit pétrolier par le détroit a directement fait flamber le prix du kérosène en Europe, amplifiant les coûts opérationnels des compagnies aériennes comme Lufthansa et forçant des ajustements de capacité."
     },
     {
-      "source": "n06",
-      "target": "n07",
+      "source": "n18",
+      "target": "n15",
       "type": "cause",
-      "explanation": "Des rendements à 30 ans proches des plus hauts historiques augmentent le coût de portage des portefeuilles de trading et les charges CVA/DVA, rendant le choix de calibration FRTB (IMA vs SA cap) encore plus stratégique pour les grandes banques."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "OpenAI intègre verticalement la chaîne de valeur en créant sa propre filiale de conseil (DeployCo) pendant qu'Anthropic mise sur une infrastructure agentique ouverte via MCP tunnels pour rester attractif auprès des intégrateurs et ESN indépendants."
-    },
-    {
-      "source": "n09",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "Les agents autonomes longue durée rendus possibles par l'infrastructure MCP d'Anthropic sont précisément la brique technique sur laquelle des plateformes comme Khanmigo s'appuient pour adapter le tutorat en temps réel à chaque profil d'élève."
-    },
-    {
-      "source": "n10",
-      "target": "n11",
-      "type": "tension",
-      "explanation": "Google entre offensivement sur le segment vibe coding full-stack avec AI Studio pendant que Cursor, leader du marché, doit simultanément gérer la communication autour d'une CVE critique qui fragilise la confiance de sa base de développeurs professionnels."
-    },
-    {
-      "source": "n13",
-      "target": "n14",
-      "type": "meme_sujet",
-      "explanation": "Les deux études convergent vers le même message pratique : des modifications comportementales précises et accessibles (type d'exercice, composition du régime) impactent directement les biomarqueurs du vieillissement, sans nécessiter d'intervention pharmacologique."
+      "explanation": "Les surcoûts énergétiques concrets et les risques de pénuries de carburant pour les entreprises européennes ont conféré une urgence politique nouvelle aux plans de diversification et de sécurité énergétique de l'UE."
     },
     {
       "source": "n15",
       "target": "n14",
       "type": "cause",
-      "explanation": "L'accumulation de cellules sénescentes est l'un des mécanismes cellulaires qui fait monter l'âge biologique ; si un régime réduit cet âge biologique, c'est en partie en ralentissant la sénescence que les aptamères Mayo permettent désormais de détecter et de cibler thérapeutiquement."
+      "explanation": "La vulnérabilité aux hydrocarbures du Golfe révélée par la crise renforce l'argument économique et stratégique d'une accélération des investissements dans le solaire et les renouvelables comme alternatives domestiques moins exposées aux chocs géopolitiques."
     },
     {
-      "source": "n16",
-      "target": "n17",
+      "source": "n07",
+      "target": "n08",
       "type": "meme_sujet",
-      "explanation": "L'UE construit son agenda post-2030 en fixant un cadre réglementaire ambitieux, tandis que le rapport RFF acte que l'objectif 1,5°C est perdu : les deux signalent que la politique climatique mondiale entre dans une phase de réajustement des ambitions à la réalité des trajectoires actuelles."
+      "explanation": "OpenAI via DeployCo et Google via I/O ciblent simultanément le marché enterprise de l'IA en production, signalant que la compétition se déplace désormais des modèles vers les plateformes d'agents et de déploiement."
+    },
+    {
+      "source": "n08",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Google pousse une vision de codage full-stack piloté par IA via AI Studio et Antigravity, tandis que le CEO de Cursor alerte que ce même paradigme, appliqué sans discipline d'ingénierie, génère des dettes techniques et des vulnérabilités sécuritaires graves."
+    },
+    {
+      "source": "n09",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "La mise en garde de Cursor sur la dépendance passive à l'IA dans la production de code rejoint les conclusions de l'OCDE en éducation : l'IA utilisée en mode oracle, qu'on soit développeur ou élève, affaiblit les compétences cognitives profondes qu'elle était censée augmenter."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Ces deux avancées précliniques de mai 2026 convergent vers un même horizon scientifique : des mécanismes biologiques du vieillissement sont réversibles ou transférables entre espèces, consolidant la thèse d'interventions thérapeutiques humaines sur l'âge biologique."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La volatilité extrême des marchés pétroliers et des dérivés énergétiques (options, swaps de matières premières) renforce l'urgence de l'implémentation du FRTB, précisément conçu pour mieux capturer le risque de marché des portefeuilles de trading bancaires exposés à ces actifs volatils."
     }
   ]
 }

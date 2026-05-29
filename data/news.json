@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-05-28T06:00:00Z",
+  "generated_at": "2026-05-29T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Guerre Iran-USA : impasse",
-      "title": "Conflit Iran-USA-Israël : négociations en impasse au 90e jour",
-      "summary": "Trois mois après les frappes américano-israéliennes, les négociations patinent : Trump se dit 'insatisfait', Rubio menace d'une autre option si aucun accord n'est signé. Le Détroit d'Ormuz reste fermé et sa réouverture prendrait plusieurs mois même après un accord. L'Iran exige de conserver son stock d'uranium enrichi, point bloquant central pour Washington.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/25/iran-and-us-play-down-hopes-for-imminent-breakthrough-in-war.html"
+      "short_title": "Accord Iran-US imminent",
+      "title": "Accord Iran–États-Unis quasi finalisé sur Hormuz",
+      "summary": "Washington et Téhéran sont proches d'un cessez-le-feu de 60 jours prévoyant la réouverture du détroit d'Ormuz, la levée partielle des sanctions pétrolières et un cadre différé pour les discussions nucléaires. Trump déclare l'accord « largement négocié ». La diplomatie régionale implique le Qatar, l'Arabie saoudite, la Turquie et le Pakistan.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent rebondit vers 94$",
-      "title": "Pétrole : le Brent reprend 94$ après une chute de 5% sur espoirs diplomatiques déçus",
-      "summary": "Le Brent reprend pied autour de 94 dollars après un recul de plus de 5% mercredi, déclenché par des espoirs diplomatiques rapidement démentis par Washington et Téhéran. Le Détroit d'Ormuz reste bloqué et les experts avertissent qu'une réouverture complète prendrait des mois. Les marchés du GNL subissent aussi de fortes tensions avec des primes de risque géopolitique persistantes.",
-      "source": "Bloomberg / CNN Business",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/latest-oil-market-news-and-analysis-for-may-28"
+      "short_title": "Brent : choc historique",
+      "title": "Choc pétrolier Hormuz : Brent entre 110 et 138 $/b",
+      "summary": "Depuis la fermeture de facto du détroit d'Ormuz en février 2026, l'offre mondiale a chuté de 12,8 mb/j. Le Brent a atteint 138 $/b en avril avant de redescendre autour de 110 $/b sur fond de négociations. Les stocks mondiaux ont fondu de 246 Mb en deux mois, un rythme sans précédent depuis la crise de 1973.",
+      "source": "IEA",
+      "url": "https://www.iea.org/reports/oil-market-report-may-2026"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "Inflation France 2,2%",
-      "title": "France : l'inflation rebondit à 2,2%, chômage en hausse attendue",
-      "summary": "Après un creux à 0,3% en janvier 2026, l'inflation française remonte à 2,2% en avril sous l'effet du renchérissement des hydrocarbures. L'INSEE prévoit une montée du chômage à 7,8-8,2% d'ici fin d'année, tandis que douze branches versent des primes d'inflation exceptionnelles jusqu'à 2 500 euros nets. Le pouvoir d'achat par unité de consommation affiche un acquis négatif à mi-année.",
-      "source": "INSEE / OFCE",
-      "url": "https://www.insee.fr/fr/statistiques/8907421?sommaire=8907467"
+      "subtopic": "macro",
+      "importance": 3,
+      "short_title": "Stagflation : alerte FMI",
+      "title": "FMI abaisse ses prévisions : risque de stagflation mondial",
+      "summary": "Le FMI a ramené sa prévision de croissance mondiale 2026 à 3,1 %, avec un scénario adverse à 2 % en cas d'escalade du conflit. Le choc pétrolier pousse simultanément l'inflation et le chômage à la hausse, ravivant le spectre de la stagflation des années 1970. Deutsche Bank et Oxford Economics relèvent leur probabilité de récession.",
+      "source": "IMF World Economic Outlook",
+      "url": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "banques_centrales",
       "importance": 2,
-      "short_title": "Fed : dilemme post-Powell",
-      "title": "Fed : le successeur de Powell hérite d'un dilemme stagflationniste",
-      "summary": "Le mandat de Jerome Powell a expiré en mai 2026, ouvrant une incertitude sur la conduite de la politique monétaire américaine. Son successeur doit arbitrer entre l'inflation importée liée au choc pétrolier et le ralentissement de la croissance mondiale. Le taux actuel de 3,5-3,75% pourrait être révisé dans un sens ou dans l'autre selon l'évolution du conflit iranien.",
-      "source": "iShares / Bloomberg",
-      "url": "https://www.ishares.com/us/insights/fed-outlook-2026-interest-rate-forecast"
+      "short_title": "Dilemme taux vs récession",
+      "title": "Banques centrales coincées entre inflation et récession",
+      "summary": "70 % des grandes banques centrales ont mis leur cycle d'assouplissement en pause. Relever les taux pour écraser l'inflation énergétique risque d'aggraver la récession, mais une posture accommodante ancrerait les anticipations inflationnistes. Le départ de Powell et l'incertitude sur son successeur à la Fed ajoutent une couche de volatilité.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/05/oil-price-shock-iran-interest-rates-recession-borrowing-war-central-banks-bank-england-ecb.html"
     },
     {
       "id": "n05",
       "theme": "geopol",
-      "subtopic": "europe",
+      "subtopic": "asie-pacifique",
       "importance": 2,
-      "short_title": "Magyar élu en Hongrie",
-      "title": "Hongrie : Peter Magyar inflige une défaite historique à Viktor Orbán",
-      "summary": "Lors des élections du 12 avril 2026, le parti Tisza de Péter Magyar remporte 53,6% des voix et obtient une supermajorité de 138 sièges sur 199, mettant fin à 16 ans de règne nationaliste d'Orbán. La victoire est saluée par Bruxelles comme un signal de réintégration de la Hongrie dans la dynamique pro-européenne. C'est une défaite symbolique pour le réseau souverainiste pro-russe en Europe centrale.",
-      "source": "CNN / Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"
+      "short_title": "Shangri-La Dialogue 2026",
+      "title": "Shangri-La Dialogue : l'Asie réécrit ses alliances",
+      "summary": "Le 23e Shangri-La Dialogue réunit 44 pays à Singapour du 29 au 31 mai. Face à l'incertitude croissante sur la garantie de sécurité américaine, les nations indo-pacifiques accélèrent leurs alliances régionales et augmentent leurs budgets de défense. Le secrétaire Hegseth présente la stratégie américaine pour la région.",
+      "source": "Asia Times",
+      "url": "https://asiatimes.com/2026/05/shangri-la-dialogue-opens-as-asia-seeks-alternatives-to-us-shield/"
     },
     {
       "id": "n06",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Diplomatie USA-Iran Liban",
-      "title": "Conflit Iran : guerre et diplomatie avancent sur des pistes parallèles",
-      "summary": "En marge des opérations militaires, des négociations discrètes via Oman visent à obtenir une pause de 20 ans sur l'enrichissement uranien iranien. Des pourparlers inédits entre Liban et Israël se tiennent à Washington malgré l'opposition du Hezbollah. Cette stratégie de double track — bombarder et négocier simultanément — illustre la pression maximale de l'administration Trump.",
-      "source": "WEF / CNBC",
+      "short_title": "Accélération réarmement",
+      "title": "Le choc moyen-oriental accélère le réarmement mondial",
+      "summary": "Le conflit en Iran et la crise de l'Hormuz ont convaincu l'Europe, le Golfe et l'Asie-Pacifique d'accélérer leur modernisation militaire. Les gouvernements révisent leurs doctrines d'achat et développent des mécanismes de sécurité collective régionaux, avec des budgets de défense à de nouveaux sommets hors États-Unis.",
+      "source": "WEF",
       "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
     },
     {
@@ -72,132 +72,132 @@
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Anthropic valorisé 900Md$",
-      "title": "Anthropic lève 30 milliards à une valorisation de 900 milliards, dépassant OpenAI",
-      "summary": "Anthropic est sur le point de clore son deuxième tour de 30 milliards de dollars en une seule année, cette fois à une valorisation dépassant 900 milliards, surpassant OpenAI pour la première fois. Porté par sa première rentabilité opérationnelle trimestrielle et 10,9 milliards de revenus projetés au T2, le lab attire Sequoia, Greenoaks et Dragoneer, chacun contribuant plus de 2 milliards.",
+      "short_title": "Anthropic lève 900 Md$",
+      "title": "Anthropic lève 30 Md$ à une valeur de 900 Md$",
+      "summary": "Anthropic est en discussions avancées pour lever au moins 30 milliards de dollars à une valorisation supérieure à 900 milliards, dépassant ainsi OpenAI (852 Md$ en mars). La société a annoncé 30 Md$ de revenus annualisés et prévoit 50 Md$ de run-rate fin juin, avec son premier trimestre d'exploitation à l'équilibre.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "OpenAI IPO confidentiel",
-      "title": "OpenAI dépose un S-1 confidentiel, vise une IPO à l'automne 2026",
-      "summary": "OpenAI a déposé ses documents IPO confidentiellement auprès de la SEC le 22 mai 2026, ciblant une valorisation entre 852 milliards et 1 000 milliards. La société génère 2 milliards de revenus mensuels mais perd encore 1,22 dollar pour chaque dollar encaissé. Goldman Sachs et Morgan Stanley pilotent l'opération, avec une introduction en bourse visée dès septembre.",
-      "source": "Enterprise DNA / CNBC",
-      "url": "https://enterprisedna.co/resources/news/openai-ipo-confidential-filing-may-2026/"
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Claude Code : 2,5 Md$ ARR",
+      "title": "Claude Code en GA : 2,5 Md$ de run-rate",
+      "summary": "L'outil de codage agentique Claude Code d'Anthropic est désormais en disponibilité générale et affiche déjà 2,5 milliards de dollars de revenus annualisés. C'est le premier outil de vibe coding issu directement d'un lab frontier, en concurrence directe avec Cursor et GitHub Copilot sur le marché enterprise.",
+      "source": "imfounder.com",
+      "url": "https://imfounder.com/science-tech/ai/ai-updates-may-2026/"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "vibe_coding",
+      "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "Cursor dépasse 2Md$ ARR",
-      "title": "Vibe coding : Cursor franchit 2 milliards de revenus annualisés en 2026",
-      "summary": "L'assistant de codage IA Cursor atteint 2 milliards de dollars de revenus annualisés début 2026, symbole d'une bascule massive : 72% des développeurs utilisent désormais des outils IA quotidiennement et 41% du code mondial est généré par des IA. Le marché se structure entre app builders rapides (Lovable, Bolt) pour le prototypage et assistants pro (Cursor, Claude Code) pour la production.",
-      "source": "roadmap.sh / daily.dev",
-      "url": "https://daily.dev/blog/vibe-coding-how-ai-changing-developers-code/"
+      "short_title": "Agents IA en production",
+      "title": "57 % des entreprises déploient des agents IA en prod",
+      "summary": "Selon le State of AI Agents 2026, 57 % des organisations ont des agents en production, les grands groupes étant en tête. Les workflows multi-agents cross-fonctionnels se généralisent mais la qualité des outputs reste le principal frein pour 32 % des répondants. L'accès sécurisé aux systèmes de production est le défi technique numéro un.",
+      "source": "Arcade.dev / LangChain",
+      "url": "https://www.arcade.dev/blog/5-takeaways-2026-state-of-ai-agents-claude/"
     },
     {
       "id": "n10",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "EBA CRR3 risque op. juin",
-      "title": "CRR3 : l'EBA rappelle la deadline juin 2026 sur le risque opérationnel",
-      "summary": "L'EBA rappelle aux banques européennes que les templates COREP C 16.02 à 16.04 sur le risque opérationnel sont obligatoires à compter de la date de référence fin juin 2026 dans le cadre de CRR3. Cette échéance concrétise l'entrée en vigueur du cadre Basel IV en Europe, incluant FRTB et le nouveau traitement du CVA. Les établissements disposent de peu de temps pour finaliser leur adaptation des systèmes de collecte de données.",
-      "source": "EBA",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-provides-guidance-banks-enhanced-reporting-requirements-operational-risk-ahead-new-june-2026"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor : 50 Md$ & faille",
+      "title": "Cursor vise 50 Md$ et corrige une faille critique",
+      "summary": "Cursor cherche à lever des fonds à une valorisation de 50 milliards de dollars, après avoir atteint 2 milliards de revenus annualisés début 2026. Parallèlement, une vulnérabilité permettant l'exécution de code arbitraire via un dépôt Git malveillant dans le mode agent a été corrigée dans la version 2.5.",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/cursor-seeks-50-billion-valuation-to-grow-ai-coding-assistant/"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Hassabis : AGI en 2029",
-      "title": "Demis Hassabis : AGI possible en 2029, l'humanité aux 'pieds de la singularité'",
-      "summary": "Le CEO de Google DeepMind a déclaré lors de Google I/O 2026 que l'humanité se trouvait dans les 'contreforts de la singularité' et voyait désormais 2029 comme une date plausible pour l'AGI. Il compare l'impact à 'dix révolutions industrielles simultanées' et s'inquiète que ses interlocuteurs économistes ne prennent pas encore cela au sérieux. La capacité d'auto-amélioration récursive des systèmes est identifiée comme la prochaine frontière critique.",
-      "source": "Axios / Semafor",
-      "url": "https://www.axios.com/2026/05/26/deepmind-ceo-demis-hassabis"
+      "importance": 2,
+      "short_title": "OpenAI prépare son IPO",
+      "title": "OpenAI prépare un dépôt confidentiel S-1 auprès de la SEC",
+      "summary": "OpenAI s'apprête à déposer un S-1 confidentiel auprès de la SEC avec une fenêtre d'IPO probable au T4 2026 ou début 2027. Valorisée à 852 milliards de dollars en mars, la société choisit la voie de la cotation publique tandis qu'Anthropic lève en privé à une valorisation supérieure.",
+      "source": "llm-stats.com",
+      "url": "https://llm-stats.com/llm-updates"
     },
     {
       "id": "n12",
       "theme": "finance",
-      "subtopic": "semiconducteurs",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Micron franchit 1000Md$",
-      "title": "Micron entre dans le club des 1 000 milliards sur la demande explosive en mémoire IA",
-      "summary": "Micron Technology a franchi le cap du trillion de capitalisation le 26 mai 2026 après un bond de 19% en une séance, catalysé par une mise à jour de cible de cours d'UBS. Le fabricant de puces mémoire HBM a annoncé que toute sa production 2026 était déjà vendue, illustrant l'explosion de la demande des serveurs IA. SK Hynix a également franchi ce seuil simultanément.",
-      "source": "Euronews / Rappler",
-      "url": "https://www.euronews.com/business/2026/05/27/memory-chip-giants-sk-hynix-and-micron-cross-1tn-valuation-amid-ai-mania"
+      "short_title": "Réforme Bâle III aux USA",
+      "title": "Les régulateurs US publient leur réforme Bâle III",
+      "summary": "Le 19 mars 2026, la Fed, la FDIC et l'OCC ont publié des propositions pour moderniser le cadre de capital réglementaire américain. La réforme améliore la sensibilité au risque crédit, marché et opérationnel, et introduit des règles de netting croisé dérivés/repo pour le CCR standardisé (SA-CCR). Commentaires attendus avant le 18 juin.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "mlops",
-      "importance": 3,
-      "short_title": "Labs IA : 36k expériences",
-      "title": "OpenAI-Ginkgo : GPT-5 supervise 36 000 expériences biologiques autonomes",
-      "summary": "OpenAI et Ginkgo Bioworks ont annoncé que GPT-5 a conçu et supervisé 36 000 expériences biologiques via un laboratoire robotisé en nuage, sans intervention humaine directe. L'IA propose les protocoles, les robots les exécutent, et le modèle analyse les résultats en réduisant de 40% le coût de production d'une protéine cible. À Toronto, Alán Aspuru-Guzik supervise 50 robots self-driving dans plusieurs universités de l'Acceleration Consortium.",
-      "source": "phys.org / Nature",
-      "url": "https://phys.org/news/2026-04-ai-thousands-lab-human-humanity.html"
+      "theme": "finance",
+      "subtopic": "ccr_xva",
+      "importance": 2,
+      "short_title": "XVA : retard US vs Europe",
+      "title": "Intégration capital Bâle dans XVA : les USA en retard",
+      "summary": "Des analyses montrent que les banques américaines accusent un retard significatif sur leurs homologues européennes dans l'intégration des charges en capital Bâle dans leurs modèles XVA (CVA, MVA). Avec les nouvelles propositions SA-CCR, les salles de marchés américaines vont devoir accélérer la refonte de leur pricing du risque de contrepartie.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/topics/valuation-adjustments-xvas"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "ai_labs",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "IA : alerte Nature",
-      "title": "Nature alerte : l'IA accélère la science mais menace la formation des chercheurs",
-      "summary": "Une analyse publiée dans Nature en mai 2026 pointe un paradoxe : si l'IA démultiplie la productivité scientifique, elle risque de rétrécir le spectre des questions posées et d'affaiblir le jugement critique des chercheurs en formation. Les auteurs craignent une homogénéisation des approches et une dépendance aux modèles, au détriment de la créativité et de l'intuition scientifique fondamentale.",
-      "source": "Nature",
-      "url": "https://www.nature.com/news"
+      "short_title": "UE : climat post-2030",
+      "title": "L'UE accélère la définition de son cadre climatique post-2030",
+      "summary": "La Commission européenne prépare ses règles post-2030 et propose de dédier 35 % du budget de 2 000 Md€ aux objectifs climatiques. L'objectif 1,5°C est désormais jugé inaccessible ; la priorité bascule vers la compétitivité industrielle, l'électrification et la tarification carbone. L'Electrification Action Plan est un pilier clé de cette transition.",
+      "source": "Clean Energy Wire",
+      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
     },
     {
       "id": "n15",
-      "theme": "learn",
-      "subtopic": "ai_labs",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Khanmigo: 18M étudiants",
-      "title": "Khan Academy Khanmigo : 18 millions d'élèves, gains de 1 à 3 mois d'acquis scolaires",
-      "summary": "Le tuteur IA de Khan Academy sert désormais 18 millions d'élèves et s'impose comme standard de l'éducation personnalisée par IA. Des études montrent des gains d'apprentissage de 1 à 3 mois supplémentaires par an pour les utilisateurs réguliers. La plateforme intègre des principes de sciences cognitives : scaffolding progressif, questionnement socratique et adaptation en temps réel à chaque profil d'élève.",
-      "source": "is4.ai / TutorFlow",
-      "url": "https://is4.ai/blog/our-blog-1/top-10-ai-tutoring-systems-2026-learning-outcomes-208"
+      "short_title": "Déclin force dès 35 ans",
+      "title": "La force musculaire décline dès 35 ans (étude de 47 ans)",
+      "summary": "Une étude longitudinale de 47 ans publiée en mai 2026 montre que force, endurance et condition physique commencent à décliner significativement à partir de 35 ans, avec une accélération progressive. Les adultes devenus actifs tardivement ont néanmoins amélioré leurs capacités physiques, soulignant qu'il n'est jamais trop tard pour commencer.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515000947.htm"
     },
     {
       "id": "n16",
       "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Leucine et mitochondries",
-      "title": "La leucine protège les protéines mitochondriales et booste l'énergie cellulaire",
-      "summary": "De nouveaux travaux montrent que la leucine, acide aminé abondant dans les protéines complètes, protège des protéines clés de la chaîne respiratoire mitochondriale. Cette découverte fournit une base mécanistique aux effets connus des protéines de qualité sur la performance musculaire et la longévité. Elle plaide pour un apport protéique suffisant après 40 ans pour maintenir la fonction mitochondriale et l'énergie cellulaire.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/health_medicine/nutrition/"
+      "subtopic": "kettlebell",
+      "importance": 2,
+      "short_title": "Musculation : priorité #1",
+      "title": "La musculation supplante la perte de poids comme objectif fitness",
+      "summary": "Selon l'enquête Life Time Wellness 2026, 82 % des Américains déclarent vouloir se concentrer davantage sur leur santé globale, la musculation devenant l'objectif fitness numéro un devant la perte de poids. Ce changement de paradigme reflète une prise de conscience croissante des bénéfices de la masse musculaire pour la longévité.",
+      "source": "Athletech News",
+      "url": "https://athletechnews.com/consumers-seek-strength-longevity-over-weight-loss-life-time-survey/"
     },
     {
       "id": "n17",
-      "theme": "climat",
-      "subtopic": "chine",
+      "theme": "sciences",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Record solaire Chine 2025",
-      "title": "La Chine installe en 2025 plus de renouvelables que toute l'histoire américaine réunie",
-      "summary": "La Chine a installé plus de 300 GW de capacité solaire et éolienne en 2025, dépassant l'intégralité du parc renouvelable jamais construit aux États-Unis. Pour la première fois, les émissions chinoises montrent des signes de plateau. En parallèle, les États-Unis peinent avec une politique fédérale qui freine activement les conditions favorables aux renouvelables.",
-      "source": "Yale Climate Connections",
-      "url": "https://yaleclimateconnections.org/2026/01/where-things-stand-on-climate-change-in-2026/"
+      "short_title": "Gène longévité rat-taupe",
+      "title": "Transfert d'un gène de longévité du rat-taupe nu aux souris",
+      "summary": "Des chercheurs de l'Université de Rochester ont transféré un gène associé à la longévité du rat-taupe nu — mammifère vivant jusqu'à 30 ans — dans des souris, produisant des animaux plus sains et à durée de vie allongée. Ce résultat ouvre des perspectives sur la manipulation génétique de la longévité chez les mammifères.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
     },
     {
       "id": "n18",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "learn",
+      "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "UE : ETS post-2030 en jeu",
-      "title": "L'UE entre dans un débat décisif sur son architecture climatique post-2030",
-      "summary": "La Commission européenne prépare en 2026 la révision du Système d'Échange de Quotas (ETS) et les règles post-2030, avec des élections nationales majeures en 2027 qui rendront tout arbitrage politiquement coûteux. La question centrale est de savoir si l'UE entrera dans les années 2030 avec un cadre ambitieux ou avec des compromis qui videraient l'ETS de sa substance environnementale et financière.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
+      "short_title": "Tutorat IA : +1-3 mois",
+      "title": "Les tuteurs IA surpassent l'enseignement classique en RCT",
+      "summary": "Un essai contrôlé randomisé publié dans Scientific Reports montre que les étudiants utilisant un tuteur IA pendant un an gagnent 1 à 3 mois d'apprentissage supplémentaires par rapport aux classes traditionnelles, en moins de temps. Les tuteurs IA efficaces s'appuient sur un feedback instantané et une difficulté adaptative issus des sciences cognitives.",
+      "source": "is4.ai / Scientific Reports",
+      "url": "https://is4.ai/blog/our-blog-1/top-10-ai-tutoring-systems-2026-learning-outcomes-208"
     }
   ],
   "edges": [
@@ -205,73 +205,73 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "La fermeture du Détroit d'Ormuz coupe 20% des flux pétroliers mondiaux ; chaque nouvelle sur les négociations fait rebondir ou chuter le Brent de plusieurs points de pourcentage en quelques heures, illustrant la dépendance directe des marchés à l'issue du conflit."
-    },
-    {
-      "source": "n01",
-      "target": "n06",
-      "type": "meme_sujet",
-      "explanation": "Les frappes et les négociations parallèles (via Oman et Washington) couvrent le même conflit sous deux angles : l'escalade militaire et la sortie diplomatique cherchée simultanément, caractéristique de la stratégie de pression maximale de Trump."
+      "explanation": "La perspective d'un accord Iran-US fait vaciller les prix du pétrole depuis leur sommet de 144 $/b, mais le choc de l'offre reste massif (–12,8 mb/j) tant que le détroit n'est pas pleinement rouvert et les mines retirées."
     },
     {
       "source": "n02",
       "target": "n03",
       "type": "cause",
-      "explanation": "Le renchérissement du Brent se transmet directement aux prix à la pompe et aux coûts de transport de marchandises en France, poussant l'IPC à 2,2% en avril après le creux de janvier."
+      "explanation": "Un choc pétrolier de cette ampleur alimente directement l'inflation énergétique mondiale tout en pesant sur la croissance, créant les conditions classiques de la stagflation : inflation et stagnation simultanées."
     },
     {
-      "source": "n02",
+      "source": "n03",
       "target": "n04",
+      "type": "cause",
+      "explanation": "Quand l'inflation vient d'un choc d'offre et non d'une surchauffe, hausser les taux combat l'inflation au prix d'une récession plus profonde — d'où l'hésitation de la plupart des banques centrales à agir."
+    },
+    {
+      "source": "n01",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Le conflit iranien et ses ramifications géopolitiques sont au cœur des débats du Shangri-La Dialogue, qui évalue comment la crise Hormuz remodèle les alliances de sécurité en Asie-Pacifique."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "Le Shangri-La Dialogue formalise la prise de conscience que le parapluie sécuritaire américain est incertain, poussant les pays indo-pacifiques et européens à accélérer leur propre réarmement et leurs alliances régionales."
+    },
+    {
+      "source": "n07",
+      "target": "n11",
       "type": "tension",
-      "explanation": "La persistance des prix élevés du pétrole place la nouvelle direction de la Fed dans un dilemme : baisser les taux pour soutenir l'économie risque d'alimenter l'inflation importée, pendant qu'attendre trop longtemps précipite un freinage de l'activité."
+      "explanation": "Anthropic lève à 900 Md$ en privé avec des revenus en forte croissance, tandis qu'OpenAI choisit la voie de l'IPO publique — deux modèles financiers opposés pour capter les mêmes capitaux institutionnels dans la course à l'IA frontier."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "La valorisation record d'Anthropic à 900 milliards et l'IPO confidentielle d'OpenAI sont les deux faces d'une même course : sécuriser des capitaux massifs avant que le marché n'arbitre quel lab devient l'infrastructure IA dominante des 5 prochaines années."
+      "type": "cause",
+      "explanation": "La croissance explosive d'Anthropic est portée en partie par Claude Code : l'outil agentique contribue directement au run-rate de 30 Md$ et justifie la valorisation en progression rapide."
     },
     {
-      "source": "n07",
+      "source": "n08",
       "target": "n09",
       "type": "cause",
-      "explanation": "L'explosion des capacités des LLMs d'Anthropic alimente l'adoption des outils de vibe coding : c'est la même puissance de modèle, disponible via API, qui permet à Cursor et Claude Code de générer 41% du code mondial et d'atteindre des revenus de 2 milliards."
+      "explanation": "La disponibilité générale de Claude Code fournit aux entreprises un outil agentique de référence, accélérant le passage des workflows d'agents du prototype à la production dans les équipes d'ingénierie."
     },
     {
-      "source": "n11",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Les prévisions d'AGI pour 2029 par Hassabis et la valorisation record d'Anthropic sont les deux signaux d'une même conviction : la frontière de l'IA sera décisive dans les 3-5 prochaines années, justifiant des mises de capitaux sans précédent."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
+      "source": "n12",
+      "target": "n13",
       "type": "cause",
-      "explanation": "La perspective d'AGI à court terme justifie des investissements massifs en infrastructure IA ; les puces mémoire HBM de Micron, dont toute la production 2026 est soldée, sont au cœur de cette infrastructure, propulsant la capitalisation du groupe au trillion."
-    },
-    {
-      "source": "n13",
-      "target": "n14",
-      "type": "tension",
-      "explanation": "Les labs autonomes exécutant 36 000 expériences sans chercheurs incarnent exactement le risque alerté par Nature : l'IA amplifie la cadence mais court-circuite la formation du jugement scientifique et de l'intuition des chercheurs en herbe."
-    },
-    {
-      "source": "n07",
-      "target": "n15",
-      "type": "cause",
-      "explanation": "Les progrès des grands LLMs comme Claude d'Anthropic permettent à des tuteurs comme Khanmigo d'atteindre un niveau de personnalisation inédit, avec scaffolding socratique et adaptation en temps réel à chaque profil d'élève à l'échelle de 18 millions d'utilisateurs."
-    },
-    {
-      "source": "n17",
-      "target": "n18",
-      "type": "cause",
-      "explanation": "L'écart croissant entre la cadence d'installation renouvelable de la Chine (300+ GW par an) et les objectifs européens crée une pression politique et de compétitivité pour que l'UE renforce son cadre ETS post-2030 plutôt que de le diluer."
+      "explanation": "Les nouvelles propositions américaines sur le SA-CCR (netting croisé dérivés/repo) forcent les banques à revoir leurs modèles XVA pour y intégrer des charges en capital recalibrées, domaine où elles accusent déjà un retard sur l'Europe."
     },
     {
       "source": "n02",
-      "target": "n10",
+      "target": "n14",
+      "type": "cause",
+      "explanation": "Le choc pétrolier renforce l'urgence politique de la transition énergétique en Europe : la dépendance aux hydrocarbures du Golfe met en évidence le coût géopolitique du retard dans l'électrification domestique."
+    },
+    {
+      "source": "n09",
+      "target": "n18",
+      "type": "meme_sujet",
+      "explanation": "Le déploiement d'agents IA en entreprise et le tutorat IA en éducation relèvent de la même vague : des systèmes adaptatifs et autonomes remplacent des interactions humaines répétitives dans des domaines à fort impact."
+    },
+    {
+      "source": "n15",
+      "target": "n17",
       "type": "tension",
-      "explanation": "La volatilité extrême des marchés énergétiques depuis le choc iranien amplifie le risque opérationnel des banques européennes actives sur les dérivés énergie, rendant la deadline CRR3 de juin 2026 sur le risque opérationnel d'autant plus critique à respecter."
+      "explanation": "La science du fitness identifie le mode de vie comme levier clé contre le vieillissement physique, là où la biologie du rat-taupe nu suggère que des mécanismes génétiques fondamentaux sont en jeu — deux approches complémentaires mais de nature radicalement différente."
     }
   ]
 }

@@ -11,195 +11,103 @@
 <style>
   html { scroll-behavior: smooth; }
   body { min-height: 100%; }
-  main {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: calc(var(--topbar-h) + 22px) 18px 80px;
-  }
+  main { max-width: 900px; margin: 0 auto; padding: calc(var(--topbar-h) + 22px) 18px 80px; }
 
   .page-kicker {
     font-family: 'Geist Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.22em;
-    color: var(--ink-faint);
-    margin-bottom: 8px;
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.22em;
+    color: var(--ink-faint); margin-bottom: 8px;
   }
   .page-title {
-    font-family: 'Fraunces', serif;
-    font-variation-settings: 'opsz' 144;
-    font-weight: 500;
-    font-style: italic;
-    font-size: clamp(30px, 7vw, 44px);
-    line-height: 1.02;
-    letter-spacing: -0.02em;
-    margin-bottom: 16px;
+    font-family: 'Fraunces', serif; font-variation-settings: 'opsz' 144;
+    font-weight: 500; font-style: italic; font-size: clamp(30px, 7vw, 44px);
+    line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 16px;
   }
+  .page-intro { font-size: 14px; line-height: 1.6; color: var(--ink-dim); max-width: 62ch; margin-bottom: 28px; }
+  .page-intro b { color: var(--ink); font-weight: 500; }
 
   .rule-banner {
-    display: flex;
-    align-items: center;
-    gap: 12px;
+    display: flex; align-items: center; gap: 12px;
     background: linear-gradient(110deg, rgba(232,200,137,0.10), transparent);
-    border: 1px solid rgba(232,200,137,0.28);
-    border-radius: 14px;
-    padding: 13px 16px;
-    margin-bottom: 40px;
+    border: 1px solid rgba(232,200,137,0.28); border-radius: 14px;
+    padding: 13px 16px; margin-bottom: 40px;
   }
   .rule-banner .star { color: var(--accent); font-size: 18px; line-height: 1; }
   .rule-banner p { font-size: 13.5px; line-height: 1.45; color: var(--ink); }
   .rule-banner b { color: var(--accent); font-weight: 600; }
 
   .section-label {
-    font-family: 'Geist Mono', monospace;
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.18em;
-    color: var(--ink-faint);
-    margin: 0 0 16px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
+    font-family: 'Geist Mono', monospace; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.18em; color: var(--ink-faint); margin: 0 0 16px;
+    display: flex; align-items: center; gap: 10px;
   }
   .section-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
 
-  /* AM / PM */
-  .routine-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 16px;
-    margin-bottom: 48px;
-  }
+  .routine-grid { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 48px; }
   @media (min-width: 680px) { .routine-grid { grid-template-columns: 1fr 1fr; align-items: start; } }
-
-  .routine-card {
-    background: var(--bg-elev);
-    border: 1px solid var(--rule);
-    border-radius: 16px;
-    padding: 20px;
-  }
-  .routine-card h3 {
-    font-family: 'Fraunces', serif;
-    font-style: italic;
-    font-weight: 600;
-    font-size: 22px;
-    margin-bottom: 4px;
-  }
+  .routine-card { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; }
+  .routine-card h3 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 22px; margin-bottom: 4px; }
   .routine-card .when {
-    font-family: 'Geist Mono', monospace;
-    font-size: 9.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.16em;
-    color: var(--ink-faint);
-    margin-bottom: 16px;
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin-bottom: 16px;
   }
   .step { display: flex; gap: 12px; padding: 11px 0; border-top: 1px solid var(--rule); }
   .step:first-of-type { border-top: none; }
-  .step .num {
-    font-family: 'Geist Mono', monospace;
-    font-size: 11px;
-    color: var(--accent);
-    flex-shrink: 0;
-    width: 16px;
-    padding-top: 3px;
-  }
+  .step .num { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent); flex-shrink: 0; width: 16px; padding-top: 3px; }
   .step .txt { font-size: 13.5px; line-height: 1.4; }
   .step .role { color: var(--ink-dim); display: block; margin-bottom: 5px; }
   .prod {
-    display: inline-block;
-    font-family: 'Geist Mono', monospace;
-    font-size: 11px;
-    color: var(--ink);
-    background: var(--bg-panel);
-    border: 1px solid var(--rule-bright);
-    border-radius: 7px;
-    padding: 3px 9px;
-    margin: 2px 4px 2px 0;
+    display: inline-block; font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink);
+    background: var(--bg-panel); border: 1px solid var(--rule-bright); border-radius: 7px;
+    padding: 3px 9px; margin: 2px 4px 2px 0;
   }
   .step .sep { color: var(--ink-faint); font-size: 11px; font-family: 'Geist Mono', monospace; }
 
-  /* Rotation table */
   .rotation { overflow-x: auto; margin-bottom: 48px; -webkit-overflow-scrolling: touch; }
-  table { border-collapse: collapse; width: 100%; min-width: 420px; }
-  th, td {
-    text-align: left;
-    padding: 11px 12px;
-    border-bottom: 1px solid var(--rule);
-    font-size: 13px;
-  }
-  th {
-    font-family: 'Geist Mono', monospace;
-    font-size: 9.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
-    color: var(--ink-faint);
-    font-weight: 400;
-  }
+  table { border-collapse: collapse; width: 100%; min-width: 380px; }
+  th, td { text-align: left; padding: 11px 12px; border-bottom: 1px solid var(--rule); font-size: 13px; }
+  th { font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--ink-faint); font-weight: 400; }
   td.day { font-family: 'Fraunces', serif; font-weight: 500; color: var(--ink); }
-  td .pm-actif { color: var(--accent); }
   td .bpo { color: var(--t-tech); }
+  td .ret { color: var(--accent); }
+  td .bha { color: var(--ink); }
   tr.rest td { color: var(--ink-faint); }
   tr.rest td.day { color: var(--ink-dim); }
 
-  /* Variants */
-  .variants {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 12px;
-    margin-bottom: 48px;
+  /* Anti-grattage — mis en avant */
+  .scratch {
+    background: linear-gradient(135deg, rgba(239,68,68,0.08), var(--bg-elev) 60%);
+    border: 1px solid rgba(239,68,68,0.3); border-radius: 16px; padding: 20px 22px; margin-bottom: 28px;
   }
-  .variant {
-    background: var(--bg-elev);
-    border: 1px solid var(--rule);
-    border-radius: 13px;
-    padding: 14px 15px;
+  .scratch h3 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 21px; margin-bottom: 12px; }
+  .scratch ul { list-style: none; }
+  .scratch li { font-size: 13.5px; line-height: 1.5; padding: 7px 0 7px 22px; position: relative; color: var(--ink); }
+  .scratch li::before { content: '→'; position: absolute; left: 0; color: var(--tension); }
+  .scratch li b { font-weight: 500; }
+  .scratch .acquire { color: var(--accent); }
+  .scratch .strict {
+    margin-top: 12px; font-size: 13px; line-height: 1.5; color: var(--ink);
+    border-top: 1px solid var(--rule); padding-top: 12px;
   }
-  .variant h4 {
-    font-family: 'Geist Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.14em;
-    color: var(--accent);
-    margin-bottom: 9px;
-  }
-  .variant p { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
-  .variant b { color: var(--ink); font-weight: 500; }
+  .scratch .strict b { color: var(--tension); }
 
-  /* Corps */
-  .corps {
-    background: var(--bg-panel);
-    border: 1px solid var(--rule);
-    border-radius: 16px;
-    padding: 20px;
-  }
+  .bumps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-bottom: 48px; }
+  .bump { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 13px; padding: 14px 15px; }
+  .bump h4 { font-family: 'Geist Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--accent); margin-bottom: 9px; }
+  .bump p { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
+  .bump b { color: var(--ink); font-weight: 500; }
+
+  .corps { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; }
   .corps ol { list-style: none; counter-reset: c; }
-  .corps li {
-    counter-increment: c;
-    position: relative;
-    padding: 9px 0 9px 30px;
-    font-size: 13.5px;
-    line-height: 1.5;
-    border-top: 1px solid var(--rule);
-  }
+  .corps li { counter-increment: c; position: relative; padding: 9px 0 9px 30px; font-size: 13.5px; line-height: 1.5; border-top: 1px solid var(--rule); }
   .corps li:first-child { border-top: none; }
-  .corps li::before {
-    content: counter(c);
-    position: absolute; left: 0; top: 9px;
-    font-family: 'Geist Mono', monospace;
-    font-size: 11px;
-    color: var(--accent);
-  }
+  .corps li::before { content: counter(c); position: absolute; left: 0; top: 9px; font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent); }
   .corps .warn { margin-top: 14px; font-size: 12.5px; color: var(--t-sante); line-height: 1.5; }
 
   .footnote {
-    margin-top: 44px;
-    padding-top: 20px;
-    border-top: 1px solid var(--rule);
-    font-family: 'Geist Mono', monospace;
-    font-size: 10.5px;
-    line-height: 1.7;
-    color: var(--ink-faint);
-    letter-spacing: 0.04em;
+    margin-top: 44px; padding-top: 20px; border-top: 1px solid var(--rule);
+    font-family: 'Geist Mono', monospace; font-size: 10.5px; line-height: 1.7;
+    color: var(--ink-faint); letter-spacing: 0.04em;
   }
   .footnote b { color: var(--ink-dim); font-weight: 600; }
 </style>
@@ -219,12 +127,46 @@
 </header>
 
 <main>
-  <div class="page-kicker">Protocole · acné 3 zones · anti sur-exfoliation</div>
+  <div class="page-kicker">Profil · acné inflammatoire + grattage</div>
   <h1 class="page-title">Skincare</h1>
+  <p class="page-intro">
+    Boutons rouges qui grossissent quand on les gratte, parfois blancs — c'est <b>inflammatoire</b>,
+    pas une peau grasse. Donc&nbsp;: <b>apaiser, pas décaper.</b> BPO doux en pilier, rétinol en
+    prévention, peu d'acides, barrière + SPF, et surtout casser le grattage.
+  </p>
 
   <div class="rule-banner">
     <span class="star">✦</span>
-    <p>Règle d'or&nbsp;: <b>un seul actif leave-on par soir.</b> BPO le matin, rétinol le soir — jamais ensemble.</p>
+    <p><b>1 seul actif leave-on par soir.</b> BPO et rétinol jamais le même soir. Bouton ouvert = réparation, pas de traitement.</p>
+  </div>
+
+  <!-- Anti-grattage -->
+  <div class="section-label">Le levier n°1 — anti-grattage</div>
+  <div class="scratch">
+    <h3>Casser le cercle gratter → inflammation → marque</h3>
+    <ul>
+      <li><b class="acquire">Patches hydrocolloïdes</b> le soir / à la maison — barrière mécanique, empêche de toucher. <b class="acquire">(à acheter — seul manque réel)</b></li>
+      <li><b>Ongles courts</b> — basique, impact énorme.</li>
+      <li><b>Cicaplast B5+</b> en couche locale si zone grattée.</li>
+    </ul>
+    <p class="strict"><b>Règle stricte :</b> peau ouverte / à vif = Sensibio → Cicaplast, rien d'autre. Aucun acide, BPO ni rétinol sur une lésion ouverte.</p>
+  </div>
+
+  <!-- Par type de bouton -->
+  <div class="section-label">Conduite par type de bouton</div>
+  <div class="bumps">
+    <div class="bump">
+      <h4>Rouge profond / douloureux</h4>
+      <p><b>Ne pas percer.</b> Curaspot à rincer sur la zone si peau intacte. Patch si tu vas le toucher. Cicaplast si irrité.</p>
+    </div>
+    <div class="bump">
+      <h4>Blanc (pustule)</h4>
+      <p><b>Ne pas presser.</b> Patch hydrocolloïde. Curaspot autour — <b>pas</b> sur peau arrachée.</p>
+    </div>
+    <div class="bump">
+      <h4>Gratté / croûte / à vif</h4>
+      <p><b>Aucun actif.</b> Cicaplast + SPF le matin. Patch contre le frottement.</p>
+    </div>
   </div>
 
   <!-- AM / PM -->
@@ -232,59 +174,38 @@
   <div class="routine-grid">
     <div class="routine-card">
       <h3>Matin</h3>
-      <div class="when">AM · 4 étapes</div>
-      <div class="step"><span class="num">1</span><span class="txt"><span class="role">Nettoyage doux</span><span class="prod">Sensibio Gel Moussant</span></span></div>
-      <div class="step"><span class="num">2</span><span class="txt"><span class="role">Actif AM — l'un OU l'autre, jamais les deux</span><span class="prod">Melano CC (vit C)</span><span class="sep">ou</span><span class="prod">Curaspot 5% (BPO, rincer)</span></span></div>
-      <div class="step"><span class="num">3</span><span class="txt"><span class="role">Hydratant</span><span class="prod">CeraVe Lait</span></span></div>
-      <div class="step"><span class="num">4</span><span class="txt"><span class="role">Protection</span><span class="prod">UVMune 400</span><span class="sep">/ sport</span><span class="prod">Anessa</span></span></div>
+      <div class="when">AM · minimaliste</div>
+      <div class="step"><span class="num">1</span><span class="txt"><span class="role">Eau (ou Sensibio si SPF/sueur la veille)</span><span class="prod">Sensibio Gel Moussant</span></span></div>
+      <div class="step"><span class="num">2</span><span class="txt"><span class="role">Vit C — 3 matins/sem</span><span class="prod">Melano CC</span></span></div>
+      <div class="step"><span class="num">3</span><span class="txt"><span class="role">Humectant — optionnel, petite qté</span><span class="prod">Hada Labo Premium</span></span></div>
+      <div class="step"><span class="num">4</span><span class="txt"><span class="role">Hydratant si besoin</span><span class="prod">CeraVe Lait</span></span></div>
+      <div class="step"><span class="num">5</span><span class="txt"><span class="role">Protection — non négociable</span><span class="prod">UVMune 400</span><span class="sep">/ sport</span><span class="prod">Anessa</span></span></div>
     </div>
     <div class="routine-card">
       <h3>Soir</h3>
-      <div class="when">PM · 1 seul actif</div>
-      <div class="step"><span class="num">1</span><span class="txt"><span class="role">Démaquillage</span><span class="prod">Fancl Oil Black &amp; Smooth</span></span></div>
-      <div class="step"><span class="num">2</span><span class="txt"><span class="role">Nettoyage</span><span class="prod">CeraVe Blemish Control</span></span></div>
-      <div class="step"><span class="num">3</span><span class="txt"><span class="role">Actif du soir (rotation)</span><span class="prod">Rétinol PC</span><span class="prod">BHA PC 2%</span><span class="sep">ou repos</span></span></div>
-      <div class="step"><span class="num">4</span><span class="txt"><span class="role">Humectant (peau humide)</span><span class="prod">Hada Labo Premium</span></span></div>
-      <div class="step"><span class="num">5</span><span class="txt"><span class="role">Hydratant</span><span class="prod">CeraVe Lait</span></span></div>
+      <div class="when">PM · 1 seul actif (voir planning)</div>
+      <div class="step"><span class="num">1</span><span class="txt"><span class="role">Démaquillage si SPF</span><span class="prod">Fancl Oil Black &amp; Smooth</span></span></div>
+      <div class="step"><span class="num">2</span><span class="txt"><span class="role">Nettoyage</span><span class="prod">Sensibio Gel Moussant</span></span></div>
+      <div class="step"><span class="num">3</span><span class="txt"><span class="role">Actif du soir (selon planning) — ou repos</span><span class="prod">Curaspot BPO</span><span class="prod">Rétinol PC</span></span></div>
+      <div class="step"><span class="num">4</span><span class="txt"><span class="role">Hydratant</span><span class="prod">CeraVe Lait</span></span></div>
     </div>
   </div>
 
-  <!-- Rotation -->
-  <div class="section-label">Rotation hebdomadaire</div>
+  <!-- Planning soir -->
+  <div class="section-label">Planning du soir</div>
   <div class="rotation">
     <table>
-      <thead><tr><th>Jour</th><th>Matin</th><th>Soir (1 actif)</th></tr></thead>
+      <thead><tr><th>Jour</th><th>Soir</th></tr></thead>
       <tbody>
-        <tr><td class="day">Lundi</td><td>Melano CC</td><td class="pm-actif">Rétinol PC</td></tr>
-        <tr><td class="day">Mardi</td><td><span class="bpo">Curaspot BPO</span></td><td class="pm-actif">BHA PC 2%</td></tr>
-        <tr class="rest"><td class="day">Mercredi</td><td>Melano CC</td><td>Repos doux — hydratation seule</td></tr>
-        <tr><td class="day">Jeudi</td><td>Melano CC</td><td class="pm-actif">Rétinol PC</td></tr>
-        <tr class="rest"><td class="day">Vendredi</td><td><span class="bpo">Curaspot BPO</span></td><td>Repos barrière — Cicaplast B5+</td></tr>
-        <tr><td class="day">Samedi</td><td>Melano CC</td><td class="pm-actif">BHA PC 2% <span style="color:var(--ink-faint)">(→ Kerato+ si sensible)</span></td></tr>
-        <tr><td class="day">Dimanche</td><td>Melano CC</td><td class="pm-actif">Rétinol PC</td></tr>
+        <tr><td class="day">Lundi</td><td><span class="bpo">Curaspot 5%</span> (BPO à rincer) → CeraVe Lait</td></tr>
+        <tr class="rest"><td class="day">Mardi</td><td>Repos barrière (Cicaplast local si gratté)</td></tr>
+        <tr><td class="day">Mercredi</td><td><span class="ret">Rétinol PC</span> (peau sèche) → CeraVe Lait</td></tr>
+        <tr class="rest"><td class="day">Jeudi</td><td>Repos barrière</td></tr>
+        <tr><td class="day">Vendredi</td><td><span class="bpo">Curaspot 5%</span> (BPO à rincer) → CeraVe Lait</td></tr>
+        <tr><td class="day">Samedi</td><td><span class="bha">BHA PC 2%</span> si texture/pores, sinon repos</td></tr>
+        <tr><td class="day">Dimanche</td><td><span class="ret">Rétinol PC</span> → CeraVe Lait</td></tr>
       </tbody>
     </table>
-  </div>
-
-  <!-- Variants -->
-  <div class="section-label">Variants selon le jour</div>
-  <div class="variants">
-    <div class="variant">
-      <h4>Jour d'entraînement</h4>
-      <p>AM&nbsp;: <b>Anessa</b> si extérieur. Post-effort&nbsp;: rincer eau fraîche. PM&nbsp;: actif doux ou repos — <b>skip BHA et rétinol</b>.</p>
-    </div>
-    <div class="variant">
-      <h4>Jour de repos</h4>
-      <p>AM&nbsp;: eau → CeraVe Lait → SPF. PM&nbsp;: Hada Labo + Cicaplast. Consolidation barrière.</p>
-    </div>
-    <div class="variant">
-      <h4>Poussée active (flare)</h4>
-      <p>AM&nbsp;: <b>pas de Melano CC</b>. PM&nbsp;: Curaspot court contact ou SVR Sébiaclear. <b>Pas de rétinol</b> sur lésion ouverte.</p>
-    </div>
-    <div class="variant">
-      <h4>Post-rasage <span style="color:var(--ink-faint)">(2×/sem)</span></h4>
-      <p>PM&nbsp;: <b>skip tout actif</b>. Hada Labo → Cicaplast B5+ → CeraVe Lait. Peau micro-lésée.</p>
-    </div>
   </div>
 
   <!-- Corps -->
@@ -296,12 +217,12 @@
       <li><b>PanOxyl 10%</b> (BPO) sur dos + torse à la brosse longue — poser <b>60-90 sec</b>, rincer.</li>
       <li>Rincer à l'eau tiède. CeraVe Lait sur le corps (zones sèches).</li>
     </ol>
-    <p class="warn">⚠ Pas de crème sur le dos (l'occlusion aggrave l'acné tronculaire). SVR Sébiaclear en spot sur lésions actives. Le BPO décolore le textile → serviettes blanches dédiées.</p>
+    <p class="warn">⚠ Pas de crème sur le dos (l'occlusion aggrave l'acné tronculaire). Le BPO décolore le textile → serviettes blanches dédiées.</p>
   </div>
 
   <p class="footnote">
-    <b>Source</b> — DECISIONS skincare sanctifiée (inventaire réel, compositions vérifiées, MAJ 2026-06-03).<br>
-    <b>Backup hors routine</b> — SVR Sébiaclear (spot marques), Fancl Oil standard, Vichy Minéral 89.<br>
+    <b>Source</b> — DECISIONS skincare sanctifiée (profil inflammatoire, MAJ 2026-06-03). Reco AAD 2024 (BPO + rétinoïdes), hydrocolloïdes (JAAD).<br>
+    <b>À finir sans racheter</b> — CeraVe Blemish Control, SVR Sébiaclear, Sébium Kerato+, Minéral 89.<br>
     Page statique. Ce protocole évolue dans Jarvis, pas ici.
   </p>
 </main>

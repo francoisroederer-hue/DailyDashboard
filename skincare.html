@@ -12,7 +12,7 @@
   html { scroll-behavior: smooth; }
   body { min-height: 100%; }
   main {
-    max-width: 860px;
+    max-width: 900px;
     margin: 0 auto;
     padding: calc(var(--topbar-h) + 22px) 18px 80px;
   }
@@ -63,14 +63,14 @@
   }
   .section-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
 
-  /* AM / PM columns */
+  /* AM / PM */
   .routine-grid {
     display: grid;
     grid-template-columns: 1fr;
     gap: 16px;
     margin-bottom: 48px;
   }
-  @media (min-width: 680px) { .routine-grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 680px) { .routine-grid { grid-template-columns: 1fr 1fr; align-items: start; } }
 
   .routine-card {
     background: var(--bg-elev);
@@ -93,7 +93,7 @@
     color: var(--ink-faint);
     margin-bottom: 16px;
   }
-  .step { display: flex; gap: 12px; padding: 10px 0; border-top: 1px solid var(--rule); }
+  .step { display: flex; gap: 12px; padding: 11px 0; border-top: 1px solid var(--rule); }
   .step:first-of-type { border-top: none; }
   .step .num {
     font-family: 'Geist Mono', monospace;
@@ -101,15 +101,26 @@
     color: var(--accent);
     flex-shrink: 0;
     width: 16px;
-    padding-top: 1px;
+    padding-top: 3px;
   }
-  .step .txt { font-size: 13.5px; line-height: 1.45; }
-  .step .txt b { font-weight: 500; }
-  .step .txt .note { color: var(--ink-dim); font-size: 12px; }
+  .step .txt { font-size: 13.5px; line-height: 1.4; }
+  .step .role { color: var(--ink-dim); display: block; margin-bottom: 5px; }
+  .prod {
+    display: inline-block;
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    color: var(--ink);
+    background: var(--bg-panel);
+    border: 1px solid var(--rule-bright);
+    border-radius: 7px;
+    padding: 3px 9px;
+    margin: 2px 4px 2px 0;
+  }
+  .step .sep { color: var(--ink-faint); font-size: 11px; font-family: 'Geist Mono', monospace; }
 
   /* Rotation table */
   .rotation { overflow-x: auto; margin-bottom: 48px; -webkit-overflow-scrolling: touch; }
-  table { border-collapse: collapse; width: 100%; min-width: 460px; }
+  table { border-collapse: collapse; width: 100%; min-width: 420px; }
   th, td {
     text-align: left;
     padding: 11px 12px;
@@ -124,21 +135,11 @@
     color: var(--ink-faint);
     font-weight: 400;
   }
-  td.day {
-    font-family: 'Fraunces', serif;
-    font-weight: 500;
-    color: var(--ink);
-  }
+  td.day { font-family: 'Fraunces', serif; font-weight: 500; color: var(--ink); }
   td .pm-actif { color: var(--accent); }
+  td .bpo { color: var(--t-tech); }
   tr.rest td { color: var(--ink-faint); }
   tr.rest td.day { color: var(--ink-dim); }
-  td .tag {
-    font-family: 'Geist Mono', monospace;
-    font-size: 9px;
-    color: var(--ink-faint);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-  }
 
   /* Variants */
   .variants {
@@ -162,10 +163,9 @@
     margin-bottom: 9px;
   }
   .variant p { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
-  .variant p + p { margin-top: 6px; }
   .variant b { color: var(--ink); font-weight: 500; }
 
-  /* Corps block */
+  /* Corps */
   .corps {
     background: var(--bg-panel);
     border: 1px solid var(--rule);
@@ -176,7 +176,7 @@
   .corps li {
     counter-increment: c;
     position: relative;
-    padding: 8px 0 8px 30px;
+    padding: 9px 0 9px 30px;
     font-size: 13.5px;
     line-height: 1.5;
     border-top: 1px solid var(--rule);
@@ -184,17 +184,12 @@
   .corps li:first-child { border-top: none; }
   .corps li::before {
     content: counter(c);
-    position: absolute; left: 0; top: 8px;
+    position: absolute; left: 0; top: 9px;
     font-family: 'Geist Mono', monospace;
     font-size: 11px;
     color: var(--accent);
   }
-  .corps .warn {
-    margin-top: 14px;
-    font-size: 12.5px;
-    color: var(--t-sante);
-    line-height: 1.5;
-  }
+  .corps .warn { margin-top: 14px; font-size: 12.5px; color: var(--t-sante); line-height: 1.5; }
 
   .footnote {
     margin-top: 44px;
@@ -224,99 +219,90 @@
 </header>
 
 <main>
-  <div class="page-kicker">Protocole · acné persistante</div>
+  <div class="page-kicker">Protocole · acné 3 zones · anti sur-exfoliation</div>
   <h1 class="page-title">Skincare</h1>
 
   <div class="rule-banner">
     <span class="star">✦</span>
-    <p>Règle d'or&nbsp;: <b>un seul actif leave-on par soir.</b> Jamais deux actifs forts le même soir.</p>
+    <p>Règle d'or&nbsp;: <b>un seul actif leave-on par soir.</b> BPO le matin, rétinol le soir — jamais ensemble.</p>
   </div>
 
   <!-- AM / PM -->
-  <div class="section-label">Routine quotidienne</div>
+  <div class="section-label">Visage — routine quotidienne</div>
   <div class="routine-grid">
     <div class="routine-card">
       <h3>Matin</h3>
-      <div class="when">AM · 4 étapes max</div>
-      <div class="step"><span class="num">1</span><span class="txt">Eau tiède <span class="note">(ou CeraVe Blemish si excès de sébum)</span></span></div>
-      <div class="step"><span class="num">2</span><span class="txt"><b>Rohto Melano CC</b> — 3-4 gouttes <span class="note">(jours actifs seulement)</span></span></div>
-      <div class="step"><span class="num">3</span><span class="txt"><b>PC Repairing Serum</b> — 2 pumps</span></div>
-      <div class="step"><span class="num">4</span><span class="txt"><b>Anthelios UVMune 400</b> <span class="note">— SPF quotidien</span></span></div>
+      <div class="when">AM · 4 étapes</div>
+      <div class="step"><span class="num">1</span><span class="txt"><span class="role">Nettoyage doux</span><span class="prod">Sensibio Gel Moussant</span></span></div>
+      <div class="step"><span class="num">2</span><span class="txt"><span class="role">Actif AM — l'un OU l'autre, jamais les deux</span><span class="prod">Melano CC (vit C)</span><span class="sep">ou</span><span class="prod">Curaspot 5% (BPO, rincer)</span></span></div>
+      <div class="step"><span class="num">3</span><span class="txt"><span class="role">Hydratant</span><span class="prod">CeraVe Lait</span></span></div>
+      <div class="step"><span class="num">4</span><span class="txt"><span class="role">Protection</span><span class="prod">UVMune 400</span><span class="sep">/ sport</span><span class="prod">Anessa</span></span></div>
     </div>
     <div class="routine-card">
       <h3>Soir</h3>
-      <div class="when">PM · 4 étapes max</div>
-      <div class="step"><span class="num">1</span><span class="txt"><b>FANCL Oil Black</b> — 2 pumps sur peau sèche, émulsifier à l'eau</span></div>
-      <div class="step"><span class="num">2</span><span class="txt"><b>CeraVe Blemish Control</b> — 60 sec de massage</span></div>
-      <div class="step"><span class="num">3</span><span class="txt"><b>Actif du jour</b> <span class="note">— 1 SEUL, selon la rotation</span></span></div>
-      <div class="step"><span class="num">4</span><span class="txt"><b>PC Repairing Serum</b> <span class="note">— jours recovery : Hada Labo d'abord</span></span></div>
+      <div class="when">PM · 1 seul actif</div>
+      <div class="step"><span class="num">1</span><span class="txt"><span class="role">Démaquillage</span><span class="prod">Fancl Oil Black &amp; Smooth</span></span></div>
+      <div class="step"><span class="num">2</span><span class="txt"><span class="role">Nettoyage</span><span class="prod">CeraVe Blemish Control</span></span></div>
+      <div class="step"><span class="num">3</span><span class="txt"><span class="role">Actif du soir (rotation)</span><span class="prod">Rétinol PC</span><span class="prod">BHA PC 2%</span><span class="sep">ou repos</span></span></div>
+      <div class="step"><span class="num">4</span><span class="txt"><span class="role">Humectant (peau humide)</span><span class="prod">Hada Labo Premium</span></span></div>
+      <div class="step"><span class="num">5</span><span class="txt"><span class="role">Hydratant</span><span class="prod">CeraVe Lait</span></span></div>
     </div>
   </div>
 
   <!-- Rotation -->
-  <div class="section-label">Rotation hebdomadaire des actifs</div>
+  <div class="section-label">Rotation hebdomadaire</div>
   <div class="rotation">
     <table>
-      <thead>
-        <tr><th>Jour</th><th>Matin</th><th>Soir (actif)</th></tr>
-      </thead>
+      <thead><tr><th>Jour</th><th>Matin</th><th>Soir (1 actif)</th></tr></thead>
       <tbody>
-        <tr><td class="day">Lundi</td><td>Melano CC</td><td class="pm-actif">Rétinaldéhyde</td></tr>
-        <tr><td class="day">Mardi</td><td><span class="tag">Repos</span></td><td class="pm-actif">BHA 2%</td></tr>
-        <tr><td class="day">Mercredi</td><td>Melano CC</td><td class="pm-actif">SVR Sebiaclear</td></tr>
-        <tr><td class="day">Jeudi</td><td><span class="tag">Repos</span></td><td class="pm-actif">Rétinaldéhyde</td></tr>
-        <tr class="rest"><td class="day">Vendredi</td><td><span class="tag">Repos</span></td><td>Barrier recovery <span class="tag">— Hada Labo + PC Repairing</span></td></tr>
-        <tr><td class="day">Samedi</td><td>Melano CC</td><td class="pm-actif">BHA 2%</td></tr>
-        <tr><td class="day">Dimanche</td><td><span class="tag">Repos</span></td><td class="pm-actif">Rétinaldéhyde</td></tr>
+        <tr><td class="day">Lundi</td><td>Melano CC</td><td class="pm-actif">Rétinol PC</td></tr>
+        <tr><td class="day">Mardi</td><td><span class="bpo">Curaspot BPO</span></td><td class="pm-actif">BHA PC 2%</td></tr>
+        <tr class="rest"><td class="day">Mercredi</td><td>Melano CC</td><td>Repos doux — hydratation seule</td></tr>
+        <tr><td class="day">Jeudi</td><td>Melano CC</td><td class="pm-actif">Rétinol PC</td></tr>
+        <tr class="rest"><td class="day">Vendredi</td><td><span class="bpo">Curaspot BPO</span></td><td>Repos barrière — Cicaplast B5+</td></tr>
+        <tr><td class="day">Samedi</td><td>Melano CC</td><td class="pm-actif">BHA PC 2% <span style="color:var(--ink-faint)">(→ Kerato+ si sensible)</span></td></tr>
+        <tr><td class="day">Dimanche</td><td>Melano CC</td><td class="pm-actif">Rétinol PC</td></tr>
       </tbody>
     </table>
   </div>
 
   <!-- Variants -->
-  <div class="section-label">Variants selon le type de jour</div>
+  <div class="section-label">Variants selon le jour</div>
   <div class="variants">
     <div class="variant">
       <h4>Jour d'entraînement</h4>
-      <p>AM&nbsp;: <b>Anessa Gold</b> si extérieur. Post-effort&nbsp;: rincer à l'eau fraîche seulement.</p>
-      <p>PM&nbsp;: actif doux ou repos. <b>Skip BHA et rétinoïde</b> (sueur + actifs = flare).</p>
+      <p>AM&nbsp;: <b>Anessa</b> si extérieur. Post-effort&nbsp;: rincer eau fraîche. PM&nbsp;: actif doux ou repos — <b>skip BHA et rétinol</b>.</p>
     </div>
     <div class="variant">
       <h4>Jour de repos</h4>
-      <p>AM&nbsp;: eau → PC Repairing → Anthelios léger.</p>
-      <p>PM&nbsp;: Hada Labo + SVR Sebiaclear. Consolidation barrière.</p>
+      <p>AM&nbsp;: eau → CeraVe Lait → SPF. PM&nbsp;: Hada Labo + Cicaplast. Consolidation barrière.</p>
     </div>
     <div class="variant">
       <h4>Poussée active (flare)</h4>
-      <p>AM&nbsp;: <b>pas de Melano CC</b> (pique les lésions).</p>
-      <p>PM&nbsp;: BHA 2% → Niacinamide 20% spot → SVR Sebiaclear → Hada Labo. <b>Pas de rétinoïde</b> sur lésion ouverte.</p>
-    </div>
-    <div class="variant">
-      <h4>Extérieur / sport dehors</h4>
-      <p>AM&nbsp;: Anessa Gold, réappliquer toutes les 2 h.</p>
-      <p>PM&nbsp;: <b>double cleanse FANCL Black obligatoire</b>.</p>
+      <p>AM&nbsp;: <b>pas de Melano CC</b>. PM&nbsp;: Curaspot court contact ou SVR Sébiaclear. <b>Pas de rétinol</b> sur lésion ouverte.</p>
     </div>
     <div class="variant">
       <h4>Post-rasage <span style="color:var(--ink-faint)">(2×/sem)</span></h4>
-      <p>PM&nbsp;: <b>skip tout actif</b>. Hada Labo → PC Repairing → SVR Sebiaclear seul. Peau micro-lésée.</p>
+      <p>PM&nbsp;: <b>skip tout actif</b>. Hada Labo → Cicaplast B5+ → CeraVe Lait. Peau micro-lésée.</p>
     </div>
   </div>
 
   <!-- Corps -->
-  <div class="section-label">Protocole corps — dos + torse</div>
+  <div class="section-label">Corps, douche &amp; shampooing</div>
   <div class="corps">
     <ol>
-      <li>Shampoing d'abord, <b>rincé avant</b> de laver le corps (pas de résidus sur le dos).</li>
-      <li>Gel douche pH-neutre <span style="color:var(--ink-dim)">(CeraVe Body Wash)</span> partout sauf dos/torse.</li>
-      <li><b>BPO wash 5-10%</b> <span style="color:var(--ink-dim)">(PanOxyl)</span> sur dos + torse à la brosse longue — poser 60-90 sec, rincer.</li>
-      <li>Rincer à l'eau tiède.</li>
+      <li><b>Nodé</b> (shampooing) d'abord, rincé <b>avant</b> de laver le corps.</li>
+      <li><b>Atoderm</b> (gel douche) partout <b>sauf</b> dos / torse.</li>
+      <li><b>PanOxyl 10%</b> (BPO) sur dos + torse à la brosse longue — poser <b>60-90 sec</b>, rincer.</li>
+      <li>Rincer à l'eau tiède. CeraVe Lait sur le corps (zones sèches).</li>
     </ol>
-    <p class="warn">⚠ Pas de crème sur le dos (l'occlusion aggrave l'acné tronculaire). SVR Sebiaclear en spot sur lésions actives uniquement.</p>
+    <p class="warn">⚠ Pas de crème sur le dos (l'occlusion aggrave l'acné tronculaire). SVR Sébiaclear en spot sur lésions actives. Le BPO décolore le textile → serviettes blanches dédiées.</p>
   </div>
 
   <p class="footnote">
-    <b>Source</b> — DECISIONS skincare (4 DRs Athena, cadrage terminé).<br>
-    <b>Caps phase d'intro</b> — BHA et rétinoïde : démarrer 2×/sem, monter sur 4 à 8 semaines.<br>
-    Page statique. Référence&nbsp;: ce protocole évolue dans Jarvis, pas ici.
+    <b>Source</b> — DECISIONS skincare sanctifiée (inventaire réel, compositions vérifiées, MAJ 2026-06-03).<br>
+    <b>Backup hors routine</b> — SVR Sébiaclear (spot marques), Fancl Oil standard, Vichy Minéral 89.<br>
+    Page statique. Ce protocole évolue dans Jarvis, pas ici.
   </p>
 </main>
 

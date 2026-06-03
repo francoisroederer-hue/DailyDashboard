@@ -1,0 +1,127 @@
+/* ============================================================
+   Daily & Co. — design tokens partagés (carte / suppléments / skincare)
+   Identité : éditorial sombre, accent doré, grain papier.
+   ============================================================ */
+:root {
+  --bg: #0a0908;
+  --bg-elev: #14110f;
+  --bg-panel: #1a1714;
+  --ink: #f4ede4;
+  --ink-dim: #9a8f80;
+  --ink-faint: #5a5246;
+  --rule: #2a241e;
+  --rule-bright: #4a4036;
+  --accent: #e8c889;
+  --tension: #ef4444;
+
+  /* couleurs thématiques (carte des news) */
+  --t-geopol: #ef4444;
+  --t-finance: #eab308;
+  --t-tech: #06b6d4;
+  --t-learn: #6366f1;
+  --t-sante: #f97316;
+  --t-climat: #10b981;
+  --t-sciences: #14b8a6;
+
+  --topbar-h: 92px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Geist', -apple-system, sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+/* Grain overlay — texture papier sur toutes les pages */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1000;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ============================================================
+   HEADER + barre d'onglets (fixés en haut)
+   ============================================================ */
+header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 20;
+  background: linear-gradient(to bottom, var(--bg) 72%, transparent);
+  padding: 12px 16px 14px;
+}
+
+.topline {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.masthead {
+  font-family: 'Fraunces', serif;
+  font-variation-settings: 'opsz' 144;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 22px;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+.masthead .amp { color: var(--accent); font-weight: 300; }
+
+.date-line {
+  font-family: 'Geist Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  text-align: right;
+  line-height: 1.3;
+}
+.date-line .meta { color: var(--ink-faint); }
+
+/* Onglets */
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-top: 12px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  font-family: 'Geist Mono', monospace;
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--ink-faint);
+  text-decoration: none;
+  padding: 7px 13px 8px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  white-space: nowrap;
+  transition: color .15s, border-color .15s, background .15s;
+}
+.tab:hover { color: var(--ink); border-color: var(--rule-bright); }
+.tab.active {
+  color: var(--bg);
+  background: var(--accent);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+@media (min-width: 720px) {
+  header { padding: 18px 28px 16px; }
+  .masthead { font-size: 28px; }
+  .date-line { font-size: 11px; }
+  .tabs { margin-top: 14px; }
+  .tab { font-size: 11px; }
+}

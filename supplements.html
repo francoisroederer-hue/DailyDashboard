@@ -12,7 +12,7 @@
   html { scroll-behavior: smooth; }
   body { min-height: 100%; }
   main {
-    max-width: 760px;
+    max-width: 1040px;
     margin: 0 auto;
     padding: calc(var(--topbar-h) + 22px) 18px 80px;
   }
@@ -39,100 +39,110 @@
     font-size: 14px;
     line-height: 1.6;
     color: var(--ink-dim);
-    max-width: 56ch;
+    max-width: 60ch;
     margin-bottom: 40px;
   }
   .page-intro b { color: var(--ink); font-weight: 500; }
 
-  /* Timeline */
-  .timeline { position: relative; }
-  .timeline::before {
-    content: '';
-    position: absolute;
-    left: 7px; top: 6px; bottom: 6px;
-    width: 1px;
-    background: linear-gradient(to bottom, transparent, var(--rule-bright) 8%, var(--rule-bright) 92%, transparent);
+  /* 3 blocs : matin / sport / soir */
+  .blocks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 18px;
   }
+  @media (min-width: 760px) { .blocks { grid-template-columns: repeat(3, 1fr); align-items: start; } }
 
-  .slot {
-    position: relative;
-    padding: 0 0 30px 40px;
-  }
-  .slot::before {
-    content: '';
-    position: absolute;
-    left: 2px; top: 5px;
-    width: 11px; height: 11px;
-    border-radius: 50%;
-    background: var(--bg);
-    border: 2px solid var(--accent);
-    box-shadow: 0 0 10px rgba(232, 200, 137, 0.4);
-  }
-  .slot.dim::before { border-color: var(--rule-bright); box-shadow: none; }
-
-  .slot-time {
-    font-family: 'Geist Mono', monospace;
-    font-size: 10.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.16em;
-    color: var(--accent);
-    margin-bottom: 12px;
-  }
-  .slot.dim .slot-time { color: var(--ink-dim); }
-  .slot-time .sub { color: var(--ink-faint); letter-spacing: 0.1em; }
-
-  .item {
+  .block {
     background: var(--bg-elev);
     border: 1px solid var(--rule);
-    border-radius: 14px;
-    padding: 14px 16px;
-    margin-bottom: 10px;
+    border-radius: 18px;
+    padding: 22px 20px;
   }
-  .item:last-child { margin-bottom: 0; }
-  .item-head {
+  .block-head {
+    display: flex;
+    align-items: baseline;
+    gap: 9px;
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .block-icon { color: var(--accent); font-size: 15px; line-height: 1; }
+  .block-name {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+  }
+  .block-when {
+    font-family: 'Geist Mono', monospace;
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-faint);
+    margin-left: auto;
+    text-align: right;
+    line-height: 1.4;
+    align-self: center;
+  }
+
+  .sup { padding: 14px 0; border-top: 1px solid var(--rule); }
+  .sup:first-of-type { border-top: none; }
+  .sup-top {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-    gap: 12px;
-    flex-wrap: wrap;
+    gap: 10px;
   }
-  .item-name {
+  .sup-name {
     font-family: 'Fraunces', serif;
     font-weight: 500;
-    font-size: 17px;
-    line-height: 1.25;
+    font-size: 16px;
+    line-height: 1.2;
   }
-  .item-dose {
+  .sup-dose {
     font-family: 'Geist Mono', monospace;
     font-size: 11px;
     color: var(--accent);
     white-space: nowrap;
   }
-  .item-meta {
-    font-size: 12.5px;
-    color: var(--ink-dim);
-    line-height: 1.5;
-    margin-top: 6px;
-  }
-  .item-meta .prod { color: var(--ink); }
-  .badge {
+  /* Nom du produit — mis en évidence */
+  .sup-prod {
     display: inline-block;
+    margin-top: 7px;
+    font-family: 'Geist Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    color: var(--ink);
+    background: var(--bg-panel);
+    border: 1px solid var(--rule-bright);
+    border-radius: 7px;
+    padding: 3px 9px;
+  }
+  .sup-note {
+    margin-top: 7px;
+    font-size: 12px;
+    line-height: 1.45;
+    color: var(--ink-dim);
+  }
+  .sup.opt { opacity: 0.72; }
+  .sup.opt .sup-dose { color: var(--ink-dim); }
+
+  .tag-cure {
+    display: inline-block;
+    margin-top: 8px;
     font-family: 'Geist Mono', monospace;
     font-size: 9px;
     text-transform: uppercase;
     letter-spacing: 0.12em;
-    padding: 2px 7px;
+    color: var(--t-sante);
+    border: 1px solid rgba(249,115,22,0.4);
     border-radius: 999px;
-    border: 1px solid var(--rule-bright);
-    color: var(--ink-dim);
-    margin-top: 8px;
+    padding: 2px 8px;
   }
-  .badge.season { color: var(--t-tech); border-color: rgba(6,182,212,0.4); }
-  .badge.cure { color: var(--t-sante); border-color: rgba(249,115,22,0.4); }
-  .badge.cond { color: var(--ink-faint); }
 
   .footnote {
-    margin-top: 44px;
+    margin-top: 40px;
     padding-top: 20px;
     border-top: 1px solid var(--rule);
     font-family: 'Geist Mono', monospace;
@@ -159,109 +169,101 @@
 </header>
 
 <main>
-  <div class="page-kicker">Protocole · 7 prises / jour</div>
+  <div class="page-kicker">Protocole · ~128 €/mois</div>
   <h1 class="page-title">Stack suppléments</h1>
   <p class="page-intro">
-    Organisé par <b>moment de la journée</b>. Les lipophiles (oméga-3, vitamines ADK)
-    se prennent au dîner avec un repas gras&nbsp;; le magnésium au coucher pour le sommeil.
-    Coût total du core&nbsp;: <b>~133&nbsp;€/mois</b>.
+    Trois blocs&nbsp;: <b>matin</b> et <b>soir</b> avec les repas, <b>sport</b> les jours
+    d'entraînement. Oméga-3 et Arthropure² se prennent matin + soir&nbsp;; le magnésium au coucher.
   </p>
 
-  <div class="timeline">
+  <div class="blocks">
 
-    <section class="slot">
-      <div class="slot-time">Matin <span class="sub">· petit-déjeuner</span></div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Nu Power</span>
-          <span class="item-dose">4 comprimés (2 + 2)</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutriting Nu Power</span> — multi de maintien, 22 nutriments coenzymés. Répartir matin + midi.</div>
+    <!-- MATIN -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">☀</span>
+        <span class="block-name">Matin</span>
+        <span class="block-when">avec le<br>petit-déj</span>
+      </div>
+
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Nu Power</span><span class="sup-dose">2 comprimés</span></div>
+        <span class="sup-prod">Nutriting</span>
+      </div>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Oméga-3 EPAX</span><span class="sup-dose">2 gélules</span></div>
+        <span class="sup-prod">Nutrimuscle EPAX TG</span>
+      </div>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Arthropure²</span><span class="sup-dose">2 gélules</span></div>
+        <span class="sup-prod">Nutripure</span>
+        <span class="tag-cure">Cure 12-16 sem</span>
       </div>
     </section>
 
-    <section class="slot">
-      <div class="slot-time">60 min avant l'entraînement</div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Collagène type I</span>
-          <span class="item-dose">15 g + 50 mg vit C</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutripure Peptan</span> — dans un verre d'eau. Cible&nbsp;: tendons (fenêtre pré-effort).</div>
+    <!-- SPORT -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">⚡</span>
+        <span class="block-name">Sport</span>
+        <span class="block-when">jours<br>d'entraînement</span>
+      </div>
+
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Collagène type I</span><span class="sup-dose">15 g + vit C</span></div>
+        <span class="sup-prod">Nutripure Peptan</span>
+        <div class="sup-note">60 min avant la séance. Jours de sport uniquement.</div>
+      </div>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Créatine</span><span class="sup-dose">3 – 5 g</span></div>
+        <span class="sup-prod">Nutrimuscle Opticreatine</span>
+        <div class="sup-note">Post-workout, avec le repas.</div>
+      </div>
+      <div class="sup opt">
+        <div class="sup-top"><span class="sup-name">Électrolytes</span><span class="sup-dose">1 pastille</span></div>
+        <span class="sup-prod">Nutripure</span>
+        <div class="sup-note">Optionnel — rides &gt; 90 min ou forte chaleur.</div>
       </div>
     </section>
 
-    <section class="slot dim">
-      <div class="slot-time">Intra-workout <span class="sub">· rides &gt; 90 min ou chaleur</span></div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Électrolytes</span>
-          <span class="item-dose">1 pastille</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutripure</span> — uniquement sur efforts longs ou forte chaleur.</div>
-        <span class="badge cond">Conditionnel</span>
+    <!-- SOIR -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">☾</span>
+        <span class="block-name">Soir</span>
+        <span class="block-when">dîner<br>+ coucher</span>
       </div>
-    </section>
 
-    <section class="slot">
-      <div class="slot-time">Post-workout <span class="sub">· avec le repas</span></div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Créatine monohydrate</span>
-          <span class="item-dose">3 – 5 g</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutriting nuCrea+</span> (Creapure micronisée). Avec le repas post-entraînement.</div>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Nu Power</span><span class="sup-dose">2 comprimés</span></div>
+        <span class="sup-prod">Nutriting</span>
       </div>
-    </section>
-
-    <section class="slot">
-      <div class="slot-time">Soir <span class="sub">· dîner, repas gras</span></div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Oméga-3 EPA + DHA</span>
-          <span class="item-dose">2 – 3 caps (~2,1 g)</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutriting nuOmega-3 EPAX TG</span> — dose articulaire anti-inflammatoire. Avec un repas gras.</div>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Oméga-3 EPAX</span><span class="sup-dose">2 gélules</span></div>
+        <span class="sup-prod">Nutrimuscle EPAX TG</span>
+        <div class="sup-note">À retirer si poisson gras au dîner.</div>
       </div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Vitamines D3 + K2 + A</span>
-          <span class="item-dose">1 cap</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutriting nuADK</span> — 2000&nbsp;IU D3 + 125&nbsp;µg K2 + 600&nbsp;µg vit A. Seule source de K2 du stack.</div>
-        <span class="badge season">Oct → Mars obligatoire</span>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">Arthropure²</span><span class="sup-dose">2 gélules</span></div>
+        <span class="sup-prod">Nutripure</span>
       </div>
-    </section>
-
-    <section class="slot">
-      <div class="slot-time">Soir <span class="sub">· 2 h post-dîner ou coucher</span></div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Arthropure²</span>
-          <span class="item-dose">4 gélules</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutripure</span> — UC-II + MSM + chondroïtine + boswellia + vit C (articulations). À distance des protéines (tolérance orale UC-II).</div>
-        <span class="badge cure">Cure 12 – 16 sem puis bilan</span>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">nuADK</span><span class="sup-dose">8 gouttes</span></div>
+        <span class="sup-prod">Nutriting</span>
+        <div class="sup-note">D3 + K2 + vit A. Toute l'année.</div>
       </div>
-    </section>
-
-    <section class="slot">
-      <div class="slot-time">Coucher</div>
-      <div class="item">
-        <div class="item-head">
-          <span class="item-name">Magnésium</span>
-          <span class="item-dose">3 gélules (300 mg)</span>
-        </div>
-        <div class="item-meta"><span class="prod">Nutriting nuMagnesium</span> — bisglycinate 300&nbsp;mg + taurine + B6 P5P. Optimisé sommeil.</div>
+      <div class="sup">
+        <div class="sup-top"><span class="sup-name">nuMagnesium</span><span class="sup-dose">3 gélules</span></div>
+        <span class="sup-prod">Nutriting</span>
+        <div class="sup-note">Au coucher — bisglycinate + taurine + B6.</div>
       </div>
     </section>
 
   </div>
 
   <p class="footnote">
-    <b>Source</b> — DECISIONS nutrition (D6), benchmark DR vérifié WebSearch 2026-05-25.<br>
-    <b>Retirés du stack</b> — Ashwagandha (évidence insuffisante sans stress chronique).<br>
-    Page statique. Référence&nbsp;: ce protocole évolue dans Jarvis, pas ici.
+    <b>Source</b> — DECISIONS suppléments (fichier sanctifié, MAJ 2026-06-02).<br>
+    Page statique. Ce protocole évolue dans Jarvis, pas ici.
   </p>
 </main>
 

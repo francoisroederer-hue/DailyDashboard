@@ -1,277 +1,271 @@
 {
-  "generated_at": "2026-06-03T06:00:00Z",
+  "generated_at": "2026-06-04T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran coupe talks Hormuz",
-      "title": "Iran suspend les négociations et menace de fermer Hormuz",
-      "summary": "Le 1er juin, Téhéran a annoncé l'arrêt complet de ses échanges avec Washington via intermédiaires, en représailles aux violations répétées du cessez-le-feu par Israël au Liban. L'Iran menace en parallèle de fermer totalement le Détroit d'Hormuz, par lequel transite 20 % du commerce mondial de pétrole. Les marchés ont immédiatement intégré une probabilité accrue de coupure durable des approvisionnements.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html"
+      "short_title": "Cessez-le-feu Iran/USA",
+      "title": "Négociations US-Iran : accord de 60 jours en vue malgré tensions",
+      "summary": "Les États-Unis et l'Iran se disent quasi-accordés sur un mémorandum de 60 jours prolongeant le cessez-le-feu, mais Téhéran a suspendu les discussions après des frappes israéliennes au Liban. Trump affirme que les négociations se poursuivent à un rythme rapide et dit avoir dissuadé Netanyahu d'un assaut majeur sur Beyrouth. La réouverture du détroit d'Ormuz, fermé à environ 20 % du trafic mondial d'énergie depuis le conflit, reste l'enjeu stratégique central.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent +7% menace Hormuz",
-      "title": "Le Brent bondit de 7 % sur fond de menace iranienne",
-      "summary": "Le Brent a grimpé à 95 dollars le baril, son plus fort rebond depuis début mai, après la menace iranienne de fermer le Détroit d'Hormuz. Le trafic maritime dans le Détroit est déjà réduit à 5 % de son niveau d'avant-conflit depuis février. La prime de risque géopolitique sur l'énergie reste structurellement élevée, rendant tout accord diplomatique crucial pour les marchés.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-31/latest-oil-market-news-and-analysis-for-june-1"
+      "importance": 2,
+      "short_title": "Brent -20% post-Hormuz",
+      "title": "Le Brent recule de 20 % depuis son pic 2026 sur les espoirs de cessez-le-feu",
+      "summary": "Depuis son plus haut annuel, le cours du Brent a perdu environ 20 % à 92,56 $ fin mai, le marché intégrant la perspective d'un retour des flux pétroliers via le détroit d'Ormuz. Les chargements dans le Golfe restent toutefois extrêmement faibles selon UBS, et l'accord demeure fragile. La prime de risque géopolitique, qui avait propulsé le brut à ses plus hauts de 2026, est en cours de normalisation progressive.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "banques_centrales",
+      "subtopic": "macro",
       "importance": 3,
-      "short_title": "BCE : hausse 25pb en juin",
-      "title": "La BCE devrait relever ses taux le 11 juin sous pression inflationniste",
-      "summary": "Les économistes anticipent désormais deux hausses de 25 pb de la BCE en 2026, la première attendue le 11 juin, portée par une inflation en zone euro à 3 % en avril sous l'effet de l'envolée des prix de l'énergie. La BCE avait maintenu ses taux inchangés en mars et avril, mais l'escalade des risques haussiers rend un nouveau statu quo difficile à défendre. Ce pivot marquerait un revirement majeur après l'assouplissement engagé en 2025.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/ecb-to-hike-rates-twice-in-2026-as-inflation-jumps-survey-shows"
+      "short_title": "FOMC : Warsh au rapport",
+      "title": "Première réunion du FOMC sous Kevin Warsh les 16-17 juin",
+      "summary": "Kevin Warsh, 17e président de la Fed depuis le 22 mai 2026, présidera son premier FOMC les 16-17 juin dans un comité profondément divisé sur le calendrier des baisses de taux. Le consensus de marché à 97 % plaide pour un statu quo à 3,50-3,75 %, mais la vraie question est le dot plot et la tonalité de la conférence de presse. Le signal de Warsh sur l'inflation persistante ou les risques de croissance orientera les anticipations de taux pour tout le second semestre 2026.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html"
     },
     {
       "id": "n04",
-      "theme": "geopol",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Cessez-le-feu US-Iran",
-      "title": "Le cessez-le-feu US-Iran du 7 avril reste fragile",
-      "summary": "Conclu début avril entre Washington, Tel Aviv et Téhéran, le cessez-le-feu a été violé à plusieurs reprises par les deux camps. Trump l'a prolongé indéfiniment le 21 avril, mais les négociations sur un accord à 60 jours incluant la réouverture du Détroit et le dossier nucléaire ont désormais capoté. L'administration Trump, qui affirmait l'accord « largement négocié », se retrouve sans feuille de route claire.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close/"
-    },
-    {
-      "id": "n05",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Israël : opérations Liban",
-      "title": "Israël intensifie ses opérations terrestres au Liban",
-      "summary": "L'escalade des opérations militaires israéliennes au Liban est le facteur déclencheur qui a conduit l'Iran à rompre les pourparlers avec Washington le 1er juin. Des discussions préalables pour des négociations directes Israël-Liban à Washington s'en trouvent compromises. La dynamique régionale se dégrade à un moment critique où un accord de fond US-Iran paraissait à portée.",
-      "source": "World Economic Forum",
-      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
-    },
-    {
-      "id": "n06",
       "theme": "finance",
       "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "Bâle III US : reproposal",
-      "title": "Les régulateurs US reproposent Bâle III avec allègements des fonds propres",
-      "summary": "Le 19 mars 2026, Fed, OCC et FDIC ont publié une nouvelle proposition Basel III abrogeant le projet de 2023. Le texte prévoit une baisse des exigences en CET1 de 2,4 % pour les grandes banques et intègre le netting cross-produit entre repo-style transactions et dérivés. La période de commentaires s'achève le 18 juin, avec une date d'application encore indéfinie ; l'enjeu CCR/XVA est central pour les banques de marché.",
+      "importance": 3,
+      "short_title": "Basel III : XVA en jeu",
+      "title": "Commentaires Basel III/CVA ouverts jusqu'au 18 juin : enjeux XVA majeurs",
+      "summary": "La Fed, la FDIC et l'OCC ont publié en mars 2026 leurs propositions de révision du cadre de capital réglementaire américain pour transposer Bâle III, avec une date limite de commentaires fixée au 18 juin. Le texte introduit un cadre CVA sensible au risque pour les expositions sur dérivés et renforce les approches standardisées XVA. Les banques européennes, plus avancées dans l'intégration des règles Bâle dans leurs calculs XVA, scrutent cette consultation comme signal d'harmonisation transatlantique.",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     },
     {
-      "id": "n07",
+      "id": "n05",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Anthropic dépose S-1 SEC",
-      "title": "Anthropic dépose confidentiellement son S-1 pour une IPO",
-      "summary": "Le 1er juin, Anthropic a soumis à la SEC un prospectus confidentiel pour une introduction en Bourse envisagée dès octobre 2026. La société vient de lever 65 milliards de dollars en Série H à une valorisation de 965 milliards, et affiche un chiffre d'affaires annualisé de 47 milliards de dollars en mai, contre 10 milliards l'an passé. L'IPO devancerait celle d'OpenAI qui prépare son propre dépôt dans les mêmes délais.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html"
+      "short_title": "Anthropic IPO $965 Md",
+      "title": "Anthropic dépose confidentiellement son dossier IPO à une valorisation de 965 Md$",
+      "summary": "Anthropic a soumis le 1er juin un dépôt confidentiel à la SEC pour une IPO, après avoir levé 65 milliards de dollars en Serie H à une valorisation de 965 milliards. Le chiffre d'affaires mensuel a atteint un run-rate de 47 milliards en mai, porté principalement par Claude Code, dépassant désormais la valorisation d'OpenAI (852 Md$). Les banquiers anticipent un listing au-dessus du seuil du trillion de dollars, probablement en octobre 2026.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/"
     },
     {
-      "id": "n08",
+      "id": "n06",
       "theme": "tech",
       "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "MAI-Code-1 vs Claude Code",
-      "title": "Microsoft lance MAI-Code-1 pour défier Anthropic et OpenAI dans le coding",
-      "summary": "À Microsoft Build 2026, la firme a dévoilé MAI-Code-1-Flash, un modèle de 5 milliards de paramètres intégré à GitHub Copilot, consommant 60 % de tokens en moins que ses concurrents sur des tâches complexes. Entraîné dans le pipeline de production Copilot, il réduit la dépendance de Microsoft envers OpenAI et permet de faire tourner les inférences en interne sur Azure. MAI-Thinking-1, son premier modèle de raisonnement souverain, est publié simultanément.",
+      "short_title": "Microsoft MAI-Code Build",
+      "title": "Microsoft Build 2026 : MAI-Code-1-Flash défie Claude sur le codage IA",
+      "summary": "À Build 2026, Microsoft a présenté MAI-Code-1-Flash (5 Md paramètres) et MAI-Thinking-1 (35 Md paramètres actifs), ses premiers modèles fondateurs entièrement développés sans OpenAI. MAI-Code-1-Flash surpasse Claude Haiku 4.5 sur les quatre benchmarks de codage avec un écart de 16 points sur SWE-Bench Pro, et MAI-Thinking-1 rivalise avec Claude Sonnet 4.6 selon des évaluateurs indépendants. Satya Nadella parle d'un passage de la consommation de modèles frontières à la participation active aux frontières de l'IA.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
     },
     {
+      "id": "n07",
+      "theme": "finance",
+      "subtopic": "ipo",
+      "importance": 2,
+      "short_title": "Vague IPO IA & bulle",
+      "title": "L'IPO Anthropic ouvre les vannes du marché IA : comparaisons avec 2000",
+      "summary": "L'annonce du dossier IPO d'Anthropic a relancé le débat sur la surchauffe des valorisations IA, des analystes évoquant des parallèles avec la bulle dot-com de 2000. Un stratégiste de premier plan parle d'ouverture des vannes du marché IPO, avec OpenAI et SpaceX comme prochains candidats au seuil trillion-dollar. La question centrale est de savoir si les fondamentaux de revenus d'Anthropic (+370 % en un an) justifient des multiples sans précédent historique.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/02/anthropic-ipo-openai-valuation-ai-bubble/"
+    },
+    {
+      "id": "n08",
+      "theme": "climat",
+      "subtopic": "chine",
+      "importance": 2,
+      "short_title": "Chine : 52% propre",
+      "title": "Chine : 52 % d'électricité décarbonée pour la première fois de son histoire",
+      "summary": "En début 2026, la Chine franchit un seuil historique : plus de la moitié de sa production électrique provient de sources renouvelables, avec 1 200 GW de solaire (+35 %) et 640 GW d'éolien installés. La revue Science a classé ce surge énergétique chinois parmi les Breakthroughs of the Year 2025. Paradoxalement, cet effort national massif reste insuffisant à lui seul pour réorienter la trajectoire mondiale des émissions, compte tenu de la croissance de la demande globale.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/china-briefing-5-february-2026-clean-energys-share-of-economy-record-renewables-thawing-relations-with-uk/"
+    },
+    {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI IPO en préparation",
-      "title": "OpenAI prépare son propre dépôt confidentiel en réponse à Anthropic",
-      "summary": "Dans la foulée d'Anthropic, OpenAI accélère ses préparatifs pour une entrée en Bourse, dans ce qui s'annonce comme l'une des plus grandes saisons d'IPO technologiques depuis des années, aux côtés de SpaceX qui vise 2 000 milliards de valorisation. Les deux rivaux se livrent une course au marché public dont l'enjeu est de capitaliser sur la fenêtre de valorisation avant une éventuelle normalisation. La concurrence neck-and-neck entre les deux labs s'exprime désormais aussi sur les marchés financiers.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/corporations/anthropic-files-ipo-openai-rcna347897"
-    },
-    {
-      "id": "n10",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Claude Code 18% adoption",
-      "title": "Claude Code passe de 3 % à 18 % d'adoption développeurs en neuf mois",
-      "summary": "Selon l'enquête JetBrains AI Pulse de janvier 2026, Claude Code est passé de 3 % d'adoption en entreprise en avril 2025 à 18 % en janvier 2026, la plus forte progression du segment. Avec un NPS de 54 et un taux de satisfaction de 91 %, il est le moteur principal du revenu annualisé de 47 milliards d'Anthropic. La domination de Claude Code dans le vibe coding constitue l'atout le plus bancable de l'IPO imminente.",
-      "source": "Built In",
-      "url": "https://builtin.com/articles/anthropic-claude-code-tool"
-    },
-    {
-      "id": "n11",
       "theme": "climat",
       "subtopic": "politique_climatique",
       "importance": 2,
-      "short_title": "1,5°C hors d'atteinte",
-      "title": "L'objectif de 1,5°C jugé définitivement hors de portée avant 2050",
-      "summary": "Le Global Energy Outlook 2026 de Resources for the Future conclut que le scénario de limitation du réchauffement à 1,5°C est désormais irréalisable. Les investissements dans les fossiles ont repris sous l'effet du choc énergétique post-crise du Détroit, tandis que l'élan politique climatique s'est affaibli aux États-Unis et dans plusieurs grandes économies. Les trajectoires disponibles convergent vers un réchauffement de 2 à 2,5°C.",
+      "short_title": "1,5°C hors de portée",
+      "title": "10 ans après Paris : l'objectif 1,5°C est officiellement abandonné",
+      "summary": "Dix ans après l'Accord de Paris, les experts du Resources for the Future concluent que le seuil de 1,5°C n'est plus physiquement atteignable. La sécurité énergétique et l'accessibilité tarifaire ont déclassé le climat comme priorité dans la plupart des agendas gouvernementaux. La trajectoire réaliste converge désormais vers 2,2 à 2,5°C de réchauffement d'ici 2100, avec des conséquences majeures sur les politiques d'adaptation.",
       "source": "Resources for the Future",
       "url": "https://www.rff.org/publications/reports/global-energy-outlook-2026/"
     },
     {
-      "id": "n12",
+      "id": "n10",
       "theme": "climat",
-      "subtopic": "transition_energetique",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Chine solaire : 15e plan",
-      "title": "La Chine pivot de la transition : le 15e Plan quinquennal accélère les exports solaires",
-      "summary": "Publié ce printemps, le 15e Plan quinquennal chinois accélère les exportations de panneaux solaires bon marché, remodelant le marché mondial. La Chine représente déjà 40 % des exports mondiaux de technologies propres vers l'Europe, contre 12 % en 2016. La Commission européenne cherche un équilibre difficile entre approvisionnement rapide pour ses objectifs 2030 et protection de son industrie solaire naissante.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
+      "short_title": "UE post-2030 en débat",
+      "title": "Consultation UE sur le cadre énergétique post-2030 : clôture le 12 juin",
+      "summary": "La Commission européenne a ouvert une consultation publique sur le cadre de l'énergie renouvelable post-2030, qui ferme le 12 juin 2026. Les États membres et le Parlement doivent arbitrer entre ambition climatique et réalisme industriel dans le prochain budget pluriannuel. Ce texte est fondamental car il fixera les objectifs contraignants de la décennie 2030-2040, dans un contexte où la révision du système ETS est également en cours.",
+      "source": "European Commission",
+      "url": "https://energy.ec.europa.eu/news/post-2030-renewable-energy-framework-public-consultation-2026-03-20_en"
+    },
+    {
+      "id": "n11",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Oméga-3 & vieillissement",
+      "title": "1 g d'oméga-3 par jour ralentit le vieillissement biologique de 3,8 mois",
+      "summary": "Une étude publiée dans Nature Aging (DO-HEALTH trial, 777 participants sur 3 ans) montre qu'une dose quotidienne de 1 gramme d'oméga-3 ralentit trois horloges épigénétiques dont PhenoAge, GrimAge2 et DunedinPACE. L'association oméga-3 + vitamine D + exercice de force produit des effets additifs sur PhenoAge. C'est la première preuve clinique robuste d'un effet anti-âge mesurable par supplémentation nutritionnelle accessible.",
+      "source": "Nature Aging",
+      "url": "https://www.nature.com/articles/s43587-024-00793-y"
+    },
+    {
+      "id": "n12",
+      "theme": "sante",
+      "subtopic": "nutrition",
+      "importance": 1,
+      "short_title": "Oléique & cancer pancréas",
+      "title": "L'acide oléique de l'huile d'olive accélère la croissance du cancer du pancréas",
+      "summary": "Une nouvelle étude suggère que pour le cancer du pancréas, la nature du gras consommé importe plus que la quantité : l'acide oléique, principal acide gras de l'huile d'olive, a accéléré la croissance tumorale dans des modèles expérimentaux. Ce résultat contre-intuitif questionne le dogme de l'alimentation méditerranéenne universellement protectrice. Il ne remet pas en cause l'huile d'olive pour la population générale, mais signale un mécanisme de risque spécifique en contexte cancéreux.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/health_medicine/nutrition/"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "biotech",
+      "theme": "learn",
+      "subtopic": "ai_tutoring",
       "importance": 2,
-      "short_title": "Mini-CRISPR in vivo NIH",
-      "title": "NIH : un mini-CRISPR pour des corrections génétiques directement in vivo",
-      "summary": "Des chercheurs financés par le NIH ont identifié et optimisé Al3Cas12f, une enzyme CRISPR miniaturisée suffisamment petite pour être encapsulée dans un vecteur AAV et délivrée dans les cellules humaines sans extraction préalable. Les tests en cellules humaines montrent une efficacité d'édition génomique nettement supérieure à la version naturelle. Ce verrou technique levé ouvre la voie à des thérapies géniques administrées in vivo, réduisant drastiquement leur coût et leur complexité logistique.",
-      "source": "NIH",
-      "url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body"
+      "short_title": "IA tuteur bat la classe",
+      "title": "L'IA tuteur surpasse l'enseignement classique en RCT, mais risque cognitif",
+      "summary": "Un essai contrôlé randomisé peer-reviewed confirme que les systèmes de tutorat IA obtiennent de meilleures performances immédiates que l'apprentissage actif en classe, en moins de temps. L'OCDE et des chercheurs en sciences cognitives alertent cependant : déléguer les tâches d'apprentissage à des IA généralistes crée une paresse métacognitive qui nuit aux gains réels de compétences durables. La distinction entre performance court-terme et apprentissage profond devient le défi central de l'édtech en 2026.",
+      "source": "OECD Digital Education Outlook 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Créatine anti-sarcopénie",
-      "title": "Créatine, protéines et résistance : le protocole anti-sarcopénie validé après 40 ans",
-      "summary": "Une revue publiée dans GeroScience synthétise les données probantes sur la préservation de la masse musculaire chez les adultes actifs vieillissants. La créatine, une dose protéique supérieure aux AJR (1,6 g/kg/j), la vitamine D et le magnésium, combinés à l'entraînement en résistance, offrent la meilleure protection contre la perte de masse maigre liée à l'âge. L'approche converge vers une nutrition de précision calquée sur les pratiques sportives d'élite.",
-      "source": "GeroScience / Springer",
-      "url": "https://link.springer.com/article/10.1007/s11357-021-00419-w"
+      "theme": "sciences",
+      "subtopic": "neurosciences",
+      "importance": 2,
+      "short_title": "Autisme : 2 sous-types",
+      "title": "L'autisme comprend au moins deux sous-types biologiques distincts",
+      "summary": "Des chercheurs ont identifié des preuves que le spectre autistique recouvre au minimum deux variantes biologiquement distinctes, caractérisées par des patterns différents de communication cérébrale. Cette stratification change radicalement la perspective thérapeutique : les approches comportementales et pharmacologiques pourraient devoir être personnalisées selon le sous-type. Cette découverte illustre la limite des catégories diagnostiques actuelles face à la complexité neurobiologique.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/mind_brain/neuroscience/"
     },
     {
       "id": "n15",
-      "theme": "learn",
-      "subtopic": "ai_tutorat",
-      "importance": 2,
-      "short_title": "ITS 2026 IA agentique",
-      "title": "ITS 2026 à Chypre : l'IA agentique redéfinit les écosystèmes d'apprentissage",
-      "summary": "La conférence internationale sur les systèmes tutoriels intelligents (ITS 2026) se tient à Chypre du 3 au 5 juin, autour du thème « Agentic Learning Ecosystems ». Le débat central porte sur le passage d'une conception centrée sur le système à une approche écosystémique où les agents IA s'adaptent au contexte émotionnel et cognitif de chaque apprenant en temps réel. Les études présentées montrent que les tuteurs IA fondés sur des preuves apportent 1 à 3 mois d'avance pédagogique supplémentaire par an.",
-      "source": "IIS International",
-      "url": "https://iis-international.org/its2026/"
+      "theme": "sciences",
+      "subtopic": "neurosciences",
+      "importance": 1,
+      "short_title": "Alzheimer : switch trouvé",
+      "title": "Alzheimer : un interrupteur moléculaire identifié dans l'inflammation cérébrale",
+      "summary": "Des chercheurs du Scripps Research ont découvert une molécule jouant le rôle d'interrupteur dans l'inflammation cérébrale caractéristique de la maladie d'Alzheimer. Ce mécanisme, une fois activé, entretient un cycle d'inflammation chronique qui accélère la neurodégénérescence. L'identification de cette cible ouvre une nouvelle avenue thérapeutique axée sur la neuroinflammation plutôt que sur les seules plaques amyloïdes.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/mind_brain/neuroscience/"
     },
     {
       "id": "n16",
-      "theme": "finance",
-      "subtopic": "macro",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Croissance mondiale 3,3%",
-      "title": "Le FMI révise la croissance mondiale à 3,3 % sous choc géopolitique",
-      "summary": "Le FMI projette une décélération de la croissance mondiale de 3,4 % en 2025 à 3,3 % en 2026, sous l'effet combiné du choc pétrolier lié à la crise du Détroit et du resserrement monétaire attendu des grandes banques centrales. La zone euro est particulièrement exposée avec une croissance prévue à seulement 0,9 %. L'investissement en IA reste le principal facteur de soutien à l'économie américaine, évitant à la dynamique globale un décrochage plus marqué.",
-      "source": "BlackRock",
-      "url": "https://www.blackrock.com/us/financial-professionals/insights/2026-macro-outlook"
+      "short_title": "OTAN : Europe divisée",
+      "title": "OTAN : fracture Est/Ouest sur les dépenses de défense en Europe",
+      "summary": "Le coût cumulé des guerres en cours, les niveaux d'endettement élevés et la hausse des budgets de défense alimentent une fatigue budgétaire croissante au sein de l'UE. Une fracture se creuse entre l'Europe de l'Est, favorable à des engagements OTAN plus contraignants, et l'Europe de l'Ouest, tiraillée entre solidarité atlantique et pression fiscale domestique. Cette division fragilise la cohésion stratégique européenne au moment où le Moyen-Orient et l'Ukraine absorbent simultanément des ressources politiques et financières.",
+      "source": "World Economic Forum",
+      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
     },
     {
       "id": "n17",
-      "theme": "finance",
-      "subtopic": "macro",
-      "importance": 1,
-      "short_title": "ME inflation 5,5% FMI",
-      "title": "Inflation des marchés émergents revue à 5,5 % par le FMI",
-      "summary": "Le FMI a relevé ses prévisions d'inflation pour les économies émergentes de 4,8 % à 5,5 % en 2026, sous l'effet des perturbations d'approvisionnement énergétique et des pressions sur leurs devises face au dollar. La plupart de ces banques centrales devront maintenir des taux élevés ou resserrer davantage pour défendre leurs monnaies et limiter les sorties de capitaux. L'accès aux marchés de capitaux internationaux se durcit, aggravant les risques de refinancement souverain.",
-      "source": "PIIE",
-      "url": "https://www.piie.com/blogs/realtime-economics/2026/amid-wartime-disruptions-most-emerging-market-central-banks-will"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Marché codage IA : x3",
+      "title": "Marché des outils de codage IA : 9,3 Md$ en 2026, cap sur 30 Md$ en 2031",
+      "summary": "Le marché mondial des outils de codage assisté par IA est estimé à 9,3 milliards de dollars en 2026 et devrait tripler à 30 milliards d'ici 2031, avec un CAGR de 26 %. Anthropic s'est imposée en leader via Claude Code, tandis que GitHub Copilot (Microsoft) et Gemini Code Assist (Google) se disputent la deuxième place. Cette explosion du marché représente le principal moteur de revenus d'Anthropic dans son dossier IPO.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
     },
     {
       "id": "n18",
-      "theme": "sciences",
-      "subtopic": "biologie",
+      "theme": "sante",
+      "subtopic": "nutrition",
       "importance": 1,
-      "short_title": "Méthionine et infections",
-      "title": "La méthionine améliore dramatiquement la survie aux infections graves chez la souris",
-      "summary": "Une étude du Salk Institute montre qu'un supplément de méthionine, acide aminé essentiel, améliore significativement le taux de survie de souris exposées à des infections sévères et des états inflammatoires critiques. L'effet semble passer par une modulation du métabolisme cellulaire en situation de stress oxydatif intense. Les auteurs appellent à des essais cliniques rapides, notamment dans les contextes de sepsis où les options thérapeutiques restent limitées.",
+      "short_title": "Jeûne intermittent eff.",
+      "title": "Jeûne intermittent : perte de poids, marqueurs métaboliques et remodeling du microbiome",
+      "summary": "Une étude chez des adultes obèses montre que les régimes de type jeûne intermittent produisent une perte de poids significative, une amélioration des marqueurs métaboliques et des changements notables dans la composition du microbiome intestinal sur 12 semaines. Les bénéfices sont comparables à ceux d'une restriction calorique classique avec une meilleure observance. Le lien entre diversification du microbiome et amélioration métabolique suggère un mécanisme d'action indépendant de la simple réduction calorique.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260104202813.htm"
+      "url": "https://www.sciencedaily.com/news/health_medicine/nutrition/"
     }
   ],
   "edges": [
     {
-      "source": "n05",
-      "target": "n01",
-      "type": "cause",
-      "explanation": "L'intensification des opérations terrestres israéliennes au Liban est le facteur direct qui a poussé l'Iran à rompre les négociations avec Washington et à menacer de fermer le Détroit d'Hormuz."
-    },
-    {
-      "source": "n04",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "La fragilité persistante du cessez-le-feu US-Iran depuis avril et la rupture des négociations du 1er juin sont deux facettes du même dossier diplomatique en cours d'effondrement."
-    },
-    {
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "La menace iranienne de fermer le Détroit d'Hormuz, par lequel transite 20 % du commerce pétrolier mondial, a suffi à faire bondir le Brent de 7 % en une séance."
+      "explanation": "La perspective d'un accord de cessez-le-feu US-Iran rouvre l'hypothèse d'une normalisation du trafic maritime via le détroit d'Ormuz, réduisant mécaniquement la prime de risque géopolitique intégrée dans le cours du Brent depuis le début du conflit."
     },
     {
       "source": "n02",
       "target": "n03",
       "type": "cause",
-      "explanation": "La flambée du pétrole gonfle les coûts énergétiques en zone euro, faisant passer l'inflation à 3 % en avril et contraignant la BCE à envisager un relèvement de taux qu'elle avait jusqu'ici différé."
+      "explanation": "La baisse du cours pétrolier atténue les pressions inflationnistes sur l'énergie aux États-Unis, offrant à Warsh une fenêtre pour maintenir les taux stables sans signaler une posture hawkish, tout en préservant des options de baisses pour le second semestre 2026."
     },
     {
-      "source": "n02",
-      "target": "n11",
-      "type": "tension",
-      "explanation": "Le choc pétrolier relance la rentabilité des fossiles et pousse les États à sécuriser leurs approvisionnements en hydrocarbures, entrant en contradiction directe avec l'objectif de décarbonation accélérée."
-    },
-    {
-      "source": "n03",
-      "target": "n16",
+      "source": "n17",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La remontée des taux BCE pèse sur l'investissement et la consommation en Europe, contribuant à la révision baissière de la croissance mondiale par le FMI à 3,3 %."
+      "explanation": "L'explosion du marché du codage IA, où Anthropic s'est imposée via Claude Code avec un chiffre d'affaires multiplié par 4,7 en un an, crédibilise la valorisation de 965 Md$ et rend le dossier IPO défendable auprès des investisseurs institutionnels."
     },
     {
-      "source": "n16",
-      "target": "n17",
+      "source": "n05",
+      "target": "n07",
       "type": "cause",
-      "explanation": "Le ralentissement de la demande mondiale et la hausse du dollar liée aux chocs géopolitiques accentuent les pressions inflationnistes importées dans les pays émergents, via l'énergie et les changes."
+      "explanation": "Le dépôt confidentiel d'Anthropic signale aux marchés la fin de la phase de capital-risque pour les grandes IA labs, amorçant un cycle de méga-IPO tech qui ravive les comparaisons avec la bulle dot-com et les débats sur la soutenabilité des multiples de valorisation."
     },
     {
-      "source": "n16",
+      "source": "n05",
       "target": "n06",
-      "type": "cause",
-      "explanation": "Face au ralentissement économique mondial et au risque de credit crunch, les régulateurs américains allègent les exigences en fonds propres bancaires pour ne pas amplifier la contraction du crédit."
+      "type": "tension",
+      "explanation": "La domination d'Anthropic sur le codage IA et son dossier IPO à 965 Md$ ont forcé Microsoft à accélérer le développement de modèles propriétaires MAI pour réduire sa dépendance à OpenAI et répondre directement à la montée en puissance de Claude Code dans GitHub Copilot."
     },
     {
-      "source": "n07",
+      "source": "n08",
       "target": "n09",
       "type": "meme_sujet",
-      "explanation": "La course entre Anthropic et OpenAI pour être le premier à s'introduire en Bourse reflète la même dynamique de monétisation des LLMs à grande échelle et de captation des marchés de capitaux."
+      "explanation": "L'effort chinois, aussi massif soit-il, illustre l'écart structurel global : même avec 1 200 GW de solaire installé, les émissions mondiales cumulées restent sur une trajectoire incompatible avec 1,5°C car la demande énergétique mondiale croît plus vite que la décarbonation industrielle."
     },
     {
-      "source": "n07",
-      "target": "n08",
+      "source": "n09",
+      "target": "n10",
       "type": "cause",
-      "explanation": "La valorisation quasi-billionnaire d'Anthropic et sa domination dans le coding IA ont accéléré la décision de Microsoft de lancer ses propres modèles souverains pour réduire sa dépendance et ses coûts d'inférence."
+      "explanation": "La prise de conscience officielle que le 1,5°C est hors de portée donne une urgence nouvelle au cadre post-2030 européen : l'UE doit désormais arbitrer entre une ambition climatique révisée et des contraintes économiques et politiques internes croissantes."
     },
     {
-      "source": "n10",
-      "target": "n08",
+      "source": "n01",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "Les conflits au Moyen-Orient et en Ukraine génèrent des pressions conjointes sur les budgets de défense européens, alimentant la fatigue budgétaire et creusant la fracture Est/Ouest sur les engagements OTAN au moment précis où les ressources politiques sont les plus sollicitées."
+    },
+    {
+      "source": "n11",
+      "target": "n12",
       "type": "tension",
-      "explanation": "L'adoption rapide de Claude Code par 18 % des développeurs en entreprise crée une pression concurrentielle directe sur GitHub Copilot, que MAI-Code-1-Flash cherche à contrer avec 60 % d'efficacité de tokens en plus."
+      "explanation": "Les deux études aboutissent à des conclusions opposées sur des aliments réputés sains : l'oméga-3 ralentit le vieillissement biologique de façon mesurable, tandis que l'acide oléique de l'huile d'olive accélère la croissance tumorale pancréatique, rappelant que la nutrition evidence-based est profondément contexte-dépendante."
     },
     {
-      "source": "n13",
-      "target": "n14",
+      "source": "n17",
+      "target": "n13",
       "type": "meme_sujet",
-      "explanation": "Mini-CRISPR in vivo et nutrition de précision pour la longévité musculaire convergent vers la même ambition : intervenir à l'échelle moléculaire pour ralentir le vieillissement biologique avec des outils de plus en plus accessibles."
+      "explanation": "L'IA redéfinit simultanément deux domaines fondamentaux de la cognition humaine — la production de code et l'apprentissage — avec le même pattern : gains de performance immédiate mais risque de dépendance cognitive et d'atrophie des compétences profondes chez le développeur comme chez l'étudiant."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "Les deux découvertes en neurosciences convergent vers une même révolution conceptuelle : autisme et Alzheimer ne sont pas des entités homogènes mais des syndromes biologiquement hétérogènes, ce qui invalide les approches thérapeutiques universelles et plaide pour une médecine de précision neurologique."
     }
   ]
 }

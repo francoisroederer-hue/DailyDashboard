@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+<title>Daily — Tennis</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  html { scroll-behavior: smooth; }
+  body { min-height: 100%; }
+  main { max-width: 900px; margin: 0 auto; padding: calc(var(--topbar-h) + 22px) 18px 80px; }
+
+  .page-kicker {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.22em;
+    color: var(--ink-faint); margin-bottom: 8px;
+  }
+  .page-title {
+    font-family: 'Fraunces', serif; font-variation-settings: 'opsz' 144;
+    font-weight: 500; font-style: italic; font-size: clamp(30px, 7vw, 44px);
+    line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 16px;
+  }
+  .page-intro { font-size: 14px; line-height: 1.6; color: var(--ink-dim); max-width: 62ch; margin-bottom: 28px; }
+  .page-intro b { color: var(--ink); font-weight: 500; }
+
+  /* La consigne de match — mise en avant (le coeur de la page) */
+  .goal {
+    display: flex; align-items: flex-start; gap: 14px;
+    background: linear-gradient(110deg, rgba(232,200,137,0.12), transparent);
+    border: 1px solid rgba(232,200,137,0.30); border-radius: 16px;
+    padding: 18px 20px; margin-bottom: 40px;
+  }
+  .goal .star { color: var(--accent); font-size: 20px; line-height: 1; margin-top: 1px; }
+  .goal .g-kicker {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin-bottom: 6px;
+  }
+  .goal .g-line { font-family: 'Fraunces', serif; font-style: italic; font-weight: 500; font-size: 19px; line-height: 1.3; color: var(--ink); margin-bottom: 6px; }
+  .goal .g-line b { color: var(--accent); font-style: normal; font-weight: 600; }
+  .goal .g-sub { font-size: 12.5px; line-height: 1.45; color: var(--ink-dim); }
+
+  .section-label {
+    font-family: 'Geist Mono', monospace; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.18em; color: var(--ink-faint); margin: 0 0 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+
+  /* La séance — carte unique avec blocs chronométrés */
+  .seance { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; margin-bottom: 48px; }
+  .step { display: flex; gap: 14px; padding: 14px 0; border-top: 1px solid var(--rule); }
+  .step:first-of-type { border-top: none; padding-top: 4px; }
+  .step .num { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent); flex-shrink: 0; width: 18px; padding-top: 3px; }
+  .step .txt { font-size: 13.5px; line-height: 1.5; }
+  .step .role { color: var(--ink); font-weight: 500; display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; margin-bottom: 4px; }
+  .step .time { font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--ink-faint); }
+  .step .detail { color: var(--ink-dim); }
+  .step .detail b { color: var(--ink); font-weight: 500; }
+
+  /* Les 3 critères */
+  .bumps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 48px; }
+  .bump { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 13px; padding: 14px 15px; }
+  .bump h4 { font-family: 'Geist Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--accent); margin-bottom: 9px; }
+  .bump p { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
+  .bump.neutral { border-color: var(--rule-bright); background: var(--bg-panel); }
+  .bump.neutral h4 { color: var(--ink-dim); }
+
+  /* Repères / interdits — deux colonnes */
+  .split { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 48px; }
+  @media (min-width: 680px) { .split { grid-template-columns: 1fr 1fr; align-items: start; } }
+  .card { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 20px; }
+  .card h3 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 18px; margin-bottom: 12px; }
+  .card ul { list-style: none; }
+  .card li { font-size: 13px; line-height: 1.5; padding: 6px 0 6px 20px; position: relative; color: var(--ink-dim); }
+  .card li b { color: var(--ink); font-weight: 500; }
+  .card.watch li::before { content: '→'; position: absolute; left: 0; color: var(--accent); }
+  .card.dont { background: linear-gradient(135deg, rgba(239,68,68,0.07), var(--bg-panel) 60%); border-color: rgba(239,68,68,0.28); }
+  .card.dont li::before { content: '✕'; position: absolute; left: 0; color: var(--tension); font-size: 11px; }
+
+  /* Le TRQ */
+  .trq { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; margin-bottom: 48px; }
+  .trq .formula { font-family: 'Fraunces', serif; font-style: italic; font-size: 22px; color: var(--ink); text-align: center; margin: 6px 0 14px; }
+  .trq .formula b { color: var(--accent); font-style: normal; }
+  .trq table { border-collapse: collapse; width: 100%; }
+  .trq th, .trq td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--rule); font-size: 12.5px; }
+  .trq th { font-family: 'Geist Mono', monospace; font-size: 9px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--ink-faint); font-weight: 400; }
+  .trq td .k { font-family: 'Geist Mono', monospace; color: var(--accent); }
+  .trq .targets { margin-top: 14px; font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
+  .trq .targets b { color: var(--ink); }
+
+  .footnote {
+    margin-top: 44px; padding-top: 20px; border-top: 1px solid var(--rule);
+    font-family: 'Geist Mono', monospace; font-size: 10.5px; line-height: 1.7;
+    color: var(--ink-faint); letter-spacing: 0.04em;
+  }
+  .footnote b { color: var(--ink-dim); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="topline">
+    <div class="masthead">Daily <span class="amp">&amp;</span> Co.</div>
+    <div class="date-line">Tennis<br><span class="meta">prépa match</span></div>
+  </div>
+  <nav class="tabs">
+    <a class="tab" href="index.html">Carte du jour</a>
+    <a class="tab" href="supplements.html">Suppléments</a>
+    <a class="tab" href="skincare.html">Skincare</a>
+    <a class="tab active" href="tennis.html">Tennis</a>
+  </nav>
+</header>
+
+<main>
+  <div class="page-kicker">Phase 0 · micro-réglage · séance du week-end</div>
+  <h1 class="page-title">Tennis</h1>
+  <p class="page-intro">
+    Un seul objectif cette semaine&nbsp;: <b>choisir quand attaquer</b>. ~70&nbsp;% des points se jouent
+    en 4 frappes, et ~80&nbsp;% de ceux-là finissent sur une <b>faute</b> — pas un coup gagnant. On gagne
+    en arrêtant de <b>donner</b> les points, pas en cherchant à les arracher. La technique est déjà là&nbsp;;
+    c'est la <b>sélection de coups</b> et les <b>appuis</b> qu'on travaille.
+  </p>
+
+  <div class="goal">
+    <span class="star">✦</span>
+    <div>
+      <div class="g-kicker">Ce qu'il emporte en match</div>
+      <div class="g-line"><b>Courte + haute + lente → j'attaque. Sinon → je construis cross.</b></div>
+      <div class="g-sub">Un seul objectif, 100&nbsp;% sous son contrôle. Le score n'est pas le critère — la qualité des choix l'est.</div>
+    </div>
+  </div>
+
+  <!-- La séance -->
+  <div class="section-label">La séance — ce week-end · 1h</div>
+  <div class="seance">
+    <div class="step">
+      <span class="num">1</span>
+      <span class="txt">
+        <span class="role">Échauffement appuis <span class="time">10 min</span></span>
+        <span class="detail">Split-step à <b>chaque</b> frappe adverse + genoux fléchis (« nez–genoux–orteils alignés sur le médio-pied »). Un seul repère, rien d'autre.</span>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">2</span>
+      <span class="txt">
+        <span class="role">Coopération « 5 échanges » <span class="time">15 min</span></span>
+        <span class="detail">Échanges croisés, <b>5 frappes minimum avant d'attaquer</b> (entraînement de patience). Marge 1–1,5&nbsp;m au-dessus du filet, cibles loin des lignes.</span>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">3</span>
+      <span class="txt">
+        <span class="role">Match · les 3 critères <span class="time">25 min</span></span>
+        <span class="detail">Points joués. Avant d'attaquer, il <b>annonce « attaquable&nbsp;! »</b> s'il pense les 3 critères réunis — tu valides ou corriges. Sinon il dit « neutre » et renvoie cross. Tu remplis le comptage <b>A/B/C/D</b>.</span>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">4</span>
+      <span class="txt">
+        <span class="role">Le miroir <span class="time">10 min</span></span>
+        <span class="detail">Il <b>estime lui-même</b> combien de fois il a attaqué trop tôt → tu compares à ton décompte. L'écart est la donnée. Clôture&nbsp;: « Qu'est-ce qui s'est passé comme prévu&nbsp;? » / « Prochain micro-ajustement&nbsp;? »</span>
+      </span>
+    </div>
+  </div>
+
+  <!-- Les 3 critères -->
+  <div class="section-label">Une balle attaquable = les 3 critères réunis</div>
+  <div class="bumps">
+    <div class="bump"><h4>1 · Courte</h4><p>Elle tombe court, il peut <b>entrer dans le court</b>.</p></div>
+    <div class="bump"><h4>2 · Haute</h4><p>Rebond en zone <b>taille–poitrine</b> (~0,8–1,2&nbsp;m).</p></div>
+    <div class="bump"><h4>3 · Lente</h4><p>Sans vitesse pénétrante, il a le temps.</p></div>
+    <div class="bump neutral"><h4>Sinon</h4><p>Un seul critère manque → <b>balle neutre</b>, on renvoie cross, on ne change pas la direction.</p></div>
+  </div>
+
+  <!-- Repères / interdits -->
+  <div class="section-label">Pendant la séance</div>
+  <div class="split">
+    <div class="card watch">
+      <h3>Ce que tu regardes</h3>
+      <ul>
+        <li>Le <b>split-step</b> est là&nbsp;? Genoux pliés ou jambes raides&nbsp;?</li>
+        <li>Quand il attaque&nbsp;: la balle était <b>vraiment</b> courte + haute + lente, ou il a forcé&nbsp;?</li>
+        <li>Sa marge au filet&nbsp;: il passe <b>haut</b> (bien) ou il rase (risqué)&nbsp;?</li>
+        <li>Éloge&nbsp;: <b>effort + stratégie</b> précise, jamais « bravo » seul.</li>
+      </ul>
+    </div>
+    <div class="card dont">
+      <h3>Ce qu'on ne touche pas</h3>
+      <ul>
+        <li>Le <b>service</b> — on n'y touche pas avant la tournée (arbitrage effet/plat plus tard, avec le coach).</li>
+        <li>Le <b>geste du coup droit</b> — reste au club.</li>
+        <li>Débrief <b>à chaud / en voiture</b> — jamais. On attend qu'il soit calme.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- TRQ -->
+  <div class="section-label">Après la séance — le seul chiffre</div>
+  <div class="trq">
+    <div class="formula">TRQ = (B + C) <b>÷</b> D</div>
+    <table>
+      <thead><tr><th>Code</th><th>Ce qu'on compte (un trait par point)</th></tr></thead>
+      <tbody>
+        <tr><td><span class="k">A</span></td><td>Coup gagnant propre</td></tr>
+        <tr><td><span class="k">B</span></td><td>Faute en <b>construisant</b> (échange neutre, coups 1–4)</td></tr>
+        <tr><td><span class="k">C</span></td><td>Faute en <b>attaquant trop tôt</b> (sans balle attaquable)</td></tr>
+        <tr><td><span class="k">D</span></td><td>Faute sur une balle attaquable <b>légitime</b></td></tr>
+      </tbody>
+    </table>
+    <p class="targets">
+      <b>TRQ &gt; 1,5</b> → il attaque trop tôt, c'est le chantier. &nbsp;<b>Objectif Phase 0 : TRQ &lt; 0,5.</b><br>
+      Reviens me logger A/B/C/D + son estimation + son état&nbsp;: je calcule le TRQ, je trace, et j'ajuste la séance suivante.
+    </p>
+  </div>
+
+  <p class="footnote">
+    <b>Source</b> — DECISIONS-tennis-fils (FR-182→196), KB junior sourcée Athena (technique, tactique, mental).<br>
+    <b>Profil</b> — bientôt 10 ans, gaucher, balle verte→jaune, 30/4. Axe&nbsp;: gagner par le processus, task-focused.<br>
+    Page statique. Le suivi vit dans Jarvis (<b>/tennis-fils</b>), pas ici.
+  </p>
+</main>
+
+</body>
+</html>

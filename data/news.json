@@ -1,260 +1,272 @@
 {
-  "generated_at": "2026-06-07T07:00:00Z",
+  "generated_at": "2026-06-08T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran ferme le détroit",
-      "title": "Crise Hormuz : l'Iran bloque le commerce pétrolier mondial",
-      "summary": "Depuis mars 2026, l'Iran a formellement déclaré le détroit d'Ormuz fermé suite aux opérations militaires américano-israéliennes, interrompant l'essentiel du trafic pétrolier mondial. Des négociations sont en cours pour un accord de 20 ans sur l'enrichissement d'uranium, mais des désaccords persistants sur le Liban bloquent tout règlement global. Trump se dit optimiste sur une réouverture rapide si Téhéran signe un mémorandum d'entente, mais les frictions militaires récurrentes maintiennent la tension.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html"
+      "short_title": "Iran ferme Hormuz",
+      "title": "Iran : le détroit d'Hormuz déclaré fermé",
+      "summary": "Depuis le 4 mars 2026, l'Iran a déclaré le détroit d'Hormuz fermé et mène des attaques contre les navires qui tentent de transiter, provoquant selon l'AIE la plus grande perturbation d'approvisionnement pétrolier de l'histoire. Environ 20% de l'offre mondiale passe habituellement par ce goulet stratégique. Des négociations US-Iran cherchent à dénouer la situation, mais des désaccords persistants autour du Liban bloquent toute avancée rapide.",
+      "source": "Wikipedia / CNBC",
+      "url": "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent à $95, choc IEA",
-      "title": "Brent proche de $95 : l'AIE qualifie ce choc de pire perturbation de l'histoire",
-      "summary": "Le Brent se stabilise autour de 95 dollars le baril début juin après avoir atteint un pic de 120 dollars, soit une hausse de 55% depuis le début du conflit irano-américain en février. L'Agence internationale de l'énergie a qualifié cette perturbation de la plus grave jamais enregistrée dans l'histoire du marché pétrolier mondial. Chaque accrochage entre forces américaines et iraniennes ravive immédiatement la tension sur les marchés, maintenant le Brent dans une fourchette élevée malgré les espoirs de négociation.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html"
-    },
-    {
-      "id": "n03",
-      "theme": "climat",
-      "subtopic": "transition",
-      "importance": 2,
-      "short_title": "Iran shock: accél énergie",
-      "title": "Le choc pétrolier iranien accélère la transition énergétique mondiale",
-      "summary": "Le choc pétrolier lié à la crise iranienne produit un effet d'accélération inattendu sur la transition : les ventes de véhicules électriques en Europe battent un record mensuel pour le troisième mois consécutif depuis février, et plus de 30 pays ont introduit des subventions ou avantages fiscaux pour le solaire, les batteries et les pompes à chaleur. Bloomberg documente comment l'urgence économique du prix du fossile transforme en quelques mois ce que des années de politique climatique n'avaient pas réussi à accélérer. Les investissements dans la transition sont en trajectoire pour dépasser 3 800 milliards de dollars d'ici 2030.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
-    },
-    {
-      "id": "n04",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic IPO S-1 déposé",
-      "title": "Anthropic dépose son S-1 auprès de la SEC : valorisation de $965 milliards",
-      "summary": "Anthropic a soumis confidentiellement son prospectus S-1 à la SEC le 1er juin 2026, ouvrant la voie à l'une des introductions en bourse les plus attendues de la décennie, avec une valorisation proche de 1 000 milliards de dollars. La croissance est spectaculaire : le chiffre d'affaires annualisé a quintuplé en un an pour atteindre 47 milliards de dollars, porté principalement par Claude Code qui domine désormais l'usage professionnel des outils de coding IA. Ce dépôt inaugure une course à la bourse entre les trois géants non cotés de l'IA — Anthropic, OpenAI et SpaceX — que les analystes de Wedbush comparent à l'ouverture des vannes IPO après plusieurs années dormantes.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
-    },
-    {
-      "id": "n05",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor $2B ARR vs Claude",
-      "title": "Cursor atteint $2Md ARR mais Claude Code érode sa part de marché",
-      "summary": "Cursor, l'éditeur de code IA d'Anysphere, a atteint 2 milliards de dollars de revenus annualisés en moins de trois ans — la croissance SaaS la plus rapide de l'histoire devant Slack et Zoom — et prépare une levée de 2 milliards supplémentaires à une valorisation de 50 milliards avec Andreessen Horowitz et Nvidia. Simultanément, Claude Code d'Anthropic a vu son taux d'utilisation professionnelle passer de 3% à 18% en seulement neuf mois, menaçant directement la position de Cursor chez les développeurs expérimentés. Dans une enquête JetBrains, 46% des développeurs senior choisissent Claude Code comme outil quotidien, contre 9% seulement pour GitHub Copilot.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding"
-    },
-    {
-      "id": "n06",
       "theme": "geopol",
-      "subtopic": "europe",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Pashinyan vers victoire",
-      "title": "Élections arméniennes du 7 juin : Pashinyan vers un plébiscite pro-UE",
-      "summary": "Les élections parlementaires arméniennes du 7 juin 2026 s'annoncent comme une victoire écrasante pour Nikol Pachinian, dont le parti Civil Contract est crédité d'environ 65% des intentions de vote selon un sondage Euronews publié fin mai. Ce résultat conforterait le virage pro-occidental entamé depuis 2018, symbolisé par le premier sommet bilatéral Arménie-UE tenu à Erevan en mai. Moscou a mis en garde contre le projet d'adhésion à l'UE, mais Washington, Bruxelles, Bakou et Ankara soutiennent tous la dynamique en cours.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/05/31/pashinyan-on-course-for-landslide-victory-and-pro-west-mandate-in-armenia-election-new-pol"
-    },
-    {
-      "id": "n07",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Orbán battu en Hongrie",
-      "title": "Hongrie : Orbán renversé après 16 ans, Magyar pro-UE prend les rênes",
-      "summary": "Après seize ans au pouvoir, le Fidesz de Viktor Orbán a été défait aux élections législatives hongroises au profit de Péter Magyar, leader d'une coalition opposition pro-européenne qui entend normaliser les relations avec l'UE et renforcer les liens avec les voisins d'Europe centrale. C'est l'un des renversements politiques les plus significatifs d'Europe depuis une décennie, mettant fin à l'ambiguïté hongroise entre Bruxelles et Moscou. Le nouveau gouvernement devrait lever les blocages répétés de Budapest sur les sanctions anti-russes et les financements UE conditionnels à l'État de droit.",
-      "source": "World Economic Forum",
-      "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"
-    },
-    {
-      "id": "n08",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "US: Bâle III propositions",
-      "title": "USA : révision du capital bancaire Bâle III — SA-CCR et SA-CVA élargis",
-      "summary": "Les régulateurs américains ont soumis en mars 2026 une révision majeure du cadre de capital, étendant l'approche SA-CCR aux banques de catégories III et IV qui devront abandonner l'ancienne méthode CEM, avec des règles de compensation élargie entre repos et dérivés. Le dispositif introduit également une SA-CVA révisée basée sur les sensibilités de marché pour mieux calibrer le risque de valorisation du crédit, remplaçant l'ancienne approche forfaitaire. La date limite de réponse à la consultation est le 18 juin 2026, avec des implications directes pour les portefeuilles de dérivés des banques de taille intermédiaire.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
-    },
-    {
-      "id": "n09",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 2,
-      "short_title": "UE: FRTB reporté à 2029",
-      "title": "UE : la Commission reporte le FRTB de trois ans supplémentaires, jusqu'en 2029",
-      "summary": "La Commission européenne a adopté un acte délégué repoussant l'application des règles FRTB (risque de marché) au 1er janvier 2027 au plus tôt, avec des mesures transitoires courant jusqu'en 2029, pour éviter une distorsion concurrentielle tant que les États-Unis et le Royaume-Uni n'ont pas aligné leur propre calendrier. L'UE avait déjà pleinement mis en œuvre les autres volets de Bâle III depuis janvier 2025, mais le volet risque de marché reste suspendu par la divergence internationale. Ce délai offre un répit aux salles de marché européennes qui doivent simultanément absorber les exigences CRR III (output floor, SA-CVA révisée) dans un environnement de taux encore élevés.",
-      "source": "Global Banking & Finance Review",
-      "url": "https://www.globalbankingandfinance.com/eu-delays-bank-risk-capital-framework-three-years-awaiting/"
-    },
-    {
-      "id": "n10",
-      "theme": "geopol",
-      "subtopic": "asie",
-      "importance": 2,
-      "short_title": "Shangri-La: Chine absente",
-      "title": "Shangri-La 2026 : USA appelle ses alliés, Chine absente pour la 2e année",
-      "summary": "Le 23e dialogue de Shangri-La (Singapour, 29-31 mai) s'est tenu sans représentation chinoise de haut niveau pour la deuxième année consécutive, révélant la crispation persistante de Pékin vis-à-vis du format de sécurité à dominante occidentale. Pete Hegseth a pressé les alliés asiatiques de développer leurs propres capacités industrielles de défense plutôt que de dépendre exclusivement du parapluie américain. Le sommet a entériné un nouveau paradigme fondé sur des alliances «capables» autonomes, au détriment des architectures multilatérales traditionnelles.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/31/top-shangri-la-dialogue-2026-quotes-defense-multilateralism-asia.html"
-    },
-    {
-      "id": "n11",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Sémaglutide: -41% alcool",
-      "title": "Semaglutide réduit de 41% les épisodes d'alcool excessif (essai Lancet)",
-      "summary": "Un essai randomisé contrôlé publié dans The Lancet montre que le sémaglutide hebdomadaire (2,4 mg) réduit de 41,1% les jours de forte consommation d'alcool sur 26 semaines chez des patients obèses souffrant de trouble de l'usage de l'alcool. Le mécanisme identifié est la suppression de la signalisation dopaminergique dans les centres cérébraux de la récompense, rendant structurellement les substances addictives moins gratifiantes. Des données rétrospectives portant sur 600 000 vétérans américains suggèrent des effets similaires sur toutes les addictions majeures : cannabis, cocaïne, nicotine et opioïdes.",
-      "source": "The Lancet",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00305-3/fulltext"
-    },
-    {
-      "id": "n12",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Alimentation et longévité",
-      "title": "4 semaines de régime suffisent à réduire l'âge biologique mesuré",
-      "summary": "Une étude de l'Université de Sydney publiée en mai 2026 démontre qu'une modification alimentaire sur seulement quatre semaines produit une réduction significative et mesurable de l'âge biologique chez des adultes d'âge mûr, évaluée par des marqueurs épigénétiques. Ces résultats s'inscrivent dans un corpus croissant incluant des données sur l'oméga-3 : 1 g par jour pendant trois ans ralentit le vieillissement biologique d'environ trois mois sur 777 participants, selon Nature Aging. Les deux travaux convergent pour établir que l'alimentation est l'un des leviers préventifs les plus puissants et les plus accessibles pour agir sur le vieillissement cellulaire.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213144.htm"
-    },
-    {
-      "id": "n13",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "IS621 recombinase: ADN",
-      "title": "Recombinase IS621 : insertion de larges fragments d'ADN sans cicatrice génomique",
-      "summary": "Des chercheurs ont réingénièré la recombinase IS621 associée à un ARN-pont pour permettre l'insertion de larges fragments d'ADN thérapeutique sans laisser de perturbation résiduelle dans le génome hôte, une technique dite «scarless» qui surmonte une limitation majeure des approches CRISPR classiques. Cette avancée ouvre la voie à des thérapies CAR-T plus précises et à des traitements curatifs de l'hémophilie B par édition génomique in vivo. Les efficacités d'insertion précliniques observées dépassent significativement celles des méthodes par double coupure de l'ADN.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
-    },
-    {
-      "id": "n14",
-      "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Fed & BCE: taux en pause",
-      "title": "Banques centrales mondiales : pause synchronisée au-dessus des niveaux pré-COVID",
-      "summary": "La Fed maintient sa fourchette cible à 3,50-3,75% et la BCE ne prévoit aucun mouvement dans son scénario de base à deux ans, marquant une pause synchronisée du cycle de baisse entamé en 2024-2025. Cette cohérence reflète une croissance soutenue par l'investissement massif en IA et une inflation encore résistante dans certaines économies émergentes, limitant la marge d'assouplissement. Une reprise graduelle du cycle de baisse est envisagée en fin d'année, mais le consensus de marché s'est stabilisé autour d'un «higher for longer» structurel au-dessus des niveaux pré-pandémie.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm"
-    },
-    {
-      "id": "n15",
-      "theme": "geopol",
-      "subtopic": "asie",
-      "importance": 2,
-      "short_title": "Chine-Taïwan: économique",
-      "title": "Chine-Taïwan : Pékin déploie une charm offensive économique inédite",
-      "summary": "Après la visite du leader de l'opposition taïwanaise à Pékin, la Chine a annoncé la reprise des vols directs, l'accès facilité aux programmes télévisés taïwanais et des mesures d'assouplissement touristique — un ensemble d'incitations économiques qui marque une évolution notable de sa stratégie. Pékin mise désormais sur l'intégration économique graduelle plutôt que sur la pression militaire directe, en réponse à l'ancrage identitaire croissant de la population taïwanaise mesuré lors des élections de 2024. Les analystes y voient une adaptation tactique face aux limites de la coercition et à l'instabilité géopolitique régionale générée par le conflit iranien.",
+      "short_title": "Liban-Israël talks DC",
+      "title": "Pourparlers Liban-Israël à Washington malgré le Hezbollah",
+      "summary": "Des pourparlers directs et sans précédent entre le Liban et Israël sont prévus à Washington, malgré l'opposition ferme du Hezbollah à toute normalisation. En parallèle, des négociations US-Iran distinctes visent un moratoire de 20 ans sur l'enrichissement d'uranium iranien. Ces deux pistes diplomatiques simultanées constituent les voies de désescalade les plus actives d'une région en tension maximale.",
       "source": "The World Now",
       "url": "https://www.the-world-now.com/news/us-geopolitics-in-2026-how-middle-east-diplomacy-is-forging-unintended-global-alliances-mny9guhz"
     },
     {
-      "id": "n16",
+      "id": "n03",
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 3,
+      "short_title": "Ukraine: négos figées",
+      "title": "Ukraine-Russie : négociations suspendues, sommet UE le 18 juin",
+      "summary": "Les pourparlers formels trilatéraux Ukraine-Russie-USA sont gelés depuis que les opérations militaires américano-israéliennes contre l'Iran ont monopolisé l'agenda diplomatique de Washington en février 2026. L'UE cherche à prendre le relais : le sommet des 18-19 juin conditionnera tout engagement européen à un cessez-le-feu inconditionnel de Moscou. Sur le terrain, l'Ukraine reste sur la défensive après la perte de son avancée en région de Koursk au printemps.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/06/02/eu-ready-to-step-up-in-ukraine-russia-talks-but-ceasefire-must-come-first-summit-draft-sho"
+    },
+    {
+      "id": "n04",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Hongrie: Magyar bat Orbán",
+      "title": "Hongrie : Magyar élimine Orbán après 16 ans de règne",
+      "summary": "En avril 2026, le parti Tisza de Péter Magyar a obtenu une majorité écrasante de 138 sièges sur 199 avec un taux de participation record de 79%, mettant fin à 16 ans de gouvernance nationaliste et pro-russe de Fidesz. Cette bascule politique marque le retour de la Hongrie dans le giron institutionnel européen et affaiblit significativement le bloc pro-Poutine en Europe centrale. Le Fidesz a programmé un vote interne sur la direction Orbán en juin 2026.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
+    },
+    {
+      "id": "n05",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "EU libère €90Md Ukraine",
+      "title": "L'UE débloque 90 Md€ pour l'Ukraine après la chute d'Orbán",
+      "summary": "La victoire de Magyar supprime immédiatement le veto hongrois qui bloquait l'accès de Kyiv à un prêt de 90 milliards d'euros garanti par les avoirs russes gelés. Ce financement permet à l'Ukraine de couvrir ses besoins budgétaires urgents et d'accélérer ses achats d'armements auprès des industriels européens. Pour Bruxelles, c'est aussi la normalisation d'une relation avec Budapest empoisonnée depuis des années par le bras de fer institutionnel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary"
+    },
+    {
+      "id": "n06",
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent: $95, alerte $150",
+      "title": "Brent autour de $95/baril, risque d'envolée à $150",
+      "summary": "Le Brent oscille autour de $95/baril début juin après avoir atteint $108 en avril lors de la rupture des négociations Iran-USA. Des analystes de Citi avertissent que le prix pourrait dépasser $150 si le détroit d'Hormuz reste bloqué au-delà de la mi-juin. Le PDG d'Aramco juge que les marchés pétroliers ne se normaliseront pas avant 2027 si la situation géopolitique ne se dénoue pas rapidement.",
+      "source": "CNBC / Capital.com",
+      "url": "https://www.cnbc.com/2026/04/26/oil-price-iran-war-strait-hormuz.html"
+    },
+    {
+      "id": "n07",
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "US: CPI 3.8%, Fed figée",
+      "title": "Inflation US à 3,8% : la Fed maintient ses taux à 3,50-3,75%",
+      "summary": "L'inflation américaine (CPI) atteint 3,8% en glissement annuel en avril 2026, son niveau le plus élevé depuis mai 2023, portée par une hausse de 17,9% des prix de l'énergie liée au choc iranien. La Fed a maintenu sa fourchette de taux à 3,50-3,75% lors de sa réunion d'avril sous la houlette du nouveau président Kevin Warsh. Le marché du travail se stabilise dans un régime «low-hire, low-fire» avec un ralentissement des embauches dû aux coûts de financement élevés.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260429.htm"
+    },
+    {
+      "id": "n08",
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "FOMC juin: 0% baisse",
+      "title": "FOMC 16-17 juin : une baisse de taux quasiment exclue",
+      "summary": "La prochaine réunion du FOMC des 16-17 juin inclura de nouvelles projections économiques, mais le CME FedWatch ne cote pratiquement aucune probabilité de baisse. L'environnement inflationniste, renforcé par les chocs pétroliers et les droits de douane, maintient la Fed dans une posture attentiste prolongée. Les incertitudes géopolitiques au Moyen-Orient ajoutent une couche d'imprévisibilité supplémentaire à l'équation monétaire.",
+      "source": "Go Markets / CME FedWatch",
+      "url": "https://www.gomarkets.com/en/articles/us-market-drivers-june-2026"
+    },
+    {
+      "id": "n09",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "CRR III / SA-CVA 2027",
+      "title": "CRR III : FRTB et SA-CVA contraignants en Europe à partir de 2027",
+      "summary": "Après un report d'un an, les exigences en fonds propres FRTB et le nouveau cadre de risque CVA (SA-CVA) sous CRR III ne deviendront contraignants pour les banques européennes qu'au 1er janvier 2027. Le SA-CVA remplace l'ancienne méthode standardisée par un calcul basé sur les sensibilités du portefeuille de dérivés, plus aligné avec les standards de Bâle III. Selon Risk.net, la moitié des banques européennes intègre déjà FRTB dans leur pricing XVA en anticipation de cette échéance.",
+      "source": "financialregulations.eu / Risk.net",
+      "url": "https://financialregulations.eu/blog/crr-iii-crd-vi-guide"
+    },
+    {
+      "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "OpenAI Codex: plugins pro",
-      "title": "OpenAI Codex : six nouveaux plugins enterprise pour verticaliser l'IA",
-      "summary": "OpenAI a lancé six plugins enterprise pour Codex couvrant la vente, l'analyse de données, la production créative, le design produit, l'investissement en actions et la banque d'investissement, signalant une stratégie de verticalisation sectorielle agressive. Cette sortie intervient simultanément à l'IPO d'Anthropic et aux annonces de Microsoft à sa conférence Build, dans une semaine qui cristallise la course à la monétisation enterprise de l'IA de code. La multiplication des plugins propriétaires dessine un futur où chaque modèle de base cherche à capter de la valeur via des couches applicatives spécialisées par industrie.",
+      "importance": 3,
+      "short_title": "Anthropic IPO: $965Md",
+      "title": "Anthropic dépose son S-1 confidentiel : valorisation à $965 Md",
+      "summary": "Anthropic a soumis confidentiellement un formulaire S-1 à la SEC le 1er juin 2026, ciblant une entrée en bourse d'ici octobre sur le Nasdaq ou NYSE. La société est valorisée à $965 milliards à l'issue d'une Series H à $65 milliards et affiche un chiffre d'affaires annualisé d'environ $47 milliards, avec une cible de rentabilité pour 2028. Elle serait l'un des trois candidats au trillion de dollars cette année avec SpaceX et OpenAI.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html"
+    },
+    {
+      "id": "n11",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 3,
+      "short_title": "Claude Code: 34% marché",
+      "title": "Claude Code dépasse OpenAI : 34% du marché enterprise",
+      "summary": "Claude Code, l'assistant de coding d'Anthropic, est devenu le principal moteur de croissance de l'entreprise, atteignant $2,5 milliards d'ARR en février 2026. En avril 2026, Anthropic a pour la première fois dépassé OpenAI sur le marché enterprise avec 34,4% de part contre 32,3%. Google et Microsoft accélèrent leurs investissements dans le coding IA pour tenter de combler l'écart en s'appuyant sur leurs infrastructures cloud.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
+    },
+    {
+      "id": "n12",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Vibe coding: 76% devs IA",
+      "title": "Vibe coding : 76% des développeurs utilisent l'IA au quotidien",
+      "summary": "Selon Stack Overflow, 76% des développeurs professionnels utilisent des outils de coding IA au quotidien en 2026, contre 44% en 2023, et GitHub rapporte que 46% de tout le nouveau code est désormais généré par IA. Cursor, leader sur le segment professionnel, affiche $2 milliards d'ARR grâce à son mode Agent multi-fichiers. Un «graduate workflow» émerge où les développeurs prototypent sur Bolt ou Lovable avant d'affiner en production sur Cursor ou Claude Code.",
+      "source": "DEV Community",
+      "url": "https://dev.to/pooyagolchian/vibe-coding-in-2026-92b-cursor-92-humaneval-and-the-end-of-boilerplate-161h"
+    },
+    {
+      "id": "n13",
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 2,
+      "short_title": "Apple Siri rebuilt Gemini",
+      "title": "Apple reconstruit Siri sur Gemini et lance un système multi-IA",
+      "summary": "Apple a présenté une Siri entièrement reconstruite sur un modèle Gemini personnalisé de 1,2 trillion de paramètres, licencié à Google pour environ $1 milliard par an. En parallèle, le nouveau système d'Extensions d'Apple permet à l'utilisateur de choisir entre Claude, ChatGPT ou Gemini selon les tâches, chaque modèle ayant une voix distincte. Cette décision entérine le modèle des LLM comme infrastructure commoditisée plutôt que comme avantage concurrentiel propriétaire.",
       "source": "Build Fast With AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-1-2026"
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026"
+    },
+    {
+      "id": "n14",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "GLP-1 et cancer sein -30%",
+      "title": "GLP-1 : réduction de 30% du risque de cancer du sein",
+      "summary": "Une étude portant sur plus de 110 000 femmes montre que celles prenant des médicaments GLP-1 (Ozempic, Wegovy, Mounjaro) présentent une probabilité de cancer du sein inférieure de 30% aux non-traitées. Le mécanisme suspecté passe par la réduction de l'adiposité viscérale et de l'inflammation systémique, deux facteurs de risque oncologiques majeurs. C'est l'une des premières études à grande échelle liant directement les agonistes GLP-1 à une réduction du risque de cancer.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm"
+    },
+    {
+      "id": "n15",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "GLP-1: santé mentale",
+      "title": "GLP-1 : bénéfices majeurs sur la santé mentale et les addictions",
+      "summary": "Une analyse des dossiers de 600 000 vétérans américains révèle que la semaglutide est associée à une réduction significative des hospitalisations psychiatriques, de l'absentéisme maladie, et des troubles addictifs. Les mécanismes neurobiologiques exacts restent à clarifier, mais l'hypothèse principale concerne l'action des GLP-1 sur les circuits de récompense dopaminergique. Ces résultats élargissent considérablement le spectre thérapeutique potentiel des agonistes GLP-1 bien au-delà du métabolisme.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm"
+    },
+    {
+      "id": "n16",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Thymus = longévité",
+      "title": "Le thymus révélé comme marqueur-clé de longévité par l'IA",
+      "summary": "Des chercheurs de Mass General Brigham ont utilisé l'IA pour analyser des scanners thoraciques de dizaines de milliers d'adultes et montrent que les personnes avec un thymus plus actif vivent plus longtemps et résistent mieux au cancer et aux maladies cardiovasculaires. Le thymus, impliqué dans la maturation des lymphocytes T, était jusqu'ici considéré comme vestigiel après l'adolescence. Cette découverte ouvre la voie à son utilisation comme biomarqueur du vieillissement immunitaire, pouvant orienter de nouvelles stratégies de longévité.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
     },
     {
       "id": "n17",
-      "theme": "learn",
-      "subtopic": "vibe_coding",
+      "theme": "climat",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "Vibe coding: 63% non-devs",
-      "title": "Vibe coding : marché de $4,7Md où 63% des utilisateurs ne savent pas coder",
-      "summary": "Le marché des outils de développement par langage naturel (Cursor, Bolt, v0, Lovable) a atteint 4,7 milliards de dollars en 2026, avec un basculement démographique marquant : 63% des utilisateurs n'ont aucune formation en développement logiciel. Cette démocratisation radicale de la production logicielle redéfinit les frontières entre non-codeur, product manager et développeur, et pose la question d'un apprentissage inversé — comprendre la logique du code après l'avoir généré plutôt qu'avant. Pour 84% des développeurs professionnels, l'IA est désormais intégrée dans leur pratique quotidienne.",
-      "source": "AI Apps",
-      "url": "https://www.aiapps.com/blog/vibe-coding-tools-cursor-vs-lovable-vs-bolt-vs-v0-2026/"
+      "short_title": "France double subsides EV",
+      "title": "France : doublement des aides à l'électrification en réponse au choc iranien",
+      "summary": "En réponse à la crise énergétique provoquée par la guerre iranienne, la France a annoncé le doublement de ses subventions pour les pompes à chaleur et les véhicules électriques, qualifiant l'électrification de «seule réponse structurelle et durable aux crises énergétiques répétées». Ce plan s'inscrit dans un mouvement d'accélération européen plus large, plusieurs pays étudiant des mécanismes similaires pour réduire leur dépendance aux hydrocarbures. L'Iran shock devient ainsi un catalyseur inattendu de la transition énergétique.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
+      "target": "n06",
       "type": "cause",
-      "explanation": "La fermeture iranienne du détroit d'Ormuz a interrompu environ 20% du commerce pétrolier mondial en transit, créant mécaniquement la pénurie d'offre qui a propulsé le Brent de 60 à 120 dollars avant stabilisation : le conflit militaire est la cause directe et unique du choc de prix observé."
+      "explanation": "La fermeture du détroit d'Hormuz restreint ~20% de l'offre mondiale de pétrole, poussant mécaniquement le Brent à la hausse vers $95-108/baril et faisant planer la menace d'un pic à $150 si la situation perdurait au-delà de la mi-juin."
     },
     {
-      "source": "n02",
+      "source": "n06",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "La flambée des prix de l'énergie (+17,9%) constitue le principal moteur de l'inflation US à 3,8%, contraignant la Fed à maintenir ses taux dans la fourchette 3,50-3,75% bien au-delà de ce qu'elle avait initialement prévu."
+    },
+    {
+      "source": "n07",
+      "target": "n08",
+      "type": "cause",
+      "explanation": "L'inflation persistante à 3,8% rend toute baisse de taux impossible : les marchés cotent 0% de probabilité d'une décision accommodante lors du FOMC des 16-17 juin, prolongeant les conditions de financement restrictives."
+    },
+    {
+      "source": "n01",
       "target": "n03",
       "type": "cause",
-      "explanation": "Une hausse de 55% du prix du pétrole modifie les calculs économiques de ménages et d'entreprises : les alternatives renouvelables (EV, solaire, pompes à chaleur) deviennent rentables sans subvention dans de nombreux marchés, ce qui accélère mécaniquement leur adoption et incite les gouvernements à les soutenir davantage pour contenir la facture énergétique."
+      "explanation": "Les opérations militaires US-Israël contre l'Iran depuis février 2026 ont monopolisé l'agenda diplomatique américain, reléguant les pourparlers Ukraine-Russie au second plan et gelant les négociations formelles trilatérales."
     },
     {
       "source": "n04",
       "target": "n05",
       "type": "cause",
-      "explanation": "La valorisation à 965 milliards d'Anthropic repose sur la traction de Claude Code (18% d'usage professionnel, ×6 en 9 mois), ce qui met sous pression directe Cursor dont la valorisation à 50 milliards se justifiait par sa domination de l'IDE IA — une position que Claude Code érode depuis un simple terminal sans interface graphique."
+      "explanation": "La victoire électorale de Magyar supprime immédiatement le veto hongrois sur les fonds européens, débloquant mécaniquement le versement du prêt de 90 Md€ à l'Ukraine qui était suspendu depuis des mois."
     },
     {
-      "source": "n08",
-      "target": "n09",
+      "source": "n05",
+      "target": "n03",
       "type": "cause",
-      "explanation": "L'incertitude persistante sur le calendrier américain d'implémentation du FRTB est la raison directe pour laquelle la Commission européenne reporte ses propres règles de risque de marché : appliquer le FRTB seul aurait imposé aux banques européennes des charges en capital que leurs concurrentes américaines et britanniques n'auraient pas encore à supporter, créant une distorsion concurrentielle inacceptable."
+      "explanation": "L'afflux de financement européen renforce la capacité de résistance de Kyiv et consolide sa position de négociation à la veille du sommet UE des 18-19 juin dédié aux discussions sur un cessez-le-feu."
+    },
+    {
+      "source": "n01",
+      "target": "n02",
+      "type": "meme_sujet",
+      "explanation": "La crise iranienne se déroule sur plusieurs fronts diplomatiques simultanés : fermeture d'Hormuz et choc pétrolier d'un côté, talks Liban-Israël à Washington et négociations nucléaires US-Iran de l'autre."
     },
     {
       "source": "n06",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Les élections arméniennes et hongroises représentent deux basculements géopolitiques simultanés dans l'espace post-soviétique ou semi-périphérique européen, toutes deux orientées vers un réancrage dans l'orbite UE au détriment de l'influence russe ou de l'ambiguïté pro-Moscou qui caractérisait ces pays."
+      "target": "n17",
+      "type": "cause",
+      "explanation": "La flambée des prix de l'énergie fossile rend les alternatives domestiques électriques (pompes à chaleur, VE) économiquement compétitives par rapport aux hydrocarbures, justifiant et accélérant les plans de subventions comme le doublement annoncé par la France."
     },
     {
-      "source": "n10",
-      "target": "n15",
-      "type": "meme_sujet",
-      "explanation": "L'absence de la Chine au Shangri-La Dialogue et sa charm offensive économique vers Taïwan révèlent la même stratégie en creux : éviter l'affrontement dans les enceintes multilatérales dominées par Washington, tout en multipliant les vecteurs d'influence douce pour contourner la garantie sécuritaire américaine à Taïwan."
+      "source": "n07",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "Des taux d'intérêt élevés et une volatilité des spreads accrue gonflent les expositions CVA des banques sur leurs portefeuilles de dérivés, rendant l'implémentation du SA-CVA sous CRR III plus impactante financièrement qu'en environnement de taux bas."
+    },
+    {
+      "source": "n11",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "La croissance exceptionnelle de Claude Code ($2,5 Md ARR, leadership du marché enterprise à 34%) est l'actif-clé qui justifie le timing et la valorisation à $965 Md de l'IPO : sans cette traction revenue, une telle capitalisation serait indéfendable aux yeux des investisseurs."
     },
     {
       "source": "n11",
       "target": "n12",
       "type": "meme_sujet",
-      "explanation": "Le sémaglutide anti-addiction et les interventions alimentaires courtes sur l'âge biologique illustrent le même tournant en médecine préventive : des mécanismes biologiques longtemps considérés comme fixes (vieillissement cellulaire, dépendance neurochimique) se révèlent modulables par des interventions ciblées et relativement accessibles."
+      "explanation": "Claude Code et Cursor dominent les deux segments (enterprise et freelance) du même écosystème vibe coding, illustrant la révolution des outils de développement par l'IA qui a atteint une masse critique irréversible."
     },
     {
-      "source": "n04",
-      "target": "n14",
-      "type": "tension",
-      "explanation": "Anthropic arrive en bourse avec une valorisation de 965 milliards dans un contexte où les taux directeurs restent à 3,50-3,75% bien au-dessus des niveaux pré-COVID : cela crée une tension structurelle entre les multiples de valorisation exubérants de l'IA et le coût d'opportunité d'un capital encore onéreux qui renchérit mécaniquement le taux d'actualisation des flux futurs."
-    },
-    {
-      "source": "n05",
-      "target": "n17",
+      "source": "n10",
+      "target": "n13",
       "type": "meme_sujet",
-      "explanation": "Cursor (pour les développeurs professionnels) et le vibe coding (pour les non-codeurs) sont les deux versants d'une même révolution : l'IA transforme la production logicielle à tous les niveaux de compétence, réduisant la barrière d'entrée pour les novices tout en augmentant la productivité des experts."
+      "explanation": "L'intégration de Claude dans le système d'Extensions Apple illustre exactement le positionnement qu'Anthropic vend aux investisseurs pour son IPO : les modèles Claude comme infrastructure dans les plateformes grand public et enterprise, bien au-delà des seuls outils de développement."
     },
     {
-      "source": "n01",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "La crise iranienne, en révélant les limites des engagements militaires américains simultanés au Moyen-Orient et en Asie, a dominé les discussions de Shangri-La et renforcé le message d'autonomie défensive : les alliés asiatiques ne peuvent plus compter sur une présence américaine illimitée quand Washington est déjà mobilisé en Asie occidentale."
-    },
-    {
-      "source": "n04",
-      "target": "n16",
+      "source": "n14",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "L'IPO d'Anthropic et les six nouveaux plugins enterprise d'OpenAI Codex reflètent la même semaine de consolidation stratégique : Anthropic monétise via Claude Code au niveau plateforme, OpenAI via des verticaux applicatifs propriétaires — deux modèles de monétisation de l'IA de code en compétition directe sur le segment enterprise."
+      "explanation": "Deux études menées sur de larges cohortes convergent pour montrer que les GLP-1 agissent bien au-delà du métabolisme — sur l'oncologie et la neurologie — redessinant leur potentiel comme médicaments de médecine préventive globale."
     }
   ]
 }

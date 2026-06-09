@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+<title>Daily — Workout</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  html { scroll-behavior: smooth; }
+  body { min-height: 100%; }
+  main { max-width: 900px; margin: 0 auto; padding: calc(var(--topbar-h) + 22px) 18px 80px; }
+
+  .page-kicker {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.22em;
+    color: var(--ink-faint); margin-bottom: 8px;
+  }
+  .page-title {
+    font-family: 'Fraunces', serif; font-variation-settings: 'opsz' 144;
+    font-weight: 500; font-style: italic; font-size: clamp(30px, 7vw, 44px);
+    line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 16px;
+  }
+  .page-intro { font-size: 14px; line-height: 1.6; color: var(--ink-dim); max-width: 62ch; margin-bottom: 28px; }
+  .page-intro b { color: var(--ink); font-weight: 500; }
+
+  .goal {
+    display: flex; align-items: flex-start; gap: 14px;
+    background: linear-gradient(110deg, rgba(232,200,137,0.12), transparent);
+    border: 1px solid rgba(232,200,137,0.30); border-radius: 16px;
+    padding: 18px 20px; margin-bottom: 40px;
+  }
+  .goal .star { color: var(--accent); font-size: 20px; line-height: 1; margin-top: 1px; }
+  .goal .g-kicker {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin-bottom: 6px;
+  }
+  .goal .g-line { font-family: 'Fraunces', serif; font-style: italic; font-weight: 500; font-size: 19px; line-height: 1.3; color: var(--ink); margin-bottom: 6px; }
+  .goal .g-line b { color: var(--accent); font-style: normal; font-weight: 600; }
+  .goal .g-sub { font-size: 12.5px; line-height: 1.45; color: var(--ink-dim); }
+
+  .section-label {
+    font-family: 'Geist Mono', monospace; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.18em; color: var(--ink-faint); margin: 0 0 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+
+  .seance { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; margin-bottom: 48px; }
+  .step { display: flex; gap: 14px; padding: 14px 0; border-top: 1px solid var(--rule); }
+  .step:first-of-type { border-top: none; padding-top: 4px; }
+  .step .num { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent); flex-shrink: 0; width: 18px; padding-top: 3px; }
+  .step .txt { font-size: 13.5px; line-height: 1.5; flex: 1; }
+  .step .role { color: var(--ink); font-weight: 500; display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; margin-bottom: 6px; }
+  .step .time { font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--ink-faint); }
+  .step .detail { color: var(--ink-dim); }
+  .step .detail b { color: var(--ink); font-weight: 500; }
+  .step ul { list-style: none; margin-top: 4px; }
+  .step li { padding: 3px 0 3px 16px; position: relative; color: var(--ink-dim); }
+  .step li::before { content: '·'; position: absolute; left: 4px; color: var(--accent); }
+  .step li b { color: var(--ink); font-weight: 500; }
+  .reps { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--accent); }
+
+  /* Progression tractions */
+  .ladder { display: grid; grid-template-columns: 1fr; gap: 10px; margin-bottom: 48px; }
+  @media (min-width: 680px) { .ladder { grid-template-columns: repeat(2, 1fr); } }
+  .rung { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 13px; padding: 14px 16px; }
+  .rung .n { font-family: 'Geist Mono', monospace; font-size: 10px; color: var(--accent); letter-spacing: 0.12em; }
+  .rung h4 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 16px; margin: 4px 0 6px; }
+  .rung p { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
+  .rung p b { color: var(--ink); font-weight: 500; }
+
+  .split { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 48px; }
+  @media (min-width: 680px) { .split { grid-template-columns: 1fr 1fr; align-items: start; } }
+  .card { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 20px; }
+  .card h3 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 18px; margin-bottom: 12px; }
+  .card ul { list-style: none; }
+  .card li { font-size: 13px; line-height: 1.5; padding: 6px 0 6px 20px; position: relative; color: var(--ink-dim); }
+  .card li b { color: var(--ink); font-weight: 500; }
+  .card.watch li::before { content: '→'; position: absolute; left: 0; color: var(--accent); }
+  .card.dont { background: linear-gradient(135deg, rgba(239,68,68,0.07), var(--bg-panel) 60%); border-color: rgba(239,68,68,0.28); }
+  .card.dont li::before { content: '✕'; position: absolute; left: 0; color: var(--tension); font-size: 11px; }
+
+  .tyler { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; margin-bottom: 48px; }
+  .tyler .swatches { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 14px; }
+  .sw { display: flex; align-items: center; gap: 7px; font-size: 12px; color: var(--ink-dim); border: 1px solid var(--rule); border-radius: 999px; padding: 5px 11px 5px 8px; }
+  .sw .dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
+  .sw.cur { border-color: var(--accent); color: var(--ink); }
+  .sw b { color: var(--ink); font-weight: 600; }
+  .tyler p { font-size: 12.5px; line-height: 1.55; color: var(--ink-dim); }
+  .tyler p b { color: var(--ink); font-weight: 500; }
+
+  .footnote {
+    margin-top: 44px; padding-top: 20px; border-top: 1px solid var(--rule);
+    font-family: 'Geist Mono', monospace; font-size: 10.5px; line-height: 1.7;
+    color: var(--ink-faint); letter-spacing: 0.04em;
+  }
+  .footnote b { color: var(--ink-dim); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="topline">
+    <div class="masthead">Daily <span class="amp">&amp;</span> Co.</div>
+    <div class="date-line">Workout<br><span class="meta">remise en forme</span></div>
+  </div>
+  <nav class="tabs">
+    <a class="tab" href="index.html">Carte du jour</a>
+    <a class="tab" href="supplements.html">Suppléments</a>
+    <a class="tab" href="skincare.html">Skincare</a>
+    <a class="tab" href="tennis.html">Tennis</a>
+    <a class="tab active" href="workout.html">Workout</a>
+  </nav>
+</header>
+
+<main>
+  <div class="page-kicker">Remise en forme · poids de corps · ~40 min</div>
+  <h1 class="page-title">Workout</h1>
+  <p class="page-intro">
+    Gravel annulé&nbsp;: plus de jalon, l'entraînement passe en <b>remise en forme générale</b>. Objectif du moment&nbsp;:
+    <b>réintroduire les tractions</b> et remuscler le haut. Trois zones à ménager — <b>épaule D</b> (coiffe, sensible
+    sur l'overhead), <b>coude D</b> (épicondylite active) et <b>mollet D</b> (OK en ce moment). La séance contourne ces
+    zones sans rien sacrifier au stimulus.
+  </p>
+
+  <div class="goal">
+    <span class="star">✦</span>
+    <div>
+      <div class="g-kicker">Le fil de la séance</div>
+      <div class="g-line">On remet du <b>tirage vertical</b> — progressif, propre, jamais à l'échec.</div>
+      <div class="g-sub">La traction contrôlée est un autre pattern que le service qui agace ton épaule&nbsp;: bien faite, elle <b>reconstruit</b> la coiffe. Le vrai limiteur, c'est le <b>coude</b> (grip). Donc on monte par marches&nbsp;: scapulaires → négatives → strictes. <b>STOP la série si coude &gt;3/10 ou douleur épaule dans l'arc.</b></div>
+    </div>
+  </div>
+
+  <!-- La séance -->
+  <div class="section-label">La séance — ~40 min</div>
+  <div class="seance">
+    <div class="step">
+      <span class="num">1</span>
+      <span class="txt">
+        <span class="role">Échauffement <span class="time">8 min</span></span>
+        <span class="detail">Sans rouleau aujourd'hui. <b>Prépare l'épaule avant de tirer</b> — non négociable.</span>
+        <ul>
+          <li>Mollet&nbsp;: montées/descentes lentes sur la pointe + étirement gastro (genou tendu) <span class="reps">2×30 s</span></li>
+          <li>Cheville genou au mur + hanche 90/90</li>
+          <li>Épaule&nbsp;: dislocations élastique + face pull léger + rotation externe B7 amplitude réduite</li>
+        </ul>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">2</span>
+      <span class="txt">
+        <span class="role">Tirage — le plat du jour <span class="time">12 min</span></span>
+        <span class="detail">Prise <b>neutre</b> si la barre le permet (la plus douce coude + épaule).</span>
+        <ul>
+          <li>Tractions scapulaires <span class="reps">3×6-8</span> — omoplates qui descendent, bras tendus</li>
+          <li>Négatives (monte avec appui, descends 3-5 s) <span class="reps">3×3-5</span></li>
+          <li>Rowing australien / barre basse <span class="reps">3×8-10</span></li>
+        </ul>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">3</span>
+      <span class="txt">
+        <span class="role">Push horizontal — épaule-safe <span class="time">7 min</span></span>
+        <ul>
+          <li>Pompes (inclinées si l'épaule râle) <span class="reps">3×10-12</span></li>
+          <li>Push-up plus <span class="reps">3×10</span> — en haut, pousse encore&nbsp;: arrondis le haut du dos, écarte les omoplates (dentelé antérieur)</li>
+        </ul>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">4</span>
+      <span class="txt">
+        <span class="role">Bas du corps <span class="time">9 min</span></span>
+        <ul>
+          <li>Squats poids de corps <span class="reps">3×15</span></li>
+          <li>Squat boîte unijambe (assis-touche sur le bloc) <span class="reps">3×5-8 / jambe</span> — règle la hauteur du bloc</li>
+          <li>Fentes marchées <span class="reps">2×10 / jambe</span></li>
+          <li>Pont fessier unilatéral <span class="reps">3×12 / jambe</span> — soigne le côté gauche</li>
+        </ul>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">5</span>
+      <span class="txt">
+        <span class="role">Core + retour au calme <span class="time">4 min</span></span>
+        <ul>
+          <li>Planche <span class="reps">3×45-60 s</span> · Dead bug <span class="reps">3×8 / côté</span></li>
+          <li>Étirements&nbsp;: gastro genou tendu <span class="reps">2×30 s</span>, quadriceps allongé sur le côté</li>
+        </ul>
+      </span>
+    </div>
+  </div>
+
+  <!-- Progression tractions -->
+  <div class="section-label">Progression tractions — par marches</div>
+  <div class="ladder">
+    <div class="rung"><div class="n">MARCHE 1</div><h4>Scapulaires</h4><p>Suspendu, tu descends et serres les omoplates <b>sans plier les bras</b>. Réveille le contrôle scapulaire, très safe épaule, faible charge coude.</p></div>
+    <div class="rung"><div class="n">MARCHE 2</div><h4>Négatives</h4><p>Tu montes en sautant / avec un appui, tu <b>descends lentement (3-5 s)</b>. C'est ce qui te ramène le plus vite à la traction stricte.</p></div>
+    <div class="rung"><div class="n">MARCHE 3</div><h4>Rowing australien</h4><p>Sous une barre basse. Du <b>volume</b> pour dos et bras, plus doux sur l'épaule. Le complément de toutes les séances.</p></div>
+    <div class="rung"><div class="n">MARCHE 4</div><h4>Strictes</h4><p>Quand tu enchaînes&nbsp;: <b>3× (max −2 reps)</b>, tu gardes 2 en réserve. Jamais à l'échec, jamais en kipping.</p></div>
+  </div>
+
+  <!-- Tyler Twist -->
+  <div class="section-label">Tyler Twist — quotidien, à la maison</div>
+  <div class="tyler">
+    <p><b>3×15, tous les jours</b> (6-12 semaines). FlexBar, du plus souple au plus dur&nbsp;:</p>
+    <div class="swatches">
+      <span class="sw"><span class="dot" style="background:#eab308"></span>Jaune <b>· filet</b></span>
+      <span class="sw cur"><span class="dot" style="background:#ef4444"></span>Rouge <b>· départ</b></span>
+      <span class="sw"><span class="dot" style="background:#10b981"></span>Vert <b>· cible</b></span>
+      <span class="sw"><span class="dot" style="background:#3b82f6"></span>Bleu <b>· plus tard</b></span>
+    </div>
+    <p>Épicondylite active + grip des tractions en plus → on sous-charge. <b>Départ Rouge</b>&nbsp;; passe au <b>Vert</b> quand les 3×15 sont propres et sans douleur. <b>Jaune</b> si le coude se réveille (&gt;3/10). Mieux vaut progresser doucement que rallumer le tendon.</p>
+  </div>
+
+  <!-- Repères / interdits -->
+  <div class="section-label">Pendant la séance</div>
+  <div class="split">
+    <div class="card watch">
+      <h3>Ce que tu surveilles</h3>
+      <ul>
+        <li><b>Coude</b> sur le tirage&nbsp;: reste sous <b>3/10</b>, sinon stop la série.</li>
+        <li><b>Épaule</b>&nbsp;: aucune douleur dans l'arc, contrôle le bas du mouvement, pas de traction sèche en suspension.</li>
+        <li><b>Genou D</b> sur le squat boîte&nbsp;: sous 3/10 (tu tolères bien la charge axiale).</li>
+        <li><b>Côté gauche</b> (fessier plus faible)&nbsp;: qualité égale au droit, pas de compensation.</li>
+        <li>Tractions&nbsp;: <b>jamais à l'échec</b>, garde toujours 2 reps en réserve.</li>
+      </ul>
+    </div>
+    <div class="card dont">
+      <h3>Ce qu'on ne fait pas</h3>
+      <ul>
+        <li><b>Tractions à l'échec</b> et kipping — charge le coude et l'épaule pour rien.</li>
+        <li><b>Dips</b> — agressifs sur l'épaule antérieure tant qu'elle est sensible.</li>
+        <li><b>Sauts, sprints, plyo</b> — on protège le mollet même s'il va bien.</li>
+        <li><b>Suspension prolongée</b> (dead hang) — c'est du grip = coude.</li>
+        <li><b>Pas de séance à jeun</b> (force 40+).</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="footnote">
+    <b>État</b> — épaule D 0/10 repos (réagit sur services), coude D épicondylite active (Tyler Twist en cours), mollet D OK, genou D 1/10 (bruit). Adaptation coiffe active (B7 amplitude réduite).<br>
+    <b>Source</b> — module corps-forme (sport.md), DECISIONS-sport / sante, KB Athena. Tyler et al. 2010 pour le Tyler Twist.<br>
+    Page statique. Le suivi vit dans Jarvis (<b>/corps-forme</b>), pas ici.
+  </p>
+</main>
+
+</body>
+</html>

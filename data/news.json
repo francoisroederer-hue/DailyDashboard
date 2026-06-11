@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-06-10T06:00:00Z",
+  "generated_at": "2026-06-11T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran missiles sur Israël",
-      "title": "Iran : tirs balistiques sur Israël, cessez-le-feu brisé",
-      "summary": "Dans la nuit du 7 au 8 juin, l'Iran a lancé environ 30 missiles balistiques sur le territoire israélien, marquant le premier strike direct depuis le cessez-le-feu d'avril. Trump a prolongé la trêve unilatéralement mais les deux parties continuent de s'échanger des frappes. Les négociations d'Islamabad ont échoué, laissant le conflit dans une impasse active.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon"
+      "short_title": "Crise Iran-Ormuz",
+      "title": "Guerre US/Israël-Iran : le détroit d'Ormuz comme arme",
+      "summary": "Depuis le 28 février, une coalition US-Israël frappe l'Iran et élimine le guide suprême Khamenei ; Téhéran a bloqué le détroit d'Ormuz pendant six semaines avant un cessez-le-feu fragile en avril. Malgré la réouverture officielle du détroit, le trafic commercial n'a pas retrouvé son niveau d'avant-guerre, maintenant une prime de risque durable sur le marché pétrolier. Le conflit a redistribué les alliances régionales et placé la sécurité énergétique mondiale sous haute tension.",
+      "source": "Bloomberg / Wikipedia",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Blocus Ormuz Iran vs USA",
-      "title": "Détroit d'Ormuz : double blocus US-Iran, menace sur l'approvisionnement mondial",
-      "summary": "L'Iran menace de fermer totalement le détroit d'Ormuz après l'arraisonnement d'un tanker par la marine américaine le 2 juin. Un blocus naval américain contre l'Iran répond à un contre-blocus iranien du Golfe. Le détroit représentait avant le conflit 25 % du commerce pétrolier maritime mondial et 20 % du GNL.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html"
+      "importance": 2,
+      "short_title": "Nucléaire US-Iran",
+      "title": "Washington explore une pause de 20 ans sur le nucléaire iranien",
+      "summary": "L'administration Trump négocie une sortie diplomatique à la crise iranienne : un accord suspendant l'enrichissement d'uranium pour vingt ans en échange d'une levée progressive des sanctions. Des pourparlers directs Liban-Israël sont parallèlement programmés à Washington malgré l'opposition du Hezbollah. Des désaccords substantiels subsistent, rendant un retour à un conflit ouvert peu probable mais non exclu.",
+      "source": "The World Now / WEF",
+      "url": "https://www.the-world-now.com/news/us-geopolitics-in-2026-how-middle-east-diplomacy-is-forging-unintended-global-alliances-mny9guhz"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent +7% choc Ormuz",
-      "title": "Pétrole : Brent bondit de +7 % sur les menaces de fermeture d'Ormuz",
-      "summary": "Les marchés pétroliers ont réagi violemment aux déclarations iraniennes sur une fermeture totale du détroit d'Ormuz, le Brent gagnant plus de 7 % en séance. L'Iran amplifiait ainsi la prime géopolitique déjà intégrée depuis le début du conflit. Les traders surveillent aussi les perturbations sur le GNL asiatique, dont une large part transitait par le Golfe.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
-    },
-    {
-      "id": "n04",
-      "theme": "finance",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Fed pause taux juin",
-      "title": "Fed : le FOMC du 16-17 juin devrait maintenir les taux inchangés",
-      "summary": "Les marchés anticipent à 98 % de probabilité un statu quo lors du FOMC de la semaine prochaine, les taux restant à 3,5 %-3,75 %. L'inflation persistante, alimentée par les prix de l'énergie issus du conflit iranien, a poussé Goldman Sachs à retirer son scénario de baisse en 2026. La Fed fait face à une pression politique croissante sur son indépendance tout en naviguant dans une zone d'incertitude élevée.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
-    },
-    {
-      "id": "n05",
       "theme": "geopol",
       "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Hongrie : Orbán battu",
-      "title": "Hongrie : victoire historique de Péter Magyar, fin de 16 ans d'Orbánisme",
-      "summary": "Le parti Tisza de Péter Magyar a remporté une supermajorité (141/199 sièges) lors des élections parlementaires d'avril, infligeant à Fidesz sa pire défaite depuis 1989. La campagne de Magyar s'est concentrée sur la corruption et les performances économiques désastreuses de la Hongrie, avec une croissance anémique d'environ 0,5 %. La participation a été la plus élevée depuis la chute du communisme.",
+      "importance": 3,
+      "short_title": "Hongrie: Magyar élu",
+      "title": "Hongrie : la chute d'Orbán et le virage pro-UE de Magyar",
+      "summary": "Le 12 avril 2026, Péter Magyar et son parti Tisza ont remporté une supermajorité historique (141/199 sièges) aux législatives hongroises, mettant fin à seize ans de gouvernance nationaliste et pro-russe. Magyar veut normaliser les relations avec Bruxelles et rapprocher la Hongrie de ses voisins d'Europe centrale. Cette victoire est perçue comme un signal européen fort contre le populisme eurosceptique et pro-Kremlin.",
       "source": "CNN",
       "url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
     },
     {
-      "id": "n06",
+      "id": "n04",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "diplomatie",
       "importance": 2,
-      "short_title": "Israël élections oct 2026",
-      "title": "Israël : la Knesset vote sa dissolution, élections prévues en automne 2026",
-      "summary": "Le parlement israélien a adopté à l'unanimité (110-0) un projet de loi pour sa dissolution en mai, ouvrant la voie à des élections anticipées en septembre ou octobre. Cette recomposition politique intervient en pleine guerre avec l'Iran et après des semaines de tensions internes sur la gestion du conflit. Un délai minimum de 90 jours doit s'écouler avant les nouvelles élections.",
-      "source": "ZeroFox Intelligence",
-      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
+      "short_title": "G7 Évian minerais",
+      "title": "G7 à Évian 15-17 juin : minerais critiques et tensions US-UE",
+      "summary": "Le sommet du G7 se tient à Évian du 15 au 17 juin 2026, avec les chaînes d'approvisionnement en minerais critiques comme dossier central face à la dépendance envers la Chine. Les tensions commerciales sur les tarifs douaniers entre les États-Unis et l'Europe fragilisent l'unité du groupe. La France pousse à diversifier les sources d'approvisionnement vers l'Australie, le Brésil et le Mexique.",
+      "source": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/2026/05/06/g7-trade-talks-target-critical-minerals-as-us-eu-tariff-rift-strains-unity/"
+    },
+    {
+      "id": "n05",
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "WTI $102, Brent +45%",
+      "title": "Pétrole au-dessus de $100 : l'onde de choc iranienne dure",
+      "summary": "Le WTI a dépassé $102 le baril à mi-mai, soit une hausse de plus de 45 % depuis le début du conflit iranien fin février. Même après la réouverture officielle du détroit d'Ormuz, les flux commerciaux restent très en dessous de leur niveau d'avant-crise. Le marché pétrolier intègre désormais une prime de risque géopolitique structurelle qui complique les prévisions d'inflation mondiales.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html"
+    },
+    {
+      "id": "n06",
+      "theme": "finance",
+      "subtopic": "banques_centrales",
+      "importance": 3,
+      "short_title": "Fed: stagflation dilemme",
+      "title": "La Fed maintient ses taux face au dilemme stagflationniste",
+      "summary": "Lors de sa réunion du 29 avril, la Fed a maintenu son taux directeur à 3,5-3,75 %, confrontée à une inflation ravivée par les prix pétroliers et à un marché de l'emploi qui s'essouffle. Jerome Powell reconnaît que les progrès insuffisants sur l'inflation et la pression des tarifs douaniers pourraient ancrer durablement les pressions inflationnistes. Un seul assouplissement reste envisagé pour 2026, certains membres du FOMC plaidant pour le repousser encore.",
+      "source": "Federal Reserve / Yahoo Finance",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 3,
-      "short_title": "Anthropic IPO $965B",
-      "title": "Anthropic : IPO à 965 milliards de dollars, valorisation dépasse OpenAI",
-      "summary": "Anthropic a levé 65 milliards de dollars lors d'un Series H valorisant la société à 965 milliards post-money, surpassant OpenAI (852 milliards) pour la première fois. La société a ensuite déposé confidentiellement son prospectus auprès de la SEC, ciblant une introduction en bourse sur le Nasdaq en octobre 2026. Les revenus du deuxième trimestre atteignent 10,9 milliards de dollars, doublant en un seul trimestre.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/"
+      "short_title": "Bâle III US FRTB CVA",
+      "title": "US Bâle III Endgame : FRTB et CVA en consultation, deadline 18 juin",
+      "summary": "Le 19 mars 2026, la Fed, l'OCC et la FDIC ont publié une refonte complète du cadre de fonds propres américain implémentant les réformes finales de Bâle III : nouvelles règles FRTB pour le risque de marché et nouveau cadre CVA/XVA révisé en sont les piliers. La période de commentaires, fenêtre rare pour les banques actives en CCR et XVA d'influencer le calibrage final, se clôt le 18 juin 2026. Un déploiement progressif sur trois ans est prévu après publication de la règle finale.",
+      "source": "Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Apple iOS 27 Claude natif",
-      "title": "WWDC 2026 : Apple ouvre iOS 27 à Claude, Gemini et ChatGPT via Extensions",
-      "summary": "Apple a annoncé lors de sa WWDC du 8 juin le framework «Extensions» d'iOS 27, qui permet aux utilisateurs de choisir entre Claude, Gemini ou ChatGPT comme moteur de Siri et de l'ensemble des fonctions Apple Intelligence. C'est la première distribution native de Claude sur les appareils Apple, potentiellement accessibles à plus d'un milliard d'utilisateurs lors du déploiement d'iOS 27 en septembre. Apple met fin à l'exclusivité ChatGPT accordée lors d'iOS 18.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/05/ios-27-will-let-you-choose-between-gemini-claude-and-more-for-ai-features-report/"
+      "short_title": "Anthropic $965B IPO",
+      "title": "Anthropic : $65 Mds levés, $965 Mds de valorisation, IPO confidentiel",
+      "summary": "Le 28 mai 2026, Anthropic a bouclé une levée de 65 milliards de dollars à une valorisation de 965 milliards, dépassant OpenAI pour devenir l'entreprise d'IA privée la mieux valorisée au monde. Quatre jours plus tard, Anthropic a déposé confidentiellement un S-1 auprès de la SEC, visant une introduction en bourse dès octobre 2026. Les revenus annualisés ont bondi de 9 Mds fin 2025 à 44 Mds en mai 2026, une croissance quasi inédite dans l'histoire technologique.",
+      "source": "Anthropic / IndMoney",
+      "url": "https://www.indmoney.com/blog/us-stocks/anthropic-ipo-valuation-revenue-risks-indian-investors"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Stack AI code convergence",
-      "title": "Agents de code : Claude Code, Cursor et Codex convergent en stack composite",
-      "summary": "65 % des ingénieurs utilisent désormais deux agents de code en parallèle, Claude Code dominant en CLI et Cursor pour l'édition interactive. OpenAI a lancé un plugin officiel permettant à Codex de s'exécuter au sein de Claude Code, créant une pile orchestrée plutôt qu'une guerre de standards. OpenCode, un agent open-source, dépasse 160 000 étoiles GitHub et 7,5 millions d'utilisateurs actifs mensuels.",
-      "source": "The New Stack",
-      "url": "https://thenewstack.io/ai-coding-tool-stack/"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Code $1Md ARR",
+      "title": "Claude Code franchit $1 Md de revenus annualisés en 6 mois",
+      "summary": "Claude Code, le terminal de coding IA d'Anthropic, a dépassé un milliard de dollars de revenus annualisés en moins de six mois, porté par plus de 1 000 clients enterprise dépensant chacun plus d'un million de dollars par an. C'est la croissance la plus rapide jamais observée pour un outil de développeur. Ce succès valide la thèse selon laquelle le coding professionnel est le premier vertical clairement monétisable de l'IA générative.",
+      "source": "CNBC / Taskade",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
     },
     {
       "id": "n10",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "US Basel III re-proposé",
-      "title": "États-Unis : re-proposition du Basel III Endgame, commentaires jusqu'au 18 juin",
-      "summary": "Les régulateurs américains (Fed, OCC, FDIC) ont re-proposé en mars 2026 leur cadre de capital réglementaire intégrant FRTB et les derniers éléments de Bâle III, après retrait de la première version sous pression de l'industrie. La période de consultation publique se clôture le 18 juin 2026. Le texte prévoit le plancher de production à 72,5 %, la révision du risque de crédit et de marché, et une nouvelle approche standardisée pour le risque opérationnel.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Google/MS vs coding IA",
+      "title": "Google et Microsoft contre-attaquent dans le coding IA",
+      "summary": "Face à la domination d'Anthropic sur le segment coding enterprise, Google a multiplié les annonces lors de son developer conference de mai et Microsoft prépare des offres majeures pour Build. Le marché des outils de code IA est évalué à 9,3 milliards de dollars en 2026 et devrait atteindre 30 milliards d'ici 2031. La concurrence entre Cursor, Claude Code, GitHub Copilot et les nouveaux entrants s'intensifie fortement.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
     },
     {
       "id": "n11",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 3,
-      "short_title": "FRTB/XVA UE avance USA",
-      "title": "FRTB/XVA : les banques européennes quatre fois plus avancées que les américaines",
-      "summary": "Selon Risk.net, la moitié des banques européennes intègre déjà les règles FRTB dans leurs calculs XVA de capital, contre environ un quart des institutions nord-américaines. Ce décalage reflète les différences de calendrier réglementaire : l'UE implémente FRTB en 2027, tandis que les États-Unis restent en phase de consultation. Cette divergence crée une asymétrie concurrentielle dans la tarification des dérivés en cross-juridictionnel.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 1,
+      "short_title": "OpenAI Codex enterprise",
+      "title": "OpenAI étend Codex à six verticaux enterprise dont la banque d'investissement",
+      "summary": "OpenAI a annoncé six nouveaux plugins business pour Codex couvrant la vente, l'analyse de données, la production créative, le design produit, l'investissement en actions cotées et la banque d'investissement. Ce positionnement enterprise cherche à contrer la progression de Claude Code chez les grands comptes. OpenAI déploie simultanément une plateforme publicitaire avec suivi de conversion côté serveur pour diversifier ses revenus.",
+      "source": "MarketingProfs",
+      "url": "https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week"
     },
     {
       "id": "n12",
       "theme": "climat",
-      "subtopic": "energie",
+      "subtopic": "geopolitique_energie",
       "importance": 2,
-      "short_title": "Crise Ormuz relance VE UE",
-      "title": "Crise Ormuz : l'Europe accélère sa transition énergétique sous choc géopolitique",
-      "summary": "La disruption des approvisionnements pétroliers et gaziers liée à la guerre Iran pousse l'Allemagne et l'Espagne à multiplier les subventions pour les panneaux solaires, les batteries domestiques et les véhicules électriques. Les ventes de VE en Europe progressent pour le troisième mois consécutif depuis février. Bloomberg souligne que les gouvernements voient dans la crise une fenêtre pour accélérer la décarbonation tout en réduisant leur dépendance au brut du Golfe.",
+      "short_title": "Iran choc transition",
+      "title": "Le choc iranien fait de la transition énergétique un enjeu de sécurité nationale",
+      "summary": "Selon Bloomberg, la crise pétrolière liée à la guerre en Iran pousse les gouvernements asiatiques et européens à accélérer massivement leurs investissements dans le solaire, les batteries et les pompes à chaleur — désormais au nom de la sécurité nationale plutôt que du seul climat. La Corée du Sud a déclaré sa transition énergétique stratégie nationale non négociable. Des subventions et crédits d'impôt accélérés ont été mis en place dans plusieurs pays.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
     },
@@ -137,141 +137,129 @@
       "id": "n13",
       "theme": "climat",
       "subtopic": "europe",
-      "importance": 1,
-      "short_title": "UE révise ETS carbone",
-      "title": "Commission européenne : révision de l'ETS avec davantage de quotas gratuits et conditionnalité renforcée",
-      "summary": "La Commission européenne travaille à une révision du système d'échange de quotas d'émissions (ETS) qui accorderait davantage de quotas gratuits aux industries exposées à la concurrence internationale, tout en exigeant en contrepartie un rapport sur le réinvestissement dans la décarbonation. La révision vise à réconcilier compétitivité industrielle européenne et neutralité carbone 2050 dans un contexte de crise énergétique persistante.",
+      "importance": 2,
+      "short_title": "ETS quotas gratuits",
+      "title": "Révision de l'ETS européen : tension entre quotas gratuits et prix carbone",
+      "summary": "La Commission européenne révise son marché carbone (ETS) pour tenir la trajectoire vers la neutralité en 2050 : certains États membres exigent davantage de quotas gratuits pour protéger leurs industries exposées à la concurrence mondiale, pendant que d'autres s'opposent à la réduction de 50 % des allocations pour le chauffage et les carburants. Cette tension reflète le conflit fondamental entre compétitivité industrielle européenne et signal-prix carbone. La taxe carbone aux frontières (CBAM) entre progressivement en vigueur.",
       "source": "Clean Energy Wire",
       "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "sciences",
+      "subtopic": "neurosciences",
       "importance": 2,
-      "short_title": "GLP-1 : sarcopénie cachée",
-      "title": "GLP-1 : jusqu'à 40 % de la perte de poids est de la masse maigre, alerte sur la sarcopénie",
-      "summary": "Une analyse publiée dans la Harvard Science Review révèle que jusqu'à 40 % du poids perdu sous GLP-1 haute efficacité (sémaglutide, tirzepatide) correspond à de la masse musculaire et non à de la graisse. Ce phénomène accélère la sarcopénie et pourrait compromettre les bénéfices cardiovasculaires à long terme. Des chercheurs appellent à systématiser le suivi de la composition corporelle et à coupler les GLP-1 à un programme de résistance musculaire.",
-      "source": "Harvard Science Review",
-      "url": "https://harvardsciencereview.org/2026/02/23/the-glp-1-aftermath-what-the-science-says-about-muscle-loss-and-cellular-aging/"
+      "short_title": "Alzheimer cible inédite",
+      "title": "Alzheimer : nouveau composé bloque la dégradation neuronale en amont",
+      "summary": "Des chercheurs ont identifié une cible thérapeutique inédite contre Alzheimer et développé un composé expérimental qui inhibe un processus délétère au sein même des cellules neuronales. Dans des modèles murins, le traitement a ralenti la perte de neurones et réduit les marqueurs pathologiques caractéristiques. Ce résultat s'inscrit dans une série de percées récentes ouvrant des pistes de neuroprotection au-delà des approches anti-amyloïdes classiques.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/health_medicine/healthy_aging/"
     },
     {
       "id": "n15",
       "theme": "sante",
-      "subtopic": "longevite",
+      "subtopic": "nutrition",
       "importance": 2,
-      "short_title": "Metformin vs musculation",
-      "title": "MASTERS Trial : la metformine atténue les gains musculaires chez les sportifs actifs",
-      "summary": "L'essai MASTERS confirme que la metformine, bien qu'efficace pour la santé métabolique, atténue les adaptations à l'entraînement en résistance chez les adultes actifs en inhibant en partie les voies mTOR nécessaires à la synthèse protéique. Ce résultat crée un dilemme pour les praticiens de longévité qui combinent les deux approches. Un compromis possible serait de décaler les prises de metformine par rapport aux séances de force.",
-      "source": "ScienceDirect",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1568163725003289"
+      "short_title": "Ultra-proc. et cognition",
+      "title": "Ultra-transformés : lien direct avec le déclin cognitif quotidien",
+      "summary": "Une étude sur plus de 2 100 adultes montre qu'une consommation élevée d'aliments ultra-transformés est associée à une attention réduite et une vitesse de traitement mental plus lente, même chez des individus dont le reste du régime est sain. Ce résultat renforce l'hypothèse que la transformation industrielle des aliments a des effets cérébraux indépendants des apports nutritionnels globaux. Pour la population active, l'implication est directe : performance cognitive quotidienne et alimentation sont étroitement liées.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/health_medicine/nutrition/"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "physique",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 1,
-      "short_title": "Valleytronics percée",
-      "title": "Valleytronics : nouvelle puce photonique pour IA et calcul à faible consommation",
-      "summary": "Des chercheurs publient une percée en valleytronics qui pourrait réduire drastiquement la consommation énergétique des processeurs d'IA en exploitant les degrés de liberté de vallée des électrons dans des semi-conducteurs 2D. Ce type de puce permettrait des opérations parallèles massives à une fraction de l'énergie requise par les GPU actuels. Le résultat ouvre une piste vers des co-processeurs pour le calcul quantique hybride.",
+      "short_title": "Thé, muscle et mémoire",
+      "title": "Thé naturel : catéchines contre perte musculaire et déclin cognitif",
+      "summary": "Des études documentées en juin 2026 montrent que les catéchines du thé non transformé peuvent prévenir la sarcopénie chez les seniors et réduire les biomarqueurs de la maladie d'Alzheimer. L'effet bénéfique disparaît dans les thés industriels sucrés ou en bouteille qui contiennent additifs et édulcorants. Ces résultats précisent les conditions dans lesquelles la consommation régulière de thé constitue un levier actionnable de longévité.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260609025534.htm"
     },
     {
       "id": "n17",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 1,
-      "short_title": "Simulation biologique IA",
-      "title": "Nature : simuler les systèmes biologiques, promesse et défis du jumeau numérique cellulaire",
-      "summary": "Un article de Nature soulève les enjeux de la modélisation computationnelle de systèmes biologiques entiers, qui transformerait la recherche biomédicale en permettant de tester des médicaments in silico avant les essais cliniques. Les auteurs soulignent que la complexité des interactions cellulaires dépasse encore les capacités de simulation actuelles, même assistées par IA. La publication intervient alors que des start-ups de biotech computationnelle multiplient les levées de fonds.",
-      "source": "Nature",
-      "url": "https://www.nature.com/nature/volumes/654/issues/8117"
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
+      "importance": 2,
+      "short_title": "Khanmigo 18M élèves",
+      "title": "Khanmigo atteint 18 millions d'élèves, benchmark mondial du tutorat IA",
+      "summary": "En 2026, Khanmigo de Khan Academy est devenu la référence mondiale du tutorat adaptatif IA avec 18 millions d'étudiants dans les matières scientifiques, mathématiques et humanités. Des études montrent des gains de compréhension de 40 % par rapport aux e-learning traditionnels grâce à des échanges socratiques contextualisés. La nouvelle génération de ces outils module la pédagogie en temps réel selon la charge cognitive et l'état émotionnel de l'élève.",
+      "source": "is4.ai",
+      "url": "https://is4.ai/blog/our-blog-1/top-10-ai-tutoring-systems-2026-learning-outcomes-208"
     },
     {
       "id": "n18",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "OpenAI Codex enterprise",
-      "title": "OpenAI repositionne Codex en mode enterprise avec 6 nouveaux plugins métier",
-      "summary": "OpenAI a annoncé six nouveaux plugins enterprise pour Codex couvrant les ventes, l'analyse de données, la production créative, le design produit, l'investissement en actions cotées et la banque d'investissement. La société lance aussi «Sites», qui convertit des analyses ou plans en applications web interactives partageables. Ce pivot vers l'entreprise répond directement à la domination croissante de Claude Code dans ce segment.",
-      "source": "MarketingProfs",
-      "url": "https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week"
+      "short_title": "Chine: réforme biotech",
+      "title": "Nature Medicine : la réforme biotech chinoise accélère la mise sur marché",
+      "summary": "Un article paru dans Nature Medicine en juin 2026 analyse comment l'intégration des réformes étatiques chinoises à la restructuration institutionnelle a spectaculairement accéléré le développement et l'accès aux médicaments. La Chine est passée de pays suiveur à concurrent direct des États-Unis et de l'Europe sur plusieurs thérapies avancées. Cette montée en puissance a des implications géopolitiques directes dans la course aux biotechnologies stratégiques et de défense.",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04445-z"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Les missiles balistiques iraniens du 7-8 juin et le double blocus naval sont deux phases du même bras de fer militaire dans le Golfe : la rupture du cessez-le-feu a conduit l'Iran à réaffirmer sa menace sur le détroit d'Ormuz."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La menace iranienne de fermer Ormuz — verrou de 25 % du commerce pétrolier maritime mondial — a déclenché une panique sur les marchés et fait bondir le Brent de +7 % en quelques heures."
-    },
-    {
-      "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "La flambée du pétrole alimente l'inflation américaine, rendant toute baisse de taux politiquement et économiquement difficile à justifier pour la Fed lors du FOMC du 16-17 juin."
-    },
-    {
-      "source": "n02",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "La disruption des approvisionnements énergétiques dans le Golfe donne une urgence géopolitique à la transition énergétique en Europe : réduire la dépendance au brut du Golfe en accélérant solaire, batteries et VE."
+      "explanation": "L'attaque US-Israël et la fermeture du détroit d'Ormuz ont contracté l'offre mondiale de brut d'environ 20 %, déclenchant mécaniquement la hausse des prix qui a propulsé le WTI au-dessus de $102."
     },
     {
       "source": "n05",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "La flambée pétrolière (+45 %) a ravivé l'inflation américaine, plaçant la Fed dans un dilemme stagflationniste : baisser les taux risque d'amplifier la hausse des prix, les maintenir pèse sur l'emploi."
+    },
+    {
+      "source": "n01",
       "target": "n12",
       "type": "cause",
-      "explanation": "La chute d'Orbán — qui freinait systématiquement l'ambition climatique européenne depuis Budapest — lève un frein politique majeur à une réponse européenne coordonnée sur la transition énergétique."
+      "explanation": "Le blocage de l'Ormuz a mis en évidence la vulnérabilité énergétique des pays importateurs, transformant la transition renouvelable d'un objectif climatique en impératif de sécurité nationale."
     },
     {
       "source": "n12",
       "target": "n13",
       "type": "cause",
-      "explanation": "La pression géopolitique sur l'approvisionnement renforce politiquement la réforme de l'ETS européen, en rendant la décarbonation industrielle plus urgente et en justifiant une conditionnalité accrue sur les quotas gratuits."
+      "explanation": "L'accélération forcée de la transition amplifie le débat sur l'ETS : il faut protéger les industries locales du renchérissement de l'énergie tout en maintenant l'incitation au décarbonage par le signal-prix carbone."
     },
     {
-      "source": "n09",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "L'adoption massive de Claude Code — premier agent de code en parts de marché selon les benchmarks — est le principal moteur du doublement des revenus Q2 d'Anthropic, alimentant directement sa valorisation pré-IPO à 965 milliards."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
+      "source": "n01",
+      "target": "n02",
       "type": "meme_sujet",
-      "explanation": "L'IPO imminente d'Anthropic et l'intégration native dans iOS 27 surviennent simultanément : les deux signaux marquent le même tournant où Claude passe du statut de produit B2B à celui d'infrastructure IA grand public mondiale."
+      "explanation": "Les frappes militaires et les négociations nucléaires sont les deux faces du même dossier iranien : une guerre active qui se cherche simultanément une sortie diplomatique."
     },
     {
       "source": "n09",
-      "target": "n18",
-      "type": "tension",
-      "explanation": "La domination croissante de Claude Code sur le marché des agents de code en entreprise pousse OpenAI à repositionner Codex sur des cas d'usage métier spécialisés (banque, finance, design) pour éviter la concurrence frontale."
+      "target": "n08",
+      "type": "cause",
+      "explanation": "La performance record de Claude Code — $1 Md ARR en six mois — a directement justifié la valorisation de $965 Mds et fourni le narratif de croissance nécessaire au dépôt confidentiel de l'IPO."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "La domination rapide de Claude Code sur le segment enterprise a contraint Google et Microsoft à contre-attaquer avec leurs propres offres de coding IA, accélérant la guerre sur ce marché."
     },
     {
       "source": "n10",
       "target": "n11",
-      "type": "cause",
-      "explanation": "La re-proposition du Basel III américain avec clôture le 18 juin approfondit le décalage de calendrier avec l'UE, créant une asymétrie concurrentielle dans les calculs XVA entre banques européennes (déjà conformes FRTB) et américaines."
+      "type": "meme_sujet",
+      "explanation": "Google, Microsoft et OpenAI ripostent simultanément à Anthropic sur le coding enterprise : la compétition s'intensifie sur les mêmes clients grands comptes."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "La victoire de Magyar repositionne la Hongrie dans le camp pro-UE juste avant le G7 d'Évian, modifiant les équilibres internes au sein du bloc occidental sur les dossiers commerciaux et réglementaires."
     },
     {
       "source": "n14",
       "target": "n15",
-      "type": "tension",
-      "explanation": "GLP-1 et metformine partagent la même tension pharmacologique pour la longévité : bénéfices métaboliques et cardiovasculaires documentés, mais risque de perte ou d'inhibition de la masse musculaire — renforçant l'impératif de la résistance musculaire."
-    },
-    {
-      "source": "n16",
-      "target": "n17",
-      "type": "cause",
-      "explanation": "Les puces photoniques basse consommation pourraient rendre économiquement viables les simulations complètes de systèmes biologiques, qui nécessitent aujourd'hui un volume de calcul prohibitif sur GPU conventionnels."
+      "type": "meme_sujet",
+      "explanation": "Deux axes complémentaires de préservation cognitive : la neuroprotection moléculaire contre Alzheimer et les effets alimentaires sur les performances cérébrales quotidiennes convergent vers la même priorité de santé publique."
     }
   ]
 }

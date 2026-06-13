@@ -6,9 +6,9 @@
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran-US ceasefire 60j",
-      "title": "Cessez-le-feu US-Iran étendu 60 jours, négociations nucléaires",
-      "summary": "Le 11 juin, Trump a annoncé une extension de 60 jours du cessez-le-feu avec l'Iran pour faciliter des négociations globales, après des semaines de médiation pakistanaise. Washington et Téhéran auraient convenu en principe de rouvrir le Détroit de l'Hormuz et d'engager des pourparlers sur le nucléaire iranien, mais les officiels iraniens nuancent en indiquant qu'aucun accord définitif n'a encore été signé. Des violations intermittentes du cessez-le-feu persistent sur le terrain.",
+      "short_title": "Iran-US : cessez-feu 60j",
+      "title": "Cessez-le-feu US-Iran étendu 60 jours, négociations nucléaires relancées",
+      "summary": "Le 11 juin, Trump a annoncé une extension de 60 jours du cessez-le-feu avec l'Iran pour faciliter des négociations globales, après des semaines de médiation pakistanaise. Washington et Téhéran auraient convenu en principe de rouvrir le détroit d'Ormuz et d'engager des pourparlers sur le nucléaire, mais les officiels iraniens nuancent en indiquant qu'aucun accord définitif n'a encore été signé. Des violations intermittentes persistent sur le terrain et le trafic maritime reste perturbé.",
       "source": "PBS NewsHour",
       "url": "https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks"
     },
@@ -18,19 +18,19 @@
       "subtopic": "moyen-orient",
       "importance": 2,
       "short_title": "Hezbollah : drones FPV",
-      "title": "Hezbollah intensifie ses attaques de drones FPV contre Israël",
-      "summary": "Hezbollah a massivement augmenté son recours aux drones FPV (first-person view) télépilotés, provoquant des frappes meurtrières en avril-mai 2026 et suscitant une vive inquiétude dans les états-majors israéliens. Netanyahu a accordé à l'armée un budget militaire déclaré «illimité» pour contrer cette menace asymétrique à bas coût. Cette escalade technologique ajoute une dimension inédite au conflit multifront israélien, déjà mobilisé sur le front iranien.",
+      "title": "Hezbollah intensifie ses frappes de drones FPV, Netanyahu débloque un budget illimité",
+      "summary": "Hezbollah a massivement augmenté son recours aux drones FPV télépilotés à bas coût, provoquant des frappes meurtrières en avril-mai 2026 sur le territoire israélien. Netanyahu a accordé à l'armée un budget déclaré illimité pour contrer cette menace asymétrique qui sature les systèmes de défense. Cette escalade technologique ajoute une dimension inédite au conflit multifront israélien, déjà mobilisé sur le front iranien.",
       "source": "ZeroFox Intelligence",
       "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
     },
     {
       "id": "n03",
-      "theme": "climat",
+      "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz fermé : Brent $105",
-      "title": "Détroit d'Hormuz fermé : Brent attendu à 105 $ en juin-juillet",
-      "summary": "La fermeture du Détroit de l'Hormuz depuis fin février 2026 a soustrait environ 20% de l'offre mondiale de pétrole et propulsé le Brent vers 105 $ le baril. L'EIA maintient cette projection pour juin-juillet 2026, avec un scénario extrême à 154 $ si la fermeture dure 12 semaines. Une reprise des flux est attendue au T3 2026, mais la remontée en régime de production prendra plusieurs mois après la réouverture.",
+      "short_title": "Hormuz fermé : Brent 105$",
+      "title": "Détroit d'Ormuz fermé depuis février : Brent attendu à 105 $ en juin-juillet",
+      "summary": "La fermeture du détroit de l'Hormuz depuis fin février 2026, consécutive aux frappes américano-israéliennes sur l'Iran, a soustrait environ 20 % de l'offre mondiale de pétrole et propulsé le Brent vers 105 $ le baril selon l'EIA. Un scénario extrême à 154 $ est modélisé si la fermeture dure 12 semaines ; une reprise des flux n'est attendue qu'au T3 2026. Cette crise est l'événement fondateur du choc inflationniste qui frappe depuis les économies importatrices.",
       "source": "EIA Short-Term Energy Outlook juin 2026",
       "url": "https://www.eia.gov/outlooks/steo/"
     },
@@ -40,153 +40,164 @@
       "subtopic": "usa",
       "importance": 3,
       "short_title": "Goldman : Fed bloquée",
-      "title": "Goldman Sachs abandonne sa prévision de coupure Fed en 2026",
-      "summary": "Après un rapport sur l'emploi américain plus fort qu'attendu début juin 2026, Goldman Sachs a supprimé ses prévisions de baisse de taux Fed pour cette année et reporte les deux coupures restantes à juin et décembre 2027. L'inflation reste élevée, alimentée en partie par le choc énergétique lié à l'Hormuz, tandis que le marché du travail demeure résilient malgré un ralentissement graduel. La Fed reste ainsi à 3,5–3,75% pour une troisième réunion consécutive sans mouvement.",
+      "title": "Goldman Sachs abandonne ses prévisions de baisse de taux Fed en 2026, report à 2027",
+      "summary": "Après un rapport sur l'emploi américain plus fort qu'attendu début juin, Goldman Sachs a supprimé ses prévisions de baisse de taux Fed pour 2026 et reporte les deux coupures à juin et décembre 2027. L'inflation reste élevée, alimentée en partie par le choc énergétique lié à l'Hormuz, tandis que le marché du travail demeure résilient. La Fed reste à 3,5–3,75 % pour une troisième réunion consécutive sans mouvement.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-07/goldman-sachs-no-longer-expects-fed-interest-rate-cut-this-year-mq44uu26"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "europe",
       "importance": 3,
-      "short_title": "Claude auteur 80% du code",
-      "title": "Anthropic : Claude a rédigé 80% du code de production en mai",
-      "summary": "Anthropic a révélé que Claude a été l'auteur de plus de 80% du code fusionné dans sa base de production en mai 2026, contre quelques pourcents seulement au lancement de Claude Code début 2025. La productivité des ingénieurs Anthropic a été multipliée par huit en volume de code intégré en un seul trimestre. La société évoque une phase d'«amélioration récursive» et a soulevé publiquement la question d'un mécanisme de pause globale sur l'IA frontier.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
+      "short_title": "BCE +25bp à 2,25%",
+      "title": "La BCE relève ses taux de 25 pb le 11 juin : première hausse depuis 2023",
+      "summary": "Le 11 juin, la BCE a remonté son taux de dépôt de 2,00 % à 2,25 %, mettant fin au cycle d'assouplissement entamé en 2024. La décision est motivée par le retour de l'inflation en zone euro à 3,2 % en mai, portée par les prix de l'énergie liés à la crise d'Ormuz. Une deuxième hausse en septembre est déjà anticipée par les marchés, et la Fed devrait emboîter le pas pour contenir une inflation américaine proche de 4 %.",
+      "source": "Boursorama",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bce-augmente-ses-taux-directeurs-de-25-points-de-base-3a088f9ab5503cf1bcff415a177a97a6"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic IPO : 965 Md$",
-      "title": "Anthropic dépose confidentiellement son IPO à 965 milliards $",
-      "summary": "Anthropic a déposé confidentiellement son dossier S-1 auprès de la SEC pour une introduction en bourse valorisée à 965 Md$, après un dernier tour de table à 65 Md$. Le lancement simultané de Claude Fable 5 renforce le positionnement technique de la société à ce moment clé. C'est l'une des introductions en bourse tech les plus importantes de l'histoire, portée par la domination de Claude Code sur le marché du coding IA.",
-      "source": "Dataconomy / Fast Company",
-      "url": "https://dataconomy.com/2026/06/10/anthropic-claude-fable-5-ipo-965-billion/"
+      "theme": "finance",
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "France : PIB -0,1% T1",
+      "title": "France : PIB en légère contraction au T1, chômage au plus haut depuis 2021",
+      "summary": "Le PIB français a reculé de 0,1 % au premier trimestre 2026, après une faible progression de 0,2 % fin 2025, dans un contexte de crédit plus cher et d'inflation à 2,4 % en mai. Le chômage remonte à 8,1 %, son plus haut niveau depuis début 2021, avec 22 000 emplois privés supplémentaires détruits au premier semestre. La hausse des taux BCE referme davantage l'étau sur la demande intérieure française.",
+      "source": "INSEE",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/8907467/ndc-mars-2026.pdf"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Microsoft/Google : coding",
-      "title": "Microsoft et Google entrent en force dans le coding IA",
-      "summary": "Face à la domination de Claude Code et OpenAI Codex, Microsoft a préparé des annonces coding pour sa conférence Build et Google a présenté de nouveaux produits concurrents à son Developer Day de mai. Les deux géants cherchent à récupérer des parts d'un marché du coding IA jugé stratégique et en croissance explosive. Leur entrée redessine la compétition au-delà du duel Anthropic/OpenAI qui dominait le secteur depuis 2025.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html"
-    },
-    {
-      "id": "n08",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor vs Claude Code",
-      "title": "Vibe coding : un investisseur Accel parie sur la coexistence",
-      "summary": "Un associé d'Accel a affirmé que le marché du vibe coding est suffisamment large pour que Cursor et Claude Code prospèrent simultanément, malgré un exode récent de développeurs de Cursor vers Claude Code après le lancement d'Opus 4.6. Le marché du coding assisté par IA connaît une croissance si explosive que plusieurs acteurs peuvent coexister profitablement dans des niches distinctes. Cette vision de coexistence sera toutefois mise à l'épreuve par l'entrée offensive imminente de Microsoft et Google.",
-      "source": "Business Insider / AOL",
-      "url": "https://www.aol.com/articles/accel-vc-says-vibe-coding-055725796.html"
-    },
-    {
-      "id": "n09",
-      "theme": "sante",
-      "subtopic": "kettlebell",
-      "importance": 2,
-      "short_title": "Musculation 90-120min/sem",
-      "title": "90–120 min/semaine de musculation : dose optimale de longévité",
-      "summary": "Une méta-analyse portant sur 147 000 adultes suivis pendant 30 ans identifie 90 à 120 minutes hebdomadaires de renforcement musculaire comme la plage optimale pour les bénéfices de longévité, avec une courbe dose-réponse en U. En deçà et au-delà de cette fenêtre, les gains diminuent progressivement, suggérant qu'il ne suffit pas de «faire plus». C'est la première fois qu'un seuil quantifié est établi pour guider les recommandations cliniques sur l'exercice de résistance.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
-    },
-    {
-      "id": "n10",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Stanford : cartilage",
-      "title": "Stanford : blocage de 15-PGDH régénère le cartilage vieillissant",
-      "summary": "Des chercheurs de Stanford ont montré qu'une molécule bloquant la protéine 15-PGDH, associée au vieillissement, restaure le cartilage du genou chez de vieilles souris et prévient l'arthrose après des lésions ligamentaires. Des fragments de tissu humain prélevés lors de chirurgies prothétiques ont également répondu positivement au traitement in vitro. Cette piste ouvre la voie à une injection locale ou un médicament oral pour réparer les articulations sans chirurgie lourde de remplacement.",
-      "source": "ScienceDaily / Stanford Medicine",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm"
-    },
-    {
-      "id": "n11",
-      "theme": "sciences",
-      "subtopic": "alzheimer",
-      "importance": 3,
-      "short_title": "Alzheimer : microglie",
-      "title": "Mutations cancéreuses dans les microglia liées à la maladie d'Alzheimer",
-      "summary": "Une étude publiée dans Cell (Mount Sinai/Boston Children's Hospital) montre que les cellules immunitaires cérébrales (microglia) accumulent des mutations des gènes TET2, DNMT3A et ASXL1 — typiques des cancers du sang — créant une inflammation chronique qui tue les neurones voisins. Ces mutations, détectables par simple prise de sang, augmentent le risque d'Alzheimer indépendamment du facteur génétique APOE4. La découverte ouvre une voie vers des traitements par des médicaments anticancéreux existants.",
-      "source": "ScienceDaily / Mount Sinai",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm"
-    },
-    {
-      "id": "n12",
-      "theme": "learn",
-      "subtopic": "metacognition",
-      "importance": 2,
-      "short_title": "OCDE 2026 : IA cognitive",
-      "title": "OCDE Digital Education 2026 : l'IA génère une paresse métacognitive",
-      "summary": "Le rapport Digital Education Outlook 2026 de l'OCDE conclut que l'usage rapide et transactionnel de l'IA par les étudiants induit une «paresse métacognitive» : en déléguant la réponse au modèle, l'étudiant perd l'effort cognitif nécessaire à l'apprentissage durable. Neuf enseignants universitaires sur dix s'alarment d'une dépendance accrue et d'un recul de la pensée critique chez leurs étudiants. L'OCDE recommande un usage lent, itératif et ancré dans des dispositifs pédagogiques explicites.",
-      "source": "OCDE / WINSSolutions",
-      "url": "https://www.winssolutions.org/oecd-2026-generative-ai-education-outlook/"
-    },
-    {
-      "id": "n13",
-      "theme": "learn",
-      "subtopic": "ai_tutoring",
-      "importance": 2,
-      "short_title": "IA tuteur > classe",
-      "title": "Un tuteur IA surpasse l'enseignement actif en classe en RCT",
-      "summary": "Un essai contrôlé randomisé publié dans npj Science of Learning montre qu'un tuteur IA produit des résultats supérieurs à l'apprentissage actif en classe avec une taille d'effet de 0,73 à 1,3 écart-type, tout en nécessitant moins de temps (49 minutes de médiane pour le groupe IA contre 60 minutes en classe). Un rapport Coursera 2026 indique que 4 étudiants sur 5 estiment que l'IA a amélioré leurs résultats académiques. Ces chiffres alimentent un débat sur la généralisation des tuteurs IA dans l'enseignement supérieur.",
-      "source": "npj Science of Learning / Coursera",
-      "url": "https://www.nature.com/articles/s41539-025-00320-7"
-    },
-    {
-      "id": "n14",
       "theme": "finance",
       "subtopic": "regulation_bancaire",
       "importance": 3,
-      "short_title": "FRTB Europe : Basel III",
-      "title": "UE : ajustements temporaires au FRTB pour préserver la compétitivité",
-      "summary": "Le 4 juin 2026, la Commission européenne a adopté des ajustements temporaires aux règles FRTB de Bâle III pour préserver la compétitivité des banques européennes face aux retards d'implémentation aux États-Unis et en Asie. Un multiplicateur d'ajustement permettra aux banques de calibrer leurs exigences en capital de marché pour éviter une distorsion concurrentielle avant l'entrée en vigueur contraignante du 1er janvier 2027. La Commission avait déjà épuisé les deux années de report autorisées par le CRR.",
+      "short_title": "FRTB UE : ajustements",
+      "title": "UE : ajustements temporaires FRTB pour préserver la compétitivité des banques européennes",
+      "summary": "Le 4 juin, la Commission européenne a adopté des ajustements temporaires aux règles FRTB de Bâle III pour éviter une distorsion concurrentielle face aux retards d'implémentation aux États-Unis et en Asie. Un multiplicateur d'ajustement permettra aux banques de calibrer leurs exigences en capital de marché avant l'entrée en vigueur contraignante du 1er janvier 2027. En parallèle, la reproposition américaine Bâle III Endgame introduit les exigences CVA et réforme le SA-CCR, avec commentaires dus le 18 juin.",
       "source": "European Commission",
       "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
     },
     {
-      "id": "n15",
+      "id": "n08",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude auteur 80% du code",
+      "title": "Anthropic : Claude a rédigé 80 % du code de production en mai 2026",
+      "summary": "Anthropic a révélé que Claude a été l'auteur de plus de 80 % du code fusionné dans sa base de production en mai 2026, contre quelques pourcents seulement au lancement de Claude Code début 2025. La productivité des ingénieurs Anthropic a été multipliée par huit en volume de code intégré en un seul trimestre, illustrant la thèse d'une amélioration récursive. La société a simultanément soulevé publiquement la question d'un mécanisme de pause mondiale sur l'IA frontier.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
+    },
+    {
+      "id": "n09",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic IPO : 965 Md$",
+      "title": "Anthropic dépose confidentiellement son S-1 pour une IPO valorisée 965 milliards $",
+      "summary": "Anthropic a déposé confidentiellement son dossier S-1 auprès de la SEC pour une introduction en bourse valorisée à 965 Md$, après un dernier tour de table à 65 Md$. Le lancement simultané de Claude Fable 5 renforce le positionnement technique de la société à ce moment stratégique. C'est l'une des introductions en bourse tech les plus importantes de l'histoire, portée par la domination de Claude Code sur le marché du coding IA.",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/06/10/anthropic-claude-fable-5-ipo-965-billion/"
+    },
+    {
+      "id": "n10",
       "theme": "geopol",
-      "subtopic": "usa",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "US suspend Fable 5",
+      "title": "Le gouvernement US ordonne la suspension mondiale de Fable 5 et Mythos 5 d'Anthropic",
+      "summary": "Le 12 juin, le secrétaire au Commerce Howard Lutnick a signé une directive de contrôle des exportations ordonnant à Anthropic de couper l'accès mondial à Fable 5 et Mythos 5, trois jours après leur lancement, en invoquant un jailbreak permettant d'extraire des informations sur des vulnérabilités logicielles. Anthropic a obtempéré en quelques heures tout en qualifiant la décision de malentendu : un jailbreak partiel ne justifie pas le retrait d'un modèle déployé auprès de centaines de millions d'utilisateurs. C'est la première fois dans l'histoire qu'un gouvernement ordonne le rappel d'un modèle IA commercial.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/claude/after-a-potential-jailbreak-anthropic-is-shutting-off-access-to-its-mythos-5-and-fable-5-models-under-national-security-orders-from-the-us-government"
+    },
+    {
+      "id": "n11",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Mondial 2026 : sécurité",
-      "title": "Coupe du Monde 2026 : sécurité sous fortes tensions géopolitiques",
-      "summary": "L'organisation de la Coupe du Monde 2026 aux États-Unis, Canada et Mexique est compliquée par un contexte géopolitique sans précédent : guerre US-Iran, tensions commerciales entre pays hôtes, violence des cartels mexicains et risques cyber élargis. Les experts soulignent que l'échelle de l'événement — le plus grand Mondial de l'histoire — en fait une cible d'une complexité sécuritaire inédite. Les organisateurs ont renforcé les protocoles de sécurité physique et cybernétique en réponse à ces multiples vecteurs de risque.",
-      "source": "ZeroFox Intelligence",
-      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
+      "short_title": "Glasswing : 23K vulnérab",
+      "title": "Project Glasswing : Mythos découvre 23 000 failles critiques dans les logiciels open source",
+      "summary": "Depuis avril, le Project Glasswing d'Anthropic déploie Mythos Preview auprès de partenaires sélectionnés pour auditer les logiciels les plus critiques au monde, dont les navigateurs et systèmes d'exploitation majeurs. En deux mois, le modèle a identifié plus de 23 000 vulnérabilités de sévérité haute ou critique, dont des failles ayant survécu à des décennies de revue humaine. C'est précisément cette capacité offensive latente qui a motivé la directive gouvernementale américaine sur Fable 5.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/glasswing"
+    },
+    {
+      "id": "n12",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Mistral → Vibe + Med 3.5",
+      "title": "Mistral rebaptise Le Chat en « Vibe » et lance Medium 3.5, modèle multimodal agentic",
+      "summary": "Mistral a renommé son assistant Le Chat en Vibe et le repositionne comme agent IA de productivité pour le travail et le code, avec mémoire persistante et mode agentic. En parallèle, Mistral Medium 3.5 est lancé comme modèle multimodal frontier optimisé pour les cas d'usage agentiques, avec contrôle du niveau de raisonnement à 0,40 $/M tokens en entrée. L'offre inclut Workflows en préversion publique pour des orchestrations durables en Python avec validation humaine dans la boucle.",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/06/01/mistral-rebrands-le-chat-as-vibe-for-work-and-coding-xcxwbn/"
+    },
+    {
+      "id": "n13",
+      "theme": "learn",
+      "subtopic": "metacognition",
+      "importance": 2,
+      "short_title": "OCDE : IA et cognition",
+      "title": "OCDE Digital Education 2026 : l'usage transactionnel de l'IA génère une paresse métacognitive",
+      "summary": "Le rapport Digital Education Outlook 2026 de l'OCDE conclut que l'usage rapide et transactionnel de l'IA par les étudiants induit une paresse métacognitive : en déléguant la réponse au modèle, l'apprenant perd l'effort cognitif nécessaire à l'apprentissage durable. Neuf enseignants universitaires sur dix s'alarment d'une dépendance accrue et d'un recul de la pensée critique. L'OCDE recommande un usage lent, itératif et ancré dans des dispositifs pédagogiques explicites.",
+      "source": "OCDE",
+      "url": "https://www.winssolutions.org/oecd-2026-generative-ai-education-outlook/"
+    },
+    {
+      "id": "n14",
+      "theme": "learn",
+      "subtopic": "ai_tutoring",
+      "importance": 2,
+      "short_title": "IA tuteur > classe (RCT)",
+      "title": "Un tuteur IA surpasse l'enseignement actif en classe : résultats d'un essai contrôlé randomisé",
+      "summary": "Un essai contrôlé randomisé publié dans npj Science of Learning montre qu'un tuteur IA produit des résultats supérieurs à l'apprentissage actif en classe avec une taille d'effet de 0,73 à 1,3 écart-type, en 49 minutes médianes contre 60 en classe. Un rapport Coursera 2026 indique que 4 étudiants sur 5 estiment que l'IA a amélioré leurs résultats académiques. Ces chiffres alimentent le débat sur la généralisation des tuteurs IA dans l'enseignement supérieur.",
+      "source": "npj Science of Learning",
+      "url": "https://www.nature.com/articles/s41539-025-00320-7"
+    },
+    {
+      "id": "n15",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 3,
+      "short_title": "Stanford : cartilage",
+      "title": "Stanford : bloquer la protéine 15-PGDH régénère le cartilage vieillissant et prévient l'arthrose",
+      "summary": "Des chercheurs de Stanford ont montré qu'une molécule ciblant la protéine 15-PGDH, associée au vieillissement, restaure le cartilage du genou chez de vieilles souris et prévient l'arthrose après des lésions ligamentaires. Des fragments de tissu humain prélevés lors de chirurgies prothétiques ont aussi répondu positivement au traitement in vitro. Cette découverte ouvre la voie à une injection locale ou un médicament oral pour réparer les articulations sans chirurgie lourde.",
+      "source": "ScienceDaily / Stanford Medicine",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 1,
-      "short_title": "UE énergie post-2030",
-      "title": "L'UE clôture sa consultation sur le cadre énergétique post-2030",
-      "summary": "La consultation publique de la Commission européenne sur le cadre des énergies renouvelables post-2030 s'est clôturée le 12 juin 2026. Ce chantier vise à définir les ambitions européennes pour la décennie 2030-2050, dans un contexte où les renouvelables devraient dépasser le charbon comme première source d'électricité mondiale dès 2026. Les résultats de la consultation alimenteront des propositions législatives attendues à l'automne.",
-      "source": "European Commission",
-      "url": "https://energy.ec.europa.eu/news/post-2030-renewable-energy-framework-public-consultation-2026-03-20_en"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Musculation 90-120min/sem",
+      "title": "Méta-analyse : 90 à 120 min/semaine de musculation est la dose optimale pour la longévité",
+      "summary": "Une méta-analyse portant sur 147 000 adultes suivis pendant 30 ans identifie 90 à 120 minutes hebdomadaires de renforcement musculaire comme la plage optimale pour réduire la mortalité toutes causes confondues, avec une courbe dose-réponse en U. En deçà comme au-delà de cette fenêtre, les gains diminuent, suggérant qu'il ne suffit pas de faire plus. C'est la première fois qu'un seuil quantifié est établi pour guider les recommandations cliniques sur l'exercice de résistance.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
     },
     {
       "id": "n17",
-      "theme": "finance",
-      "subtopic": "europe",
-      "importance": 1,
-      "short_title": "ECB : rôle euro mondial",
-      "title": "BCE publie son rapport annuel sur le rôle international de l'euro",
-      "summary": "La Banque centrale européenne a publié en juin 2026 son rapport annuel sur l'usage mondial de l'euro, dans un contexte de fragmentation géopolitique et de remise en question du dollar comme seule monnaie de réserve. Le rapport analyse l'évolution des réserves mondiales en euros et de l'utilisation de la monnaie unique dans les échanges commerciaux et financiers. Les sanctions américaines liées au conflit iranien ont renforcé l'intérêt pour une diversification des réserves hors dollar.",
-      "source": "ECB",
-      "url": "https://www.ecb.europa.eu/press/other-publications/ire/html/ecb.ire202606.en.html"
+      "theme": "sciences",
+      "subtopic": "alzheimer",
+      "importance": 3,
+      "short_title": "Alzheimer : microglie",
+      "title": "Des mutations cancéreuses dans les microglie cérébrales identifiées comme facteur de risque d'Alzheimer",
+      "summary": "Une étude publiée dans Cell (Mount Sinai / Boston Children's Hospital) montre que les cellules immunitaires cérébrales accumulent des mutations des gènes TET2, DNMT3A et ASXL1 — typiques des cancers du sang — créant une inflammation chronique qui tue les neurones voisins. Ces mutations sont détectables par simple prise de sang et augmentent le risque d'Alzheimer indépendamment du facteur génétique APOE4. La découverte ouvre une voie vers des traitements par des médicaments anticancéreux existants repurposés.",
+      "source": "ScienceDaily / Mount Sinai",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm"
+    },
+    {
+      "id": "n18",
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 2,
+      "short_title": "IA : design protéines",
+      "title": "IA et biologie structurale : conception de novo de protéines entre dans une nouvelle ère post-AlphaFold",
+      "summary": "Une revue publiée dans Nature Communications Biology identifie deux nouveaux moments AlphaFold imminents : la prédiction des paysages conformationnels complets des protéines et la conception de novo routinière de liants à haute affinité. Des outils comme RFdiffusion, AlphaProteo et BindCraft permettent désormais de concevoir des protéines thérapeutiques avec des taux de succès expérimental élevés, transformant la biologie de synthèse en discipline d'ingénierie scalable. Ces avancées ouvrent la voie à des candidats médicaments ciblant le vieillissement et le cancer.",
+      "source": "Nature Communications Biology",
+      "url": "https://www.nature.com/articles/s42003-026-10112-3"
     }
   ],
   "edges": [
@@ -194,61 +205,73 @@
       "source": "n02",
       "target": "n01",
       "type": "cause",
-      "explanation": "L'escalade des drones FPV Hezbollah fragilise la stabilité régionale et accroît la pression sur toutes les parties pour trouver une sortie diplomatique, renforçant l'urgence d'un cessez-le-feu élargi avec l'Iran."
+      "explanation": "L'escalade des drones FPV du Hezbollah et la pression militaire multifronts sur Israël créent une dynamique d'urgence qui renforce la pression pour formaliser un cessez-le-feu élargi incluant l'Iran."
     },
     {
       "source": "n01",
       "target": "n03",
       "type": "cause",
-      "explanation": "Le conflit US-Iran a entraîné la fermeture du Détroit de l'Hormuz en mars 2026 ; même sous cessez-le-feu, le trafic maritime n'a pas repris, maintenant une offre pétrolière mondiale amputée d'environ 20% et le Brent à 105 $."
+      "explanation": "Le conflit US-Iran a déclenché la fermeture du détroit de l'Hormuz en mars 2026 ; même sous cessez-le-feu, le trafic maritime n'a pas repris, maintenant une offre pétrolière mondiale amputée de 20 % et le Brent au-dessus de 100 $."
     },
     {
       "source": "n03",
       "target": "n04",
       "type": "cause",
-      "explanation": "Le choc énergétique lié à l'Hormuz alimente l'inflation américaine qui, combinée à un marché de l'emploi robuste, élimine tout espace pour une baisse de taux Fed et force Goldman Sachs à repousser ses prévisions à 2027."
+      "explanation": "Le choc énergétique lié à l'Hormuz alimente l'inflation américaine qui, combinée à un marché de l'emploi robuste, élimine tout espace pour une baisse de taux Fed et force Goldman à repousser ses prévisions à 2027."
+    },
+    {
+      "source": "n03",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "Le même choc énergétique a fait remonter l'inflation de la zone euro à 3,2 % en mai, forçant la BCE à inverser son cycle accommodant et à relever ses taux pour la première fois depuis 2023."
     },
     {
       "source": "n05",
       "target": "n06",
       "type": "cause",
-      "explanation": "La démonstration que Claude rédige 80% du code Anthropic (productivité ×8 par ingénieur) fournit le principal argument de valeur commerciale qui soutient la valorisation à 965 Md$ dans le dossier IPO confidentiel."
+      "explanation": "La hausse des taux BCE durcit les conditions de crédit en France, aggravant la contraction d'une économie déjà en stagnation avec un PIB en recul au T1 et un chômage qui remonte."
     },
     {
-      "source": "n06",
+      "source": "n05",
       "target": "n07",
-      "type": "cause",
-      "explanation": "La valorisation record d'Anthropic confirme la taille et la rentabilité potentielle du marché du coding IA, précipitant les offensives de Microsoft et Google qui ne peuvent pas rester spectateurs d'un segment stratégique."
+      "type": "meme_sujet",
+      "explanation": "La hausse BCE et les ajustements FRTB tombent simultanément, créant une double pression sur les banques européennes : coût du capital réglementaire accru par les nouvelles règles de marché et coût de financement plus élevé par la remontée des taux directeurs."
     },
     {
-      "source": "n07",
-      "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "L'entrée de Microsoft et Google dans le coding IA recontextualise le débat Cursor vs Claude Code : la question n'est plus si deux acteurs peuvent coexister, mais combien un marché en explosion peut en absorber simultanément."
+      "source": "n08",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "La démonstration que Claude rédige 80 % du code d'Anthropic fournit le principal argument de valeur commerciale qui soutient la valorisation à 965 Md$ dans le dossier IPO confidentiel."
+    },
+    {
+      "source": "n11",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "Les capacités de détection de vulnérabilités logicielles que Glasswing exploitait en environnement fermé ont été intégrées dans Fable 5 en version grand public ; c'est précisément cette diffusion qui a déclenché la directive de suspension gouvernementale."
     },
     {
       "source": "n09",
       "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "L'étude sur la musculation et la découverte Stanford sur le cartilage convergent vers la même thèse pratique : maintenir la fonction locomotrice en vieillissant est possible, soit par une dose optimale d'exercice, soit par une intervention moléculaire ciblée sur une protéine du vieillissement."
-    },
-    {
-      "source": "n10",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "La régénération de cartilage par blocage d'une gérozyme (Stanford) et la découverte des mutations cancéreuses dans les microglia (Alzheimer) partagent le même paradigme : identifier une protéine ou mutation spécifique du vieillissement et la cibler pour restaurer un tissu dégradé."
+      "type": "tension",
+      "explanation": "La suspension gouvernementale de Fable 5 crée un risque réglementaire majeur pour l'IPO d'Anthropic : un modèle commercial retiré par décret trois jours après son lancement fragilise une valorisation à 965 Md$ fondée sur l'ubiquité de Claude."
     },
     {
       "source": "n13",
-      "target": "n12",
+      "target": "n14",
       "type": "tension",
-      "explanation": "Le tuteur IA montre en RCT une efficacité supérieure à l'enseignement classique, mais l'OCDE alerte que cette même efficacité de surface se fait au prix d'une réduction de l'effort métacognitif nécessaire à l'apprentissage durable : même outil, lectures opposées sur ce qu'il produit vraiment."
+      "explanation": "L'OCDE alerte que l'IA réduit l'effort métacognitif nécessaire à l'apprentissage durable, mais le RCT npj montre que le tuteur IA surpasse statistiquement la classe active : même outil, lectures opposées sur ce qu'il produit réellement dans le cerveau apprenant."
     },
     {
-      "source": "n04",
-      "target": "n14",
+      "source": "n15",
+      "target": "n16",
       "type": "meme_sujet",
-      "explanation": "Le blocage de la Fed à 3,75% et les ajustements FRTB européens signalent le même régime macro-financier défensif : banques centrales et régulateurs absorbent des chocs géopolitiques et inflationnistes sans marges de normalisation disponibles."
+      "explanation": "La régénération de cartilage par ciblage moléculaire (Stanford) et la dose optimale de musculation convergent vers la même thèse : maintenir la fonction locomotrice après 40 ans est possible, soit par une intervention biologique ciblée, soit par une pratique physique calibrée."
+    },
+    {
+      "source": "n18",
+      "target": "n17",
+      "type": "cause",
+      "explanation": "Les avancées en design de protéines par IA rendent accessibles des cibles thérapeutiques précises comme les mutations microglie impliquées dans Alzheimer, accélérant le développement de candidats médicaments vers des essais cliniques."
     }
   ]
 }

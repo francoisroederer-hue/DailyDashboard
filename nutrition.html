@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+<title>Daily — Nutrition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  html { scroll-behavior: smooth; }
+  body { min-height: 100%; }
+  main { max-width: 900px; margin: 0 auto; padding: calc(var(--topbar-h) + 22px) 18px 80px; }
+
+  .page-kicker {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.22em;
+    color: var(--ink-faint); margin-bottom: 8px;
+  }
+  .page-title {
+    font-family: 'Fraunces', serif; font-variation-settings: 'opsz' 144;
+    font-weight: 500; font-style: italic; font-size: clamp(30px, 7vw, 44px);
+    line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 16px;
+  }
+  .page-intro { font-size: 14px; line-height: 1.6; color: var(--ink-dim); max-width: 64ch; margin-bottom: 28px; }
+  .page-intro b { color: var(--ink); font-weight: 500; }
+
+  .goal {
+    display: flex; align-items: flex-start; gap: 14px;
+    background: linear-gradient(110deg, rgba(232,200,137,0.12), transparent);
+    border: 1px solid rgba(232,200,137,0.30); border-radius: 16px;
+    padding: 18px 20px; margin-bottom: 40px;
+  }
+  .goal .star { color: var(--accent); font-size: 20px; line-height: 1; margin-top: 1px; }
+  .goal .g-kicker {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin-bottom: 6px;
+  }
+  .goal .g-line { font-family: 'Fraunces', serif; font-style: italic; font-weight: 500; font-size: 19px; line-height: 1.3; color: var(--ink); margin-bottom: 6px; }
+  .goal .g-line b { color: var(--accent); font-style: normal; font-weight: 600; }
+  .goal .g-sub { font-size: 12.5px; line-height: 1.45; color: var(--ink-dim); }
+  .goal .g-sub b { color: var(--ink); font-weight: 500; }
+
+  .section-label {
+    font-family: 'Geist Mono', monospace; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.18em; color: var(--ink-faint); margin: 0 0 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
+
+  /* Tables (macros + courses) */
+  .tbl-wrap { overflow-x: auto; margin-bottom: 48px; border: 1px solid var(--rule); border-radius: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 460px; }
+  thead th {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.14em; color: var(--ink-faint); text-align: left;
+    padding: 12px 14px; background: var(--bg-elev); border-bottom: 1px solid var(--rule);
+  }
+  tbody td { padding: 11px 14px; border-top: 1px solid var(--rule); color: var(--ink-dim); line-height: 1.4; vertical-align: top; }
+  tbody tr:first-child td { border-top: none; }
+  tbody td b { color: var(--ink); font-weight: 500; }
+  .code { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent); font-weight: 600; }
+  .macro { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink-dim); white-space: nowrap; }
+  td.day { color: var(--ink); font-weight: 500; white-space: nowrap; }
+  .tag {
+    display: inline-block; font-family: 'Geist Mono', monospace; font-size: 8.5px;
+    text-transform: uppercase; letter-spacing: 0.1em; padding: 2px 7px; border-radius: 999px;
+    border: 1px solid var(--rule-bright); color: var(--ink-faint); margin-left: 6px;
+  }
+  .tag.p { color: #06b6d4; border-color: rgba(6,182,212,0.4); }
+  .tag.t { color: #10b981; border-color: rgba(16,185,129,0.4); }
+
+  /* Recettes / encas — grille de cartes */
+  .grid { display: grid; grid-template-columns: 1fr; gap: 14px; margin-bottom: 48px; }
+  @media (min-width: 620px) { .grid { grid-template-columns: 1fr 1fr; } }
+  .rcard { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 14px; padding: 16px 18px; }
+  .rcard .rhead { display: flex; align-items: baseline; gap: 8px; margin-bottom: 8px; }
+  .rcard .rhead .code { flex-shrink: 0; }
+  .rcard h3 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 16px; color: var(--ink); }
+  .rcard .ingr { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); margin-bottom: 8px; }
+  .rcard .rmacro { font-family: 'Geist Mono', monospace; font-size: 10.5px; color: var(--accent); letter-spacing: 0.02em; }
+  .rcard .rnote { font-size: 11.5px; color: var(--ink-faint); margin-top: 6px; font-style: italic; }
+
+  .batch { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 20px; margin-bottom: 48px; }
+  .batch p { font-size: 13px; line-height: 1.55; color: var(--ink-dim); }
+  .batch p b { color: var(--ink); font-weight: 500; }
+  .batch ul { list-style: none; margin-top: 10px; }
+  .batch li { font-size: 13px; line-height: 1.5; padding: 5px 0 5px 18px; position: relative; color: var(--ink-dim); }
+  .batch li::before { content: '▪'; position: absolute; left: 2px; color: var(--accent); font-size: 10px; }
+  .batch li b { color: var(--ink); font-weight: 500; }
+
+  .footnote {
+    margin-top: 44px; padding-top: 20px; border-top: 1px solid var(--rule);
+    font-family: 'Geist Mono', monospace; font-size: 10.5px; line-height: 1.7;
+    color: var(--ink-faint); letter-spacing: 0.04em;
+  }
+  .footnote b { color: var(--ink-dim); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="topline">
+    <div class="masthead">Daily <span class="amp">&amp;</span> Co.</div>
+    <div class="date-line">Nutrition<br><span class="meta">petit-déj &amp; encas</span></div>
+  </div>
+  <nav class="tabs">
+    <a class="tab" href="index.html">Carte du jour</a>
+    <a class="tab" href="supplements.html">Suppléments</a>
+    <a class="tab" href="skincare.html">Skincare</a>
+    <a class="tab" href="tennis.html">Tennis</a>
+    <a class="tab" href="workout.html">Workout</a>
+    <a class="tab active" href="nutrition.html">Nutrition</a>
+  </nav>
+</header>
+
+<main>
+  <div class="page-kicker">Petit-déj + encas · recomposition · 2 semaines · sans whey</div>
+  <h1 class="page-title">Nutrition</h1>
+  <p class="page-intro">
+    Plan <b>14 jours</b> de petits-déjeuners calé sur les objectifs&nbsp;: <b>recomposition</b>
+    (déficit léger ~-300&nbsp;kcal/j), <b>protéines hautes</b> chaque matin avec
+    <b>&ge;2.5&nbsp;g de leucine</b>, glucides modulés selon le sport du jour.
+    <b>Sans whey</b> (intolérance) — pilier skyr + œufs + cottage, Ozers végétal réservé au shake.
+    <b>11 recettes</b> en rotation (jamais deux fois la même dans la semaine) + une banque d'encas
+    protéinés. Jours <span class="tag p">pressé</span> &le;5&nbsp;min, jours
+    <span class="tag t">tranquille</span> 15-30&nbsp;min.
+  </p>
+
+  <div class="goal">
+    <span class="star">✦</span>
+    <div>
+      <div class="g-kicker">L'objectif du plan</div>
+      <div class="g-line">Maintenir le muscle en perdant du gras&nbsp;: <b>protéine haute, glucides comme variable d'ajustement</b>.</div>
+      <div class="g-sub">Chaque petit-déj vise <b>30-40&nbsp;g de protéines</b> et <b>&ge;2.5&nbsp;g de leucine</b> (skyr, œufs+cottage, saumon, Ozers). Les <b>glucides montent</b> les jours de ride longue (90-120&nbsp;g) et <b>descendent</b> les jours de repos (25-40&nbsp;g). Lipides 15-25&nbsp;g. Pré-ride&nbsp;: fibres &lt;5&nbsp;g, lipides &lt;15&nbsp;g.</div>
+    </div>
+  </div>
+
+  <!-- Macros cibles -->
+  <div class="section-label">Cibles par type de jour</div>
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Type de jour</th><th>Calories</th><th>Protéines</th><th>Glucides</th><th>Lipides</th></tr></thead>
+      <tbody>
+        <tr><td><b>Ride longue</b> (&ge;2&nbsp;h)</td><td class="macro">600-700</td><td class="macro">30-35&nbsp;g</td><td class="macro">90-120&nbsp;g</td><td class="macro">15-20&nbsp;g</td></tr>
+        <tr><td><b>Strength matin</b></td><td class="macro">500-550</td><td class="macro">35-40&nbsp;g</td><td class="macro">50-65&nbsp;g</td><td class="macro">15-20&nbsp;g</td></tr>
+        <tr><td><b>Ride courte / easy</b></td><td class="macro">450-500</td><td class="macro">35-40&nbsp;g</td><td class="macro">40-55&nbsp;g</td><td class="macro">15-20&nbsp;g</td></tr>
+        <tr><td><b>Repos</b></td><td class="macro">400-450</td><td class="macro">35-40&nbsp;g</td><td class="macro">25-40&nbsp;g</td><td class="macro">15-25&nbsp;g</td></tr>
+        <tr><td><b>Fasted Z2</b> (&le;90&nbsp;min)</td><td class="macro">café noir</td><td class="macro" colspan="3">post-ride : 30&nbsp;g prot + 60&nbsp;g carbs dans 2&nbsp;h</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Semaine 1 -->
+  <div class="section-label">Semaine 1</div>
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Jour</th><th>Sport</th><th>Petit-déjeuner</th><th>Macros</th></tr></thead>
+      <tbody>
+        <tr><td class="day">Lun<span class="tag p">P</span></td><td>Strength</td><td><span class="code">Q2</span> Overnight oats skyr</td><td class="macro">30P / 65C / 10L · 475</td></tr>
+        <tr><td class="day">Mar<span class="tag p">P</span></td><td>Ride courte</td><td><span class="code">Q3</span> Tartine cottage express</td><td class="macro">30P / 42C / 12L · 400</td></tr>
+        <tr><td class="day">Mer<span class="tag p">P</span></td><td>Strength</td><td><span class="code">Q1</span> Shake express Ozers</td><td class="macro">33P / 50C / 17L · 490</td></tr>
+        <tr><td class="day">Jeu<span class="tag t">T</span></td><td>Ride courte</td><td><span class="code">R7</span> Toast avocat-œuf-cottage</td><td class="macro">34P / 38C / 24L · 505</td></tr>
+        <tr><td class="day">Ven<span class="tag t">T</span></td><td>Strength</td><td><span class="code">R1</span> Omelette complète</td><td class="macro">34P / 35C / 28L · 530</td></tr>
+        <tr><td class="day">Sam<span class="tag t">T</span></td><td>Ride longue</td><td><span class="code">R4</span> Porridge pomme-cannelle</td><td class="macro">30P / 62C / 18L · 530</td></tr>
+        <tr><td class="day">Dim<span class="tag t">T</span></td><td>Repos</td><td><span class="code">R2</span> Scrambled œufs saumon</td><td class="macro">35P / 30C / 25L · 490</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Semaine 2 -->
+  <div class="section-label">Semaine 2</div>
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Jour</th><th>Sport</th><th>Petit-déjeuner</th><th>Macros</th></tr></thead>
+      <tbody>
+        <tr><td class="day">Lun<span class="tag p">P</span></td><td>Strength</td><td><span class="code">Q4</span> Bowl skyr fruits granola</td><td class="macro">28P / 52C / 14L · 445</td></tr>
+        <tr><td class="day">Mar<span class="tag p">P</span></td><td>Ride courte</td><td><span class="code">Q2</span> Overnight oats skyr</td><td class="macro">30P / 65C / 10L · 475</td></tr>
+        <tr><td class="day">Mer<span class="tag p">P</span></td><td>Strength</td><td><span class="code">Q3</span> Tartine cottage express</td><td class="macro">30P / 42C / 12L · 400</td></tr>
+        <tr><td class="day">Jeu<span class="tag t">T</span></td><td>Ride courte</td><td><span class="code">R5</span> Galette sarrasin œuf-fromage</td><td class="macro">32P / 28C / 22L · 440</td></tr>
+        <tr><td class="day">Ven<span class="tag t">T</span></td><td>Strength</td><td><span class="code">R3</span> Pancakes épeautre</td><td class="macro">32P / 68C / 12L · 510</td></tr>
+        <tr><td class="day">Sam<span class="tag t">T</span></td><td>Ride longue</td><td><span class="code">R4</span> Porridge (+ banane extra)</td><td class="macro">30P / 75C / 18L · 560</td></tr>
+        <tr><td class="day">Dim<span class="tag t">T</span></td><td>Repos</td><td><span class="code">R6</span> Shakshuka + cottage</td><td class="macro">40P / 40C / 16L · 470</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Recettes -->
+  <div class="section-label">Les 11 recettes</div>
+  <div class="grid">
+    <div class="rcard">
+      <div class="rhead"><span class="code">Q1</span><h3>Shake express Ozers</h3></div>
+      <div class="ingr">30&nbsp;g Ozers + 250&nbsp;ml lait + 1 banane + 10&nbsp;g beurre cacahuète + 1 œuf dur (batch). Blender 30&nbsp;sec.</div>
+      <div class="rmacro">33P / 50C / 17L · 490 kcal · ~90 sec</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">Q2</span><h3>Overnight oats skyr</h3></div>
+      <div class="ingr">80&nbsp;g flocons + 250&nbsp;g skyr 0% + 100&nbsp;g fruits rouges surgelés + 10&nbsp;g chia + 10&nbsp;g miel.</div>
+      <div class="rmacro">30P / 65C / 10L · 475 kcal · prep dimanche</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">Q3</span><h3>Tartine cottage express</h3></div>
+      <div class="ingr">2 tranches pain complet + 150&nbsp;g cottage + 1 œuf dur (batch) + filet de miel.</div>
+      <div class="rmacro">30P / 42C / 12L · 400 kcal · 4 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">Q4</span><h3>Bowl skyr fruits</h3></div>
+      <div class="ingr">250&nbsp;g skyr 0% + 1 banane + 30&nbsp;g granola maison (batch) + 10&nbsp;g beurre d'amande.</div>
+      <div class="rmacro">28P / 52C / 14L · 445 kcal · 3 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R1</span><h3>Omelette complète</h3></div>
+      <div class="ingr">4 œufs + 50&nbsp;g chèvre frais + poignée épinards + herbes + 1 tranche pain complet.</div>
+      <div class="rmacro">34P / 35C / 28L · 530 kcal · 15 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R2</span><h3>Scrambled œufs saumon</h3></div>
+      <div class="ingr">3 œufs brouillés + 80&nbsp;g saumon fumé + 1 tranche pain seigle + ¼ avocat.</div>
+      <div class="rmacro">35P / 30C / 25L · 490 kcal · 15 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R3</span><h3>Pancakes épeautre</h3></div>
+      <div class="ingr">80&nbsp;g farine épeautre + 1 œuf + 180&nbsp;ml lait + levure + myrtilles. Servi avec 150&nbsp;g skyr + sirop érable.</div>
+      <div class="rmacro">32P / 68C / 12L · 510 kcal · 25 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R4</span><h3>Porridge pomme-cannelle</h3></div>
+      <div class="ingr">80&nbsp;g flocons + 250&nbsp;ml lait + 1 pomme râpée + cannelle + 150&nbsp;g skyr + 15&nbsp;g noix.</div>
+      <div class="rmacro">30P / 62C / 18L · 530 kcal · 15 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R5</span><h3>Galette sarrasin œuf-fromage</h3></div>
+      <div class="ingr">1 galette sarrasin (batch ou prête) + 2 œufs + 30&nbsp;g comté + jambon.</div>
+      <div class="rmacro">32P / 28C / 22L · 440 kcal · 20 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R6</span><h3>Shakshuka express</h3></div>
+      <div class="ingr">3 œufs pochés dans sauce tomate + poivron + oignon + épices + pain complet. <b>+100&nbsp;g cottage</b> = 40&nbsp;g prot.</div>
+      <div class="rmacro">28-40P / 40C / 16L · 420-470 kcal · 20 min</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">R7</span><h3>Toast avocat-œuf-cottage</h3></div>
+      <div class="ingr">2 tranches pain complet + ½ avocat + 2 œufs pochés + 100&nbsp;g cottage + piment.</div>
+      <div class="rmacro">34P / 38C / 24L · 505 kcal · 10 min</div>
+    </div>
+  </div>
+
+  <!-- Encas -->
+  <div class="section-label">Encas — banque (1-2 / jour selon faim)</div>
+  <p class="page-intro" style="margin-bottom:18px;">
+    Protéinés, &le;250&nbsp;kcal, pensés recomposition. À piocher entre les repas ou en collation
+    post-séance. Les œufs durs et le granola viennent du batch dominical.
+  </p>
+  <div class="grid">
+    <div class="rcard">
+      <div class="rhead"><span class="code">S1</span><h3>Skyr + fruits rouges</h3></div>
+      <div class="ingr">150&nbsp;g skyr 0% + poignée de fruits rouges + filet de miel.</div>
+      <div class="rmacro">~16P / 14C / 0L · ~125 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S2</span><h3>Œufs durs + fruit</h3></div>
+      <div class="ingr">2 œufs durs (batch) + 1 pomme ou banane.</div>
+      <div class="rmacro">~13P / 22C / 11L · ~230 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S3</span><h3>Cottage crudités</h3></div>
+      <div class="ingr">150&nbsp;g cottage + bâtonnets concombre / tomates cerises + poivre.</div>
+      <div class="rmacro">~18P / 6C / 4L · ~135 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S4</span><h3>Amandes + chocolat noir</h3></div>
+      <div class="ingr">25&nbsp;g amandes + 2 carrés chocolat noir 85%.</div>
+      <div class="rmacro">~8P / 10C / 20L · ~245 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S5</span><h3>Banane + beurre cacahuète</h3></div>
+      <div class="ingr">1 banane + 15&nbsp;g beurre de cacahuète sans sucre.</div>
+      <div class="rmacro">~5P / 28C / 9L · ~205 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S6</span><h3>Houmous &amp; légumes</h3></div>
+      <div class="ingr">50&nbsp;g houmous + carotte / poivron en bâtonnets.</div>
+      <div class="rmacro">~5P / 14C / 8L · ~150 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S7</span><h3>Yaourt grec granola</h3></div>
+      <div class="ingr">100&nbsp;g skyr + 30&nbsp;g granola maison (batch).</div>
+      <div class="rmacro">~13P / 22C / 7L · ~225 kcal</div>
+    </div>
+    <div class="rcard">
+      <div class="rhead"><span class="code">S8</span><h3>Pomme + amandes</h3></div>
+      <div class="ingr">1 pomme + 20&nbsp;g amandes.</div>
+      <div class="rmacro">~5P / 24C / 11L · ~205 kcal</div>
+    </div>
+  </div>
+
+  <!-- Batch -->
+  <div class="section-label">Batch cooking — dimanche soir (~30-40 min)</div>
+  <div class="batch">
+    <p>Le geste qui rend la semaine tenable. <b>~30-40 min</b>, prépare l'essentiel des jours pressés.</p>
+    <ul>
+      <li><b>Œufs durs ×10</b> — 5 j frigo · pour Q1, Q3, encas S2</li>
+      <li><b>Overnight oats ×3 pots</b> — 3 j frigo · pour Q2 (lun-mer)</li>
+      <li><b>Granola maison ~500&nbsp;g</b> — 2 sem en bocal · pour Q4, R4, encas S7
+        <span style="display:block;color:var(--ink-faint);font-size:11.5px;padding-top:3px;">300&nbsp;g flocons + 50&nbsp;g noix + 30&nbsp;g graines + 20&nbsp;g miel + 15&nbsp;ml huile coco + cannelle · four 150°C 25 min</span></li>
+      <li><b>Galettes sarrasin ×4-6</b> — 5 j frigo / congelables · pour R5 <i>(semaine 2)</i></li>
+      <li><b>Sauce shakshuka ×2 portions</b> — 4 j frigo · pour R6 <i>(semaine 2)</i></li>
+    </ul>
+  </div>
+
+  <!-- Liste de courses -->
+  <div class="section-label">Courses Costco — frais &amp; surgelé</div>
+  <p class="page-intro" style="margin-bottom:18px;">
+    Liste calée sur ce qui se trouve <b>chez Costco</b> (gros volumes Kirkland). Les rares produits
+    qui n'y sont pas fiables sont isolés en bas avec un substitut — la sortie reste faisable en une fois.
+  </p>
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Produit</th><th>Quantité 2 sem</th><th>Format Costco / notes</th></tr></thead>
+      <tbody>
+        <tr><td class="day">Skyr / Fage 0%</td><td class="macro">~3 kg</td><td>gros pot Fage Total 0% si pas de skyr — base protéine</td></tr>
+        <tr><td class="day">Œufs (plein air/bio)</td><td class="macro">30-36</td><td>boîte de 24 Kirkland</td></tr>
+        <tr><td class="day">Saumon fumé</td><td class="macro">160&nbsp;g</td><td>pack saumon écossais/Alaska</td></tr>
+        <tr><td class="day">Comté</td><td class="macro">30&nbsp;g</td><td>rayon fromages (gros morceau, se garde)</td></tr>
+        <tr><td class="day">Chèvre frais</td><td class="macro">50&nbsp;g</td><td>bûche rayon fromages</td></tr>
+        <tr><td class="day">Jambon</td><td class="macro">4 tranches</td><td>pack jambon blanc</td></tr>
+        <tr><td class="day">Lait</td><td class="macro">~2 L</td><td>pack briques</td></tr>
+        <tr><td class="day">Fruits rouges surgelés</td><td class="macro">~700&nbsp;g</td><td>grand sac surgelés</td></tr>
+        <tr><td class="day">Bananes</td><td class="macro">8-10</td><td>régime / sachet</td></tr>
+        <tr><td class="day">Pommes</td><td class="macro">6</td><td>sachet</td></tr>
+        <tr><td class="day">Avocats</td><td class="macro">3</td><td>filet</td></tr>
+        <tr><td class="day">Épinards frais</td><td class="macro">1 sachet</td><td>grand sachet pousses</td></tr>
+        <tr><td class="day">Poivrons</td><td class="macro">3</td><td>barquette</td></tr>
+        <tr><td class="day">Tomates cerises</td><td class="macro">1 barquette</td><td>encas S3</td></tr>
+        <tr><td class="day">Concombre · oignons · carottes</td><td class="macro">1 / 2 / ~500&nbsp;g</td><td>R6 + encas S3/S6</td></tr>
+        <tr><td class="day">Herbes fraîches</td><td class="macro">1 bouquet</td><td>R1, R2</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section-label">Courses Costco — sec / épicerie</div>
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Produit</th><th>Quantité</th><th>Format Costco / notes</th></tr></thead>
+      <tbody>
+        <tr><td class="day">Flocons d'avoine</td><td class="macro">~1,2 kg</td><td>grand paquet (Quaker / Kirkland)</td></tr>
+        <tr><td class="day">Amandes entières</td><td class="macro">~250&nbsp;g</td><td>gros sac Kirkland — encas S4/S8</td></tr>
+        <tr><td class="day">Noix</td><td class="macro">~250&nbsp;g</td><td>gros sac — R4 + granola</td></tr>
+        <tr><td class="day">Graines courge/tournesol</td><td class="macro">100&nbsp;g</td><td>mélange / vrac — granola</td></tr>
+        <tr><td class="day">Chia</td><td class="macro">100&nbsp;g</td><td>sachet (si présent)</td></tr>
+        <tr><td class="day">Beurre de cacahuète</td><td class="macro">1 pot</td><td>Kirkland, sans sucre ajouté</td></tr>
+        <tr><td class="day">Beurre d'amande</td><td class="macro">1 pot</td><td>Q4 (sinon réutiliser le cacahuète)</td></tr>
+        <tr><td class="day">Chocolat noir 85%</td><td class="macro">1 tablette</td><td>encas S4</td></tr>
+        <tr><td class="day">Houmous</td><td class="macro">1 pot</td><td>gros pot — encas S6</td></tr>
+        <tr><td class="day">Miel</td><td class="macro">1 pot</td><td>plusieurs recettes</td></tr>
+        <tr><td class="day">Sirop d'érable</td><td class="macro">1 bouteille</td><td>Kirkland (R3)</td></tr>
+        <tr><td class="day">Sauce tomate</td><td class="macro">2 bocaux</td><td>R6</td></tr>
+        <tr><td class="day">Huile de coco</td><td class="macro">1 pot</td><td>granola</td></tr>
+        <tr><td class="day">Pain complet</td><td class="macro">2</td><td>boulangerie Costco — congeler le 2ᵉ</td></tr>
+        <tr><td class="day">Cannelle · levure chimique</td><td class="macro">1 + 1</td><td>R3, R4, granola</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section-label">Rarement chez Costco — compléter ou substituer</div>
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr><th>Produit</th><th>Sert à</th><th>Substitut Costco-friendly</th></tr></thead>
+      <tbody>
+        <tr><td class="day">Cottage cheese</td><td>Q3, R6, R7, S3, S7</td><td><b>Fage 0% battu</b> ou skyr (même rôle protéine)</td></tr>
+        <tr><td class="day">Ozers (prot. végétale)</td><td>Q1</td><td>en ligne uniquement — sinon remplacer Q1 par Q4</td></tr>
+        <tr><td class="day">Galettes sarrasin</td><td>R5</td><td>les faire au batch, ou tortilla de blé complet</td></tr>
+        <tr><td class="day">Farine épeautre</td><td>R3</td><td>farine classique, ou flocons mixés</td></tr>
+        <tr><td class="day">Pain seigle</td><td>R2</td><td>pain complet (déjà dans le panier)</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="footnote">
+    <b>Objectifs</b> — homme 80 kg, recomposition (déficit léger ~-300 kcal/j), dual-sport (gravel + renfo). Protéines 30-40 g/matin, leucine &ge;2.5 g, sans whey. Glucides modulés par le sport du jour.<br>
+    <b>Variété</b> — 11 recettes + 8 encas en rotation. Aucune recette répétée dans une même semaine ; répétitions limitées (Q2, Q3, R4 reviennent une 2ᵉ fois sur 14 jours). Matrice combinatoire 5×6×8 disponible pour les cycles suivants.<br>
+    <b>Source</b> — module corps-forme, DECISIONS-nutrition-petit-dej (4 DRs Athena : breakfast-dual-sport, chrono-supplementation, nutrition-sportive-longevité, recomposition). Macros encas = estimations standard.<br>
+    Page statique. Le suivi vit dans Jarvis (<b>/corps-forme</b>), pas ici.
+  </p>
+</main>
+
+</body>
+</html>

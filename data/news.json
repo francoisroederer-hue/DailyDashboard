@@ -1,277 +1,277 @@
 {
-  "generated_at": "2026-06-13T06:00:00Z",
+  "generated_at": "2026-06-14T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran-US : cessez-feu 60j",
-      "title": "Cessez-le-feu US-Iran étendu 60 jours, négociations nucléaires relancées",
-      "summary": "Le 11 juin, Trump a annoncé une extension de 60 jours du cessez-le-feu avec l'Iran pour faciliter des négociations globales, après des semaines de médiation pakistanaise. Washington et Téhéran auraient convenu en principe de rouvrir le détroit d'Ormuz et d'engager des pourparlers sur le nucléaire, mais les officiels iraniens nuancent en indiquant qu'aucun accord définitif n'a encore été signé. Des violations intermittentes persistent sur le terrain et le trafic maritime reste perturbé.",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/u-s-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-start-new-nuclear-talks"
+      "short_title": "Iran/US : accord en vue",
+      "title": "Accord de paix Iran-US proche de la signature, détroit d'Ormuz en jeu",
+      "summary": "Les négociateurs irano-américains, avec médiation pakistanaise, ont finalisé le 12 juin 2026 le texte d'un accord de paix prévoyant un cessez-le-feu de 60 jours et la réouverture du Détroit d'Ormuz. Trump annonce une signature imminente en Europe, mais Téhéran qualifie les rapports de préliminaires et exige de séparer les questions nucléaires — reportées à des négociations ultérieures.",
+      "source": "CNBC / Axios",
+      "url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Hezbollah : drones FPV",
-      "title": "Hezbollah intensifie ses frappes de drones FPV, Netanyahu débloque un budget illimité",
-      "summary": "Hezbollah a massivement augmenté son recours aux drones FPV télépilotés à bas coût, provoquant des frappes meurtrières en avril-mai 2026 sur le territoire israélien. Netanyahu a accordé à l'armée un budget déclaré illimité pour contrer cette menace asymétrique qui sature les systèmes de défense. Cette escalade technologique ajoute une dimension inédite au conflit multifront israélien, déjà mobilisé sur le front iranien.",
-      "source": "ZeroFox Intelligence",
-      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
+      "importance": 3,
+      "short_title": "Israël-Liban : Hezbollah",
+      "title": "Israël et Liban signent un cessez-le-feu conditionnel rejeté par le Hezbollah",
+      "summary": "Le 4 juin 2026, Washington a facilité un accord conditionnel entre Israël et Liban exigeant le retrait du Hezbollah au nord du fleuve Litani et le déploiement exclusif des forces armées libanaises dans le sud. Le chef du Hezbollah, Naim Qassem, a immédiatement rejeté le texte en exigeant un retrait israélien complet, déclenchant de nouvelles frappes croisées. Des pourparlers supplémentaires sont prévus la semaine du 22 juin.",
+      "source": "Al Jazeera / NPR",
+      "url": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "banques_centrales",
       "importance": 3,
-      "short_title": "Hormuz fermé : Brent 105$",
-      "title": "Détroit d'Ormuz fermé depuis février : Brent attendu à 105 $ en juin-juillet",
-      "summary": "La fermeture du détroit de l'Hormuz depuis fin février 2026, consécutive aux frappes américano-israéliennes sur l'Iran, a soustrait environ 20 % de l'offre mondiale de pétrole et propulsé le Brent vers 105 $ le baril selon l'EIA. Un scénario extrême à 154 $ est modélisé si la fermeture dure 12 semaines ; une reprise des flux n'est attendue qu'au T3 2026. Cette crise est l'événement fondateur du choc inflationniste qui frappe depuis les économies importatrices.",
-      "source": "EIA Short-Term Energy Outlook juin 2026",
-      "url": "https://www.eia.gov/outlooks/steo/"
+      "short_title": "BCE remonte ses taux",
+      "title": "La BCE remonte ses taux de 25pb à 2,25% — première hausse depuis 2023",
+      "summary": "Le 11 juin 2026, la BCE a relevé ses taux directeurs de 25 points de base à 2,25%, rompant avec trois ans de politique accommodante face à l'inflation énergétique. L'inflation en zone euro a atteint 3,2% en mai, portée par une flambée des prix de l'énergie de +10,9%. La banque centrale révise ses prévisions de croissance à la baisse à 0,8% pour 2026 et anticipe une inflation à 3% sur l'année.",
+      "source": "CNBC / Euronews",
+      "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Goldman : Fed bloquée",
-      "title": "Goldman Sachs abandonne ses prévisions de baisse de taux Fed en 2026, report à 2027",
-      "summary": "Après un rapport sur l'emploi américain plus fort qu'attendu début juin, Goldman Sachs a supprimé ses prévisions de baisse de taux Fed pour 2026 et reporte les deux coupures à juin et décembre 2027. L'inflation reste élevée, alimentée en partie par le choc énergétique lié à l'Hormuz, tandis que le marché du travail demeure résilient. La Fed reste à 3,5–3,75 % pour une troisième réunion consécutive sans mouvement.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/goldman-sachs-no-longer-expects-fed-interest-rate-cut-this-year-mq44uu26"
+      "short_title": "Brent : choc Ormuz",
+      "title": "Choc pétrolier mondial depuis la fermeture du Détroit d'Ormuz",
+      "summary": "La guerre irano-américaine a interrompu les flux pétroliers à travers le Détroit d'Ormuz, voie par laquelle transite environ un cinquième des exportations mondiales de pétrole. La prime de risque géopolitique s'est directement transmise au prix du Brent, alimentant l'inflation européenne à son plus haut depuis 2023. La perspective d'un accord de paix a légèrement atténué la pression mi-juin 2026.",
+      "source": "Reuters / Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil/news/528185"
     },
     {
       "id": "n05",
-      "theme": "finance",
-      "subtopic": "europe",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "BCE +25bp à 2,25%",
-      "title": "La BCE relève ses taux de 25 pb le 11 juin : première hausse depuis 2023",
-      "summary": "Le 11 juin, la BCE a remonté son taux de dépôt de 2,00 % à 2,25 %, mettant fin au cycle d'assouplissement entamé en 2024. La décision est motivée par le retour de l'inflation en zone euro à 3,2 % en mai, portée par les prix de l'énergie liés à la crise d'Ormuz. Une deuxième hausse en septembre est déjà anticipée par les marchés, et la Fed devrait emboîter le pas pour contenir une inflation américaine proche de 4 %.",
-      "source": "Boursorama",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bce-augmente-ses-taux-directeurs-de-25-points-de-base-3a088f9ab5503cf1bcff415a177a97a6"
+      "short_title": "Claude Fable 5 lancé",
+      "title": "Anthropic lance Claude Fable 5, premier modèle Mythos accessible au grand public",
+      "summary": "Le 9 juin 2026, Anthropic a rendu publiquement disponible Claude Fable 5, son premier modèle de classe Mythos. Il affiche une fenêtre de contexte d'un million de tokens, jusqu'à 128 000 tokens en sortie, et atteint des niveaux frontier sur les benchmarks d'ingénierie logicielle, de recherche scientifique et d'exécution agentique. Des garde-fous automatiques bloquent les réponses dans les domaines sensibles (bio, cyber, chimie) dans moins de 5% des sessions.",
+      "source": "TechCrunch / Anthropic",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "France : PIB -0,1% T1",
-      "title": "France : PIB en légère contraction au T1, chômage au plus haut depuis 2021",
-      "summary": "Le PIB français a reculé de 0,1 % au premier trimestre 2026, après une faible progression de 0,2 % fin 2025, dans un contexte de crédit plus cher et d'inflation à 2,4 % en mai. Le chômage remonte à 8,1 %, son plus haut niveau depuis début 2021, avec 22 000 emplois privés supplémentaires détruits au premier semestre. La hausse des taux BCE referme davantage l'étau sur la demande intérieure française.",
-      "source": "INSEE",
-      "url": "https://www.insee.fr/fr/statistiques/fichier/8907467/ndc-mars-2026.pdf"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic IPO : S-1",
+      "title": "Anthropic dépose confidentiellement son S-1 auprès de la SEC à 965B$ de valorisation",
+      "summary": "Le 1er juin 2026, Anthropic a amorcé son introduction en bourse avec un dépôt confidentiel du S-1 auprès de la SEC, valorisant la société à environ 965 milliards de dollars sur la base d'un revenu annualisé de 47 milliards. La procédure habituelle de révision et de roadshow rend une cotation effective peu probable avant le quatrième trimestre 2026.",
+      "source": "CBS News / Dataconomy",
+      "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "FRTB UE : ajustements",
-      "title": "UE : ajustements temporaires FRTB pour préserver la compétitivité des banques européennes",
-      "summary": "Le 4 juin, la Commission européenne a adopté des ajustements temporaires aux règles FRTB de Bâle III pour éviter une distorsion concurrentielle face aux retards d'implémentation aux États-Unis et en Asie. Un multiplicateur d'ajustement permettra aux banques de calibrer leurs exigences en capital de marché avant l'entrée en vigueur contraignante du 1er janvier 2027. En parallèle, la reproposition américaine Bâle III Endgame introduit les exigences CVA et réforme le SA-CCR, avec commentaires dus le 18 juin.",
-      "source": "European Commission",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Project Glasswing",
+      "title": "Anthropic déploie Claude Mythos Preview pour la cybersécurité en accès restreint",
+      "summary": "Via Project Glasswing, Anthropic donne accès anticipé à Claude Mythos Preview à un groupe sélect d'organisations — AWS, Apple, Cisco, Google, JPMorgan Chase, Microsoft — pour identifier et corriger des vulnérabilités critiques dans des logiciels sensibles avant que des acteurs malveillants ne les exploitent. La démarche vise à construire la crédibilité institutionnelle d'Anthropic en matière de sécurité tout en collectant des retours du monde réel sur le modèle.",
+      "source": "MSN / Crescendo AI",
+      "url": "https://www.msn.com/en-in/money/news/anthropic-may-release-claude-mythos-for-public-this-week-here-is-why-it-is-a-big-deal/ar-AA25bkj9"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Claude auteur 80% du code",
-      "title": "Anthropic : Claude a rédigé 80 % du code de production en mai 2026",
-      "summary": "Anthropic a révélé que Claude a été l'auteur de plus de 80 % du code fusionné dans sa base de production en mai 2026, contre quelques pourcents seulement au lancement de Claude Code début 2025. La productivité des ingénieurs Anthropic a été multipliée par huit en volume de code intégré en un seul trimestre, illustrant la thèse d'une amélioration récursive. La société a simultanément soulevé publiquement la question d'un mécanisme de pause mondiale sur l'IA frontier.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
+      "theme": "finance",
+      "subtopic": "frtb",
+      "importance": 2,
+      "short_title": "FRTB UE reporté à 2027",
+      "title": "La Commission européenne décale l'entrée en vigueur du FRTB au 1er janvier 2027",
+      "summary": "Par acte délégué adopté fin 2025, la Commission européenne a repoussé d'un an l'implémentation du Fundamental Review of the Trading Book, initialement prévu pour début 2026. L'objectif est de maintenir la parité réglementaire internationale face aux retards américains sur Basel III. La PRA britannique a aligné sa propre date, avec un report additionnel du FRTB-IMA au 1er janvier 2028.",
+      "source": "A&O Shearman / Deloitte",
+      "url": "https://www.aoshearman.com/en/insights/financial-services-horizon-report-2026/prudential-regulation-in-2026"
     },
     {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 3,
-      "short_title": "Anthropic IPO : 965 Md$",
-      "title": "Anthropic dépose confidentiellement son S-1 pour une IPO valorisée 965 milliards $",
-      "summary": "Anthropic a déposé confidentiellement son dossier S-1 auprès de la SEC pour une introduction en bourse valorisée à 965 Md$, après un dernier tour de table à 65 Md$. Le lancement simultané de Claude Fable 5 renforce le positionnement technique de la société à ce moment stratégique. C'est l'une des introductions en bourse tech les plus importantes de l'histoire, portée par la domination de Claude Code sur le marché du coding IA.",
-      "source": "Dataconomy",
-      "url": "https://dataconomy.com/2026/06/10/anthropic-claude-fable-5-ipo-965-billion/"
+      "short_title": "EU AI Act : banques",
+      "title": "L'EU AI Act entre en enforcement pour les IA à risque élevé en banque dès août 2026",
+      "summary": "À partir d'août 2026, les systèmes IA utilisés pour le credit scoring, l'évaluation du risque de contrepartie et les décisions d'accès au crédit sont soumis à l'enforcement complet de l'EU AI Act. Les banques devront documenter les audit trails de leurs modèles et agents IA — une exigence particulièrement complexe pour les workflows agentiques qui manquent encore souvent de la traçabilité attendue par les superviseurs.",
+      "source": "EBA / Federal Reserve / BPI",
+      "url": "https://www.eba.europa.eu/sites/default/files/2025-11/d8b999ce-a1d9-4964-9606-971bbc2aaf89/AI%20Act%20implications%20for%20the%20EU%20banking%20sector.pdf"
     },
     {
       "id": "n10",
-      "theme": "geopol",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "US suspend Fable 5",
-      "title": "Le gouvernement US ordonne la suspension mondiale de Fable 5 et Mythos 5 d'Anthropic",
-      "summary": "Le 12 juin, le secrétaire au Commerce Howard Lutnick a signé une directive de contrôle des exportations ordonnant à Anthropic de couper l'accès mondial à Fable 5 et Mythos 5, trois jours après leur lancement, en invoquant un jailbreak permettant d'extraire des informations sur des vulnérabilités logicielles. Anthropic a obtempéré en quelques heures tout en qualifiant la décision de malentendu : un jailbreak partiel ne justifie pas le retrait d'un modèle déployé auprès de centaines de millions d'utilisateurs. C'est la première fois dans l'histoire qu'un gouvernement ordonne le rappel d'un modèle IA commercial.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/claude/after-a-potential-jailbreak-anthropic-is-shutting-off-access-to-its-mythos-5-and-fable-5-models-under-national-security-orders-from-the-us-government"
+      "theme": "sciences",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Phosphatidylcholine aging",
+      "title": "Déclin de la phosphatidylcholine identifié comme cause réversible du vieillissement mitochondrial",
+      "summary": "Des chercheurs du Leibniz Institute on Aging ont montré dans Nature Communications que le déclin naturel de la synthèse de phosphatidylcholine avec l'âge fragmente les membranes mitochondriales et réduit la production d'énergie cellulaire. Résultat clé : une supplémentation même tardive — initiée pendant la vieillesse — rétablit des performances mitochondriales plus juvéniles dans des modèles animaux, ouvrant la voie à des interventions potentiellement réversibles.",
+      "source": "Nature Communications / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Glasswing : 23K vulnérab",
-      "title": "Project Glasswing : Mythos découvre 23 000 failles critiques dans les logiciels open source",
-      "summary": "Depuis avril, le Project Glasswing d'Anthropic déploie Mythos Preview auprès de partenaires sélectionnés pour auditer les logiciels les plus critiques au monde, dont les navigateurs et systèmes d'exploitation majeurs. En deux mois, le modèle a identifié plus de 23 000 vulnérabilités de sévérité haute ou critique, dont des failles ayant survécu à des décennies de revue humaine. C'est précisément cette capacité offensive latente qui a motivé la directive gouvernementale américaine sur Fable 5.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/glasswing"
+      "short_title": "Rapamycine : essai PEARL",
+      "title": "L'essai PEARL confirme la sécurité de la rapamycine sur 48 semaines chez des adultes sains",
+      "summary": "L'essai clinique PEARL, premier RCT longue durée sur la rapamycine à faible dose chez des adultes normalement vieillissants, confirme une bonne tolérance sans effets secondaires graves significatifs. Les femmes sous 10 mg ont montré des gains en masse musculaire, et les participants sous 5 mg par semaine rapportent une amélioration du bien-être émotionnel. Aucune réduction significative de la graisse viscérale n'a été observée et la recherche translationnelle reste à poursuivre.",
+      "source": "PMC / Aging Cell",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12074816/"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Mistral → Vibe + Med 3.5",
-      "title": "Mistral rebaptise Le Chat en « Vibe » et lance Medium 3.5, modèle multimodal agentic",
-      "summary": "Mistral a renommé son assistant Le Chat en Vibe et le repositionne comme agent IA de productivité pour le travail et le code, avec mémoire persistante et mode agentic. En parallèle, Mistral Medium 3.5 est lancé comme modèle multimodal frontier optimisé pour les cas d'usage agentiques, avec contrôle du niveau de raisonnement à 0,40 $/M tokens en entrée. L'offre inclut Workflows en préversion publique pour des orchestrations durables en Python avec validation humaine dans la boucle.",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/06/01/mistral-rebrands-le-chat-as-vibe-for-work-and-coding-xcxwbn/"
-    },
-    {
-      "id": "n13",
-      "theme": "learn",
-      "subtopic": "metacognition",
-      "importance": 2,
-      "short_title": "OCDE : IA et cognition",
-      "title": "OCDE Digital Education 2026 : l'usage transactionnel de l'IA génère une paresse métacognitive",
-      "summary": "Le rapport Digital Education Outlook 2026 de l'OCDE conclut que l'usage rapide et transactionnel de l'IA par les étudiants induit une paresse métacognitive : en déléguant la réponse au modèle, l'apprenant perd l'effort cognitif nécessaire à l'apprentissage durable. Neuf enseignants universitaires sur dix s'alarment d'une dépendance accrue et d'un recul de la pensée critique. L'OCDE recommande un usage lent, itératif et ancré dans des dispositifs pédagogiques explicites.",
-      "source": "OCDE",
-      "url": "https://www.winssolutions.org/oecd-2026-generative-ai-education-outlook/"
-    },
-    {
-      "id": "n14",
       "theme": "learn",
       "subtopic": "ai_tutoring",
       "importance": 2,
-      "short_title": "IA tuteur > classe (RCT)",
-      "title": "Un tuteur IA surpasse l'enseignement actif en classe : résultats d'un essai contrôlé randomisé",
-      "summary": "Un essai contrôlé randomisé publié dans npj Science of Learning montre qu'un tuteur IA produit des résultats supérieurs à l'apprentissage actif en classe avec une taille d'effet de 0,73 à 1,3 écart-type, en 49 minutes médianes contre 60 en classe. Un rapport Coursera 2026 indique que 4 étudiants sur 5 estiment que l'IA a amélioré leurs résultats académiques. Ces chiffres alimentent le débat sur la généralisation des tuteurs IA dans l'enseignement supérieur.",
-      "source": "npj Science of Learning",
-      "url": "https://www.nature.com/articles/s41539-025-00320-7"
+      "short_title": "IA tutorat : paradoxe",
+      "title": "Le tutorat IA améliore les scores procéduraux mais réduit la compréhension profonde de 17%",
+      "summary": "Une revue publiée en 2026 dans des revues à comité de lecture met en évidence un paradoxe cognitif : les systèmes de tutorat IA augmentent la performance procédurale des élèves de 48% mais diminuent leur compréhension conceptuelle de 17% par rapport à l'apprentissage actif classique. La délégation des tâches cognitives à l'IA crée une forme de paresse métacognitive qui nuit à l'apprentissage profond durable.",
+      "source": "Scientific Reports / PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12036037/"
+    },
+    {
+      "id": "n13",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "CBAM opérationnel",
+      "title": "Le mécanisme européen d'ajustement carbone aux frontières est opérationnel depuis janvier 2026",
+      "summary": "Entré en vigueur le 1er janvier 2026, le CBAM oblige désormais les importateurs européens de ciment, acier, aluminium, fertilisants, électricité et hydrogène à s'enregistrer comme déclarants autorisés et à déclarer leurs émissions intégrées. Les certificats pour les importations 2026 seront achetés rétroactivement à partir de février 2027 au prix moyen de l'ETS, concrétisant pour la première fois une obligation financière directe liée au carbone à la frontière de l'UE.",
+      "source": "Commission Européenne / KPMG",
+      "url": "https://taxation-customs.ec.europa.eu/news/cbam-successfully-entered-force-1-january-2026-2026-01-14_en"
+    },
+    {
+      "id": "n14",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 1,
+      "short_title": "Consultation énergie UE",
+      "title": "La consultation UE sur le cadre énergétique post-2030 s'est close le 12 juin 2026",
+      "summary": "La Commission européenne a clos le 12 juin 2026 sa consultation publique sur le futur cadre réglementaire des renouvelables post-2030, qui définira les objectifs climatiques européens pour la décennie 2030-2040. Les réponses recueillies alimenteront une proposition législative dans un contexte de tension entre ambition climatique et pressions inflationnistes liées à la crise énergétique.",
+      "source": "Commission Européenne",
+      "url": "https://energy.ec.europa.eu/news/post-2030-renewable-energy-framework-public-consultation-2026-03-20_en"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Stanford : cartilage",
-      "title": "Stanford : bloquer la protéine 15-PGDH régénère le cartilage vieillissant et prévient l'arthrose",
-      "summary": "Des chercheurs de Stanford ont montré qu'une molécule ciblant la protéine 15-PGDH, associée au vieillissement, restaure le cartilage du genou chez de vieilles souris et prévient l'arthrose après des lésions ligamentaires. Des fragments de tissu humain prélevés lors de chirurgies prothétiques ont aussi répondu positivement au traitement in vitro. Cette découverte ouvre la voie à une injection locale ou un médicament oral pour réparer les articulations sans chirurgie lourde.",
-      "source": "ScienceDaily / Stanford Medicine",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "OpenAI : 25B$ ARR",
+      "title": "OpenAI dépasse 25 milliards de dollars de revenus annualisés et prépare son IPO",
+      "summary": "OpenAI a annoncé avoir franchi le cap des 25 milliards de dollars de revenus annualisés en 2026 et explore activement une introduction en bourse potentiellement d'ici fin 2026. Ce cap positionne OpenAI en concurrent direct d'Anthropic sur les marchés de capitaux, les deux labs proposant simultanément leurs thèses d'investissement à des investisseurs institutionnels avides d'exposition à l'IA frontier.",
+      "source": "LLM Stats / Media Reports",
+      "url": "https://llm-stats.com/llm-updates"
     },
     {
       "id": "n16",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Musculation 90-120min/sem",
-      "title": "Méta-analyse : 90 à 120 min/semaine de musculation est la dose optimale pour la longévité",
-      "summary": "Une méta-analyse portant sur 147 000 adultes suivis pendant 30 ans identifie 90 à 120 minutes hebdomadaires de renforcement musculaire comme la plage optimale pour réduire la mortalité toutes causes confondues, avec une courbe dose-réponse en U. En deçà comme au-delà de cette fenêtre, les gains diminuent, suggérant qu'il ne suffit pas de faire plus. C'est la première fois qu'un seuil quantifié est établi pour guider les recommandations cliniques sur l'exercice de résistance.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
+      "short_title": "Gemini Robotics dans Spot",
+      "title": "Google DeepMind intègre Gemini Robotics-ER 1.6 dans le robot quadrupède Spot de Boston Dynamics",
+      "summary": "Boston Dynamics a annoncé l'intégration de Gemini Robotics-ER 1.6 de Google DeepMind dans son robot Spot et sa plateforme d'inspection visuelle Orbit. Le modèle permet une navigation autonome, une prise de décision contextuelle et un apprentissage continu dans des environnements industriels complexes, incarnant le passage de l'IA générative à l'IA physique embarquée à l'échelle.",
+      "source": "DeepMind / Crescendo AI",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     },
     {
       "id": "n17",
-      "theme": "sciences",
-      "subtopic": "alzheimer",
-      "importance": 3,
-      "short_title": "Alzheimer : microglie",
-      "title": "Des mutations cancéreuses dans les microglie cérébrales identifiées comme facteur de risque d'Alzheimer",
-      "summary": "Une étude publiée dans Cell (Mount Sinai / Boston Children's Hospital) montre que les cellules immunitaires cérébrales accumulent des mutations des gènes TET2, DNMT3A et ASXL1 — typiques des cancers du sang — créant une inflammation chronique qui tue les neurones voisins. Ces mutations sont détectables par simple prise de sang et augmentent le risque d'Alzheimer indépendamment du facteur génétique APOE4. La découverte ouvre une voie vers des traitements par des médicaments anticancéreux existants repurposés.",
-      "source": "ScienceDaily / Mount Sinai",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032044.htm"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Meta : 130B$ capex IA",
+      "title": "Meta annonce 115-135 milliards de dollars d'investissement IA pour 2026",
+      "summary": "Meta a annoncé des dépenses en capital liées à l'IA comprises entre 115 et 135 milliards de dollars pour l'exercice 2026, quasi-doublement par rapport à 2025. Cet effort massif d'infrastructure, piloté par les Superintelligence Labs d'Alexandr Wang, vise à combler le retard de Meta sur OpenAI et Google dans la course aux modèles frontier, mais les résultats restent encore en deçà des leaders.",
+      "source": "CNBC / TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"
     },
     {
       "id": "n18",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "IA : design protéines",
-      "title": "IA et biologie structurale : conception de novo de protéines entre dans une nouvelle ère post-AlphaFold",
-      "summary": "Une revue publiée dans Nature Communications Biology identifie deux nouveaux moments AlphaFold imminents : la prédiction des paysages conformationnels complets des protéines et la conception de novo routinière de liants à haute affinité. Des outils comme RFdiffusion, AlphaProteo et BindCraft permettent désormais de concevoir des protéines thérapeutiques avec des taux de succès expérimental élevés, transformant la biologie de synthèse en discipline d'ingénierie scalable. Ces avancées ouvrent la voie à des candidats médicaments ciblant le vieillissement et le cancer.",
-      "source": "Nature Communications Biology",
-      "url": "https://www.nature.com/articles/s42003-026-10112-3"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Copilot : usage-based",
+      "title": "GitHub Copilot bascule en facturation à l'usage depuis le 1er juin 2026",
+      "summary": "GitHub Copilot a abandonné son modèle d'abonnement forfaitaire pour une facturation à l'usage depuis le 1er juin 2026, alignant son économie sur celle des APIs LLM. Ce changement force les équipes de développement à mesurer précisément leur utilisation dans un marché où Cursor, v0 (Vercel) et Bolt.new adoptent des modèles similaires, signalant une maturation économique du secteur des outils de développement IA.",
+      "source": "LogRocket / AI Dev Tools Rankings",
+      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/"
     }
   ],
   "edges": [
     {
-      "source": "n02",
-      "target": "n01",
-      "type": "cause",
-      "explanation": "L'escalade des drones FPV du Hezbollah et la pression militaire multifronts sur Israël créent une dynamique d'urgence qui renforce la pression pour formaliser un cessez-le-feu élargi incluant l'Iran."
-    },
-    {
       "source": "n01",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "Le conflit US-Iran a déclenché la fermeture du détroit de l'Hormuz en mars 2026 ; même sous cessez-le-feu, le trafic maritime n'a pas repris, maintenant une offre pétrolière mondiale amputée de 20 % et le Brent au-dessus de 100 $."
-    },
-    {
-      "source": "n03",
       "target": "n04",
       "type": "cause",
-      "explanation": "Le choc énergétique lié à l'Hormuz alimente l'inflation américaine qui, combinée à un marché de l'emploi robuste, élimine tout espace pour une baisse de taux Fed et force Goldman à repousser ses prévisions à 2027."
+      "explanation": "Le conflit irano-américain et la fermeture du Détroit d'Ormuz ont créé un choc d'offre pétrolier mondial : la prime de risque géopolitique s'est directement transmise au prix du Brent, alimentant une inflation énergétique record en Europe."
     },
     {
-      "source": "n03",
-      "target": "n05",
+      "source": "n04",
+      "target": "n03",
       "type": "cause",
-      "explanation": "Le même choc énergétique a fait remonter l'inflation de la zone euro à 3,2 % en mai, forçant la BCE à inverser son cycle accommodant et à relever ses taux pour la première fois depuis 2023."
+      "explanation": "La flambée des prix de l'énergie (+10,9% en zone euro en mai 2026) a propulsé l'inflation à 3,2%, forçant la BCE à abandonner sa posture accommodante et à relever ses taux pour la première fois depuis 2023."
+    },
+    {
+      "source": "n02",
+      "target": "n01",
+      "type": "meme_sujet",
+      "explanation": "Les deux crises s'inscrivent dans le même arc de déstabilisation du Moyen-Orient : les négociations irano-américaines sur Ormuz conditionnent indirectement les rapports de force entre Israël, Liban et Hezbollah dans la région."
     },
     {
       "source": "n05",
       "target": "n06",
       "type": "cause",
-      "explanation": "La hausse des taux BCE durcit les conditions de crédit en France, aggravant la contraction d'une économie déjà en stagnation avec un PIB en recul au T1 et un chômage qui remonte."
+      "explanation": "Le lancement public de Claude Fable 5 le 9 juin — une semaine après le dépôt du S-1 — est une démonstration de force calculée : Anthropic établit sa supériorité technique sur les benchmarks au moment exact où les investisseurs évaluent sa valorisation à 965 milliards."
     },
     {
-      "source": "n05",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "La hausse BCE et les ajustements FRTB tombent simultanément, créant une double pression sur les banques européennes : coût du capital réglementaire accru par les nouvelles règles de marché et coût de financement plus élevé par la remontée des taux directeurs."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "cause",
-      "explanation": "La démonstration que Claude rédige 80 % du code d'Anthropic fournit le principal argument de valeur commerciale qui soutient la valorisation à 965 Md$ dans le dossier IPO confidentiel."
-    },
-    {
-      "source": "n11",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "Les capacités de détection de vulnérabilités logicielles que Glasswing exploitait en environnement fermé ont été intégrées dans Fable 5 en version grand public ; c'est précisément cette diffusion qui a déclenché la directive de suspension gouvernementale."
+      "source": "n06",
+      "target": "n15",
+      "type": "tension",
+      "explanation": "Anthropic (S-1 déposé, 965B$) et OpenAI (25B$ ARR, IPO envisagée) entrent simultanément en compétition sur les marchés publics avec deux thèses d'investissement distinctes, ce qui risque de créer une pression mutuelle sur leurs valorisations respectives."
     },
     {
       "source": "n09",
-      "target": "n10",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "L'enforcement EU AI Act (août 2026) et le report du FRTB (2027) imposent aux banques deux chantiers réglementaires majeurs en parallèle — gouvernance des modèles IA et refonte des risques de marché — créant une concurrence interne critique pour les ressources de conformité."
+    },
+    {
+      "source": "n05",
+      "target": "n12",
       "type": "tension",
-      "explanation": "La suspension gouvernementale de Fable 5 crée un risque réglementaire majeur pour l'IPO d'Anthropic : un modèle commercial retiré par décret trois jours après son lancement fragilise une valorisation à 965 Md$ fondée sur l'ubiquité de Claude."
+      "explanation": "L'accessibilité croissante des modèles frontier comme Claude Fable 5 accélère leur adoption dans l'éducation, mais la recherche en sciences cognitives montre que cette commoditisation du raisonnement externalisé risque de dégrader durablement la profondeur d'apprentissage des utilisateurs."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Phosphatidylcholine (voie mitochondriale/lipidique) et rapamycine (voie mTOR) ciblent deux mécanismes distincts du vieillissement cellulaire qui pourraient devenir complémentaires dans des protocoles combinés contre le déclin biologique lié à l'âge."
     },
     {
       "source": "n13",
-      "target": "n14",
-      "type": "tension",
-      "explanation": "L'OCDE alerte que l'IA réduit l'effort métacognitif nécessaire à l'apprentissage durable, mais le RCT npj montre que le tuteur IA surpasse statistiquement la classe active : même outil, lectures opposées sur ce qu'il produit réellement dans le cerveau apprenant."
-    },
-    {
-      "source": "n15",
-      "target": "n16",
+      "target": "n03",
       "type": "meme_sujet",
-      "explanation": "La régénération de cartilage par ciblage moléculaire (Stanford) et la dose optimale de musculation convergent vers la même thèse : maintenir la fonction locomotrice après 40 ans est possible, soit par une intervention biologique ciblée, soit par une pratique physique calibrée."
+      "explanation": "Le CBAM et la hausse des taux de la BCE exercent une double pression sur l'économie réelle européenne : l'un renchérit le coût des importations industrielles carbone-intensives, l'autre durcit les conditions de crédit, amplifiant ensemble les risques de stagflation."
     },
     {
-      "source": "n18",
-      "target": "n17",
+      "source": "n07",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Project Glasswing (Mythos Preview en accès restreint) et Claude Fable 5 (grand public) incarnent la stratégie duale d'Anthropic : déploiement large pour la croissance des revenus avant l'IPO, déploiement contrôlé pour bâtir la crédibilité institutionnelle auprès des régulateurs."
+    },
+    {
+      "source": "n17",
+      "target": "n15",
+      "type": "tension",
+      "explanation": "Meta investit 115-135B$ pour rattraper OpenAI et Anthropic en capacité de calcul, mais OpenAI continue d'accélérer ses revenus en parallèle, illustrant que l'avance des leaders en IA frontier ne se réduit pas proportionnellement aux investissements massifs des challengers."
+    },
+    {
+      "source": "n14",
+      "target": "n13",
       "type": "cause",
-      "explanation": "Les avancées en design de protéines par IA rendent accessibles des cibles thérapeutiques précises comme les mutations microglie impliquées dans Alzheimer, accélérant le développement de candidats médicaments vers des essais cliniques."
+      "explanation": "La consultation post-2030 définira les règles de la prochaine phase de transition dont le CBAM opérationnel est le premier outil concret — la cohérence entre les deux textes sera déterminante pour la lisibilité réglementaire à long terme des industriels européens."
     }
   ]
 }

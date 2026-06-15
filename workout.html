@@ -63,15 +63,6 @@
   .step li b { color: var(--ink); font-weight: 500; }
   .reps { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--accent); }
 
-  /* Progression tractions */
-  .ladder { display: grid; grid-template-columns: 1fr; gap: 10px; margin-bottom: 48px; }
-  @media (min-width: 680px) { .ladder { grid-template-columns: repeat(2, 1fr); } }
-  .rung { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 13px; padding: 14px 16px; }
-  .rung .n { font-family: 'Geist Mono', monospace; font-size: 10px; color: var(--accent); letter-spacing: 0.12em; }
-  .rung h4 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 16px; margin: 4px 0 6px; }
-  .rung p { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
-  .rung p b { color: var(--ink); font-weight: 500; }
-
   .split { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 48px; }
   @media (min-width: 680px) { .split { grid-template-columns: 1fr 1fr; align-items: start; } }
   .card { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 20px; }
@@ -118,27 +109,27 @@
 </header>
 
 <main>
-  <div class="page-kicker">Street · poids de corps · ~25-30 min · Yellow · 2ᵉ jour consécutif</div>
+  <div class="page-kicker">Street · poids de corps · ~40 min · Green (provisoire) · lendemain de tennis</div>
   <h1 class="page-title">Workout</h1>
   <p class="page-intro">
-    Séance d'hier (11/06) bien passée&nbsp;: <b>rien n'a flambé</b>. <b>Épaule D</b> 1-2/10 (mieux que d'habitude),
-    <b>mollet D</b> soulagé par l'effort (3→1), <b>genou D</b> sans plainte. Mais c'est le <b>2ᵉ street consécutif</b>
-    et tu es <b>fatigué</b> — aujourd'hui = <b>jour d'entretien</b>, on ne pousse pas. Hier a touché presque tout
-    (tirage, hinge, mollet, push, core)&nbsp;: <b>rotation &lt;48 h</b> sur ces patterns. On garde le <b>correctif</b>,
-    on ajoute <b>un seul bloc léger</b> (bas du corps axial, zéro impact) et on s'arrête là pour ne pas creuser la fatigue.
+    Tennis hier (14/06) léger, <b>bien vécu</b>&nbsp;: «&nbsp;mieux que la semaine dernière, ça m'a fait du bien de reprendre&nbsp;».
+    Douleurs basses&nbsp;: <b>épaule D</b> 2/10 sur certains mouvements (1 sinon), <b>genou D</b> 1/10, <b>mollet D</b> 1/10 —
+    tout sous les seuils. Le tennis a chargé la <b>chaîne épaule (push + tirage vertical)</b>&nbsp;: aujourd'hui on
+    <b>évite ces zones</b> et on réintroduit le <b>tirage horizontal</b> (non chargé) plus le bas du corps. Séance issue
+    du <b>plan de cycle</b> (bloc réintro, semaine 1) et du moteur déterministe.
   </p>
 
   <div class="goal">
     <span class="star">✦</span>
     <div>
       <div class="g-kicker">Le fil de la séance</div>
-      <div class="g-line">Jour <b>d'entretien</b> — on préserve l'acquis d'hier sans rallumer les zones ni creuser la fatigue.</div>
-      <div class="g-sub">Tirage, hinge, mollet, push et core ont été faits hier&nbsp;: <b>on n'y retouche pas</b>. Le cœur du jour reste le <b>correctif 3 zones</b>&nbsp;; un seul bloc de charge, <b>bas du corps axial</b> (genou-safe, confirmé toléré), à RIR 2-3. <b>Repos courts (≤60 s).</b> <b>STOP toute série qui réveille une des trois zones.</b></div>
+      <div class="g-line">Réintro <b>tirage horizontal</b> + bas du corps — on reconstruit le pull sans rallumer l'épaule chargée par le tennis.</div>
+      <div class="g-sub">Correctif <b>3 zones en activation</b> (jamais une série de travail), puis 3 blocs de développement dans les amplitudes sûres&nbsp;: rowing <b>prise neutre</b> (coude), box squat <b>borné</b> (genou), pont fessier. <b>RIR 2, repos 45-60 s.</b> <b>STOP toute série qui réveille épaule / coude / genou au-delà de 3/10.</b></div>
     </div>
   </div>
 
   <!-- La séance -->
-  <div class="section-label">La séance — ~25-30 min</div>
+  <div class="section-label">La séance — ~40 min</div>
   <div class="seance">
     <div class="step">
       <span class="num">1</span>
@@ -146,52 +137,61 @@
         <span class="role">Échauffement <span class="time">~3 min</span></span>
         <span class="detail">Court mais réel. Pas de départ à froid (genou, mollet).</span>
         <ul>
-          <li>Mobilité T-spine&nbsp;: thread-the-needle + cercles d'épaules</li>
-          <li>Ouverture hanches&nbsp;: balanciers de jambe + quelques squats à vide</li>
-          <li>Montée cardiaque douce&nbsp;: marche rapide en arrivant au parc</li>
+          <li>Mobilité T-spine&nbsp;: thread-the-needle</li>
+          <li>Shoulder CARs amplitude partielle (sans aller chercher la fin de course)</li>
+          <li>10 squats à vide + montée cardiaque douce</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">2</span>
       <span class="txt">
-        <span class="role">Correctif — cœur du jour <span class="time">~8 min</span></span>
-        <span class="detail">Le bloc qui justifie la séance. Cible les trois zones, sans les charger.</span>
+        <span class="role">Correctif — activation seulement <span class="time">~8 min</span></span>
+        <span class="detail">Cible les trois zones sans les charger. <b>Ce n'est pas une série de travail</b> — léger, contrôlé, séquencé loin du bloc qui travaille la même zone.</span>
         <ul>
-          <li><b>Épaule</b> · Dépression scapulaire + face pull élastique léger <span class="reps">2×12</span> · repos 30 s — recentrage coiffe, jamais en fin d'amplitude ni overhead</li>
-          <li><b>Mollet</b> · Excentrique mollet bipodal, descente lente <b>3 s</b> <span class="reps">2×12</span> · repos 30 s — soin (le mollet s'est amélioré, on entretient, on ne charge pas)</li>
-          <li><b>Genou</b> · Équilibre unipodal au sol <span class="reps">2×30 s / jambe</span> — contrôle du valgus + proprio unipodale à reconstruire</li>
+          <li><b>Épaule</b> · Scapular push-up au sol <b>à plat</b>, coudes verrouillés, <b>seules les omoplates bougent, pas de descente</b> <span class="reps">2×10 lent</span> · repos 30 s — la zone basse douloureuse n'est jamais atteinte</li>
+          <li><b>Genou</b> · Équilibre unipodal au sol <span class="reps">2×30 s / jambe</span> · repos 30 s — contrôle du valgus + proprio</li>
+          <li><b>Mollet</b> · Excentrique mollet unipodal, descente lente <b>3 s</b> <span class="reps">2×12 / côté</span> · repos 30 s — soin de fond, pas une charge</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">3</span>
       <span class="txt">
-        <span class="role">Bloc unique — bas du corps axial <span class="time">~6 min</span></span>
-        <span class="detail">Seul bloc de charge du jour. Axial = genou-safe (squats indolores le 09/06), zéro impact. Pattern non travaillé hier.</span>
+        <span class="role">Bloc 1 — Tirage horizontal <span class="time">sous-focus</span></span>
+        <span class="detail">Le pull qu'on reconstruit. Zone non chargée par le tennis. Grip protégé.</span>
         <ul>
-          <li>Box squat tempo (assise contrôlée, remontée nette) <span class="reps">2×10 @ RIR 3</span> · repos 60 s — qualité égale côté gauche (fessier plus faible), pas de compensation</li>
+          <li>Rowing australien, <b>inclinaison haute</b> (plus facile), <b>prise neutre</b> <span class="reps">3×10 @ RIR 2</span> · repos 45-60 s — version rééduc&nbsp;: <b>coude ≤3/10 cédant sous 24 h</b>, sinon on incline davantage ou on arrête</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">4</span>
       <span class="txt">
-        <span class="role">Gainage doux <span class="time">~4 min</span></span>
-        <span class="detail">Léger&nbsp;: les abdos sont courbaturés du finisher d'hier. On gaine sans creuser.</span>
+        <span class="role">Bloc 2 — Squat <span class="time">genou borné</span></span>
+        <span class="detail">Axial, zéro impact, flexion limitée (chondropathie).</span>
         <ul>
-          <li>Bird dog <span class="reps">2×8 / côté</span> · repos 30 s — anti-extension + co-activation fessier/dos, zéro charge abdo directe</li>
+          <li>Box squat haut (assise contrôlée, remontée nette) <span class="reps">3×10 @ RIR 2</span> · repos 45-60 s — assise <b>centrée</b>, qualité égale côté gauche (fessier plus faible)</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">5</span>
       <span class="txt">
-        <span class="role">Retour au calme <span class="time">~4 min</span></span>
-        <span class="detail">Pas de finisher aujourd'hui&nbsp;: fatigue + 2ᵉ jour consécutif, on ne creuse pas.</span>
+        <span class="role">Bloc 3 — Hinge <span class="time">chaîne postérieure</span></span>
+        <span class="detail">Fessiers / ischios, sans charge externe, compatible genou.</span>
         <ul>
-          <li>Étirement gastrocnémien genou tendu <span class="reps">2×30 s / côté</span> — entretien mollet</li>
-          <li>Ouverture psoas / fléchisseurs de hanche <span class="reps">30 s / côté</span> — récup bas du corps</li>
+          <li>Pont fessier bipodal <span class="reps">3×12 @ RIR 2</span> · repos 45-60 s — pousser dans les talons, <b>qualité côté gauche</b></li>
+        </ul>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">6</span>
+      <span class="txt">
+        <span class="role">Finisher — Core <span class="time">~4 min</span></span>
+        <span class="detail">Gainage anti-valgus (soutient le genou), léger.</span>
+        <ul>
+          <li>Gainage latéral <b>sur les genoux</b> <span class="reps">2×30 s / côté</span> · repos 30 s</li>
         </ul>
       </span>
     </div>
@@ -200,14 +200,14 @@
   <!-- Tyler Twist -->
   <div class="section-label">Tyler Twist — quotidien, à la maison</div>
   <div class="tyler">
-    <p><b>3×15, tous les jours</b> (6-12 semaines). FlexBar, du plus souple au plus dur&nbsp;:</p>
+    <p><b>3×15, tous les jours</b> (6-12 semaines). FlexBar — <b>pas réalisable en street</b>, à faire à la maison. Du plus souple au plus dur&nbsp;:</p>
     <div class="swatches">
       <span class="sw"><span class="dot" style="background:#eab308"></span>Jaune <b>· filet</b></span>
       <span class="sw cur"><span class="dot" style="background:#ef4444"></span>Rouge <b>· départ</b></span>
       <span class="sw"><span class="dot" style="background:#10b981"></span>Vert <b>· cible</b></span>
       <span class="sw"><span class="dot" style="background:#3b82f6"></span>Bleu <b>· plus tard</b></span>
     </div>
-    <p>Épicondylite active + grip des tractions en plus → on sous-charge. <b>Départ Rouge</b>&nbsp;; passe au <b>Vert</b> quand les 3×15 sont propres et sans douleur. <b>Jaune</b> si le coude se réveille (&gt;3/10). Mieux vaut progresser doucement que rallumer le tendon.</p>
+    <p>Épicondylite active&nbsp;: on sous-charge. <b>Départ Rouge</b>&nbsp;; passe au <b>Vert</b> quand les 3×15 sont propres et sans douleur. <b>Jaune</b> si le coude se réveille (&gt;3/10).</p>
   </div>
 
   <!-- Repères / interdits -->
@@ -216,29 +216,29 @@
     <div class="card watch">
       <h3>Ce que tu surveilles</h3>
       <ul>
-        <li><b>Épaule</b> (1-2/10, en baisse)&nbsp;: correctif/rehab seulement, jamais en fin d'amplitude / overhead. Aucune douleur dans l'arc.</li>
-        <li><b>Mollet</b> (1/10, en baisse)&nbsp;: l'excentrique est un <b>soin</b>, pas une charge — descente lente, sous le seuil.</li>
-        <li><b>Genou D</b> (3/10)&nbsp;: zéro impact. Le box squat charge l'axe, pas l'articulation — stop si gêne en extension.</li>
+        <li><b>Épaule</b> (1-2/10)&nbsp;: correctif en <b>activation seule</b>, jamais en fin d'amplitude / overhead. Aucune douleur dans l'arc.</li>
+        <li><b>Coude</b> (épicondylite)&nbsp;: prise <b>neutre</b> sur le rowing, version assistée. Stop si &gt;3/10 qui ne cède pas en 24 h.</li>
+        <li><b>Genou D</b> (1/10)&nbsp;: zéro impact. Le box squat charge l'axe, pas l'articulation — stop si gêne en extension.</li>
+        <li><b>Mollet</b> (1/10)&nbsp;: l'excentrique est un <b>soin</b>, descente lente sous le seuil.</li>
         <li><b>Côté gauche</b> (fessier plus faible)&nbsp;: qualité égale au droit, pas de compensation.</li>
-        <li><b>Fatigue</b>&nbsp;: 2ᵉ jour consécutif. RIR 2-3, jamais à l'échec — si l'énergie manque, correctif + mobilité suffisent.</li>
       </ul>
     </div>
     <div class="card dont">
       <h3>Ce qu'on ne fait pas</h3>
       <ul>
-        <li><b>Sauts, sprints, plyo, course rapide</b> — impact exclu (genou, CTL bas).</li>
-        <li><b>Tirage, hinge/pont, mollet chargé, pompes</b> — faits hier (11/06), rotation &lt;48 h.</li>
-        <li><b>Dips & overhead</b> — agressifs sur l'épaule antérieure tant qu'elle est sensible.</li>
-        <li><b>Suspension prolongée</b> (dead hang) — grip = coude.</li>
-        <li><b>Pas de 2ᵉ finisher</b> — fatigue + 2ᵉ jour, on ne creuse pas. Pas de séance à jeun (force 40+).</li>
+        <li><b>Sauts, sprints, plyo, course</b> — impact exclu (genou, CTL sous plancher).</li>
+        <li><b>Tirage vertical / tractions</b> — chaîne chargée par le tennis d'hier&nbsp;: on prend l'horizontal.</li>
+        <li><b>Push lourd, dips, overhead</b> — épaule en réintro + chargée hier.</li>
+        <li><b>Charge lourde au grip</b> (carry, KB, goblet) — coude (épicondylite).</li>
+        <li><b>Pas d'échec, pas de séance à jeun</b> (force 40+).</li>
       </ul>
     </div>
   </div>
 
   <p class="footnote">
-    <b>État (11/06 soir)</b> — séance street faite, aucune zone flambée. Épaule D 1-2/10 en charge (↓ vs 5/10 le 09/06), mollet D 1/10 (soulagé par l'effort, ↓), genou D 3/10 inchangé (non sollicité). Fatigue présente, <b>2ᵉ jour street consécutif</b> → Readiness <b>Yellow</b> maintenue, volume réduit, <b>repos courts ≤60 s</b> (DECISIONS-sport D8). Adaptations actives&nbsp;: coiffe amplitude réduite, négatives retirées, course fractionnée.<br>
-    <b>À reclasser demain matin</b> avec HRV/FC fraîche — mieux&nbsp;: on ajoute un bloc&nbsp;; pire&nbsp;: correctif + mobilité seuls.<br>
-    <b>Source</b> — module corps-forme (sport.md, méthode de séances déterministe), DECISIONS-sport / sante, KB Athena. Tyler et al. 2010 pour le Tyler Twist.<br>
+    <b>État (14/06 soir)</b> — tennis léger bien vécu, ressenti en hausse. Épaule D 2/10 sur certains mouvements (1 sinon), genou D 1/10, mollet D 1/10 — tout sous les seuils d'adaptation. Pattern <b>tennis → épaule</b> à 3 occurrences (causalité documentée), maîtrisé. Readiness <b>Green provisoire</b> (pas de HRV/FC fraîche).<br>
+    <b>À reclasser ce matin</b> avec HRV/FC fraîche — mieux&nbsp;: on tient le volume&nbsp;; pire&nbsp;: correctif + mobilité seuls.<br>
+    <b>Source</b> — module corps-forme, <b>moteur de séances déterministe</b> (helpers testés) + <b>plan-cycle.yaml</b> (bloc réintro, S1)&nbsp;; garde-fou grip granularisé (tirage poids de corps admis modifié), anti-empilement hors-séance (tennis→épaule). DECISIONS-sport / santé, KB Athena. Tyler et al. 2010.<br>
     Page statique. Le suivi vit dans Jarvis (<b>/corps-forme</b>), pas ici.
   </p>
 </main>

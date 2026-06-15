@@ -1,277 +1,254 @@
 {
-  "generated_at": "2026-06-14T06:00:00Z",
+  "generated_at": "2026-06-15T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran/US : accord en vue",
-      "title": "Accord de paix Iran-US proche de la signature, détroit d'Ormuz en jeu",
-      "summary": "Les négociateurs irano-américains, avec médiation pakistanaise, ont finalisé le 12 juin 2026 le texte d'un accord de paix prévoyant un cessez-le-feu de 60 jours et la réouverture du Détroit d'Ormuz. Trump annonce une signature imminente en Europe, mais Téhéran qualifie les rapports de préliminaires et exige de séparer les questions nucléaires — reportées à des négociations ultérieures.",
-      "source": "CNBC / Axios",
-      "url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html"
+      "short_title": "Détroit Ormuz bloqué",
+      "title": "Crise US-Iran: le détroit d'Ormuz paralysé",
+      "summary": "Depuis le 4 mars 2026, l'Iran a déclaré le détroit d'Ormuz fermé aux nations 'non amies', interrompant 95% du trafic de brut et 99% du GNL en provenance du Golfe. Le conflit a débuté le 28 février après des frappes américano-israéliennes sur des cibles militaires iraniennes, incluant l'élimination du guide suprême Khamenei. Un cessez-le-feu fragile a été signé début avril, mais les niveaux de navigation restent très faibles, maintenant une pression persistante sur les marchés de l'énergie mondiale.",
+      "source": "Britannica / Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Israël-Liban : Hezbollah",
-      "title": "Israël et Liban signent un cessez-le-feu conditionnel rejeté par le Hezbollah",
-      "summary": "Le 4 juin 2026, Washington a facilité un accord conditionnel entre Israël et Liban exigeant le retrait du Hezbollah au nord du fleuve Litani et le déploiement exclusif des forces armées libanaises dans le sud. Le chef du Hezbollah, Naim Qassem, a immédiatement rejeté le texte en exigeant un retrait israélien complet, déclenchant de nouvelles frappes croisées. Des pourparlers supplémentaires sont prévus la semaine du 22 juin.",
-      "source": "Al Jazeera / NPR",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire"
+      "importance": 2,
+      "short_title": "Israël: élections oct 26",
+      "title": "Israël contrôle 60% de Gaza, élections en vue",
+      "summary": "Le Premier ministre Netanyahu a confirmé en mai 2026 qu'Israël contrôle désormais 60% de la bande de Gaza, contre 50% lors du cessez-le-feu de fin 2025. Le Knesset a voté à l'unanimité sa propre dissolution, ouvrant la voie à des élections anticipées en septembre ou octobre 2026. Cette instabilité politique intérieure amplifie les pressions régionales, dans un contexte où les négociations sur Gaza et la présence militaire iranienne restent un enjeu électoral central.",
+      "source": "ZeroFox Geopolitical Report",
+      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "banques_centrales",
+      "subtopic": "europe",
       "importance": 3,
       "short_title": "BCE remonte ses taux",
-      "title": "La BCE remonte ses taux de 25pb à 2,25% — première hausse depuis 2023",
-      "summary": "Le 11 juin 2026, la BCE a relevé ses taux directeurs de 25 points de base à 2,25%, rompant avec trois ans de politique accommodante face à l'inflation énergétique. L'inflation en zone euro a atteint 3,2% en mai, portée par une flambée des prix de l'énergie de +10,9%. La banque centrale révise ses prévisions de croissance à la baisse à 0,8% pour 2026 et anticipe une inflation à 3% sur l'année.",
-      "source": "CNBC / Euronews",
+      "title": "BCE: première hausse depuis 2023, taux à 2,25%",
+      "summary": "Le 11 juin 2026, la BCE a relevé ses taux directeurs de 25 points de base, portant le taux de dépôt à 2,25% — son premier resserrement depuis 2023. La décision a été motivée par les pressions inflationnistes générées par le choc énergétique de la crise d'Ormuz, la BCE révisant ses prévisions d'inflation à 3% pour 2026. L'institution a simultanément abaissé ses prévisions de croissance pour la zone euro, signalant un arbitrage difficile entre lutte contre l'inflation et soutien à l'activité.",
+      "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent : choc Ormuz",
-      "title": "Choc pétrolier mondial depuis la fermeture du Détroit d'Ormuz",
-      "summary": "La guerre irano-américaine a interrompu les flux pétroliers à travers le Détroit d'Ormuz, voie par laquelle transite environ un cinquième des exportations mondiales de pétrole. La prime de risque géopolitique s'est directement transmise au prix du Brent, alimentant l'inflation européenne à son plus haut depuis 2023. La perspective d'un accord de paix a légèrement atténué la pression mi-juin 2026.",
-      "source": "Reuters / Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/crude-oil/news/528185"
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Zone euro: 0,8% en 2026",
+      "title": "Zone euro: croissance revue à 0,8% pour 2026",
+      "summary": "La BCE a révisé à la baisse sa prévision de croissance pour la zone euro à 0,8% en 2026, contre des estimations plus optimistes en début d'année, avant un rebond attendu à 1,2% en 2027 et 1,5% en 2028. Cette dégradation reflète l'impact combiné du choc énergétique dû à la crise d'Ormuz, de la remontée des taux directeurs et d'une érosion de la confiance des entreprises et des consommateurs. Les 'Big Four' de la zone euro affichaient déjà une inflation stubbornement au-dessus de 2% avant le choc énergétique.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/business/2026/05/29/ecb-rate-hike-in-focus-as-eurozones-big-four-report-stubbornly-high-inflation"
     },
     {
       "id": "n05",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 3,
+      "short_title": "Basel III US: CET1 -$87Md",
+      "title": "USA: révision Basel III allège les banques de $87Md CET1",
+      "summary": "Le 19 mars 2026, la Fed, la FDIC et l'OCC ont publié une nouvelle proposition de règles en capital abandonnant le projet controversé de 2023 au profit d'un cadre dit de 'modernisation'. La proposition réduit les exigences en CET1 de 4,8% pour les grandes banques systémiques et de 7,8% pour les banques communautaires, restituant environ 87,7 milliards de dollars au système bancaire américain. Le cadre inclut une révision du FRTB et du CVA (approche SA-CVA/BA-CVA obligatoire dès 2027); la période de consultation se clôt le 18 juin 2026.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+    },
+    {
+      "id": "n06",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
       "short_title": "Claude Fable 5 lancé",
-      "title": "Anthropic lance Claude Fable 5, premier modèle Mythos accessible au grand public",
-      "summary": "Le 9 juin 2026, Anthropic a rendu publiquement disponible Claude Fable 5, son premier modèle de classe Mythos. Il affiche une fenêtre de contexte d'un million de tokens, jusqu'à 128 000 tokens en sortie, et atteint des niveaux frontier sur les benchmarks d'ingénierie logicielle, de recherche scientifique et d'exécution agentique. Des garde-fous automatiques bloquent les réponses dans les domaines sensibles (bio, cyber, chimie) dans moins de 5% des sessions.",
-      "source": "TechCrunch / Anthropic",
-      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
-    },
-    {
-      "id": "n06",
-      "theme": "finance",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic IPO : S-1",
-      "title": "Anthropic dépose confidentiellement son S-1 auprès de la SEC à 965B$ de valorisation",
-      "summary": "Le 1er juin 2026, Anthropic a amorcé son introduction en bourse avec un dépôt confidentiel du S-1 auprès de la SEC, valorisant la société à environ 965 milliards de dollars sur la base d'un revenu annualisé de 47 milliards. La procédure habituelle de révision et de roadshow rend une cotation effective peu probable avant le quatrième trimestre 2026.",
-      "source": "CBS News / Dataconomy",
-      "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/"
+      "title": "Anthropic lance Claude Fable 5 au grand public",
+      "summary": "Le 9 juin 2026, Anthropic a rendu Claude Fable 5 disponible pour le grand public, version publique du modèle Mythos testé depuis avril dans le programme Project Glasswing, qui avait permis à des partenaires cybersécurité de détecter 23 019 vulnérabilités dans plus de 1 000 projets open source. Fable 5 offre une fenêtre de contexte d'un million de tokens, 128k tokens en sortie, avec des performances de pointe en ingénierie logicielle, vision, recherche scientifique et tâches à contexte long. La tarification est fixée à 10$/M tokens en entrée et 50$/M en sortie, disponible sur AWS Bedrock, Vertex AI et Microsoft Foundry.",
+      "source": "Anthropic / TechCrunch",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Project Glasswing",
-      "title": "Anthropic déploie Claude Mythos Preview pour la cybersécurité en accès restreint",
-      "summary": "Via Project Glasswing, Anthropic donne accès anticipé à Claude Mythos Preview à un groupe sélect d'organisations — AWS, Apple, Cisco, Google, JPMorgan Chase, Microsoft — pour identifier et corriger des vulnérabilités critiques dans des logiciels sensibles avant que des acteurs malveillants ne les exploitent. La démarche vise à construire la crédibilité institutionnelle d'Anthropic en matière de sécurité tout en collectant des retours du monde réel sur le modèle.",
-      "source": "MSN / Crescendo AI",
-      "url": "https://www.msn.com/en-in/money/news/anthropic-may-release-claude-mythos-for-public-this-week-here-is-why-it-is-a-big-deal/ar-AA25bkj9"
+      "importance": 3,
+      "short_title": "Anthropic dépose son IPO",
+      "title": "Anthropic dépose confidentiellement son dossier IPO à $965Md",
+      "summary": "Anthropic a confirmé le 1er juin 2026 avoir déposé de manière confidentielle un dossier d'introduction en bourse, quelques jours avant le lancement de Fable 5. L'entreprise avait levé 65 milliards de dollars en Series H, portant sa valorisation à 965 milliards — dépassant désormais OpenAI. La question de la rentabilité demeure centrale: Anthropic affiche une croissance des revenus rapide mais les coûts d'inférence et de R&D restent structurellement élevés.",
+      "source": "CBS News / Dataconomy",
+      "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "frtb",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "FRTB UE reporté à 2027",
-      "title": "La Commission européenne décale l'entrée en vigueur du FRTB au 1er janvier 2027",
-      "summary": "Par acte délégué adopté fin 2025, la Commission européenne a repoussé d'un an l'implémentation du Fundamental Review of the Trading Book, initialement prévu pour début 2026. L'objectif est de maintenir la parité réglementaire internationale face aux retards américains sur Basel III. La PRA britannique a aligné sa propre date, avec un report additionnel du FRTB-IMA au 1er janvier 2028.",
-      "source": "A&O Shearman / Deloitte",
-      "url": "https://www.aoshearman.com/en/insights/financial-services-horizon-report-2026/prudential-regulation-in-2026"
+      "short_title": "OpenAI: GPT-5.5 en place",
+      "title": "OpenAI restructure sa gamme: GPT-5.5 s'impose",
+      "summary": "OpenAI a retiré GPT-5.2 le 12 juin 2026 et planifie la retraite de GPT-4.5 le 27 juin, consolidant son offre autour de GPT-5.5 (Standard, Instant, Pro). GPT-5.5 Instant, déployé début mai comme modèle par défaut de ChatGPT, promet des réponses plus rapides et une réduction des hallucinations. OpenAI a également introduit de nouveaux modèles vocaux capables de raisonner, traduire et transcrire en temps réel.",
+      "source": "OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "EU AI Act : banques",
-      "title": "L'EU AI Act entre en enforcement pour les IA à risque élevé en banque dès août 2026",
-      "summary": "À partir d'août 2026, les systèmes IA utilisés pour le credit scoring, l'évaluation du risque de contrepartie et les décisions d'accès au crédit sont soumis à l'enforcement complet de l'EU AI Act. Les banques devront documenter les audit trails de leurs modèles et agents IA — une exigence particulièrement complexe pour les workflows agentiques qui manquent encore souvent de la traçabilité attendue par les superviseurs.",
-      "source": "EBA / Federal Reserve / BPI",
-      "url": "https://www.eba.europa.eu/sites/default/files/2025-11/d8b999ce-a1d9-4964-9606-971bbc2aaf89/AI%20Act%20implications%20for%20the%20EU%20banking%20sector.pdf"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Spot lit les jauges seul",
+      "title": "Gemini Robotics-ER 1.6 rend Spot autonome en inspection",
+      "summary": "Boston Dynamics a intégré le modèle Gemini Robotics-ER 1.6 de Google DeepMind au robot Spot, lui permettant de lire de manière autonome des jauges de pression, thermomètres et affichages numériques dans des environnements industriels. Ce partenariat, annoncé à CES 2026, produit son premier résultat tangible en moins de trois mois, combinant vision multimodale, compréhension du langage et planification des tâches physiques. L'annonce illustre la convergence rapide entre LLM multimodaux et robotique d'inspection industrielle.",
+      "source": "Boston Dynamics",
+      "url": "https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/"
     },
     {
       "id": "n10",
-      "theme": "sciences",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Phosphatidylcholine aging",
-      "title": "Déclin de la phosphatidylcholine identifié comme cause réversible du vieillissement mitochondrial",
-      "summary": "Des chercheurs du Leibniz Institute on Aging ont montré dans Nature Communications que le déclin naturel de la synthèse de phosphatidylcholine avec l'âge fragmente les membranes mitochondriales et réduit la production d'énergie cellulaire. Résultat clé : une supplémentation même tardive — initiée pendant la vieillesse — rétablit des performances mitochondriales plus juvéniles dans des modèles animaux, ouvrant la voie à des interventions potentiellement réversibles.",
-      "source": "Nature Communications / ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm"
+      "short_title": "Stitch: Figma chute -12%",
+      "title": "Google Stitch fait chuter Figma de 12%",
+      "summary": "La mise à jour de Google Stitch en mars 2026, avec l'introduction d'un canvas vocal et d'un canvas infini, a provoqué une chute de 12% du cours de Figma en quelques séances. L'outil de Google permet désormais de générer et explorer des interfaces UI directement par la voix, ciblant explicitement le marché du prototypage dominé par Figma. En 2026, quatre outils dominent ce segment: Stitch, v0 by Vercel, Lovable et Bolt, redéfinissant les frontières entre design et développement front-end.",
+      "source": "NxCode / EPAM Insights",
+      "url": "https://www.nxcode.io/resources/news/vibe-design-tools-compared-stitch-v0-lovable-2026"
     },
     {
       "id": "n11",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Rapamycine : essai PEARL",
-      "title": "L'essai PEARL confirme la sécurité de la rapamycine sur 48 semaines chez des adultes sains",
-      "summary": "L'essai clinique PEARL, premier RCT longue durée sur la rapamycine à faible dose chez des adultes normalement vieillissants, confirme une bonne tolérance sans effets secondaires graves significatifs. Les femmes sous 10 mg ont montré des gains en masse musculaire, et les participants sous 5 mg par semaine rapportent une amélioration du bien-être émotionnel. Aucune réduction significative de la graisse viscérale n'a été observée et la recherche translationnelle reste à poursuivre.",
-      "source": "PMC / Aging Cell",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12074816/"
+      "short_title": "Vercel $300M Series F",
+      "title": "Vercel lève $300M en Series F, v0 devient v0.app",
+      "summary": "Vercel a levé 300 millions de dollars en Series F à une valorisation de 9,3 milliards, confortant sa position de plateforme de référence pour le déploiement Next.js et les outils IA front-end. En parallèle, v0 a quitté l'URL v0.dev pour v0.app, se repositionnant comme générateur d'applications full-stack React/Next.js production-grade au-delà du simple prototype UI. Cette levée intervient dans un marché des outils de développement piloté par l'IA qui se consolide rapidement autour de quelques acteurs dominants.",
+      "source": "EPAM Insights / WaveSpeed Blog",
+      "url": "https://www.epam.com/insights/ai/blogs/best-vibe-coding-tools-v0-lovable-bolt-replit-and-figma-make"
     },
     {
       "id": "n12",
       "theme": "learn",
-      "subtopic": "ai_tutoring",
+      "subtopic": "metacognition",
       "importance": 2,
-      "short_title": "IA tutorat : paradoxe",
-      "title": "Le tutorat IA améliore les scores procéduraux mais réduit la compréhension profonde de 17%",
-      "summary": "Une revue publiée en 2026 dans des revues à comité de lecture met en évidence un paradoxe cognitif : les systèmes de tutorat IA augmentent la performance procédurale des élèves de 48% mais diminuent leur compréhension conceptuelle de 17% par rapport à l'apprentissage actif classique. La délégation des tâches cognitives à l'IA crée une forme de paresse métacognitive qui nuit à l'apprentissage profond durable.",
-      "source": "Scientific Reports / PMC",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12036037/"
+      "short_title": "IA et atrophie cognitive",
+      "title": "IA générative: risque d'atrophie cognitive alerté par l'OCDE",
+      "summary": "Des chercheurs de l'Université de Technologie de Sydney (mars 2026) et le rapport OCDE Digital Education Outlook 2026 alertent tous deux sur les risques d'un déchargement cognitif excessif vers l'IA: les apprenants qui délèguent trop de tâches intellectuelles développeraient moins leurs capacités de rappel actif, de reconstruction du savoir et d'analyse des erreurs. L'enjeu concerne autant les élèves en classe que les professionnels intégrant des agents IA dans leur travail quotidien. Les experts préconisent une utilisation structurée de l'IA qui préserve l'effort cognitif délibéré.",
+      "source": "UTS / OECD Digital Education Outlook 2026",
+      "url": "https://www.uts.edu.au/news/2026/03/experts-warn-unstructured-ai-use-in-schools-risks-cognitive-atrophy/contentassets/ai-cognitive-offloading-and-implications-for-education.pdf"
     },
     {
       "id": "n13",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "sciences",
+      "subtopic": "physique",
       "importance": 2,
-      "short_title": "CBAM opérationnel",
-      "title": "Le mécanisme européen d'ajustement carbone aux frontières est opérationnel depuis janvier 2026",
-      "summary": "Entré en vigueur le 1er janvier 2026, le CBAM oblige désormais les importateurs européens de ciment, acier, aluminium, fertilisants, électricité et hydrogène à s'enregistrer comme déclarants autorisés et à déclarer leurs émissions intégrées. Les certificats pour les importations 2026 seront achetés rétroactivement à partir de février 2027 au prix moyen de l'ETS, concrétisant pour la première fois une obligation financière directe liée au carbone à la frontière de l'UE.",
-      "source": "Commission Européenne / KPMG",
-      "url": "https://taxation-customs.ec.europa.eu/news/cbam-successfully-entered-force-1-january-2026-2026-01-14_en"
+      "short_title": "JUNO: percée neutrinos",
+      "title": "JUNO publie une percée sur les neutrinos dans Nature",
+      "summary": "L'observatoire JUNO (Jiangmen Underground Neutrino Observatory), enfoui à 700 mètres sous terre dans le sud de la Chine, a publié ses premiers résultats dans Nature le 10 juin 2026, après seulement 59 jours d'opération. Ces résultats améliorent d'un facteur 1,6 la précision des mesures des paramètres d'oscillation des neutrinos par rapport aux meilleures mesures combinées décennales. JUNO vise à terme à déterminer la hiérarchie de masse des neutrinos, l'une des grandes questions ouvertes de la physique des particules.",
+      "source": "ScienceDaily / Nature vol.654",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 1,
-      "short_title": "Consultation énergie UE",
-      "title": "La consultation UE sur le cadre énergétique post-2030 s'est close le 12 juin 2026",
-      "summary": "La Commission européenne a clos le 12 juin 2026 sa consultation publique sur le futur cadre réglementaire des renouvelables post-2030, qui définira les objectifs climatiques européens pour la décennie 2030-2040. Les réponses recueillies alimenteront une proposition législative dans un contexte de tension entre ambition climatique et pressions inflationnistes liées à la crise énergétique.",
-      "source": "Commission Européenne",
-      "url": "https://energy.ec.europa.eu/news/post-2030-renewable-energy-framework-public-consultation-2026-03-20_en"
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 2,
+      "short_title": "Bio-fab cellulaire 2026",
+      "title": "Biotech 2026: biofabrication acellulaire et édition génique",
+      "summary": "MIT Technology Review identifie la biofabrication acellulaire comme une des trois technologies phares de la biotech en 2026: des systèmes modulaires lyophilisés produisent enzymes, protéines et vaccins sans organismes vivants ni fermenteurs (travaux DARPA/NSF). En parallèle, l'édition génomique de nouvelle génération progresse vers des applications humaines directes, et la biologie spatiale à haut débit permet de cartographier les cellules dans leur contexte tissulaire. Ces avancées convergent vers une médecine de précision plus personnalisable et plus rapide à prototyper.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
     },
     {
       "id": "n15",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI : 25B$ ARR",
-      "title": "OpenAI dépasse 25 milliards de dollars de revenus annualisés et prépare son IPO",
-      "summary": "OpenAI a annoncé avoir franchi le cap des 25 milliards de dollars de revenus annualisés en 2026 et explore activement une introduction en bourse potentiellement d'ici fin 2026. Ce cap positionne OpenAI en concurrent direct d'Anthropic sur les marchés de capitaux, les deux labs proposant simultanément leurs thèses d'investissement à des investisseurs institutionnels avides d'exposition à l'IA frontier.",
-      "source": "LLM Stats / Media Reports",
-      "url": "https://llm-stats.com/llm-updates"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "K2VITAL: muscles 65+",
+      "title": "Vitamine K2 améliore le signal neuromusculaire chez les 65+",
+      "summary": "Un essai clinique sur la supplémentation en K2VITAL (vitamine K2 à 240 μg/jour) montre une amélioration mesurable du signal neuromusculaire chez les adultes de 65 ans et plus après des exercices de résistance. Cette découverte s'inscrit dans un champ émergent explorant le rôle de vitamines souvent négligées sur la performance musculaire et la prévention de la sarcopénie liée à l'âge. La vitamine K2 est par ailleurs connue pour son rôle dans la minéralisation osseuse et la santé cardiovasculaire.",
+      "source": "Nutraceutical Business Review",
+      "url": "https://nutraceuticalbusinessreview.com/from-performance-to-healthspan-active-nutrition-solutions-for"
     },
     {
       "id": "n16",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "climat",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Gemini Robotics dans Spot",
-      "title": "Google DeepMind intègre Gemini Robotics-ER 1.6 dans le robot quadrupède Spot de Boston Dynamics",
-      "summary": "Boston Dynamics a annoncé l'intégration de Gemini Robotics-ER 1.6 de Google DeepMind dans son robot Spot et sa plateforme d'inspection visuelle Orbit. Le modèle permet une navigation autonome, une prise de décision contextuelle et un apprentissage continu dans des environnements industriels complexes, incarnant le passage de l'IA générative à l'IA physique embarquée à l'échelle.",
-      "source": "DeepMind / Crescendo AI",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+      "short_title": "Ormuz accélère transition",
+      "title": "Crise Ormuz: argument décisif pour la transition énergétique",
+      "summary": "La quasi-fermeture du détroit d'Ormuz a rappelé que 25% du commerce mondial de pétrole et 20% du GNL transitent par ce seul point de passage, exposant la vulnérabilité structurelle des économies dépendantes des fossiles. Des analystes du secteur notent que cet épisode constitue l'argument économique le plus fort jamais vu en faveur d'une accélération de la transition vers les énergies renouvelables domestiques. Les investissements dans les énergies propres continuent de croître en 2026 malgré l'instabilité géopolitique, avec une dynamique renforcée par la crise.",
+      "source": "Energy in Demand / Wood Mackenzie",
+      "url": "https://energyindemand.com/2026/05/31/energy-in-demand-news-may-31-june-1-2026/"
     },
     {
       "id": "n17",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Meta : 130B$ capex IA",
-      "title": "Meta annonce 115-135 milliards de dollars d'investissement IA pour 2026",
-      "summary": "Meta a annoncé des dépenses en capital liées à l'IA comprises entre 115 et 135 milliards de dollars pour l'exercice 2026, quasi-doublement par rapport à 2025. Cet effort massif d'infrastructure, piloté par les Superintelligence Labs d'Alexandr Wang, vise à combler le retard de Meta sur OpenAI et Google dans la course aux modèles frontier, mais les résultats restent encore en deçà des leaders.",
-      "source": "CNBC / TechCrunch",
-      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/"
-    },
-    {
-      "id": "n18",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Copilot : usage-based",
-      "title": "GitHub Copilot bascule en facturation à l'usage depuis le 1er juin 2026",
-      "summary": "GitHub Copilot a abandonné son modèle d'abonnement forfaitaire pour une facturation à l'usage depuis le 1er juin 2026, alignant son économie sur celle des APIs LLM. Ce changement force les équipes de développement à mesurer précisément leur utilisation dans un marché où Cursor, v0 (Vercel) et Bolt.new adoptent des modèles similaires, signalant une maturation économique du secteur des outils de développement IA.",
-      "source": "LogRocket / AI Dev Tools Rankings",
-      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/"
+      "short_title": "6 pays UE vs réforme ETS",
+      "title": "6 pays d'Europe de l'Est contestent la réforme du marché carbone UE",
+      "summary": "La République tchèque, la Bulgarie, la Pologne, la Roumanie, la Grèce et la Slovaquie ont conjointement demandé une augmentation des quotas d'émission dans le SEQE/ETS de l'UE, s'opposant à la réduction de 50% des allocations pour les secteurs chaleur et combustibles. Cette opposition illustre la tension persistante entre les objectifs climatiques européens pour 2030 et les réalités économiques des pays encore très dépendants du charbon et du gaz. L'UE entre en 2026 dans une phase décisive de révision de son architecture climatique et énergétique post-2030.",
+      "source": "Clean Energy Wire",
+      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Le conflit irano-américain et la fermeture du Détroit d'Ormuz ont créé un choc d'offre pétrolier mondial : la prime de risque géopolitique s'est directement transmise au prix du Brent, alimentant une inflation énergétique record en Europe."
-    },
-    {
-      "source": "n04",
       "target": "n03",
       "type": "cause",
-      "explanation": "La flambée des prix de l'énergie (+10,9% en zone euro en mai 2026) a propulsé l'inflation à 3,2%, forçant la BCE à abandonner sa posture accommodante et à relever ses taux pour la première fois depuis 2023."
+      "explanation": "La quasi-fermeture du détroit d'Ormuz a réduit de 95% les flux de brut du Golfe, provoquant un choc énergétique qui relance l'inflation en zone euro et contraint la BCE à remonter ses taux pour la première fois depuis 2023."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La remontée des taux de la BCE alourdit le coût du crédit et déprime la demande intérieure, conduisant la BCE elle-même à réviser sa prévision de croissance pour la zone euro à seulement 0,8% en 2026."
+    },
+    {
+      "source": "n01",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "La crise d'Ormuz expose le risque systémique de la dépendance aux fossiles concentrée en un point de passage unique, transformant ce choc géopolitique en argument économique de premier ordre pour accélérer la transition énergétique."
     },
     {
       "source": "n02",
       "target": "n01",
       "type": "meme_sujet",
-      "explanation": "Les deux crises s'inscrivent dans le même arc de déstabilisation du Moyen-Orient : les négociations irano-américaines sur Ormuz conditionnent indirectement les rapports de force entre Israël, Liban et Hezbollah dans la région."
-    },
-    {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "Le lancement public de Claude Fable 5 le 9 juin — une semaine après le dépôt du S-1 — est une démonstration de force calculée : Anthropic établit sa supériorité technique sur les benchmarks au moment exact où les investisseurs évaluent sa valorisation à 965 milliards."
+      "explanation": "L'expansion de l'occupation israélienne à Gaza et les tensions israélo-iraniennes forment un même arc de déstabilisation régionale qui a abouti au déclenchement du conflit US-Iran en février 2026."
     },
     {
       "source": "n06",
-      "target": "n15",
-      "type": "tension",
-      "explanation": "Anthropic (S-1 déposé, 965B$) et OpenAI (25B$ ARR, IPO envisagée) entrent simultanément en compétition sur les marchés publics avec deux thèses d'investissement distinctes, ce qui risque de créer une pression mutuelle sur leurs valorisations respectives."
+      "target": "n07",
+      "type": "cause",
+      "explanation": "La démonstration des capacités de Mythos/Fable 5 — détection de 23 000 vulnérabilités, contexte 1M tokens, performance de pointe — a consolidé le positionnement enterprise d'Anthropic et précipité le dépôt de son dossier IPO confidentiel."
     },
     {
-      "source": "n09",
+      "source": "n06",
       "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "L'enforcement EU AI Act (août 2026) et le report du FRTB (2027) imposent aux banques deux chantiers réglementaires majeurs en parallèle — gouvernance des modèles IA et refonte des risques de marché — créant une concurrence interne critique pour les ressources de conformité."
+      "type": "tension",
+      "explanation": "Le lancement de Claude Fable 5 avec des performances supérieures sur le coding et la vision crée une pression compétitive directe sur OpenAI, qui accélère la rationalisation de sa gamme en retirant GPT-4.5 et GPT-5.2 au profit de GPT-5.5."
     },
     {
       "source": "n05",
-      "target": "n12",
+      "target": "n03",
       "type": "tension",
-      "explanation": "L'accessibilité croissante des modèles frontier comme Claude Fable 5 accélère leur adoption dans l'éducation, mais la recherche en sciences cognitives montre que cette commoditisation du raisonnement externalisé risque de dégrader durablement la profondeur d'apprentissage des utilisateurs."
+      "explanation": "Les régulateurs américains allègent les exigences en capital des banques (libérant $87,7Md en CET1) tandis que la BCE resserre simultanément la politique monétaire en Europe, créant une divergence transatlantique sur la gestion du risque financier."
+    },
+    {
+      "source": "n12",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "La recherche sur l'atrophie cognitive liée au déchargement excessif vers l'IA s'intensifie précisément au moment où Fable 5 devient capable d'accomplir de façon autonome la quasi-totalité des tâches intellectuelles complexes."
     },
     {
       "source": "n10",
       "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "Phosphatidylcholine (voie mitochondriale/lipidique) et rapamycine (voie mTOR) ciblent deux mécanismes distincts du vieillissement cellulaire qui pourraient devenir complémentaires dans des protocoles combinés contre le déclin biologique lié à l'âge."
-    },
-    {
-      "source": "n13",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Le CBAM et la hausse des taux de la BCE exercent une double pression sur l'économie réelle européenne : l'un renchérit le coût des importations industrielles carbone-intensives, l'autre durcit les conditions de crédit, amplifiant ensemble les risques de stagflation."
-    },
-    {
-      "source": "n07",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Project Glasswing (Mythos Preview en accès restreint) et Claude Fable 5 (grand public) incarnent la stratégie duale d'Anthropic : déploiement large pour la croissance des revenus avant l'IPO, déploiement contrôlé pour bâtir la crédibilité institutionnelle auprès des régulateurs."
-    },
-    {
-      "source": "n17",
-      "target": "n15",
       "type": "tension",
-      "explanation": "Meta investit 115-135B$ pour rattraper OpenAI et Anthropic en capacité de calcul, mais OpenAI continue d'accélérer ses revenus en parallèle, illustrant que l'avance des leaders en IA frontier ne se réduit pas proportionnellement aux investissements massifs des challengers."
+      "explanation": "Google Stitch (design vocal, canvas infini, impact -12% Figma) et Vercel v0.app (full-stack Next.js production) se disputent le marché du prototypage UI/dev, comprimant l'espace des acteurs spécialisés comme Figma et les outils mono-usage."
     },
     {
-      "source": "n14",
-      "target": "n13",
-      "type": "cause",
-      "explanation": "La consultation post-2030 définira les règles de la prochaine phase de transition dont le CBAM opérationnel est le premier outil concret — la cohérence entre les deux textes sera déterminante pour la lisibilité réglementaire à long terme des industriels européens."
+      "source": "n16",
+      "target": "n17",
+      "type": "meme_sujet",
+      "explanation": "La crise d'Ormuz et la résistance de six pays de l'Est à la réforme ETS traitent de la même question structurelle — la vitesse de sortie des fossiles — avec des acteurs économiques qui résistent au rythme imposé par les objectifs européens de décarbonation."
     }
   ]
 }

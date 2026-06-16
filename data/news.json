@@ -1,254 +1,272 @@
 {
-  "generated_at": "2026-06-15T06:00:00Z",
+  "generated_at": "2026-06-16T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Détroit Ormuz bloqué",
-      "title": "Crise US-Iran: le détroit d'Ormuz paralysé",
-      "summary": "Depuis le 4 mars 2026, l'Iran a déclaré le détroit d'Ormuz fermé aux nations 'non amies', interrompant 95% du trafic de brut et 99% du GNL en provenance du Golfe. Le conflit a débuté le 28 février après des frappes américano-israéliennes sur des cibles militaires iraniennes, incluant l'élimination du guide suprême Khamenei. Un cessez-le-feu fragile a été signé début avril, mais les niveaux de navigation restent très faibles, maintenant une pression persistante sur les marchés de l'énergie mondiale.",
-      "source": "Britannica / Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+      "short_title": "Iran-US MOU Hormuz",
+      "title": "Iran et USA annoncent un mémorandum pour sortir du conflit",
+      "summary": "Le 14 juin 2026, les négociateurs américains et iraniens ont annoncé un mémorandum d'accord devant être signé formellement le 19 juin, mettant fin à près de quatre mois de conflit. Trump a levé immédiatement le blocus naval américain sur les ports iraniens. L'accord prévoirait un démantèlement progressif du programme nucléaire iranien en échange d'incitations économiques, bien que des divergences sur les termes exacts persistent entre les deux parties.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Israël: élections oct 26",
-      "title": "Israël contrôle 60% de Gaza, élections en vue",
-      "summary": "Le Premier ministre Netanyahu a confirmé en mai 2026 qu'Israël contrôle désormais 60% de la bande de Gaza, contre 50% lors du cessez-le-feu de fin 2025. Le Knesset a voté à l'unanimité sa propre dissolution, ouvrant la voie à des élections anticipées en septembre ou octobre 2026. Cette instabilité politique intérieure amplifie les pressions régionales, dans un contexte où les négociations sur Gaza et la présence militaire iranienne restent un enjeu électoral central.",
-      "source": "ZeroFox Geopolitical Report",
-      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
+      "short_title": "Brent recule à $87",
+      "title": "Le Brent chute à $87.3 sur les espoirs de paix iranienne",
+      "summary": "Le 14 juin, le Brent a reculé de 3,4% à 87,3 dollars, les marchés anticipant la réouverture prochaine du détroit d'Ormuz suite aux annonces diplomatiques. Le cours reste néanmoins plus de 20% au-dessus de son niveau d'avant-conflit, les analystes prévoyant une fourchette de 80 à 90 dollars en fin d'année en raison des dommages persistants aux infrastructures pétrolières iraniennes.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "europe",
+      "subtopic": "banques_centrales",
       "importance": 3,
-      "short_title": "BCE remonte ses taux",
-      "title": "BCE: première hausse depuis 2023, taux à 2,25%",
-      "summary": "Le 11 juin 2026, la BCE a relevé ses taux directeurs de 25 points de base, portant le taux de dépôt à 2,25% — son premier resserrement depuis 2023. La décision a été motivée par les pressions inflationnistes générées par le choc énergétique de la crise d'Ormuz, la BCE révisant ses prévisions d'inflation à 3% pour 2026. L'institution a simultanément abaissé ses prévisions de croissance pour la zone euro, signalant un arbitrage difficile entre lutte contre l'inflation et soutien à l'activité.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html"
+      "short_title": "ECB hausse 25bps",
+      "title": "La BCE relève ses taux pour la première fois depuis 2023",
+      "summary": "Le 11 juin 2026, la Banque centrale européenne a relevé son taux directeur de 25 points de base à 2,25%, invoquant une inflation en zone euro à 3,2% en mai, alimentée par le choc pétrolier de la guerre Iran-USA. C'est le premier resserrement monétaire de la BCE depuis 2023, mettant fin à son cycle d'assouplissement. Les marchés débattent désormais d'une pause possible en septembre si les prix de l'énergie se stabilisent.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/business/2026/06/11/ecb-raises-interest-rates-for-the-first-time-in-three-years-as-iran-war-fuels-inflation"
     },
     {
       "id": "n04",
-      "theme": "finance",
+      "theme": "geopol",
       "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Zone euro: 0,8% en 2026",
-      "title": "Zone euro: croissance revue à 0,8% pour 2026",
-      "summary": "La BCE a révisé à la baisse sa prévision de croissance pour la zone euro à 0,8% en 2026, contre des estimations plus optimistes en début d'année, avant un rebond attendu à 1,2% en 2027 et 1,5% en 2028. Cette dégradation reflète l'impact combiné du choc énergétique dû à la crise d'Ormuz, de la remontée des taux directeurs et d'une érosion de la confiance des entreprises et des consommateurs. Les 'Big Four' de la zone euro affichaient déjà une inflation stubbornement au-dessus de 2% avant le choc énergétique.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/business/2026/05/29/ecb-rate-hike-in-focus-as-eurozones-big-four-report-stubbornly-high-inflation"
+      "importance": 3,
+      "short_title": "G7 Évian sommet",
+      "title": "G7 à Évian : premier sommet depuis le début de la guerre Iran-USA",
+      "summary": "Le 52e sommet du G7 se tient du 15 au 17 juin à Évian-les-Bains en France sous présidence française. C'est le premier rassemblement des grandes démocraties depuis le déclenchement du conflit Iran-USA en février. L'agenda couvre le suivi du MOU irano-américain, les négociations de paix en Ukraine et un volet développement avec l'Inde, le Brésil, la Corée du Sud et la Syrie comme pays invités.",
+      "source": "Conseil de l'UE",
+      "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/"
     },
     {
       "id": "n05",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "Basel III US: CET1 -$87Md",
-      "title": "USA: révision Basel III allège les banques de $87Md CET1",
-      "summary": "Le 19 mars 2026, la Fed, la FDIC et l'OCC ont publié une nouvelle proposition de règles en capital abandonnant le projet controversé de 2023 au profit d'un cadre dit de 'modernisation'. La proposition réduit les exigences en CET1 de 4,8% pour les grandes banques systémiques et de 7,8% pour les banques communautaires, restituant environ 87,7 milliards de dollars au système bancaire américain. Le cadre inclut une révision du FRTB et du CVA (approche SA-CVA/BA-CVA obligatoire dès 2027); la période de consultation se clôt le 18 juin 2026.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Ukraine paix G7 Évian",
+      "title": "G7 Évian : Trump face au plan de paix ukrainien en cinq points",
+      "summary": "À Évian, Trump examine le plan de paix en cinq points élaboré par la France, l'Allemagne, le Royaume-Uni et l'Ukraine lors de pourparlers londoniens récents. L'Europe pousse pour un format quadripartite de négociation (Ukraine, Russie, USA, Europe), quand Washington semble préférer des discussions bilatérales directes entre Kiev et Moscou. La divergence sur le format conditionne les chances de progrès tangible.",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/78140"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Claude Fable 5 lancé",
-      "title": "Anthropic lance Claude Fable 5 au grand public",
-      "summary": "Le 9 juin 2026, Anthropic a rendu Claude Fable 5 disponible pour le grand public, version publique du modèle Mythos testé depuis avril dans le programme Project Glasswing, qui avait permis à des partenaires cybersécurité de détecter 23 019 vulnérabilités dans plus de 1 000 projets open source. Fable 5 offre une fenêtre de contexte d'un million de tokens, 128k tokens en sortie, avec des performances de pointe en ingénierie logicielle, vision, recherche scientifique et tâches à contexte long. La tarification est fixée à 10$/M tokens en entrée et 50$/M en sortie, disponible sur AWS Bedrock, Vertex AI et Microsoft Foundry.",
-      "source": "Anthropic / TechCrunch",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      "theme": "geopol",
+      "subtopic": "taiwan",
+      "importance": 2,
+      "short_title": "Taiwan Pratas standoff",
+      "title": "Standoff de 30 heures entre garde-côtes taïwanais et chinois aux Pratas",
+      "summary": "Début juin 2026, des garde-côtes taïwanais et chinois se sont affrontés verbalement pendant plus de 30 heures aux îles Pratas (Dongsha), atoll faiblement défendu au nord de la mer de Chine méridionale. C'est la sixième incursion chinoise dans ces eaux en 2026, Pékin adoptant un discours inédit de revendication explicite de souveraineté sur ce territoire administré par Taïwan.",
+      "source": "Reuters",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/05/taiwan-china-coast-guards-in-renewed-standoff-at-top-of-south-china-sea"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic dépose son IPO",
-      "title": "Anthropic dépose confidentiellement son dossier IPO à $965Md",
-      "summary": "Anthropic a confirmé le 1er juin 2026 avoir déposé de manière confidentielle un dossier d'introduction en bourse, quelques jours avant le lancement de Fable 5. L'entreprise avait levé 65 milliards de dollars en Series H, portant sa valorisation à 965 milliards — dépassant désormais OpenAI. La question de la rentabilité demeure centrale: Anthropic affiche une croissance des revenus rapide mais les coûts d'inférence et de R&D restent structurellement élevés.",
-      "source": "CBS News / Dataconomy",
-      "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "Basel III US deadline",
+      "title": "US Basel III Endgame : clôture des commentaires le 18 juin",
+      "summary": "La consultation publique sur la révision bâloise américaine, proposée en mars 2026, se clôture le 18 juin avec plus de 200 questions adressées au secteur. Le nouveau projet allège la version de 2023 : suppression du 'dual stack', réduction du capital CET1 d'environ 5% pour les grandes banques, et plus grande liberté accordée aux modèles internes de risque de marché (FRTB-IMA). Le secteur bancaire avait massivement critiqué la proposition initiale.",
+      "source": "Bloomberg Professional",
+      "url": "https://www.bloomberg.com/professional/insights/financial-services/the-u-s-basel-iii-endgame-enters-a-new-phase/"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI: GPT-5.5 en place",
-      "title": "OpenAI restructure sa gamme: GPT-5.5 s'impose",
-      "summary": "OpenAI a retiré GPT-5.2 le 12 juin 2026 et planifie la retraite de GPT-4.5 le 27 juin, consolidant son offre autour de GPT-5.5 (Standard, Instant, Pro). GPT-5.5 Instant, déployé début mai comme modèle par défaut de ChatGPT, promet des réponses plus rapides et une réduction des hallucinations. OpenAI a également introduit de nouveaux modèles vocaux capables de raisonner, traduire et transcrire en temps réel.",
-      "source": "OpenAI Help Center",
-      "url": "https://help.openai.com/en/articles/9624314-model-release-notes"
+      "importance": 3,
+      "short_title": "Fable5/Mythos5 suspendu",
+      "title": "Directive US : Anthropic suspend globalement Fable 5 et Mythos 5",
+      "summary": "Le 12 juin 2026 à 17h21 ET, Anthropic a désactivé Claude Fable 5 et Mythos 5 sur l'ensemble de ses plateformes suite à une directive de contrôle à l'exportation du gouvernement américain, fondée sur un risque de jailbreak qu'Anthropic juge mineur. L'impossibilité de filtrer les accès par nationalité en temps réel sur AWS Bedrock, Google Cloud, Microsoft Foundry et l'API directe a imposé une coupure universelle. C'est la première fois qu'un gouvernement force l'arrêt mondial d'un modèle frontier.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Spot lit les jauges seul",
-      "title": "Gemini Robotics-ER 1.6 rend Spot autonome en inspection",
-      "summary": "Boston Dynamics a intégré le modèle Gemini Robotics-ER 1.6 de Google DeepMind au robot Spot, lui permettant de lire de manière autonome des jauges de pression, thermomètres et affichages numériques dans des environnements industriels. Ce partenariat, annoncé à CES 2026, produit son premier résultat tangible en moins de trois mois, combinant vision multimodale, compréhension du langage et planification des tâches physiques. L'annonce illustre la convergence rapide entre LLM multimodaux et robotique d'inspection industrielle.",
-      "source": "Boston Dynamics",
-      "url": "https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/"
+      "short_title": "Glasswing 150 orgs",
+      "title": "Anthropic étend Glasswing à 150 organisations dans 15 pays",
+      "summary": "Début juin 2026, Anthropic a élargi Project Glasswing à 150 nouvelles organisations couvrant 15 pays, dont NATO, ENISA, Samsung, Okta et des opérateurs d'infrastructures critiques dans l'énergie, la santé et l'eau. Les 50 premiers partenaires avaient déjà identifié plus de 10 000 vulnérabilités critiques via Claude Mythos. Cette expansion massive a mis le modèle sous haute surveillance des agences gouvernementales américaines.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "design",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Stitch: Figma chute -12%",
-      "title": "Google Stitch fait chuter Figma de 12%",
-      "summary": "La mise à jour de Google Stitch en mars 2026, avec l'introduction d'un canvas vocal et d'un canvas infini, a provoqué une chute de 12% du cours de Figma en quelques séances. L'outil de Google permet désormais de générer et explorer des interfaces UI directement par la voix, ciblant explicitement le marché du prototypage dominé par Figma. En 2026, quatre outils dominent ce segment: Stitch, v0 by Vercel, Lovable et Bolt, redéfinissant les frontières entre design et développement front-end.",
-      "source": "NxCode / EPAM Insights",
-      "url": "https://www.nxcode.io/resources/news/vibe-design-tools-compared-stitch-v0-lovable-2026"
+      "short_title": "GPT-Rosalind màj",
+      "title": "OpenAI met à jour GPT-Rosalind et l'ouvre à plus d'organisations",
+      "summary": "Le 3 juin 2026, OpenAI a publié une mise à jour majeure de GPT-Rosalind, son modèle spécialisé en sciences du vivant, et a ouvert l'accès à des organisations éligibles dans le monde entier pour la première fois. Le modèle surpasse GPT-5.5 sur tous les benchmarks life sciences tout en consommant 31% moins de tokens en génomique. Amgen, Moderna, l'Allen Institute et Thermo Fisher Scientific figurent parmi les premiers partenaires.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Vercel $300M Series F",
-      "title": "Vercel lève $300M en Series F, v0 devient v0.app",
-      "summary": "Vercel a levé 300 millions de dollars en Series F à une valorisation de 9,3 milliards, confortant sa position de plateforme de référence pour le déploiement Next.js et les outils IA front-end. En parallèle, v0 a quitté l'URL v0.dev pour v0.app, se repositionnant comme générateur d'applications full-stack React/Next.js production-grade au-delà du simple prototype UI. Cette levée intervient dans un marché des outils de développement piloté par l'IA qui se consolide rapidement autour de quelques acteurs dominants.",
-      "source": "EPAM Insights / WaveSpeed Blog",
-      "url": "https://www.epam.com/insights/ai/blogs/best-vibe-coding-tools-v0-lovable-bolt-replit-and-figma-make"
+      "subtopic": "ai_labs",
+      "importance": 1,
+      "short_title": "OpenAI Partner Network",
+      "title": "OpenAI Partner Network : 150M$ pour l'adoption enterprise",
+      "summary": "Le 14 juin 2026, OpenAI a lancé son réseau de partenaires doté de 150 millions de dollars pour accompagner les organisations dans leur transformation IA. L'initiative cible les intégrateurs et grandes entreprises souhaitant industrialiser le déploiement des modèles OpenAI, dans une stratégie de verrouillage écosystémique face à Anthropic et Google.",
+      "source": "OpenAI",
+      "url": "https://openai.com/news/product-releases/"
     },
     {
       "id": "n12",
       "theme": "learn",
-      "subtopic": "metacognition",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "IA et atrophie cognitive",
-      "title": "IA générative: risque d'atrophie cognitive alerté par l'OCDE",
-      "summary": "Des chercheurs de l'Université de Technologie de Sydney (mars 2026) et le rapport OCDE Digital Education Outlook 2026 alertent tous deux sur les risques d'un déchargement cognitif excessif vers l'IA: les apprenants qui délèguent trop de tâches intellectuelles développeraient moins leurs capacités de rappel actif, de reconstruction du savoir et d'analyse des erreurs. L'enjeu concerne autant les élèves en classe que les professionnels intégrant des agents IA dans leur travail quotidien. Les experts préconisent une utilisation structurée de l'IA qui préserve l'effort cognitif délibéré.",
-      "source": "UTS / OECD Digital Education Outlook 2026",
-      "url": "https://www.uts.edu.au/news/2026/03/experts-warn-unstructured-ai-use-in-schools-risks-cognitive-atrophy/contentassets/ai-cognitive-offloading-and-implications-for-education.pdf"
+      "short_title": "OpenAI Academy",
+      "title": "OpenAI Academy : préparer les travailleurs à l'ère de l'IA",
+      "summary": "Le 14 juin 2026, OpenAI a lancé OpenAI Academy avec des cours ciblant la transition professionnelle vers une économie IA. L'initiative s'appuie sur les données de l'OpenAI Economic Research Exchange pour identifier les métiers les plus exposés à l'automatisation et proposer des formations adaptées. Elle s'inscrit dans une stratégie de légitimation sociale face aux critiques sur les impacts de l'IA sur l'emploi.",
+      "source": "OpenAI",
+      "url": "https://openai.com/news/"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "physique",
+      "theme": "climat",
+      "subtopic": "cop31",
       "importance": 2,
-      "short_title": "JUNO: percée neutrinos",
-      "title": "JUNO publie une percée sur les neutrinos dans Nature",
-      "summary": "L'observatoire JUNO (Jiangmen Underground Neutrino Observatory), enfoui à 700 mètres sous terre dans le sud de la Chine, a publié ses premiers résultats dans Nature le 10 juin 2026, après seulement 59 jours d'opération. Ces résultats améliorent d'un facteur 1,6 la précision des mesures des paramètres d'oscillation des neutrinos par rapport aux meilleures mesures combinées décennales. JUNO vise à terme à déterminer la hiérarchie de masse des neutrinos, l'une des grandes questions ouvertes de la physique des particules.",
-      "source": "ScienceDaily / Nature vol.654",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
+      "short_title": "SB64 Bonn COP31",
+      "title": "SB64 à Bonn : les négociateurs préparent la COP31 en Turquie",
+      "summary": "Les organes subsidiaires de la CCNUCC tiennent leur 64e session à Bonn du 8 au 18 juin 2026 pour préparer la COP31 prévue à Antalya en novembre. L'agenda porte sur le financement climatique, la transition hors des combustibles fossiles et la mise en œuvre du mécanisme de transition juste. Les délégués font pression pour que le G7 d'Évian formule des engagements financiers clairs, dans un contexte où les crises géopolitiques dominent l'agenda des dirigeants.",
+      "source": "IISD Earth Negotiations Bulletin",
+      "url": "https://enb.iisd.org/bonn-climate-change-conference-sb64-sbi64-sbsta64"
     },
     {
       "id": "n14",
       "theme": "sciences",
-      "subtopic": "biotech",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Bio-fab cellulaire 2026",
-      "title": "Biotech 2026: biofabrication acellulaire et édition génique",
-      "summary": "MIT Technology Review identifie la biofabrication acellulaire comme une des trois technologies phares de la biotech en 2026: des systèmes modulaires lyophilisés produisent enzymes, protéines et vaccins sans organismes vivants ni fermenteurs (travaux DARPA/NSF). En parallèle, l'édition génomique de nouvelle génération progresse vers des applications humaines directes, et la biologie spatiale à haut débit permet de cartographier les cellules dans leur contexte tissulaire. Ces avancées convergent vers une médecine de précision plus personnalisable et plus rapide à prototyper.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/"
+      "short_title": "Phosphatidylcholine âge",
+      "title": "La phosphatidylcholine : clé du vieillissement mitochondrial",
+      "summary": "Une étude publiée dans Nature Communications (18 avril 2026) démontre que le déclin de synthèse de la phosphatidylcholine est un déclencheur central du dysfonctionnement mitochondrial lié à l'âge. La supplémentation en phosphatidylcholine restaure l'intégrité mitochondriale chez le nématode et dans des cultures cellulaires humaines, même lorsqu'elle est initiée à l'âge mûr ou avancé, ouvrant une voie concrète pour une intervention anti-âge accessible.",
+      "source": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-71508-7"
     },
     {
       "id": "n15",
       "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "K2VITAL: muscles 65+",
-      "title": "Vitamine K2 améliore le signal neuromusculaire chez les 65+",
-      "summary": "Un essai clinique sur la supplémentation en K2VITAL (vitamine K2 à 240 μg/jour) montre une amélioration mesurable du signal neuromusculaire chez les adultes de 65 ans et plus après des exercices de résistance. Cette découverte s'inscrit dans un champ émergent explorant le rôle de vitamines souvent négligées sur la performance musculaire et la prévention de la sarcopénie liée à l'âge. La vitamine K2 est par ailleurs connue pour son rôle dans la minéralisation osseuse et la santé cardiovasculaire.",
-      "source": "Nutraceutical Business Review",
-      "url": "https://nutraceuticalbusinessreview.com/from-performance-to-healthspan-active-nutrition-solutions-for"
+      "subtopic": "nutrition",
+      "importance": 2,
+      "short_title": "UPF et déclin cognitif",
+      "title": "Ultra-transformés : l'équivalent de 7 à 10 ans de vieillissement cérébral",
+      "summary": "Une étude australienne portant sur 2 192 adultes de 40 à 70 ans montre qu'une hausse de 10% de la part des aliments ultra-transformés dans l'alimentation équivaut à 7 à 10 ans de vieillissement cérébral accéléré. L'effet sur l'attention et la mémoire s'observe même lorsque l'alimentation est par ailleurs saine, signalant un impact spécifique et indépendant des UPF sur la santé cérébrale.",
+      "source": "Alzheimer's & Dementia",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70335"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "energie",
+      "theme": "finance",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Ormuz accélère transition",
-      "title": "Crise Ormuz: argument décisif pour la transition énergétique",
-      "summary": "La quasi-fermeture du détroit d'Ormuz a rappelé que 25% du commerce mondial de pétrole et 20% du GNL transitent par ce seul point de passage, exposant la vulnérabilité structurelle des économies dépendantes des fossiles. Des analystes du secteur notent que cet épisode constitue l'argument économique le plus fort jamais vu en faveur d'une accélération de la transition vers les énergies renouvelables domestiques. Les investissements dans les énergies propres continuent de croître en 2026 malgré l'instabilité géopolitique, avec une dynamique renforcée par la crise.",
-      "source": "Energy in Demand / Wood Mackenzie",
-      "url": "https://energyindemand.com/2026/05/31/energy-in-demand-news-may-31-june-1-2026/"
+      "short_title": "Nouveau président Fed",
+      "title": "Trump nomme un successeur à Powell : pivot accommodant attendu",
+      "summary": "Le mandat de Jerome Powell à la présidence de la Fed expire en juin 2026, et la nomination par Trump d'un successeur plus accommodant est imminente. Les marchés anticipent un glissement des taux directeurs américains de 3,5-3,75% vers environ 3% d'ici fin 2026. Un virage trop rapide vers l'assouplissement créerait une divergence transatlantique notable avec la BCE, qui vient au contraire de relever ses taux.",
+      "source": "ING Think",
+      "url": "https://think.ing.com/articles/central-banks-predictions-for-2026/"
     },
     {
       "id": "n17",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "6 pays UE vs réforme ETS",
-      "title": "6 pays d'Europe de l'Est contestent la réforme du marché carbone UE",
-      "summary": "La République tchèque, la Bulgarie, la Pologne, la Roumanie, la Grèce et la Slovaquie ont conjointement demandé une augmentation des quotas d'émission dans le SEQE/ETS de l'UE, s'opposant à la réduction de 50% des allocations pour les secteurs chaleur et combustibles. Cette opposition illustre la tension persistante entre les objectifs climatiques européens pour 2030 et les réalités économiques des pays encore très dépendants du charbon et du gaz. L'UE entre en 2026 dans une phase décisive de révision de son architecture climatique et énergétique post-2030.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Guerre Iran choc pétrole",
+      "title": "La guerre Iran-USA : le choc pétrolier systémique de 2026",
+      "summary": "Depuis les frappes américano-israéliennes du 28 février 2026, la guerre contre l'Iran a fermé le détroit d'Ormuz et fait bondir le Brent de 43% en quelques semaines, dépassant 115 dollars au pic. Ce choc énergétique a alimenté l'inflation mondiale, contraint les banques centrales à ajuster leur trajectoire et pesé sur la croissance. Les dommages aux infrastructures pétrolières iraniennes laisseront des séquelles durables même après la réouverture du détroit.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html"
     }
   ],
   "edges": [
     {
-      "source": "n01",
+      "source": "n17",
       "target": "n03",
       "type": "cause",
-      "explanation": "La quasi-fermeture du détroit d'Ormuz a réduit de 95% les flux de brut du Golfe, provoquant un choc énergétique qui relance l'inflation en zone euro et contraint la BCE à remonter ses taux pour la première fois depuis 2023."
+      "explanation": "La fermeture d'Ormuz et la flambée du Brent ont alimenté une inflation européenne à 3,2% en mai 2026, contraignant la BCE à interrompre son cycle accommodant et à relever ses taux pour la première fois depuis 2023."
     },
     {
-      "source": "n03",
-      "target": "n04",
+      "source": "n17",
+      "target": "n01",
       "type": "cause",
-      "explanation": "La remontée des taux de la BCE alourdit le coût du crédit et déprime la demande intérieure, conduisant la BCE elle-même à réviser sa prévision de croissance pour la zone euro à seulement 0,8% en 2026."
+      "explanation": "Le coût économique insoutenable du conflit (Brent à $115+, commerce maritime perturbé, inflation mondiale) a rendu la négociation incontournable pour les deux parties, aboutissant au MOU du 14 juin."
     },
     {
       "source": "n01",
-      "target": "n16",
+      "target": "n02",
       "type": "cause",
-      "explanation": "La crise d'Ormuz expose le risque systémique de la dépendance aux fossiles concentrée en un point de passage unique, transformant ce choc géopolitique en argument économique de premier ordre pour accélérer la transition énergétique."
+      "explanation": "L'annonce du MOU irano-américain et la levée du blocus naval ont immédiatement ramené le Brent à $87.3 (-3,4% le 14 juin), les marchés anticipant la réouverture prochaine du détroit d'Ormuz."
     },
     {
       "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "L'expansion de l'occupation israélienne à Gaza et les tensions israélo-iraniennes forment un même arc de déstabilisation régionale qui a abouti au déclenchement du conflit US-Iran en février 2026."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "La démonstration des capacités de Mythos/Fable 5 — détection de 23 000 vulnérabilités, contexte 1M tokens, performance de pointe — a consolidé le positionnement enterprise d'Anthropic et précipité le dépôt de son dossier IPO confidentiel."
-    },
-    {
-      "source": "n06",
-      "target": "n08",
+      "target": "n03",
       "type": "tension",
-      "explanation": "Le lancement de Claude Fable 5 avec des performances supérieures sur le coding et la vision crée une pression compétitive directe sur OpenAI, qui accélère la rationalisation de sa gamme en retirant GPT-4.5 et GPT-5.2 au profit de GPT-5.5."
+      "explanation": "La détente pétrolière post-MOU remet en question la nécessité de nouvelles hausses BCE : si le Brent consolide sous 90$, la pression inflationniste qui a justifié le resserrement du 11 juin s'estompe, rendant une pause en septembre plausible."
+    },
+    {
+      "source": "n01",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "Le G7 d'Évian s'ouvre dans la foulée directe du MOU Iran-USA : les dirigeants cherchent à valider diplomatiquement la désescalade et à coordonner la gestion collective des séquelles économiques du conflit."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Le G7 d'Évian est le cadre dans lequel Trump examine le plan de paix ukrainien en cinq points : la réunion teste l'alignement des alliés sur un format et une feuille de route de sortie de guerre."
     },
     {
       "source": "n05",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Les régulateurs américains allègent les exigences en capital des banques (libérant $87,7Md en CET1) tandis que la BCE resserre simultanément la politique monétaire en Europe, créant une divergence transatlantique sur la gestion du risque financier."
-    },
-    {
-      "source": "n12",
       "target": "n06",
       "type": "tension",
-      "explanation": "La recherche sur l'atrophie cognitive liée au déchargement excessif vers l'IA s'intensifie précisément au moment où Fable 5 devient capable d'accomplir de façon autonome la quasi-totalité des tâches intellectuelles complexes."
+      "explanation": "Tandis que l'attention diplomatique occidentale se concentre sur l'Ukraine et l'Iran au G7, Pékin multiplie ses incursions aux Pratas (6 en 2026), testant méthodiquement la résolution taïwanaise dans l'angle mort géostratégique."
     },
     {
-      "source": "n10",
-      "target": "n11",
+      "source": "n09",
+      "target": "n08",
+      "type": "cause",
+      "explanation": "L'expansion de Glasswing à 150 organisations a placé Claude Mythos sous haute surveillance des agences de sécurité américaines ; l'identification d'un jailbreak (contestée par Anthropic) a déclenché la directive d'export-control entraînant la suspension globale."
+    },
+    {
+      "source": "n08",
+      "target": "n10",
       "type": "tension",
-      "explanation": "Google Stitch (design vocal, canvas infini, impact -12% Figma) et Vercel v0.app (full-stack Next.js production) se disputent le marché du prototypage UI/dev, comprimant l'espace des acteurs spécialisés comme Figma et les outils mono-usage."
+      "explanation": "La suspension de Fable 5 et Mythos 5 crée un vide pour les partenaires enterprise et chercheurs : GPT-Rosalind et GPT-5.5 d'OpenAI deviennent temporairement les seuls modèles frontier accessibles, renforçant la position commerciale d'OpenAI."
+    },
+    {
+      "source": "n03",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "La hausse BCE du 11 juin et la clôture de la consultation bâloise américaine le 18 juin concentrent simultanément deux pressions sur les banques mondiales : renchérissement du financement d'un côté, révision des exigences en capital de l'autre."
+    },
+    {
+      "source": "n04",
+      "target": "n13",
+      "type": "tension",
+      "explanation": "L'agenda du G7 d'Évian, accaparé par les dossiers iranien et ukrainien, réduit la visibilité des engagements climatiques que les délégués de SB64 à Bonn attendent, fragilisant le momentum de financement pré-COP31."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "Ces deux études convergent sur le même axe : les interventions nutritionnelles (supplémentation en phosphatidylcholine ou réduction des ultra-transformés) agissent directement sur le vieillissement cellulaire et la préservation des fonctions cognitives à moyen terme."
     },
     {
       "source": "n16",
-      "target": "n17",
-      "type": "meme_sujet",
-      "explanation": "La crise d'Ormuz et la résistance de six pays de l'Est à la réforme ETS traitent de la même question structurelle — la vitesse de sortie des fossiles — avec des acteurs économiques qui résistent au rythme imposé par les objectifs européens de décarbonation."
+      "target": "n03",
+      "type": "tension",
+      "explanation": "Si le nouveau président de la Fed opte pour des baisses de taux rapides pendant que la BCE relève les siens, la divergence transatlantique pèsera sur le dollar et compliquera les stratégies de financement des banques actives des deux côtés de l'Atlantique."
     }
   ]
 }

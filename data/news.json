@@ -1,92 +1,92 @@
 {
-  "generated_at": "2026-06-17T06:30:00Z",
+  "generated_at": "2026-06-18T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "G7 Évian: Iran et Ukraine",
-      "title": "G7 à Évian-les-Bains: Iran et Ukraine dominent l'agenda",
-      "summary": "Le 52e sommet du G7 s'est tenu du 15 au 17 juin à Évian-les-Bains, première rencontre en présentiel des leaders depuis le début de la guerre USA-Iran il y a quinze semaines. Donald Trump a retrouvé ses homologues dans un contexte de double pression: finaliser l'accord avec Téhéran et répondre aux alliés européens qui veulent maintenir le soutien à Kyiv dans l'agenda diplomatique.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national/2026/06/16/g7-france-evian-trump-iran-ukraine-16-june-2026/aec73aa2-6955-11f1-830e-133d20cadd28_story.html"
+      "short_title": "Iran-US MoU Bürgenstock",
+      "title": "Signature du mémorandum Iran-États-Unis à Bürgenstock",
+      "summary": "Washington et Téhéran ont conclu un accord-cadre en 14 points instaurant un cessez-le-feu de 60 jours, avec la signature formelle programmée le 19 juin au resort de Bürgenstock en Suisse, sous médiation du Pakistan et du Qatar. L'accord prévoit la réouverture du détroit de Hormuz au commerce maritime et le lancement de négociations sur le nucléaire iranien. Le dégel d'environ 25 milliards de dollars d'avoirs iraniens est conditionné à la vérification d'une future conformité.",
+      "source": "Al Jazeera / CSIS",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-says-iran-nuclear-talks-begin-after-framework-deal-signing"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "USA-Iran: accord Hormuz",
-      "title": "USA-Iran: accord provisoire pour fin de guerre et réouverture du détroit de Hormuz",
-      "summary": "Washington et Téhéran ont conclu un accord provisoire pour mettre fin à la guerre déclenchée en mars 2026, incluant la réouverture du détroit de Hormuz aux tankers pétroliers avec une cérémonie de signature prévue en Suisse. Le cessez-le-feu reste précaire, Israël et l'Iran s'accusant de violations mutuelles, mais la perspective d'une normalisation des flux pétroliers a immédiatement déplacé les marchés.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-deal-end-war-reopen-hormuz-markets-israel-rcna350076"
+      "short_title": "Hormuz bloqué 4 mois",
+      "title": "La crise du détroit de Hormuz: 4 mois de blocage pétrolier mondial",
+      "summary": "Depuis le 28 février 2026, les Gardiens de la révolution iraniens ont pratiquement fermé le détroit de Hormuz, interrompant environ 20% des flux pétroliers mondiaux — perturbation qualifiée par l'AIE de la plus grande de l'histoire. Le Brent avait flambé à 118 $/b en avril avant que les perspectives de négociation n'entament la prime de risque. L'Europe et l'Asie ont dû se réorienter vers des routes maritimes alternatives bien plus coûteuses, aggravant pressions inflationnistes et déficits diesel.",
+      "source": "Bloomberg / Al Jazeera",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Ukraine-Russie: blocage",
-      "title": "Négociations Ukraine-Russie à Genève: Zelensky accuse Moscou de temporiser",
-      "summary": "Une session des pourparlers USA-Ukraine-Russie à Genève a tourné court après deux heures, Volodymyr Zelensky accusant publiquement Moscou de chercher délibérément à retarder toute avancée. La Russie maintient ses exigences maximalistes sur le Donbass, et Trump, qui avait fixé une échéance à juin, n'a pas de levier pour débloquer la situation.",
-      "source": "Al Jazeera",
-      "url": "https://ddnews.gov.in/en/ukraine-peace-talks-end-in-geneva-after-zelenskiy-says-russia-stalling/"
+      "short_title": "Brent chute à 79 $/b",
+      "title": "Brent à 79 $/b: -40% depuis le pic de la crise iranienne",
+      "summary": "Le Brent évolue mercredi autour de 79 dollars le baril, son niveau le plus bas depuis début mars, porté par l'optimisme entourant le mémorandum Iran-États-Unis qui permettrait la reprise rapide des exportations iraniennes et la réouverture formelle du Hormuz. Les prix ont corrigé de près de 40% par rapport au pic d'avril, les opérateurs de tankers repositionnant déjà leurs navires vers le Golfe. Des hausses de quotas OPEP+ et le retour de la production des Émirats arabes unis renforcent la pression baissière.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/29/oil-price-iran-deal-war-ceasefire-trump.html"
     },
     {
       "id": "n04",
       "theme": "finance",
       "subtopic": "macro",
       "importance": 3,
-      "short_title": "FOMC: Warsh, taux stables",
-      "title": "FOMC 17 juin: première réunion de Kevin Warsh, taux maintenus à 3,50-3,75%",
-      "summary": "La Fed maintient son taux directeur à 3,50-3,75% lors de la réunion des 16-17 juin, première présidée par Kevin Warsh depuis sa prise de fonction en mai. Avec une inflation encore à 3,8-4,2%, le comité abandonne son biais accommodant pour une posture neutre et observe si la détente des prix du pétrole post-accord Hormuz s'installe durablement avant d'envisager toute modification.",
-      "source": "IndexBox",
-      "url": "https://www.indexbox.io/blog/fed-chair-warsh-faces-rate-decision-amid-bond-market-and-trump-pressure/"
+      "short_title": "Fed bloque, hike en vue",
+      "title": "Fed (Warsh): taux inchangés, mais une hausse envisagée avant fin 2026",
+      "summary": "La Fed a maintenu son taux directeur dans la fourchette 3,5-3,75% à l'issue de la première réunion présidée par Kevin Warsh, marquant la quatrième pause consécutive. Les nouvelles projections montrent que neuf membres sur dix-huit du FOMC anticipent une hausse supplémentaire avant fin 2026, avec un PCE annuel projeté à 3,5% — le plus élevé depuis trois ans. Warsh a simplifié le communiqué de politique monétaire tout en refusant de divulguer ses propres prévisions de taux, dans un geste de rupture avec les pratiques de son prédécesseur.",
+      "source": "NPR / CNBC",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Brent recule sous $80",
-      "title": "Pétrole: le Brent retombe sous 80 dollars après l'accord sur le détroit de Hormuz",
-      "summary": "Le Brent a chuté de plus de 4% pour s'établir en dessous de 80 dollars le baril, effaçant une large partie de la prime de guerre qui l'avait propulsé à plus de 140 dollars en mars 2026. La perspective d'une réouverture du détroit, combinée à la hausse anticipée des quotas OPEC+ et au retour des exportations des Émirats arabes unis, a déclenché ce fort repli.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/28/oil-prices-iran-war-us-trump-strait-hormuz-energy-inflation-investors.html"
+      "short_title": "US Basel III: fin consult",
+      "title": "US Basel III Endgame: clôture de la consultation publique le 18 juin",
+      "summary": "Le 18 juin marque la date limite pour les commentaires sur la re-proposition du Basel III Endgame publiée en mars par la Fed, l'OCC et la FDIC. Le nouveau projet abandonne le 'gold plating' de 2023 et introduit un régime FRTB (Expected Shortfall remplaçant la VaR) plus favorable à la modélisation interne, ainsi qu'un SA-CVA et un BA-CVA pour le risque de contrepartie en remplacement des modèles internes CVA. Les exigences de capital FRTB ne seront contraignantes qu'à partir de début 2027, après adoption finale et délai de transition de deux trimestres.",
+      "source": "Federal Reserve / Mayer Brown",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "Basel III: deadline CVA",
-      "title": "Réforme Basel III US: délai de commentaires CVA/CCR expirant le 18 juin",
-      "summary": "Les régulateurs américains ont publié en mars 2026 leurs propositions de révision du cadre de capital prudentiel, incluant les exigences CVA, le traitement du CCR et les approches standardisées pour le risque de marché (FRTB), avec un délai de commentaires fixé au 18 juin. Cette consultation déterminera le calibrage final pour les grandes banques actives à l'international, dans un contexte où l'Europe a déjà décalé son entrée en vigueur FRTB à janvier 2027.",
-      "source": "Sullivan & Cromwell",
-      "url": "https://www.sullcrom.com/insights/memo/2026/March/Banking-Agencies-Release-Basel-III-GSIB-Surcharge-Revised-Standardized-Approach-Proposals"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Fable 5 lancé",
+      "title": "Anthropic lance Claude Fable 5: contexte 1M tokens et safeguards cyber",
+      "summary": "Le 9 juin, Anthropic a rendu public Claude Fable 5, un modèle de classe Mythos affichant des performances state-of-the-art sur quasi tous les benchmarks (ingénierie logicielle, vision, recherche scientifique), avec une fenêtre de contexte d'un million de tokens et 128 000 tokens en sortie. Les requêtes sensibles en cyber, biologie et chimie sont routées automatiquement vers Claude Opus 4.8. En parallèle, Claude Mythos 5 — même base mais garde-fous partiellement levés — est déployé via Project Glasswing pour un cercle restreint de partenaires de cyberdéfense et du gouvernement américain.",
+      "source": "TechCrunch / Anthropic",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Glasswing: Mythos s'étend",
-      "title": "Project Glasswing: Claude Mythos Preview déployé auprès de 150 nouvelles organisations",
-      "summary": "Anthropic a élargi l'accès à Claude Mythos Preview à environ 150 nouvelles organisations dans plus de 15 pays, intégrant désormais des opérateurs d'infrastructures critiques (eau, énergie, télécoms) et des prestataires de santé non représentés dans la première cohorte. Le modèle, capable de découvrir des failles dans tous les principaux systèmes d'exploitation et navigateurs, reste rigoureusement cantonné à la cybersécurité défensive sous supervision.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+      "importance": 2,
+      "short_title": "GPT-5.5 Instant défaut",
+      "title": "OpenAI: GPT-5.5 Instant devient le modèle par défaut de ChatGPT",
+      "summary": "Le 9 juin, OpenAI a déployé GPT-5.5 Instant comme modèle par défaut dans ChatGPT, revendiquant une réduction de 52,5% des hallucinations dans les domaines à enjeux élevés (médecine, droit, finance). Les modèles GPT-5.2 sont retirés de la plateforme, les conversations existantes migrant automatiquement vers les équivalents 5.5. GPT-4.5 sera lui aussi retiré le 27 juin 2026, illustrant le rythme d'itération très soutenu qu'OpenAI maintient en réponse à la pression concurrentielle d'Anthropic.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-5-instant/"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Gemini 3.5 Pro: imminent",
-      "title": "Google DeepMind: Gemini 3.5 Pro (2M tokens, Deep Think) en disponibilité générale imminente",
-      "summary": "Gemini 3.5 Pro, annoncé à Google I/O en mai 2026, attend toujours sa disponibilité générale mais Google en signale le lancement imminent. Avec une fenêtre de contexte de 2 millions de tokens et un mode de raisonnement approfondi Deep Think, il cible directement les mêmes segments que Claude Mythos et GPT-5 sur les tâches frontier multimodales à long contexte.",
-      "source": "TechTimes",
+      "short_title": "Gemini 3.5 Pro retardé",
+      "title": "Google Gemini 3.5 Pro: la disponibilité générale est toujours attendue",
+      "summary": "Présenté à Google I/O le 19 mai avec une fenêtre de contexte de 2 millions de tokens et un mode de raisonnement 'Deep Think', Gemini 3.5 Pro n'est toujours pas disponible en GA début juin — Sundar Pichai ayant demandé à l'audience d'attendre encore un mois, suscitant des murmures. Le modèle est en preview limitée via la plateforme enterprise Google, tandis que la version Flash plus rapide a été livrée au printemps. Ce retard est particulièrement visible face aux lancements simultanés de Fable 5 et GPT-5.5 Instant le 9 juin.",
+      "source": "TechTimes / Google I/O",
       "url": "https://www.techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm"
     },
     {
@@ -94,173 +94,156 @@
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "OpenAI S-1 confidentiel",
-      "title": "OpenAI dépose son S-1 confidentiel pour une IPO ciblant 1 000 milliards de dollars",
-      "summary": "OpenAI a soumis son dossier S-1 confidentiel à la SEC début juin, visant une valorisation d'environ 1 000 milliards de dollars avec Goldman Sachs et Morgan Stanley en chefs de file. Malgré 25 milliards de revenus annuels, la société projette une perte de 14 milliards en 2026 et n'envisage pas la rentabilité avant 2029, testant la patience des marchés pour des valorisations IA à très long horizon.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html"
+      "short_title": "Mistral AI Now Summit",
+      "title": "Mistral AI Now Summit: Voxtral TTS, physique computationnelle et Medium 3.5",
+      "summary": "Lors de son AI Now Summit de juin, Mistral a annoncé Mistral Medium 3.5 (enterprise) et Mistral Small 4 (inférence à bas coût), ainsi que Voxtral TTS, modèle texte-parole open-weights multilingue (9 langues) pour agents vocaux sales et customer engagement. L'intégration d'Emmi AI apporte la simulation physique (jumeaux numériques, CAO industrielle) à la plateforme, et un agent unifié Work/Code avec extension VS Code complète l'offre pour les développeurs.",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/ai-now-summit-2026/"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Mistral Vibe: Slack Code",
-      "title": "Mistral Vibe déploie l'intégration Slack pour le Code Mode en juin",
-      "summary": "Après avoir rebaptisé Le Chat en Vibe, Mistral déploie en juin l'intégration Slack pour son Code Mode, qui permet des sessions de codage autonome dans des sandboxes persistants tournant même hors-ligne. La plateforme unifie désormais Google Workspace, Outlook, SharePoint, GitHub et Slack sous une licence unique couvrant travail et développement.",
-      "source": "mlq.ai",
-      "url": "https://mlq.ai/news/mistral-rebrands-le-chat-as-vibe-launches-autonomous-work-agent-for-enterprise/"
+      "short_title": "Windsurf → Devin Desktop",
+      "title": "Windsurf rebaptisé Devin Desktop: l'IDE bascule vers l'orchestration d'agents",
+      "summary": "Le 2 juin, Cognition a rebranded Windsurf en Devin Desktop via une mise à jour automatique silencieuse, réorientant l'interface d'un IDE classique vers un Agent Command Center comme surface par défaut. L'agent local Cascade est remplacé par Devin Local, réécrit en Rust (+30% d'efficience en tokens, support des sous-agents), tandis que le protocole ouvert ACP (Agent Client Protocol) permet à tout agent compatible de s'intégrer dans l'éditeur. Cascade sera définitivement retiré le 1er juillet 2026.",
+      "source": "Devin AI Blog",
+      "url": "https://devin.ai/blog/windsurf-is-now-devin-desktop/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Mistral: levée 3,5Md$",
-      "title": "Mistral en négociation pour lever 3,5 milliards de dollars à 23 Md$ de valorisation",
-      "summary": "La startup française Mistral est en discussions avancées pour une levée de fonds d'environ 3,5 milliards de dollars (3 milliards d'euros), qui la valoriserait à environ 23 milliards et financerait le déploiement d'une infrastructure de calcul IA à l'échelle européenne. Les termes restent provisoires selon les sources proches du dossier.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/mistral-ai-weighs-funding-23bn-091700112.html"
+      "short_title": "Cursor: 2 Md$ d'ARR",
+      "title": "Cursor domine le marché pro avec 2 milliards de dollars d'ARR",
+      "summary": "Cursor consolide sa position de leader parmi les développeurs professionnels avec 2 milliards de dollars de revenus annualisés début 2026, sur un marché du vibe coding estimé à 4,7 milliards. Ses modes Composer et Agent Mode — édition multi-fichiers depuis un prompt unique — le différencient des outils grand public comme Bolt ou Lovable. Au niveau global, 92% des développeurs américains utilisent des outils IA au quotidien et 41% du code mondial est désormais généré par IA.",
+      "source": "TechCoffeeHouse / Index.dev",
+      "url": "https://techcoffeehouse.com/2026/06/01/best-vibe-coding-tools-2026/"
     },
     {
       "id": "n12",
-      "theme": "sciences",
-      "subtopic": "longevite",
+      "theme": "climat",
+      "subtopic": "chine",
       "importance": 2,
-      "short_title": "Phosphatidylcholine/âge",
-      "title": "Phosphatidylcholine: restaurer ce lipide inverse le vieillissement mitochondrial",
-      "summary": "Des chercheurs du Leibniz Institute on Aging (Iéna) ont montré dans Nature Communications que le déclin lié à l'âge de la phosphatidylcholine est une cause centrale de la dysfonction mitochondriale. En supplémentant des organismes vieillissants avec ce lipide ou son précurseur, la choline, les mitochondries retrouvaient une structure fonctionnellement plus jeune en seulement deux jours, ouvrant des pistes concrètes pour des interventions nutritionnelles anti-âge.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm"
+      "short_title": "Chine: décarbo industrie",
+      "title": "Rapport Agora (17/06): la Chine doit maintenant décarboner ses industries lourdes",
+      "summary": "Selon le rapport Agora Energiewende/Agora Energy China publié le 17 juin, la Chine a réussi son déploiement record d'énergies renouvelables mais doit désormais s'attaquer aux secteurs difficiles à électrifier (acier, chimie, ciment) pour tenir ses objectifs 2030. L'intensité énergétique a baissé de 3,5% en 2024 (130 Mt CO₂ évitées), mais la Chine a simultanément lancé 94,5 GW de nouvelles centrales à charbon — le plus haut niveau depuis 2015. La mise en œuvre du 15e plan quinquennal (2026-2030) sera l'épreuve de vérité.",
+      "source": "Bloomberg / Agora Energiewende",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-17/china-s-energy-transition-now-hinges-on-greening-industry-agora"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "nutrition",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "UPF: baisse d'attention",
-      "title": "Aliments ultra-transformés: chaque 10% supplémentaire dégrade l'attention et le risque de démence",
-      "summary": "Une étude de l'Université de Monash portant sur 2 100 adultes australiens, publiée dans Alzheimer's & Dementia, établit que chaque hausse de 10% de la part d'aliments ultra-transformés dans le régime est associée à une chute mesurable de l'attention et à +0,24 point sur un score de risque de démence à 20 ans. L'effet persiste chez des personnes par ailleurs en bonne santé alimentaire, les viandes transformées se distinguant comme sous-groupe le plus délétère.",
-      "source": "ScienceDaily / Monash University",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260608040017.htm"
+      "short_title": "EU ETS: 4 Md€ industrie",
+      "title": "UE: la Commission propose 4 Md€ de quotas carbone gratuits supplémentaires",
+      "summary": "La Commission européenne a proposé de renforcer l'allocation gratuite de quotas CO₂ dans l'EU ETS, apportant environ 4 milliards d'euros de valeur supplémentaire à l'industrie d'ici 2030 pour préserver la compétitivité dans la révision des benchmarks 2026-2030. Malgré ce resserrement, l'industrie continuera de recevoir en moyenne 75% de ses émissions couvertes gratuitement. Par ailleurs, dix États membres (Italie, Pologne, Grèce, etc.) ont formellement demandé une prolongation des allocations gratuites au-delà de 2034.",
+      "source": "ESG Today / Clean Energy Wire",
+      "url": "https://www.esgtoday.com/eu-commission-proposes-ets-update-adding-e4-billion-in-allowances-to-industry/"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "energie",
+      "theme": "sciences",
+      "subtopic": "neurosciences",
       "importance": 2,
-      "short_title": "Hormuz → boom ENR Asie/EU",
-      "title": "Choc Hormuz: l'Asie et l'Europe accélèrent structurellement leur virage renouvelable",
-      "summary": "Selon une analyse Bloomberg, la fermeture prolongée du détroit de Hormuz pendant la guerre USA-Iran a convaincu de nombreux gouvernements asiatiques et européens d'accélérer leurs investissements dans les énergies renouvelables pour réduire leur exposition aux chocs pétroliers du Golfe. L'AIE note que les économies liées aux véhicules électriques dépassent désormais 1 million de barils par jour à l'échelle mondiale.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
+      "short_title": "Cuivre contre Alzheimer",
+      "title": "Cu(ATSM): le cuivre réduit de 42% les protéines amyloïdes en modèle préclinique",
+      "summary": "Une étude de l'Université Monash (ACS Chemical Neuroscience, juin 2026) montre que le composé Cu(ATSM) restaure les pompes P-glycoprotéine de la barrière hémato-encéphalique, responsables de l'élimination des protéines amyloïdes. En 56 jours, le traitement a réduit l'amyloïde-bêta de 42%, augmenté les pompes P-gp de 24,1% et amélioré la mémoire spatiale de 44% dans un modèle murin d'Alzheimer. Le composé ayant déjà été testé chez l'humain pour d'autres affections neurologiques, une validation clinique accélérée est envisagée.",
+      "source": "ScienceDaily / Monash University",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260615033835.htm"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "llm_agents",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Nature: IA en science",
-      "title": "Nature: des systèmes IA automatisent la recherche scientifique de bout en bout",
-      "summary": "Un article publié dans Nature décrit des systèmes IA capables de générer des hypothèses, conduire des expériences, rédiger des manuscrits et effectuer leur propre peer review, avec une qualité jugée suffisante pour franchir le premier filtre d'évaluation de workshops de premier rang. Les auteurs alertent sur les risques de contamination des corpus scientifiques si ces outils sont déployés sans encadrement rigoureux.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10265-5"
+      "short_title": "Mitochondries: lipide clé",
+      "title": "Phosphatidylcholine: le déclin de ce lipide déclenche le vieillissement mitochondrial",
+      "summary": "Une étude publiée dans Nature Communications par le Leibniz Institute on Aging d'Iéna identifie la baisse de synthèse de phosphatidylcholine (PC) comme déclencheur principal de la dysfonction mitochondriale liée à l'âge. Chez les nématodes, un apport alimentaire en PC ou en choline a restauré l'intégrité mitochondriale en deux jours ; les résultats ont été répliqués dans des cultures cellulaires humaines. Ces résultats suggèrent que des interventions nutritionnelles simples (supplémentation en choline) pourraient ralentir ou partiellement inverser certains aspects du vieillissement cellulaire.",
+      "source": "Nature Communications / Leibniz FLI",
+      "url": "https://www.nature.com/articles/s41467-026-71508-7"
     },
     {
       "id": "n16",
       "theme": "learn",
-      "subtopic": "metacognition",
-      "importance": 2,
-      "short_title": "IA: mémoire sans raison",
-      "title": "Alerte cognitive: les IA qui 'pensent' échouent à raisonner dès la moindre variation",
-      "summary": "Des chercheurs ont soumis des modèles IA — dont Centaur, qui revendiquait mimer la cognition humaine sur 160 tâches — à des variantes légèrement reformulées de problèmes connus. Résultat: les modèles reproduisent fidèlement les patterns mémorisés mais s'effondrent dès que la formulation s'écarte de l'entraînement, révélant une mémorisation sophistiquée plutôt qu'un raisonnement abstrait véritablement humain.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm"
-    },
-    {
-      "id": "n17",
-      "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Warsh Fed et capital IA",
-      "title": "Warsh à la Fed: l'homme capable de stopper le boom IA selon les marchés",
-      "summary": "Des analystes de 247 Wall St et InvestorPlace soulignent que la posture de Kevin Warsh déterminera directement le coût du capital pour le buildout IA: une politique hawkish pourrait asphyxier les valorisations des hyperscalers et freiner les levées de fonds de startups comme OpenAI ou Anthropic. Sa première conférence de presse le 17 juin est scrutée pour déceler le moindre signal de durcissement.",
-      "source": "247 Wall St",
-      "url": "https://247wallst.com/investing/2026/06/02/only-one-man-can-kill-the-ai-boom-fed-chair-kevin-warsh/"
+      "subtopic": "ia_tutoring",
+      "importance": 1,
+      "short_title": "Tutorat IA: +1-3 mois/an",
+      "title": "Le tutorat IA fondé sur la science cognitive génère 1 à 3 mois d'apprentissage en plus",
+      "summary": "Une méta-analyse 2026 montre que les élèves utilisant des tuteurs IA construits sur des modèles cognitifs rigoureux (Carnegie Learning's MATHia, 30 ans de recherche CMU) gagnent 1 à 3 mois d'apprentissage supplémentaire par an par rapport à l'enseignement traditionnel. Ces systèmes analysent charge cognitive, erreurs spécifiques et comportements de relecture en temps réel pour personnaliser les parcours. D2L a lancé en juin un déploiement ciblant la formation infirmière, et l'Université de Floride développe le premier cadre national pour l'usage de l'IA en K-12.",
+      "source": "IS4.ai / Pursuit",
+      "url": "https://is4.ai/blog/our-blog-1/top-10-ai-tutoring-systems-2026-learning-outcomes-208"
     }
   ],
   "edges": [
     {
       "source": "n02",
-      "target": "n05",
+      "target": "n01",
       "type": "cause",
-      "explanation": "La conclusion d'un accord USA-Iran incluant la réouverture du détroit de Hormuz lève les restrictions sur les tankers et annonce une augmentation de l'offre pétrolière mondiale, entraînant mécaniquement la chute du Brent."
+      "explanation": "La douleur économique infligée par quatre mois de blocage du Hormuz — perte de 20% des flux pétroliers mondiaux et Brent à 118 $/b — a exercé une pression décisive sur Washington et Téhéran pour qu'ils se retrouvent à la table de négociation et concluent le mémorandum de Bürgenstock."
     },
     {
-      "source": "n05",
-      "target": "n04",
+      "source": "n02",
+      "target": "n03",
       "type": "cause",
-      "explanation": "La détente des prix du pétrole soulage l'inflation énergétique, ôtant à Warsh l'obligation d'adopter un ton hawkish lors de sa première réunion FOMC et permettant de maintenir une posture neutre sans perdre en crédibilité."
-    },
-    {
-      "source": "n04",
-      "target": "n17",
-      "type": "meme_sujet",
-      "explanation": "La décision du 17 juin et la première conférence de presse de Warsh illustrent directement la thèse des analystes sur le rôle déterminant du nouveau président de la Fed pour le financement de l'IA."
-    },
-    {
-      "source": "n17",
-      "target": "n09",
-      "type": "cause",
-      "explanation": "Un environnement de taux contenus grâce à la posture neutre de Warsh allège le coût du capital, créant des conditions de marché plus favorables pour l'IPO d'OpenAI dont la rentabilité n'est attendue qu'en 2029."
-    },
-    {
-      "source": "n04",
-      "target": "n06",
-      "type": "meme_sujet",
-      "explanation": "La décision FOMC du 17 juin et la clôture de la consultation Basel III le 18 juin forment un double choc réglementaire simultané qui redessine à la fois le cadre de politique monétaire et le cadre de capital prudentiel pour les grandes banques américaines."
-    },
-    {
-      "source": "n01",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Le G7 d'Évian se tient précisément au moment où l'accord USA-Iran se finalise, les deux agendas étant entrelacés: Trump doit simultanément négocier avec Téhéran et rassurer ses alliés du G7."
+      "explanation": "Le choc d'offre provoqué par la fermeture du Hormuz avait propulsé le Brent à 118 $/b ; à mesure que les négociations avancent et que la réouverture du détroit est anticipée, la prime de risque géopolitique se dégonfle et ramène les cours vers 79 $/b."
     },
     {
       "source": "n01",
       "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Le G7 inscrit à la fois l'Iran et l'Ukraine à son agenda, les alliés européens cherchant à maintenir l'engagement de Trump sur les deux fronts diplomatiques en parallèle."
+      "type": "cause",
+      "explanation": "La signature imminente du mémorandum à Bürgenstock laisse attendre un retour rapide des exportations iraniennes sur le marché, pesant supplémentairement sur les prix spot du Brent indépendamment des facteurs OPEP+."
     },
     {
-      "source": "n02",
-      "target": "n14",
+      "source": "n03",
+      "target": "n04",
       "type": "cause",
-      "explanation": "La fermeture prolongée du détroit de Hormuz a démontré la vulnérabilité structurelle des économies dépendantes du pétrole du Golfe, incitant les gouvernements asiatiques et européens à accélérer leurs investissements dans les renouvelables."
+      "explanation": "L'envolée des prix énergétiques depuis mars a alimenté l'inflation américaine (PCE projeté à 3,5%), empêchant la Fed de baisser ses taux et incitant neuf membres du FOMC à anticiper une hausse supplémentaire d'ici fin 2026 malgré la correction récente du Brent."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "La perspective d'un relèvement des taux amplifie les exigences de capital de marché sous le nouveau régime FRTB (Expected Shortfall, plus sensible aux queues de distribution que la VaR), rendant les réponses à la consultation Basel III particulièrement stratégiques pour les banques exposées aux dérivés de taux et aux XVA."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Claude Fable 5 et GPT-5.5 Instant ont été lancés le même jour (9 juin) : Anthropic affiche une supériorité benchmarks quasi-généralisée, OpenAI répond par une réduction de 52,5% des hallucinations, signalant une compétition frontale pour la confiance enterprise."
+    },
+    {
+      "source": "n06",
+      "target": "n08",
+      "type": "tension",
+      "explanation": "Le déploiement rapide de Fable 5 par Anthropic expose d'autant plus le retard de Google à mettre Gemini 3.5 Pro en disponibilité générale, alors que son report d'un mois annoncé à Google I/O avait déjà suscité l'incompréhension du public."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "tension",
-      "explanation": "Anthropic verrouille Claude Mythos dans un cadre de sécurité restrictif réservé aux partenaires institutionnels, tandis que Google prépare un déploiement grand public de Gemini 3.5 Pro avec des capacités frontier comparables sans ces garde-fous."
+      "type": "meme_sujet",
+      "explanation": "GPT-5.5 Instant et Gemini 3.5 Pro ciblent le même espace concurrentiel — modèles frontier à faibles hallucinations et raisonnement étendu — mais avec des calendriers de lancement radicalement différents, révélant un écart d'exécution entre OpenAI et Google en ce moment charnière."
     },
     {
       "source": "n10",
       "target": "n11",
       "type": "meme_sujet",
-      "explanation": "Le déploiement des nouvelles fonctionnalités Vibe (Slack Code Mode) et la levée de 3,5 milliards de dollars sont les deux bras de la même stratégie de Mistral pour s'imposer comme champion européen de l'IA agentique face aux géants américains."
+      "explanation": "Devin Desktop (ex-Windsurf) et Cursor représentent deux visions opposées de l'IDE agentique : Cognition mise sur un protocole ouvert (ACP) et une architecture hub-d'agents, Cursor sur la profondeur d'intégration propriétaire ciblant les développeurs pro à fort ARR."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "La Chine et l'UE affrontent le même arbitrage entre ambition climatique et compétitivité industrielle : Pékin peine à décarboner son industrie lourde tout en construisant de nouvelles centrales charbon, Bruxelles distribue 4 Md€ de quotas supplémentaires pour ménager ses industriels face aux coûts carbone."
     },
     {
       "source": "n15",
-      "target": "n16",
-      "type": "tension",
-      "explanation": "Alors que des outils IA automatisent la production scientifique de bout en bout y compris le peer review, des tests cognitifs montrent simultanément que ces mêmes modèles s'effondrent sur des variantes simples de raisonnement, créant un paradoxe entre compétence apparente et compréhension réelle."
-    },
-    {
-      "source": "n13",
-      "target": "n12",
+      "target": "n14",
       "type": "meme_sujet",
-      "explanation": "Les deux études publiées la même semaine convergent sur le message que la nutrition module directement la santé cellulaire et cognitive: l'une par le biais mitochondrial (phosphatidylcholine), l'autre par la dégradation de l'attention et du risque de démence (aliments ultra-transformés)."
+      "explanation": "Ces deux études ciblent des mécanismes distincts mais complémentaires du vieillissement neuronal — dysfonction mitochondriale via la phosphatidylcholine et accumulation amyloïde via les pompes P-gp — et toutes deux démontrent une réversibilité potentielle par voie biochimique, plaçant 2026 comme année charnière pour la neurobiologie de l'âge."
     }
   ]
 }

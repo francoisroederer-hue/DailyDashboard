@@ -1,7 +1,0 @@
-{
-  "updated_at": "2026-06-19",
-  "tasks": [
-    { "id": "kiwi", "label": "Acheter des kiwis (+ pruneaux)", "type": "task", "urgent": true },
-    { "id": "eau-avant-cafe", "label": "Eau au réveil avant le café", "type": "habit", "until": "2026-07-03" }
-  ]
-}

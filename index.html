@@ -275,6 +275,88 @@
     .panel.open { transform: translateX(0); }
     .panel-grip { display: none; }
   }
+
+  /* ---- Bloc « À faire » (data/tasks.json) — n'apparaît que si non vide ---- */
+  .todo-card {
+    margin-top: 12px;
+    background: var(--bg-elev);
+    border: 1px solid var(--rule-bright);
+    border-radius: 14px;
+    padding: 11px 13px 9px;
+    max-height: 40vh;
+    overflow-y: auto;
+  }
+  .todo-head {
+    font-family: 'Geist Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--ink-faint);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .todo-head .count { color: var(--accent); }
+  .todo-list { display: flex; flex-direction: column; }
+  .todo-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 11px;
+    padding: 9px 2px;
+    border-top: 1px solid var(--rule);
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .todo-item:first-child { border-top: none; }
+  .todo-box {
+    width: 19px; height: 19px;
+    border-radius: 6px;
+    border: 1.5px solid var(--rule-bright);
+    flex-shrink: 0;
+    margin-top: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    line-height: 1;
+    color: transparent;
+    transition: background .15s, border-color .15s, color .15s;
+  }
+  .todo-item.done .todo-box {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg);
+  }
+  .todo-main { flex: 1; min-width: 0; }
+  .todo-label {
+    font-family: 'Fraunces', serif;
+    font-variation-settings: 'opsz' 40;
+    font-size: 15px;
+    line-height: 1.25;
+    color: var(--ink);
+  }
+  .todo-item.done .todo-label {
+    text-decoration: line-through;
+    color: var(--ink-faint);
+  }
+  .todo-meta { display: flex; gap: 6px; margin-top: 4px; flex-wrap: wrap; }
+  .todo-pill {
+    font-family: 'Geist Mono', monospace;
+    font-size: 8.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    padding: 2px 7px 3px;
+    border-radius: 999px;
+    border: 1px solid var(--rule-bright);
+    color: var(--ink-dim);
+  }
+  .todo-pill.urgent { color: var(--tension); border-color: var(--tension); }
+  .todo-pill.habit { color: var(--accent); }
+
+  @media (min-width: 720px) {
+    .todo-card { max-width: 480px; }
+  }
 </style>
 </head>
 <body>
@@ -295,6 +377,7 @@
     <a class="tab" href="workout.html">Workout</a>
     <a class="tab" href="nutrition.html">Nutrition</a>
   </nav>
+  <div id="todoCard" class="todo-card" hidden></div>
 </header>
 
 <svg id="graph"></svg>
@@ -322,6 +405,80 @@ const THEMES = {
 };
 
 const DATA_URL = './data/news.json';
+
+// ============================================================
+// BLOC « À FAIRE » — data/tasks.json, indépendant de la carte d'actu
+// (un échec de news.json ne doit pas masquer les tâches, et inversement)
+// ============================================================
+fetch('./data/tasks.json', { cache: 'no-store' })
+  .then(r => r.ok ? r.json() : null)
+  .then(renderTodo)
+  .catch(() => {});
+
+function renderTodo(data) {
+  const card = document.getElementById('todoCard');
+  if (!card || !data || !Array.isArray(data.tasks)) return;
+
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  // Filtre : une habitude dont la date de fin est passée disparaît d'elle-même
+  const items = data.tasks.filter(t => {
+    if (t.until) {
+      const u = new Date(t.until);
+      if (!isNaN(u) && u < today) return false;
+    }
+    return true;
+  });
+  if (!items.length) return; // carte masquée si rien à faire
+
+  // Tri : urgents d'abord, puis tâches, puis habitudes
+  items.sort((a, b) => {
+    const ua = a.urgent ? 0 : 1, ub = b.urgent ? 0 : 1;
+    if (ua !== ub) return ua - ub;
+    const ta = a.type === 'habit' ? 1 : 0, tb = b.type === 'habit' ? 1 : 0;
+    return ta - tb;
+  });
+
+  const rows = items.map(t => {
+    const done = localStorage.getItem('todo-done-' + t.id) === '1';
+    const pills = [];
+    if (t.urgent) pills.push('<span class="todo-pill urgent">urgent</span>');
+    if (t.type === 'habit') {
+      let lbl = 'habitude';
+      if (t.until) {
+        const u = new Date(t.until);
+        if (!isNaN(u)) lbl = 'habitude · ' + u.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' });
+      }
+      pills.push('<span class="todo-pill habit">' + lbl + '</span>');
+    }
+    return `<div class="todo-item${done ? ' done' : ''}" data-id="${escapeHtml(t.id)}">
+      <span class="todo-box">✓</span>
+      <span class="todo-main">
+        <span class="todo-label">${escapeHtml(t.label)}</span>
+        ${pills.length ? `<span class="todo-meta">${pills.join('')}</span>` : ''}
+      </span>
+    </div>`;
+  }).join('');
+
+  card.innerHTML = `<div class="todo-head">À faire <span class="count">${items.length}</span></div><div class="todo-list">${rows}</div>`;
+  card.hidden = false;
+
+  // Cocher = feedback visuel immédiat (persisté localement par appareil).
+  // La suppression réelle se fait en mettant à jour data/tasks.json.
+  card.querySelectorAll('.todo-item').forEach(el => {
+    el.addEventListener('click', () => {
+      const id = el.dataset.id;
+      const now = !el.classList.contains('done');
+      el.classList.toggle('done', now);
+      localStorage.setItem('todo-done-' + id, now ? '1' : '0');
+    });
+  });
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
 
 // ============================================================
 // BOOTSTRAP

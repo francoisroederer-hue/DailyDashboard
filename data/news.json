@@ -1,277 +1,282 @@
 {
-  "generated_at": "2026-06-19T06:00:00Z",
+  "generated_at": "2026-06-20T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Ormuz: sortie de crise",
-      "title": "Détroit d'Ormuz : accord diplomatique en vue",
-      "summary": "Une diplomatie d'urgence entre Washington et Téhéran vise un accord de principe avant mi-juillet pour rouvrir progressivement le Détroit d'Ormuz, bloqué depuis l'opération Epic Fury de février 2026. Rystad Energy anticipe une réouverture partielle mi-juillet, mais le retour à la normale des flux physiques prendra plusieurs semaines selon les estimations. C'est la plus grave disruption pétrolière de l'histoire moderne selon l'AIE, avec 20% de l'offre mondiale affectée.",
-      "source": "Le Temps",
-      "url": "https://www.letemps.ch/monde/en-direct-moyen-orient-les-hostilites-entre-iran-et-israel-sont-suspendues-mais-les-menaces-persistent"
-    },
-    {
-      "id": "n02",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Eurosatory 2026 record",
-      "title": "Eurosatory 2026 : plus grand salon de défense de l'histoire",
-      "summary": "Eurosatory 2026 s'est tenu du 15 au 19 juin à Paris-Nord Villepinte avec 2 600 exposants de 68 pays, dépassant tous les records de la manifestation créée en 1967. Première édition post-adoption du plan ReArm Europe (800 Mds€), elle reflète l'urgence du réarmement continental sur fond de conflits haute intensité persistants. Drones autonomes, systèmes anti-drones et intégration de l'IA dans les plateformes militaires dominent les annonces.",
-      "source": "L'Essentiel de l'Éco",
-      "url": "https://lessentieldeleco.fr/7277-eurosatory-2026-paris-accueille-le-plus-grand-salon-de-defense-de-son-histoire/"
-    },
-    {
-      "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Liban: Tyr bombardée",
-      "title": "Liban : frappes israéliennes sur Tyr, fuite massive",
-      "summary": "Des frappes israéliennes ont touché la ville de Tyr au Liban début juin, faisant au moins onze morts et provoquant l'exode des habitants vers le nord. Ce front libanais s'est rouvert en mars 2026 lorsque le Hezbollah a attaqué Israël peu après la mort d'Ali Khamenei, entraînant une incursion terrestre israélienne dans le sud du pays. La situation humanitaire reste critique avec près d'un million de déplacés internes.",
-      "source": "Wikipedia",
-      "url": "https://fr.wikipedia.org/wiki/Guerre_d%27Iran_de_2026"
-    },
-    {
-      "id": "n04",
-      "theme": "finance",
-      "subtopic": "banques_centrales",
-      "importance": 3,
-      "short_title": "BCE: +25bp à 2,25%",
-      "title": "BCE relève ses taux : premier resserrement depuis 2023",
-      "summary": "La BCE a relevé son taux de dépôt de 25 points de base le 11 juin 2026, à 2,25%, marquant le premier resserrement monétaire depuis 2023 après deux ans d'assouplissement progressif. Cette décision répond à une inflation en zone euro remontée à 3,2% en mai 2026, tirée par les matières premières et les services (3,1%). Les marchés anticipent une deuxième hausse à 2,50% en septembre 2026, signant une inversion complète du cycle entamé en 2024.",
-      "source": "Riviera Wealth Management",
-      "url": "https://rivierawealthmanagement.com/bce-juin-2026-volte-face-baisses-hausses/"
-    },
-    {
-      "id": "n05",
-      "theme": "finance",
-      "subtopic": "marches",
-      "importance": 2,
-      "short_title": "Bund/OAT: repricing fort",
-      "title": "Hausse BCE : repricing brutal des obligations souveraines",
-      "summary": "La décision de la BCE déclenche un mouvement de repricing des emprunts d'État européens : le Bund 10 ans franchit 3,05% et l'OAT 10 ans gravite autour de 3,75%, des niveaux non vus depuis plusieurs années. Les gérants obligataires raccourcissent leur duration et se repositionnent sur les maturités 2-5 ans investment grade pour limiter la sensibilité aux hausses à venir. Deux hausses de 25bp sont désormais intégralement intégrées dans les prix d'ici fin 2026.",
-      "source": "Riviera Wealth Management",
-      "url": "https://rivierawealthmanagement.com/bce-juin-2026-volte-face-baisses-hausses/"
-    },
-    {
-      "id": "n06",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Pétrole: choc Ormuz",
-      "title": "Choc pétrolier : Ormuz, pire disruption de l'histoire",
-      "summary": "La crise du Détroit d'Ormuz constitue selon l'AIE la plus grande disruption de l'offre pétrolière de l'histoire moderne, affectant environ 20% de la consommation mondiale et une part significative du GNL exporté. Les cours du brut ont bondi, amplifiant l'inflation importée en Europe et en Asie, la Chine, l'Inde, le Japon et la Corée du Sud représentant à eux seuls 69% du transit habituel. Un accord diplomatique attendu en juin permettrait une réouverture progressive à partir de mi-juillet, avec deux à trois semaines de délai pour repositionner les tankers.",
-      "source": "Atlas Institute",
-      "url": "https://atlasinstitute.org/the-strait-that-moves-the-market-the-2026-strait-of-hormuz-crisis-and-the-anatomy-of-a-global-energy-shock/"
-    },
-    {
-      "id": "n07",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "US Basel III: deadline",
-      "title": "Bâle III endgame US : clôture de la consultation publique",
-      "summary": "La période de commentaires publics sur les propositions américaines de refonte du capital bancaire s'est close le 18 juin 2026, après leur publication en mars par la Fed, l'OCC et la FDIC. Ces textes instaurent le plancher de 72,5% (output floor), révisent les approches de risque de crédit, de marché (FRTB) et opérationnel, ainsi que le cadre CVA — constituant la plus grande réforme du capital bancaire américain depuis 2008. Les règles finales sont attendues en fin d'année 2026.",
-      "source": "Mayer Brown",
-      "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/us-banking-regulators-propose-reforms-to-capital-requirements"
-    },
-    {
-      "id": "n08",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 3,
-      "short_title": "EU FRTB/CVA: jan 2027",
-      "title": "EU CRR III : FRTB et CVA révisé contraignants en 2027",
-      "summary": "Dans le cadre du CRR III/CRD VI, le FRTB devient contraignant pour les exigences en fonds propres au 1er janvier 2027, remplaçant les anciennes approches de risque de marché par une méthode standardisée à base de sensibilités. La révision du cadre CVA introduit un nouveau calcul qui supplante l'ancienne méthode standardisée, avec des impacts significatifs sur les banques actives en dérivés OTC et produits structurés. Ce calendrier impose aux établissements européens une transformation profonde de leurs systèmes de risque d'ici six mois.",
-      "source": "FinancialRegulations.eu",
-      "url": "https://financialregulations.eu/blog/crr-iii-crd-vi-guide"
-    },
-    {
-      "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Fable 5 lancé + IPO",
-      "title": "Anthropic : Claude Fable 5 public et dépôt IPO confidentiel",
-      "summary": "Anthropic a lancé Claude Fable 5 le 9 juin 2026, version publique de son modèle frontier Mythos, reconnu pour ses capacités avancées de raisonnement et d'enchaînement autonome de vulnérabilités zero-day. Peu après, la société a déposé confidentiellement un dossier IPO auprès de la SEC, visant une cotation sur Nasdaq ou NYSE dès octobre 2026 à une valorisation potentielle d'un billion de dollars. Avec 47 milliards de dollars d'ARR contre 25 milliards pour OpenAI, Anthropic s'affirme comme le leader en revenus annualisés des labs frontier.",
+      "short_title": "Claude Fable 5 public",
+      "title": "Anthropic lance Claude Fable 5 en accès général",
+      "summary": "Le 9 juin 2026, Anthropic a rendu public Claude Fable 5, la version grand public de son modèle Mythos, en parallèle de Claude Mythos 5 réservé aux partenaires vetted. Cette double sortie marque un tournant commercial : Anthropic atteint désormais un run rate ARR de 47 milliards de dollars, dépassant OpenAI pour la première fois en parts de dépenses IA en entreprise selon les données Ramp.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/09/anthropic-releases-its-first-mythos-model-to-the-public/"
+    },
+    {
+      "id": "n02",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic IPO confidentiel",
+      "title": "Anthropic dépose confidentiellement un dossier d'IPO",
+      "summary": "Début juin 2026, Anthropic a soumis confidentiellement un draft de déclaration d'enregistrement en vue d'une introduction en bourse, après une Série H de 65 milliards de dollars la valorisant à environ 965 milliards. Le succès commercial de Claude Fable 5 et la montée en puissance dans les contrats enterprise constituent le principal argument de valorisation présenté aux investisseurs.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html"
     },
     {
-      "id": "n10",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Glasswing: zero-days IA",
-      "title": "Project Glasswing : Anthropic mobilise Mythos pour la cybersécurité",
-      "summary": "Avant la mise à disposition publique de Fable 5, Anthropic a lancé le Project Glasswing, programme contrôlé donnant à AWS, Apple, Cisco, JPMorgan et Microsoft l'accès à Claude Mythos Preview pour identifier et corriger des vulnérabilités zero-day critiques dans leurs systèmes. C'est la première fois qu'un modèle frontier est déployé à grande échelle comme outil de chasse aux vulnérabilités dans des infrastructures mondiales critiques. Cette initiative préfigure un marché émergent où l'IA devient le vecteur principal de durcissement des systèmes d'information des grands groupes.",
-      "source": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Claude_Mythos"
-    },
-    {
-      "id": "n11",
+      "id": "n03",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Meta Muse Spark fin Llama",
-      "title": "Meta Muse Spark : pivot vers le modèle propriétaire",
-      "summary": "Meta a lancé Muse Spark, premier modèle de la série Muse développée par les Meta Superintelligence Labs, remplaçant la famille Llama sur les lunettes connectées et l'assistant Meta AI. Ce pivot vers un modèle propriétaire marque un tournant stratégique majeur : Meta abandonne le positionnement open-source qui avait fait la réputation de Llama pour concurrencer directement OpenAI et Anthropic sur le segment frontier. Le groupe prévoit 115 à 135 milliards de dollars d'investissements capex IA en 2026, soit près du double de l'année précédente.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since"
+      "short_title": "Gemini 3.5 Pro preview",
+      "title": "Gemini 3.5 Pro de Google en preview limitée Vertex",
+      "summary": "Annoncé au Google I/O de mai 2026, Gemini 3.5 Pro reste en accès restreint à quelques clients Vertex AI enterprise en juin, avec une GA attendue avant fin juin. Le modèle vise une fenêtre de contexte de 2 millions de tokens et un mode de raisonnement Deep Think, positionnant Google directement face à Claude Fable 5 sur les tâches longues et multimodales.",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm"
     },
     {
-      "id": "n12",
+      "id": "n04",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Gemini Robotics ER 1.6",
-      "title": "Google DeepMind : Gemini Robotics ER 1.6 intégré à Spot",
-      "summary": "Google DeepMind a publié Gemini Robotics ER 1.6, nouvelle version de son modèle d'IA pour la robotique, aussitôt intégré par Boston Dynamics dans son robot quadrupède Spot et sa plateforme d'inspection industrielle Orbit. Ce partenariat illustre la stratégie de Google de monétiser ses modèles frontier via des intégrations hardware à haute valeur ajoutée dans l'industrie. La version ER 1.5 est simultanément mise hors service, signalant un rythme d'itération soutenu dans la robotique augmentée par LLM.",
-      "source": "AI Business",
-      "url": "https://aibusiness.com/image-recognition/google-deepmind-agentic-vision-gemini-3-flash"
+      "short_title": "GPT-5.5 & super app",
+      "title": "OpenAI sort GPT-5.5 et veut transformer ChatGPT en super-app",
+      "summary": "OpenAI a déployé GPT-5.5 Instant en juin 2026, retirant GPT-5.2 de ChatGPT, et annoncé une refonte massive de l'application pour en faire une super-app couvrant web, e-commerce et productivité. Codex dépasse 5 millions d'utilisateurs hebdomadaires avec une croissance de 6x depuis son lancement sur l'application desktop, soulignant l'importance stratégique du coding agentique dans la compétition entre labs.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-5-instant/"
     },
     {
-      "id": "n13",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Mistral: IA industrielle",
-      "title": "Mistral : virage IA industrielle et levée de 3 Mds€",
-      "summary": "Lors de l'AI Now Summit, Mistral a annoncé un pivot vers l'IA industrielle verticale : son modèle Emmi AI sera déployé chez Airbus, BMW et ASML pour des simulations d'ingénierie accélérées et des jumeaux numériques temps-réel. La société lance Vibe, plateforme d'agents unifiant Le Chat et ses outils enterprise, et construit un datacenter de 10 MW à Les Ulis pour l'inférence souveraine. En parallèle, Mistral négocie une levée de fonds de 3 milliards d'euros à une valorisation de 20 milliards.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/ai-now-summit-2026/"
-    },
-    {
-      "id": "n14",
+      "id": "n05",
       "theme": "tech",
       "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Windsurf → Devin Desktop",
-      "title": "Windsurf devient Devin Desktop : consolidation vibe coding",
-      "summary": "Windsurf, IDE IA acquis par Cognition en décembre 2025, a été rebaptisé Devin Desktop le 2 juin 2026 via une mise à jour transparente, fusionnant l'éditeur local avec l'agent autonome Devin Cloud. L'agent Cascade qui propulsait Windsurf est mis en fin de vie au 1er juillet 2026, et les fonctionnalités d'agent Cloud sont désormais accessibles dès 20 dollars par mois. Le marché du vibe coding atteint 4,7 milliards de dollars en 2026, avec 41% du code mondial désormais généré par IA.",
-      "source": "Digital Applied",
-      "url": "https://www.digitalapplied.com/blog/windsurf-becomes-devin-desktop-ide-migration-2026"
+      "short_title": "Windsurf rebrand Devin",
+      "title": "Windsurf rebaptisé Devin Desktop par Cognition",
+      "summary": "Le 2 juin 2026, Cognition a renommé l'éditeur de code IA Windsurf en Devin Desktop, unifiant sa marque autour de Devin, son agent de développement autonome. Ce rebranding matérialise la convergence entre assistants de code classiques (IDE) et agents autonomes capables de mener des tâches complètes sans intervention, une tendance structurante du marché vibe coding en 2026.",
+      "source": "Index.dev",
+      "url": "https://www.index.dev/blog/vibe-coding-tools"
+    },
+    {
+      "id": "n06",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Accord cadre US-Iran",
+      "title": "US et Iran proches d'un MOU de cessez-le-feu et nucléaire",
+      "summary": "Le 28 mai 2026, négociateurs américains et iraniens ont atteint un mémorandum d'entente préliminaire prévoyant un cessez-le-feu prolongé et l'ouverture de pourparlers nucléaires, en attente de validation par Trump. Les discussions portent sur la liberté de navigation dans le détroit d'Ormuz, le programme balistique iranien et un calendrier de levée de sanctions via la médiation du Pakistan — mais des incidents militaires mi-juin fragilisent encore la signature finale.",
+      "source": "House of Commons Library",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10637/"
+    },
+    {
+      "id": "n07",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Liban-Israël Washington",
+      "title": "Liban et Israël reprennent les pourparlers à Washington",
+      "summary": "Le 19 juin 2026, le Département d'État américain a annoncé un nouveau cycle de négociations directes libano-israéliennes à Washington pour le 23-25 juin. Ces discussions, inédites depuis 1993, visent à stabiliser le front nord après le cadre de cessez-le-feu avec l'Iran, malgré l'opposition persistante du Hezbollah à tout accord formalisé avec Israël.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week"
+    },
+    {
+      "id": "n08",
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 3,
+      "short_title": "BCE relève à 2,25%",
+      "title": "La BCE remonte ses taux à 2,25% sous pression inflationniste énergie",
+      "summary": "Le 11 juin 2026, la BCE a relevé son taux de dépôt de 25 points de base à 2,25%, premier resserrement depuis 2023, avec effet au 17 juin. L'inflation zone euro est révisée à 3% en moyenne pour 2026, tirée par les prix de l'énergie dans le contexte de guerre au Moyen-Orient, avec un retour à la cible 2% non anticipé avant 2028.",
+      "source": "ECB",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html"
+    },
+    {
+      "id": "n09",
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Fed hold Warsh 3,75%",
+      "title": "La Fed maintient ses taux, mais les marchés anticipent une hausse",
+      "summary": "Sous la direction de son nouveau président Kevin Warsh, la Réserve fédérale a maintenu ses taux dans la fourchette 3,50-3,75% en juin 2026, en priorisant la stabilité des prix. Les marchés intègrent désormais une probabilité non négligeable de hausse en fin d'année, la pression inflationniste venue des prix de l'énergie étant jugée potentiellement persistante malgré un affaiblissement de la demande intérieure.",
+      "source": "U.S. Bank",
+      "url": "https://www.usbank.com/investing/financial-perspectives/market-news/federal-reserve-interest-rate.html"
+    },
+    {
+      "id": "n10",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 3,
+      "short_title": "FRTB EU ajust. 2027",
+      "title": "UE adopte un acte délégué pour atténuer l'impact FRTB/Bâle III",
+      "summary": "Le 4 juin 2026, la Commission européenne a introduit des ajustements ciblés à la FRTB via un acte délégué, dont un multiplicateur temporaire pour compenser les impacts en capital des banques européennes, applicable à partir du 1er janvier 2027 pour trois ans. La mesure répond au retard américain dans l'implémentation de Bâle III, qui crée un risque de distorsion compétitive entre banques européennes et américaines sur les marchés de capitaux mondiaux.",
+      "source": "European Commission",
+      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+    },
+    {
+      "id": "n11",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "US Basel III re-proposal",
+      "title": "Les États-Unis re-proposent leur implémentation de Bâle III",
+      "summary": "Le 19 mars 2026, les régulateurs américains (Fed, OCC, FDIC) ont publié une nouvelle proposition révisée pour Bâle III incluant le cadre FRTB, avec une période de commentaires close le 18 juin 2026. Par rapport à l'endgame original de 2023, la re-proposition assouplit significativement les exigences en capital pour les grandes banques américaines, notamment sur le traitement du risque opérationnel et du CVA.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+    },
+    {
+      "id": "n12",
+      "theme": "sante",
+      "subtopic": "kettlebell",
+      "importance": 3,
+      "short_title": "Musculation 90-120min/sem",
+      "title": "Harvard : 90-120 min de musculation par semaine, sweet spot longévité",
+      "summary": "Une étude de la Harvard T.H. Chan School of Public Health parue dans le British Journal of Sports Medicine en juin 2026 a suivi 147 000 adultes américains pendant 30 ans. Elle révèle que 90 à 119 minutes hebdomadaires de musculation sont associées à une réduction de 13% du risque de mortalité toutes causes, 19% pour les maladies cardiovasculaires et 27% pour les maladies neurologiques, sans bénéfice supplémentaire au-delà de 120 minutes.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
+    },
+    {
+      "id": "n13",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Trio sommeil-sport-diète",
+      "title": "Lancet : de petits cumuls sur sommeil, sport et alimentation allongent la vie",
+      "summary": "Une étude de cohorte publiée dans eClinicalMedicine (Lancet) montre que des améliorations simultanées mais modestes sur le sommeil, l'activité physique et l'alimentation — quelques minutes de sommeil supplémentaires, quelques légumes de plus, quelques minutes d'exercice — produisent des gains significatifs en lifespan et healthspan. Ce résultat complète les données sur la musculation intensive : même des changements minimalistes combinés ont un effet mesurable sur la mortalité.",
+      "source": "The Lancet",
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00676-5/fulltext"
+    },
+    {
+      "id": "n14",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "UE consultation ENR 2030+",
+      "title": "L'UE clôt sa consultation sur le cadre ENR post-2030",
+      "summary": "La consultation publique de la Commission européenne sur le cadre des énergies renouvelables post-2030 s'est terminée le 12 juin 2026. L'objectif contraignant de 42,5% d'ENR dans le mix énergétique d'ici 2030 reste en place, et cette consultation vise à définir les ambitions pour la décennie suivante alors que l'Europe cherche à concilier compétitivité industrielle, souveraineté énergétique et neutralité carbone 2050.",
+      "source": "European Commission",
+      "url": "https://energy.ec.europa.eu/news/post-2030-renewable-energy-framework-public-consultation-2026-03-20_en"
     },
     {
       "id": "n15",
       "theme": "climat",
-      "subtopic": "europe",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "EU ETS sous pression Est",
-      "title": "EU ETS : l'Europe de l'Est résiste aux coupes de quotas",
-      "summary": "Six États membres — République tchèque, Bulgarie, Pologne, Roumanie, Grèce et Slovaquie — demandent un assouplissement du marché carbone européen (EU ETS), contestant la réduction de 50% des allocations pour le secteur thermique et les carburants. Cette résistance s'exprime au moment où la Commission révise son architecture climatique post-2030 et prépare les règles déterminant si l'UE atteindra ses engagements de l'Accord de Paris. La crise énergétique liée à Ormuz renforce les arguments des États les plus dépendants des fossiles.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/brief-5-june-26"
+      "short_title": "Paradoxe data centers ENR",
+      "title": "Les data centers sauvent paradoxalement la transition ENR aux États-Unis",
+      "summary": "Alors que l'administration Trump démantèle les politiques climatiques fédérales en favorisant les combustibles fossiles, la demande électrique explosive des data centers d'IA et des hyperscalers crée une pression de marché qui soutient paradoxalement le déploiement de renouvelables et de batteries. Le Rocky Mountain Institute identifie cette dynamique comme l'un des seuls facteurs de continuité de la transition énergétique américaine en 2026.",
+      "source": "RMI",
+      "url": "https://rmi.org/the-energy-transition-in-2026-10-trends-to-watch/"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "regulation",
-      "importance": 1,
-      "short_title": "Bonn SB64: traités freins",
-      "title": "SB64 Bonn : les traités d'investissement bloquent la transition",
-      "summary": "Lors des réunions préliminaires de la COP (SB64) à Bonn en juin, des chercheurs ont appelé les gouvernements à reconnaître les traités bilatéraux de protection des investissements comme un frein juridique majeur à la transition énergétique. Ces accords permettent aux entreprises des énergies fossiles d'attaquer en arbitrage les États adoptant des politiques de sortie du charbon ou du pétrole, créant un risque financier dissuasif. La question est devenue l'un des principaux points de blocage des négociations climatiques multilatérales.",
-      "source": "Clean Energy Wire",
-      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
+      "theme": "sciences",
+      "subtopic": "bio",
+      "importance": 2,
+      "short_title": "Réseaux fongiques mappés",
+      "title": "Premier inventaire mondial des réseaux mycorhiziens souterrains",
+      "summary": "Des chercheurs ont réalisé la première cartographie globale des réseaux de champignons mycorhiziens souterrains, estimant leur extension totale à 110 quadrillions de kilomètres — des millions de fois la distance Terre-Soleil. Ces réseaux jouent un rôle crucial dans le stockage de carbone et la communication inter-plantes, et leur cartographie ouvre des perspectives pour la protection des sols et les stratégies de séquestration carbone.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/plants_animals/biotechnology/"
     },
     {
       "id": "n17",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Phosphatidylcholine aging",
-      "title": "Mitochondries : déclin de phosphatidylcholine réversible",
-      "summary": "Des chercheurs de l'Institut Leibniz de Jena ont identifié le déclin de la phosphatidylcholine comme déclencheur majeur du dysfonctionnement mitochondrial lié à l'âge, dans une étude publiée dans Nature Communications. Ce lipide membranaire, dont la synthèse diminue avec l'âge, est essentiel à la flexibilité et à la fusion des mitochondries ; sa supplémentation restaure l'intégrité mitochondriale dans des expériences sur nématodes et cultures cellulaires humaines. L'enjeu est considérable : un mécanisme central du vieillissement s'avère potentiellement réversible par des interventions nutritionnelles ciblées.",
-      "source": "Nature Communications",
-      "url": "https://www.nature.com/articles/s41467-026-71508-7"
+      "theme": "sciences",
+      "subtopic": "chimie",
+      "importance": 1,
+      "short_title": "PFAS dégradation UV",
+      "title": "Des radicaux UV dégradent les PFAS sans additifs chimiques",
+      "summary": "Des chercheurs ont découvert que des radicaux hydrogène générés par lumière UV intense peuvent décomposer les composés perfluoroalkylés (PFAS), ces polluants dits éternels, sans recourir à des réactifs chimiques supplémentaires. Cette approche photochimique pourrait offrir une méthode de décontamination plus simple et moins coûteuse pour les sols et nappes phréatiques contaminés.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/matter_energy/chemistry/"
     },
     {
       "id": "n18",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Alzheimer: mutations sang",
-      "title": "Alzheimer : les mutations de cancers sanguins impliquées",
-      "summary": "Des chercheurs ont découvert que les mutations génétiques responsables de cancers du sang (lymphomes et leucémies) se retrouvent également dans les microglies cérébrales des patients Alzheimer, suggérant un lien causal inattendu entre oncologie hématologique et neurodégénération. Ces cellules immunitaires du cerveau, devenues hyper-inflammatoires sous l'effet des mutations, pourraient accélérer la progression de la maladie. Cette découverte ouvre une piste thérapeutique : repositionner des médicaments anti-cancéreux existants comme agents neuroprotecteurs dans Alzheimer.",
-      "source": "Ma-Clinique.fr",
-      "url": "https://ma-clinique.fr/des-mutations-liees-au-cancer-dans-les-cellules-cerebrales-pourraient-etre-a-lorigine-de-la-maladie-dalzheimer"
+      "theme": "geopol",
+      "subtopic": "amerique_latine",
+      "importance": 1,
+      "short_title": "Colombie élection 21 juin",
+      "title": "Colombie : second tour présidentiel le 21 juin",
+      "summary": "La Colombie tient son second tour présidentiel le 21 juin 2026, aucun candidat n'ayant obtenu la majorité absolue au premier tour du 31 mai. L'élection se déroule dans un contexte de tensions sociales et de débat sur la politique de sécurité et le processus de paix, avec des implications pour les relations avec les États-Unis et le Venezuela.",
+      "source": "ZeroFox",
+      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
+    },
+    {
+      "id": "n19",
+      "theme": "geopol",
+      "subtopic": "afrique",
+      "importance": 1,
+      "short_title": "Ethiopie Tigray tensions",
+      "title": "Éthiopie : redéploiement militaire au Tigray après les élections",
+      "summary": "Depuis février 2026, le gouvernement éthiopien a redéployé des troupes fédérales dans le nord du Tigray et accuse l'Érythrée de coordonner ses actions avec une faction du TPLF. Ces développements surviennent après les élections générales du 1er juin 2026 et font craindre une reprise des hostilités dans la région, avec des implications pour la stabilité de la Corne de l'Afrique.",
+      "source": "ZeroFox",
+      "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"
     }
   ],
   "edges": [
     {
-      "source": "n01",
-      "target": "n06",
+      "source": "n06",
+      "target": "n08",
       "type": "cause",
-      "explanation": "La menace iranienne sur le Détroit d'Ormuz, née de la guerre ouverte avec les États-Unis, prive physiquement le marché de 20% de l'offre pétrolière mondiale, déclenchant un choc d'offre sans précédent historique selon l'AIE."
+      "explanation": "La guerre au Moyen-Orient maintient les prix de l'énergie à un niveau élevé, alimentant l'inflation en zone euro au-delà de 3% et contraignant la BCE à reprendre les hausses de taux après une pause de trois ans."
+    },
+    {
+      "source": "n08",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Face à la même pression inflationniste énergétique, BCE et Fed adoptent des stratégies opposées — hausse vs statu quo — créant une divergence monétaire transatlantique qui pèse sur le taux de change EUR/USD et les flux de capitaux."
     },
     {
       "source": "n06",
-      "target": "n04",
+      "target": "n07",
       "type": "cause",
-      "explanation": "Le choc pétrolier amplifie l'inflation importée en zone euro, portant l'IPC à 3,2% en mai 2026, ce qui contraint la BCE à inverser son cycle et à monter les taux pour la première fois depuis 2023."
-    },
-    {
-      "source": "n04",
-      "target": "n05",
-      "type": "cause",
-      "explanation": "La hausse de la BCE renchérit mécaniquement le coût de la dette souveraine européenne : les investisseurs exigent des rendements plus élevés, d'où le franchissement des 3,05% sur le Bund et 3,75% sur l'OAT."
+      "explanation": "Le cadre de cessez-le-feu US-Iran inclut une clause de désescalade sur tous les fronts régionaux, fournissant le contexte diplomatique qui rend possible la reprise de négociations directes Liban-Israël à Washington."
     },
     {
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "L'embrasement régional de 2025-2026 (Ormuz, Liban, Ukraine persistante) crée une demande record pour les systèmes de défense et explique l'affluence historique à Eurosatory, premier salon post-plan ReArm Europe."
+      "explanation": "Le lancement public de Claude Fable 5 a propulsé Anthropic à un run rate de 47 Md$ d'ARR, fournissant les preuves commerciales nécessaires pour crédibiliser une valorisation d'IPO proche de 1 000 milliards de dollars."
+    },
+    {
+      "source": "n01",
+      "target": "n04",
+      "type": "tension",
+      "explanation": "Anthropic et OpenAI sortent simultanément leurs modèles frontier grand public (Fable 5 vs GPT-5.5) dans une compétition directe pour les dépenses IA enterprise, où Anthropic a dépassé OpenAI pour la première fois en avril 2026."
     },
     {
       "source": "n03",
       "target": "n01",
       "type": "meme_sujet",
-      "explanation": "Les bombardements sur Tyr et la crise du Détroit d'Ormuz sont deux fronts distincts du même embrasement régional déclenché par la mort de Khamenei et l'opération Epic Fury de février 2026."
+      "explanation": "Claude Fable 5 (Anthropic) et Gemini 3.5 Pro (Google) sont les deux nouveaux modèles frontier de juin 2026 ciblant le même segment — raisonnement avancé, long contexte — dans la course à la préférence enterprise."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Claude Fable 5 (déploiement grand public) et le Project Glasswing (déploiement enterprise sécurité) sont les deux modes de diffusion du même modèle Anthropic Mythos, l'un accessible à tous, l'autre réservé à des partenaires triés pour des usages défensifs."
-    },
-    {
-      "source": "n09",
+      "source": "n10",
       "target": "n11",
-      "type": "tension",
-      "explanation": "L'IPO Anthropic à valorisation d'un billion de dollars et son avance en ARR sur OpenAI exerce une pression concurrentielle directe sur Meta, qui répond en abandonnant Llama open-source pour le propriétaire Muse Spark."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
       "type": "meme_sujet",
-      "explanation": "La deadline US du 18 juin et l'entrée en vigueur FRTB/CVA en Europe en janvier 2027 sont deux jalons synchrones d'un même calendrier mondial de convergence réglementaire bancaire, imposant des transformations parallèles aux grands établissements internationaux."
+      "explanation": "L'ajustement FRTB de l'UE (4 juin) et la re-proposition Basel III américaine (clôture 18 juin) sont les deux faces d'une même divergence réglementaire mondiale : l'UE compense les distorsions compétitives créées par le retard américain."
     },
     {
-      "source": "n06",
+      "source": "n08",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "La remontée des taux BCE amplifie la volatilité des taux d'intérêt et augmente mécaniquement les expositions CVA et les exigences en capital sous FRTB pour les banques européennes, renforçant l'urgence des mesures d'atténuation du 4 juin."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Les deux études convergent sur le même message : des dosages modérés et combinés d'habitudes saines — pas les pratiques extrêmes — maximisent les bénéfices longévité, que ce soit via la musculation ou le trio sommeil-sport-alimentation."
+    },
+    {
+      "source": "n14",
       "target": "n15",
       "type": "tension",
-      "explanation": "Le choc pétrolier d'Ormuz renforce l'argument de la transition énergétique comme impératif de sécurité, mais les États d'Europe de l'Est s'en servent pour exiger un relâchement des contraintes EU ETS au nom de la compétitivité industrielle."
+      "explanation": "Pendant que l'UE structure activement son ambition ENR post-2030, les États-Unis sous Trump déroulent leurs énergies fossiles ; paradoxalement, la demande électrique des data centers compense en partie le désinvestissement public américain dans les renouvelables."
     },
     {
-      "source": "n13",
-      "target": "n12",
-      "type": "tension",
-      "explanation": "Mistral parie sur l'IA industrielle verticale et souveraine (Airbus, BMW, datacenter français) là où Google Robotics cible une intégration horizontale grand-marché via Spot et Orbit — deux visions opposées de la monétisation de l'IA en production."
-    },
-    {
-      "source": "n11",
-      "target": "n14",
+      "source": "n01",
+      "target": "n05",
       "type": "cause",
-      "explanation": "L'abandon de Llama open-source par Meta retire une source de modèles gratuits sur lesquels les IDE IA comme Windsurf s'appuyaient, accélérant leur pivot vers des modèles frontier propriétaires et donc la consolidation du marché vibe coding."
-    },
-    {
-      "source": "n17",
-      "target": "n18",
-      "type": "meme_sujet",
-      "explanation": "Les deux percées convergent vers la même thèse : les processus moléculaires du vieillissement cellulaire et des maladies neurodégénératives sont partiellement réversibles ou interceptables, ouvrant une ère de médecine de la longévité basée sur des mécanismes précis."
+      "explanation": "Les capacités de raisonnement et de coding des modèles frontier comme Claude Fable 5 constituent l'infrastructure sous-jacente des agents de code autonomes, permettant à des plateformes comme Devin Desktop d'offrir un niveau d'autonomie inédit aux développeurs."
     }
   ]
 }

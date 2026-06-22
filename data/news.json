@@ -1,203 +1,203 @@
 {
-  "generated_at": "2026-06-21T07:00:00Z",
+  "generated_at": "2026-06-22T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran-Israël trêve rompue",
-      "title": "Fin de la trêve Iran-Israël après tirs de missiles",
-      "summary": "Le 7 juin, deux mois après le cessez-le-feu du 8 avril, l'armée israélienne a intercepté deux missiles tirés depuis l'Iran, signalant la rupture de la trêve. Trump a demandé à Netanyahu de ne pas riposter tandis que des négociations de paix définitives étaient décrites comme proches d'un accord.",
-      "source": "AFP / Major Prépa",
-      "url": "https://major-prepa.com/geopolitique/synthese-dactualite-8-au-14-juin-2026/"
+      "short_title": "US-Iran MOU, Hormuz",
+      "title": "Accord de cessez-le-feu US-Iran et réouverture du détroit de Hormuz",
+      "summary": "Mi-juin, Washington et Téhéran ont signé un mémorandum d'entente en 14 points mettant fin à plus de 100 jours de conflit armé, prévoyant un cessez-le-feu de 60 jours et la réouverture du détroit de Hormuz sans droits de transit. Un processus de déminage et des négociations sur le nucléaire et les sanctions doivent s'ouvrir dans la fenêtre de 60 jours. Les pourparlers prévus à Bürgenstock le 19 juin ont toutefois été suspendus à la dernière minute.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Mémorandum d'Islamabad",
-      "title": "Accord US-Iran : fin du conflit et réouverture du détroit d'Ormuz",
-      "summary": "Le 15 juin, Washington et Téhéran ont officialisé la fin du conflit armé via le Mémorandum d'Islamabad. Trump a confirmé la levée immédiate du blocus naval américain et la réouverture sans conditions du détroit d'Ormuz, par lequel transitent environ 20 millions de barils par jour.",
-      "source": "Bloomberg / PrixDuBaril",
-      "url": "https://prixdubaril.com/news-petrole/74160-petrole-le-baril-de-brent-42-depuis-le-d-13032026.html"
+      "short_title": "Liban : rift Israël-US",
+      "title": "Le Liban s'embrase malgré l'accord : fracture inédite Israël–États-Unis",
+      "summary": "Malgré le MOU Washington-Téhéran, les combats entre Israël et le Hezbollah au Liban ont continué quotidiennement, le ministre Katz affirmant que les troupes israéliennes resteraient indéfiniment dans le sud du Liban. Trump a publiquement réprimandé Netanyahu, une rupture sans précédent entre les deux alliés. Cette fracture menace de saper la portée réelle de l'accord avec l'Iran et bloque un cessez-le-feu durable.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/"
     },
     {
       "id": "n03",
-      "theme": "climat",
-      "subtopic": "energie",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Brent ~80$ post-accord",
-      "title": "Le Brent retombe vers 80$ après la réouverture d'Ormuz",
-      "summary": "Le 19 juin, le Brent se stabilisait autour de 80 dollars le baril après avoir atteint 97 dollars durant la phase d'escalade. La réouverture du détroit d'Ormuz a dissipé le scénario de pénurie estivale, même si les marchés demeurent sceptiques sur la durabilité du cessez-le-feu.",
-      "source": "PrixDuBaril.com / Trading Economics",
-      "url": "https://prixdubaril.com/news-petrole/74160-petrole-le-baril-de-brent-42-depuis-le-d-13032026.html"
+      "short_title": "G7 Evian : Iran & énergie",
+      "title": "G7 d'Evian-les-Bains : endossement de l'accord Iran et engagements énergie",
+      "summary": "Les leaders du G7 réunis à Evian-les-Bains ont officiellement adoubé le MOU Washington-Téhéran, appelé à un cessez-le-feu immédiat et au désarmement du Hezbollah au Liban. Les membres se sont engagés à diversifier leurs routes d'approvisionnement énergétique pour réduire la dépendance au détroit de Hormuz. Ils ont également durci les sanctions contre la Russie sur la guerre en Ukraine.",
+      "source": "Time",
+      "url": "https://time.com/article/2026/06/17/g7-leaders-call-for-immediate-ceasefire-lebanon-us-iran-peace-deal/"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "banques_centrales",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "ECB +25bp 1ère hausse",
-      "title": "La BCE remonte ses taux pour la première fois depuis septembre 2023",
-      "summary": "Le 11 juin, la BCE a relevé ses trois taux directeurs de 25 points de base — le taux de dépôt passe à 2,25% — marquant son premier resserrement depuis la fin du cycle de 2023 et renversant huit baisses consécutives (juin 2024 à juin 2025). La décision est explicitement motivée par les pressions inflationnistes énergétiques liées à la guerre en Iran.",
-      "source": "BCE / Euronews / CNBC",
-      "url": "https://www.euronews.com/business/2026/06/11/ecb-raises-interest-rates-for-the-first-time-in-three-years-as-iran-war-fuels-inflation"
+      "short_title": "Brent chute sous $80",
+      "title": "Le Brent tombe sous 80 $/baril sur l'espoir de réouverture d'Hormuz",
+      "summary": "La perspective de réouverture du détroit de Hormuz a déclenché une chute brutale du Brent, tombé sous 80 $/baril pour la première fois depuis mars — soit une baisse de 17 $/baril en quatre séances. Les échanges restent volatils : les pourparlers de Bürgenstock ont été suspendus vendredi et les opérations de déminage dans le détroit pourraient durer plusieurs semaines. Brent clôturait à 80,57 $/baril le vendredi 19 juin.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html"
     },
     {
       "id": "n05",
       "theme": "finance",
       "subtopic": "banques_centrales",
       "importance": 3,
-      "short_title": "Fed hold + dot plot hike",
-      "title": "La Fed maintient ses taux mais signale une hausse à venir",
-      "summary": "Le 17 juin, premier FOMC de Kevin Warsh (successeur de Powell) : les taux sont maintenus à 3,5–3,75% mais le dot plot médian remonte à 3,8%, signalant au moins une hausse en 2026. Les marchés anticipent une première action dès octobre, dans un contexte de persistance de l'inflation américaine.",
-      "source": "Federal Reserve / CNBC",
+      "short_title": "Fed Warsh : hike en vue",
+      "title": "Fed juin 2026 : Warsh maintient les taux mais le dot plot bascule vers une hausse",
+      "summary": "Lors de sa première réunion à la tête de la Fed, Kevin Warsh a maintenu les taux à 3,5–3,75 % mais le dot plot médian signale désormais une hausse d'ici fin 2026, contre une baisse projetée en mars. Warsh a refusé de soumettre ses propres projections, simplifié le communiqué de presse, et 17/18 gouverneurs voient les risques d'inflation orientés à la hausse. Les marchés ont lu ce signal comme hawkish malgré le statu quo.",
+      "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Fable 5 banni export US",
-      "title": "Anthropic suspend Fable 5 et Mythos 5 sur directive du gouvernement américain",
-      "summary": "Le 12 juin, le gouvernement US a émis une directive de contrôle des exportations contraignant Anthropic à suspendre l'accès à ses modèles les plus puissants pour tout ressortissant étranger, y compris ses propres employés non-citoyens. La justification officielle est un jailbreak permettant d'accéder aux capacités offensives de cybersécurité de Mythos 5 — ce qu'Anthropic juge largement surestimé.",
-      "source": "Anthropic / Fortune / Al Jazeera",
-      "url": "https://www.anthropic.com/news/fable-mythos-access"
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "ZEW rebondit en positif",
+      "title": "ZEW : premier rebond positif depuis l'éclatement du conflit au Moyen-Orient",
+      "summary": "L'indicateur ZEW de sentiment économique pour la zone euro a rebondi à +9,5 points en juin (vs -9,1 en mai), sa première lecture positive depuis le début du conflit US-Iran, dépassant nettement les attentes de -7,2. Le rebond est directement attribué à l'optimisme lié au MOU Washington-Téhéran et à la baisse des prix énergétiques. Ce retournement préfigure une reprise potentielle de la confiance des entreprises européennes au T3 2026.",
+      "source": "InvestingLive",
+      "url": "https://investinglive.com/news/germany-june-zew-survey-current-conditions-810-vs-780-expected-20260616/"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI GPT-5.5 + Ads",
-      "title": "OpenAI lance GPT-5.5 et introduit la publicité dans ChatGPT",
-      "summary": "OpenAI a publié GPT-5.5 (variantes Pro et Instant) en remplacement des versions 5.2 désormais retirées, et a inauguré un Ads Manager dans ChatGPT ouvrant une nouvelle source de revenus publicitaires. Trois modèles audio temps-réel ont également été lancés pour la traduction et la transcription conversationnelle.",
-      "source": "OpenAI / Releasebot",
-      "url": "https://releasebot.io/updates/openai"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 3,
+      "short_title": "EU FRTB : ajust. Bâle III",
+      "title": "L'UE adopte un ajustement temporaire des règles FRTB pour protéger ses banques",
+      "summary": "Le 4 juin, la Commission européenne a adopté un acte délégué ajustant temporairement l'implémentation du FRTB pour les banques européennes, via un multiplicateur correctif applicable de 2027 à 2030. La mesure vise à compenser les distorsions de compétitivité dues aux retards d'implémentation aux États-Unis et au Royaume-Uni. C'est un signal clair que l'UE n'acceptera pas un désavantage unilatéral sur le capital réglementaire de marché dans le cadre Bâle III.",
+      "source": "Commission européenne",
+      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Google Gemini 3.5 Flash",
-      "title": "Google I/O 2026 : Gemini 3.5 Flash et agent de sécurité CodeMender",
-      "summary": "Lors de Google I/O 2026, Google DeepMind a dévoilé Gemini 3.5 Flash, conçu pour les workflows agentiques et la génération de code avec des performances annoncées au niveau frontier. L'agent CodeMender, capable d'analyser et corriger des vulnérabilités de sécurité dans des bases de code, a également été présenté.",
-      "source": "Google Cloud Blog / Fast Company",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud"
+      "short_title": "US Basel III réforme",
+      "title": "États-Unis : nouvelle proposition de réforme du capital bancaire Bâle III endgame",
+      "summary": "En mars 2026, la Fed, l'OCC et la FDIC ont publié une proposition complète de réforme du capital bancaire pour implémenter Bâle III, avec un output floor à 72,5 %, un régime de risque de marché de type FRTB et une nouvelle formule pour le risque opérationnel. La période de commentaires s'est clôturée le 18 juin 2026. Le déploiement est prévu en trois ans, après plusieurs tentatives infructueuses depuis 2023.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Mistral lève €3B / €20B",
-      "title": "Mistral AI en discussions pour lever €3 milliards à une valorisation de €20 milliards",
-      "summary": "La startup française est en tractations avancées pour une levée de fonds de €3 milliards valorisant l'entreprise à environ €20 milliards, soit près du double de sa Série C à €11,7 milliards. Mistral a parallèlement lancé 'Vibe', un agent IA pour les tâches longues et le coding avec extension VS Code.",
-      "source": "Bloomberg / TechCrunch",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation"
+      "importance": 3,
+      "short_title": "Claude Fable 5 lancé",
+      "title": "Anthropic lance Claude Fable 5, premier modèle Mythos-class grand public",
+      "summary": "Le 9 juin, Anthropic a mis Fable 5 à disposition du grand public — son premier modèle de classe Mythos — affichant 95 % sur SWE-bench Verified et des performances state-of-the-art en software engineering, vision et recherche scientifique. Le modèle est tarifé à 10 $/M tokens d'entrée et 50 $/M de sortie, inclus sans surcoût sur les plans Pro/Max/Team jusqu'au 22 juin. Claude Mythos 5, version restreinte aux usages cybersécurité gouvernementaux, a été lancé simultanément.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor $2B ARR / $29B val",
-      "title": "Cursor franchit $2B ARR en 24 mois, valorisé $29,3 milliards",
-      "summary": "L'éditeur de code IA Cursor a atteint 2 milliards de dollars de revenus annualisés en seulement deux ans d'existence, s'imposant comme la croissance SaaS la plus rapide de l'histoire selon ses investisseurs. Sa valorisation dépasse désormais 29 milliards de dollars, signe de l'appétit du marché pour les outils de développement augmentés par l'IA.",
-      "source": "Index.dev / Taskade",
-      "url": "https://www.index.dev/blog/vibe-coding-tools"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Fable 5 : export ban US",
+      "title": "Le gouvernement US ordonne la suspension mondiale de Fable 5 et Mythos 5",
+      "summary": "Le 12 juin à 17h21 (ET), le gouvernement américain a émis une directive d'export control invoquant la sécurité nationale et ordonnant la suspension de Fable 5 et Mythos 5 pour tout ressortissant étranger, y compris les employés d'Anthropic. La raison officielle : une technique de jailbreak identifiée post-déploiement. Anthropic a respecté l'ordre tout en contestant publiquement sa proportionnalité — c'est le premier retrait gouvernemental forcé d'un modèle frontier déployé à l'échelle mondiale.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-mythos-access"
     },
     {
       "id": "n11",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Arménie pivot UE",
-      "title": "Arménie : Pachinyan réélu, virage pro-européen consolidé",
-      "summary": "Avec 49,8% des voix aux législatives du 7 juin, le parti de Nikol Pachinyan remporte un troisième mandat et confirme la trajectoire d'intégration de l'Arménie vers l'Union européenne et les États-Unis. Ce résultat matérialise un recul significatif de l'influence russe dans le Caucase du Sud.",
-      "source": "AFP / Major Prépa",
-      "url": "https://major-prepa.com/geopolitique/synthese-dactualite-8-au-14-juin-2026/"
-    },
-    {
-      "id": "n12",
-      "theme": "geopol",
-      "subtopic": "ukraine",
-      "importance": 2,
-      "short_title": "Ukraine: négo bloquées",
-      "title": "Ukraine-Russie : les pourparlers de paix restent dans l'impasse",
-      "summary": "Malgré une déclaration commune UK-France-Allemagne-Zelenskyy le 7 juin en faveur du dialogue direct, les négociations formelles achoppent sur les exigences territoriales russes (cession du Donbas) et les garanties de sécurité pour l'Ukraine. Les marchés de prédiction accordent moins de 20% de chances à un cessez-le-feu avant le 30 juin.",
-      "source": "Chatham House / Reuters",
-      "url": "https://www.chathamhouse.org/2026/05/how-russia-ukraine-ceasefire-could-imperil-ukrainian-and-european-security"
-    },
-    {
-      "id": "n13",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 3,
-      "short_title": "FRTB EU reporté 2027",
-      "title": "L'UE repousse la mise en œuvre de FRTB à janvier 2027",
-      "summary": "La Commission européenne a accordé un délai supplémentaire d'un an pour l'entrée en vigueur du Fundamental Review of the Trading Book, initialement prévue au 1er janvier 2026. L'objectif est de s'aligner sur les juridictions américaine et britannique et d'éviter une distorsion de compétitivité pour les banques européennes sur les marchés de dérivés.",
-      "source": "A&O Shearman / Risk.net",
-      "url": "https://www.aoshearman.com/en/insights/financial-services-horizon-report-2026/prudential-regulation-in-2026"
-    },
-    {
-      "id": "n14",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Anthropic IPO S-1 SEC",
-      "title": "Anthropic dépose confidentiellement son S-1 en vue d'une introduction en bourse",
-      "summary": "Le 1er juin, Anthropic a soumis à la SEC un projet de prospectus (Form S-1) pour une IPO, en procédure confidentielle. C'est la première étape formelle vers une cotation publique de l'une des startups d'IA les mieux capitalisées au monde, quelques jours avant que ses modèles phares soient frappés d'une restriction export.",
-      "source": "Anthropic / NPR",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+      "short_title": "Anthropic IPO : $965 Mds",
+      "title": "Anthropic dépose confidentiellement son S-1 pour une IPO valorisée à $965 milliards",
+      "summary": "Le 1er juin, Anthropic a soumis confidentiellement un formulaire S-1 auprès de la SEC pour une introduction en bourse, sur la base d'une valorisation de 965 Mds$ obtenue lors d'une levée de 65 Mds$ (Série H). Le revenu annualisé atteignait ~47 Mds$ en mai 2026, en hausse vertigineuse depuis 4 Mds$ en juillet 2025. Cette IPO se profile comme l'une des plus grandes cotations tech de l'histoire des marchés américains.",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/06/10/anthropic-claude-fable-5-ipo-965-billion/"
+    },
+    {
+      "id": "n12",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor : vibe coding $2B",
+      "title": "Vibe coding : Cursor à 2 Mds$ d'ARR, 92 % des développeurs US utilisent l'IA",
+      "summary": "Le vibe coding — programmer en langage naturel avec des outils comme Cursor ou Claude Code — a connu une croissance de 340 % entre 2024 et début 2026, avec 92 % des développeurs américains utilisant désormais l'IA dans leur workflow. Cursor s'est imposé comme leader avec 2 Mds$ de revenu annualisé et une valorisation de 9,2 Mds$. Les équipes rapportent des gains de 3 à 5× mais 45 % du code généré par IA présente des vulnérabilités de sécurité non détectées.",
+      "source": "DEV Community",
+      "url": "https://dev.to/pooyagolchian/vibe-coding-in-2026-92b-cursor-92-humaneval-and-the-end-of-boilerplate-161h"
+    },
+    {
+      "id": "n13",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Gemini Enterprise + Siri",
+      "title": "Google lance Gemini Enterprise Agent Platform et s'impose dans Siri d'Apple",
+      "summary": "Google a lancé la Gemini Enterprise Agent Platform avec des plugins natifs d'Adobe, Atlassian, Salesforce et Workday, ciblant l'intégration agentique en entreprise. Apple a confirmé que la prochaine version de Siri sera alimentée par Gemini, un accord stratégique majeur qui sécurise la distribution de Google dans l'écosystème mobile Apple. DeepMind a par ailleurs annoncé qu'AlphaEvolve étend son impact à la génomique et à la physique quantique avec 30 % de réduction d'erreurs de séquençage ADN.",
+      "source": "WaveSpeed Blog",
+      "url": "https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/"
+    },
+    {
+      "id": "n14",
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
+      "importance": 2,
+      "short_title": "IA tutoring > présentiel",
+      "title": "RCT Nature : les tuteurs IA surpassent l'apprentissage actif en classe",
+      "summary": "Une étude randomisée contrôlée publiée dans Nature Scientific Reports démontre que des tuteurs IA fondés sur des principes de science cognitive surpassent l'apprentissage actif en classe sur les résultats mesurés. L'OCDE publie simultanément son Digital Education Outlook 2026, soulignant que l'IA adresse le '2 Sigma Problem' de Bloom à grande échelle. Les systèmes les plus efficaces reposent sur un scaffolding dynamique guidant les élèves vers la découverte plutôt que la livraison directe de réponses.",
+      "source": "Nature Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
     {
       "id": "n15",
       "theme": "sante",
-      "subtopic": "longevite",
+      "subtopic": "nutrition",
       "importance": 2,
-      "short_title": "PC et vieillissement mito",
-      "title": "Phosphatidylcholine : nutriment-clé contre le déclin mitochondrial lié à l'âge",
-      "summary": "Des chercheurs ont identifié que la baisse des niveaux de phosphatidylcholine est une cause majeure du dysfonctionnement mitochondrial lié au vieillissement. En laboratoire, augmenter cet apport lipidique a permis de restaurer un niveau d'énergie cellulaire comparable à celui d'organismes plus jeunes.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm"
+      "short_title": "UPF et déclin cognitif",
+      "title": "Ultra-processés et cognition : chaque +10 % d'UPF augmente le risque de démence",
+      "summary": "Une étude portant sur 2 192 adultes australiens de 40–70 ans (Healthy Brain Project, Monash University) publiée en 2026 établit que chaque hausse de 10 % de la part d'ultra-processés dans l'alimentation est associée à un déclin mesurable de l'attention et à une augmentation de 0,24 point du score de risque de démence à 20 ans. Ces effets persistent indépendamment de la qualité globale du régime alimentaire. Les UPF représentent déjà plus de 53 % des calories consommées par les adultes américains.",
+      "source": "Alzheimer's & Dementia",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70335"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "longevite",
+      "theme": "climat",
+      "subtopic": "politique_climatique",
       "importance": 2,
-      "short_title": "Gène longévité: rat taupe",
-      "title": "Transfert d'un gène de longévité du rat taupe nu vers la souris",
-      "summary": "L'Université de Rochester a réussi à transférer dans des souris un gène du rat taupe nu codant pour la production d'acide hyaluronique de haute masse moléculaire. Les souris modifiées montrent une résistance accrue aux tumeurs, une inflammation systémique réduite et un microbiome intestinal plus sain — preuve de concept pour la biologie de la longévité inter-espèces.",
-      "source": "ScienceDaily / University of Rochester",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm"
+      "short_title": "1.5°C : objectif mort",
+      "title": "Global Energy Outlook 2026 : l'objectif 1,5°C n'est plus atteignable",
+      "summary": "Le rapport Global Energy Outlook 2026 (Resources for the Future) confirme que l'objectif de 1,5°C fixé à Paris est désormais hors d'atteinte, et que l'engagement COP28 de tripler la capacité renouvelable mondiale d'ici 2030 ne sera pas respecté. La Chine a ajouté plus de 300 GW solaire/éolien en 2025 — plus que tout le parc historique américain — mais cela reste insuffisant à l'échelle planétaire. Les décisions de l'UE sur le cadre post-2030 prises en 2026 seront déterminantes.",
+      "source": "Resources for the Future",
+      "url": "https://www.rff.org/publications/reports/global-energy-outlook-2026/"
     },
     {
       "id": "n17",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "DeepMind: sécurité $10M",
-      "title": "Google DeepMind alloue $10M à la recherche sur la sécurité des systèmes multi-agents",
-      "summary": "Google DeepMind, Schmidt Sciences et la Cooperative AI Foundation lancent un appel à projets doté de 10 millions de dollars pour des chercheurs étudiant les comportements émergents et les risques collectifs des systèmes IA multi-agents à grande échelle. Les candidatures sont ouvertes jusqu'au 8 août 2026.",
-      "source": "Google DeepMind Blog",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+      "theme": "climat",
+      "subtopic": "marche_carbone",
+      "importance": 1,
+      "short_title": "Inde : marché carbone",
+      "title": "L'Inde lance le trading de compliance sur son marché carbone au S2 2026",
+      "summary": "L'Inde a confirmé l'ouverture du trading de compliance sur son marché carbone national à partir du second semestre 2026, rejoignant l'UE et la Chine dans l'architecture mondiale de tarification du carbone. Ce calendrier coïncide avec la montée en régime du CBAM européen, qui entre dans sa phase d'action après une période de reporting. La convergence de ces marchés crée une pression croissante sur les exportateurs industriels vers l'Europe.",
+      "source": "Earth.Org",
+      "url": "https://earth.org/energy-transition-where-are-we-headed-in-2026/"
     },
     {
       "id": "n18",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "US Basel III endgame",
-      "title": "Les régulateurs US proposent une refonte du cadre de capital bancaire Basel III",
-      "summary": "En mars 2026, les régulateurs fédéraux américains ont proposé des révisions substantielles des exigences en fonds propres pour les banques de catégorie I et II, incluant de nouveaux risk weights sur les expositions de crédit et une modification du capital surcharge des G-SIBs. La période de consultation publique s'est clôturée le 18 juin 2026.",
-      "source": "Federal Reserve / Mayer Brown",
-      "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/us-banking-regulators-propose-reforms-to-capital-requirements"
+      "short_title": "Biotech & IA : revival",
+      "title": "Nature Biotechnology : le secteur biotech renaît, tiré par l'IA et la Chine",
+      "summary": "Nature Biotechnology signale le retour du secteur biotech après plusieurs années de disette boursière, avec une reprise des financements portée par les plateformes d'IA pour la découverte de protéines et le criblage moléculaire à grande échelle. La Chine et ses coûts de R&D compétitifs émergent comme force restructurante du secteur mondial, challengeant les leaders américains et européens. Les technologies de cell-free biomanufacturing et l'immunothérapie par nanoparticules figurent parmi les axes thérapeutiques les plus actifs.",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/articles/s41587-026-03179-0"
     }
   ],
   "edges": [
@@ -205,73 +205,67 @@
       "source": "n01",
       "target": "n04",
       "type": "cause",
-      "explanation": "L'escalade du conflit Iran-Israël début juin a maintenu le choc énergétique sur l'Europe — Brent proche de 97$ — alimentant directement les pressions inflationnistes qui ont conduit la BCE à relever ses taux le 11 juin."
+      "explanation": "L'accord prévoit la réouverture du détroit de Hormuz sans droits de transit, supprimant la prime de risque d'interruption du flux pétrolier qui maintenait les cours du Brent artificiellement élevés depuis le début du conflit."
     },
     {
       "source": "n02",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "La signature du Mémorandum d'Islamabad et la réouverture immédiate du détroit d'Ormuz ont réduit mécaniquement le risque d'approvisionnement, faisant retomber le Brent de 97$ à environ 80$."
-    },
-    {
-      "source": "n03",
       "target": "n04",
       "type": "tension",
-      "explanation": "La BCE a monté ses taux le 11 juin pour juguler l'inflation énergétique, mais quatre jours plus tard l'accord d'Islamabad faisait chuter le Brent — soulevant la question d'un resserrement monétaire peut-être prématuré."
+      "explanation": "Malgré le MOU Washington-Téhéran, les combats persistants au Liban et le refus d'Israël de se retirer maintiennent une prime de risque géopolitique résiduelle qui ralentit la baisse du Brent et génère une forte volatilité quotidienne."
+    },
+    {
+      "source": "n01",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "La désescalade au Moyen-Orient réduit l'incertitude sur les chaînes d'approvisionnement et l'énergie pour les exportateurs européens, inversant directement les anticipations négatives des investisseurs institutionnels mesurées par le ZEW."
     },
     {
       "source": "n04",
       "target": "n05",
       "type": "tension",
-      "explanation": "BCE et Fed convergent vers un resserrement mais par des voies distinctes : la BCE a déjà agi (+25bp) pendant que la Fed maintient ses taux tout en signalant une hausse future, créant une divergence transatlantique qui pèse sur l'euro-dollar."
+      "explanation": "La chute du Brent allège les pressions inflationnistes énergétiques, mais la Fed Warsh demeure hawkish en pointant des tensions persistantes dans les autres composantes de l'inflation, refusant d'anticiper tout assouplissement monétaire."
     },
     {
-      "source": "n06",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "La restriction US des modèles Anthropic renforce l'argument de la souveraineté technologique européenne et crée une demande de substitution, soutenant directement la valorisation et la levée de fonds record de Mistral."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "Le ban de Fable 5 et Mythos 5 retire Anthropic du marché frontier international : OpenAI, dont GPT-5.5 n'est soumis à aucune restriction similaire, capte immédiatement la demande déplacée des utilisateurs étrangers."
-    },
-    {
-      "source": "n06",
-      "target": "n14",
+      "source": "n01",
+      "target": "n03",
       "type": "meme_sujet",
-      "explanation": "Ces deux événements dessinent la semaine d'Anthropic : le ban restreint ses revenus internationaux au moment même où l'IPO cherche à valoriser le potentiel de croissance de l'entreprise sur les marchés publics."
+      "explanation": "Le G7 d'Evian a officiellement adoubé le MOU bilatéral Washington-Téhéran et en a élargi la portée avec des engagements collectifs sur l'énergie et les sanctions russes, transformant un accord bilatéral en positionnement géopolitique occidental."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "Le déploiement de Fable 5 à des centaines de millions d'utilisateurs a créé la surface d'exposition permettant l'identification d'une technique de jailbreak, déclenchant la directive export control du gouvernement américain trois jours après le lancement."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "La suspension forcée du modèle phare d'Anthropic à quelques semaines d'une IPO à 965 Mds$ crée une incertitude réglementaire majeure : les investisseurs devront désormais intégrer le risque d'ingérence gouvernementale dans la valorisation."
+    },
+    {
+      "source": "n12",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "La demande explosive du marché vibe coding pour des modèles de codage frontier a intensifié la pression commerciale sur Anthropic pour rendre Fable 5 disponible au grand public, accélérant un déploiement qui a exposé la vulnérabilité de jailbreak."
+    },
+    {
+      "source": "n09",
+      "target": "n13",
+      "type": "tension",
+      "explanation": "Le lancement de Fable 5 par Anthropic et la plateforme Gemini Enterprise de Google représentent deux paris stratégiques rivaux : l'un misé sur la puissance de codage frontier, l'autre sur l'intégration écosystème entreprise et la distribution mobile via Apple."
     },
     {
       "source": "n07",
       "target": "n08",
       "type": "meme_sujet",
-      "explanation": "GPT-5.5 et Gemini 3.5 Flash sortent quasi-simultanément dans un contexte où Fable 5 est retiré, intensifiant la compétition à deux entre OpenAI et Google pour la domination sur le segment frontier accessible."
+      "explanation": "Les deux mesures révèlent la même dynamique de fragmentation internationale de Bâle III : chaque juridiction ajuste son calendrier FRTB pour protéger la compétitivité de ses banques, rendant l'harmonisation mondiale de plus en plus hypothétique."
     },
     {
-      "source": "n13",
-      "target": "n18",
-      "type": "tension",
-      "explanation": "L'EU repousse FRTB à 2027 pendant que les régulateurs US finalisent leur propre réforme Basel III : cette divergence de calendrier fragilise le level playing field entre banques européennes et américaines sur les marchés de dérivés."
-    },
-    {
-      "source": "n15",
-      "target": "n16",
-      "type": "meme_sujet",
-      "explanation": "Les deux études attaquent le vieillissement par des angles complémentaires : l'une identifie un nutriment lipidique réparateur des mitochondries, l'autre démontre qu'un gène protecteur peut être transféré entre espèces pour prolonger la durée de vie."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "L'Arménie qui se réoriente vers l'UE et l'Ukraine dont la paix reste impossible illustrent deux visages du recul russe en Europe de l'Est : une transition réussie dans les espaces non-belligérants, un conflit gelé là où la Russie est engagée militairement."
-    },
-    {
-      "source": "n17",
-      "target": "n06",
-      "type": "tension",
-      "explanation": "DeepMind finance une approche scientifique et collective pour prévenir les risques IA systémiques, tandis que Washington a banni Fable 5 par voie administrative pour un jailbreak ciblé : deux visions opposées de la gouvernance de l'IA frontier."
+      "source": "n16",
+      "target": "n17",
+      "type": "cause",
+      "explanation": "L'abandon de fait de l'objectif 1,5°C renforce la pression internationale pour des mécanismes de tarification carbone stricts ; l'Inde accélère la mise en place de son marché carbone compliance en réponse à cette pression et aux exigences CBAM européennes."
     }
   ]
 }

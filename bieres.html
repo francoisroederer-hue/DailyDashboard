@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+<title>Daily — Bières</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  html { scroll-behavior: smooth; }
+  body { min-height: 100%; }
+  main {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: calc(var(--topbar-h) + 22px) 18px 80px;
+  }
+
+  .page-kicker {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.22em;
+    color: var(--ink-faint);
+    margin-bottom: 8px;
+  }
+  .page-title {
+    font-family: 'Fraunces', serif;
+    font-variation-settings: 'opsz' 144;
+    font-weight: 500;
+    font-style: italic;
+    font-size: clamp(30px, 7vw, 44px);
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    margin-bottom: 12px;
+  }
+  .page-intro {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--ink-dim);
+    max-width: 64ch;
+    margin-bottom: 36px;
+  }
+  .page-intro b { color: var(--ink); font-weight: 500; }
+
+  /* Bloc en vedette — alternatives à l'Asahi (remonté en tête) */
+  .feature {
+    background: linear-gradient(160deg, var(--bg-panel), var(--bg-elev));
+    border: 1px solid var(--rule-bright);
+    border-radius: 18px;
+    padding: 24px 22px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+  }
+  .feature::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px; height: 100%;
+    background: var(--accent);
+  }
+  .feature-flag {
+    display: inline-block;
+    font-family: 'Geist Mono', monospace;
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--bg);
+    background: var(--accent);
+    border-radius: 999px;
+    padding: 3px 10px;
+    margin-bottom: 12px;
+  }
+  .feature-title {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 25px;
+    letter-spacing: -0.01em;
+    margin-bottom: 6px;
+  }
+  .feature-sub {
+    font-size: 12.5px;
+    line-height: 1.55;
+    color: var(--ink-dim);
+    margin-bottom: 16px;
+    max-width: 58ch;
+  }
+
+  .blocks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  @media (min-width: 760px) { .blocks { grid-template-columns: repeat(2, 1fr); align-items: start; } }
+
+  .block {
+    background: var(--bg-elev);
+    border: 1px solid var(--rule);
+    border-radius: 18px;
+    padding: 22px 20px;
+  }
+  .block-head {
+    display: flex;
+    align-items: baseline;
+    gap: 9px;
+    padding-bottom: 14px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .block-icon { color: var(--accent); font-size: 15px; line-height: 1; }
+  .block-name {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: -0.01em;
+  }
+  .block-when {
+    font-family: 'Geist Mono', monospace;
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-faint);
+    margin-left: auto;
+    text-align: right;
+    line-height: 1.4;
+    align-self: center;
+  }
+
+  .beer { padding: 13px 0; border-top: 1px solid var(--rule); }
+  .beer:first-of-type { border-top: none; }
+  .beer-top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .beer-name {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.2;
+  }
+  .beer-name .ref {
+    font-family: 'Geist Mono', monospace;
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-left: 7px;
+    vertical-align: middle;
+  }
+  .verdict {
+    font-family: 'Geist Mono', monospace;
+    font-size: 13px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .v-star { color: var(--accent); }
+  .v-yes  { color: #10b981; }
+  .v-ok   { color: var(--ink-dim); }
+  .v-risk { color: #f97316; }
+  .v-no   { color: var(--tension); }
+  .beer-note {
+    margin-top: 6px;
+    font-size: 12px;
+    line-height: 1.45;
+    color: var(--ink-dim);
+  }
+  .beer.dim { opacity: 0.66; }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin: 30px 0 4px;
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+  }
+  .legend span { white-space: nowrap; }
+
+  .footnote {
+    margin-top: 34px;
+    padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    font-family: 'Geist Mono', monospace;
+    font-size: 10.5px;
+    line-height: 1.7;
+    color: var(--ink-faint);
+    letter-spacing: 0.04em;
+  }
+  .footnote b { color: var(--ink-dim); font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="topline">
+    <div class="masthead">Daily <span class="amp">&amp;</span> Co.</div>
+    <div class="date-line">Cave<br><span class="meta">restock Nord</span></div>
+  </div>
+  <nav class="tabs">
+    <a class="tab" href="index.html">Carte du jour</a>
+    <a class="tab" href="supplements.html">Suppléments</a>
+    <a class="tab" href="skincare.html">Skincare</a>
+    <a class="tab" href="tennis.html">Tennis</a>
+    <a class="tab" href="workout.html">Workout</a>
+    <a class="tab" href="nutrition.html">Nutrition</a>
+    <a class="tab active" href="bieres.html">Bières</a>
+  </nav>
+</header>
+
+<main>
+  <div class="page-kicker">Restock Nord · juin 2026</div>
+  <h1 class="page-title">Cave à bières</h1>
+  <p class="page-intro">
+    Profil&nbsp;: <b>belges maltées, rondes, avec du corps</b>, brunes fortes (type Chimay Bleue),
+    ambrées de garde. <b>Deux usages distincts</b>&nbsp;: la mousse <b>facile du quotidien</b>
+    (l'Asahi) et le <b>plaisir / découverte</b> (le rayon belge &amp; Nord).
+    À fuir&nbsp;: <b>Brett / terreux</b> (Orval, lambics) et le <b>fumé</b> marqué.
+  </p>
+
+  <!-- VEDETTE — alternatives à l'Asahi -->
+  <section class="feature">
+    <span class="feature-flag">Le quotidien · remonté</span>
+    <div class="feature-title">Alternatives à l'Asahi</div>
+    <p class="feature-sub">
+      Même créneau&nbsp;: <b style="color:var(--ink)">léger, neutre, facile à boire</b> — mais un cran
+      au-dessus en qualité. À garder en stock pour tous les jours, séparément du rayon plaisir.
+    </p>
+
+    <div class="beer">
+      <div class="beer-top"><span class="beer-name">Asahi <span class="ref">référence actuelle</span></span><span class="verdict v-yes">✅ go-to</span></div>
+      <div class="beer-note">Lager légère, neutre, partout. Ton repère du quotidien.</div>
+    </div>
+    <div class="beer">
+      <div class="beer-top"><span class="beer-name">Pilsner Urquell</span><span class="verdict v-yes">✅ l'upgrade</span></div>
+      <div class="beer-note">La pils de référence&nbsp;: plus de corps que l'Asahi, toujours désaltérante. Le meilleur échange.</div>
+    </div>
+    <div class="beer">
+      <div class="beer-top"><span class="beer-name">Moulins d'Ascq Blonde</span><span class="verdict v-ok">🆗 local bio</span></div>
+      <div class="beer-note">Bio du Nord, légère et propre. Même esprit «&nbsp;facile&nbsp;», en local.</div>
+    </div>
+    <div class="beer">
+      <div class="beer-top"><span class="beer-name">LBF Blanche · Pietra Blanche</span><span class="verdict v-ok">🆗 blé léger</span></div>
+      <div class="beer-note">Blé, agrumes, désaltérantes. Variante d'été si tu veux changer du goût lager.</div>
+    </div>
+    <div class="beer">
+      <div class="beer-top"><span class="beer-name">Paulaner Weissbier</span><span class="verdict v-ok">🆗 blé all.</span></div>
+      <div class="beer-note">Weizen ronde&nbsp;: plus de matière, hors profil malté mais facile.</div>
+    </div>
+  </section>
+
+  <div class="blocks">
+
+    <!-- NOYAU DUR -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">●</span>
+        <span class="block-name">Noyau dur</span>
+        <span class="block-when">maltées<br>fortes</span>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">St Bernardus Abt 12</span><span class="verdict v-star">⭐ n°1</span></div>
+        <div class="beer-note">Quad 10°, sosie de la Westvleteren 12. En promo.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Rochefort 10 (+ 8)</span><span class="verdict v-star">⭐</span></div>
+        <div class="beer-note">Lignée Chimay Bleue, plus profonde.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Gulden Draak</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Brune forte 10,5°, caramel/malt rond.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Kasteel Donker</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Brune 11°, sirupeuse-maltée.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Tripel Karmeliet</span><span class="verdict v-star">⭐</span></div>
+        <div class="beer-note">Tripel miel/épices, soyeuse.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Westmalle Dubbel + Tripel</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Trappistes de référence.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Chimay Bleue</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Ton classique — restock.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Bush Ambrée 12°</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Ambrée maltée très forte.</div>
+      </div>
+    </section>
+
+    <!-- VALEURS SURES NORD -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">▲</span>
+        <span class="block-name">Valeurs sûres — Nord</span>
+        <span class="block-when">garde<br>&amp; abbaye</span>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Pétrolette (Avesnois)</span><span class="verdict v-yes">✅ déjà 8/10</span></div>
+        <div class="beer-note">Blonde rustique appréciée — restock.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Jenlain Ambrée</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Bière de garde ambrée de référence.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">3 Monts Ambrée</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Ambrée ronde, maltée.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Anosteke Blonde 8°</span><span class="verdict v-yes">✅ local</span></div>
+        <div class="beer-note">Pays Flamand, multi-primée. Ton meilleur pari local.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">La Choulette Ambrée</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Bière de garde maltée du Nord.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Ch'ti Brune</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Maltée caramel.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">St Feuillien Triple</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Triple maltée, valeur sûre.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Triple Secret des Moines</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Triple d'abbaye ronde.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">St Stefanus</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Abbaye mûrie sur lie, complexe.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Straffe Hendrik Tripel</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Amertume nette (≠ Brett), maltée derrière.</div>
+      </div>
+    </section>
+
+    <!-- DECOUVERTES -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">✦</span>
+        <span class="block-name">Découvertes</span>
+        <span class="block-when">à tenter</span>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Cervoise (Lancelot)</span><span class="verdict v-yes">✅ top pari</span></div>
+        <div class="beer-note">Miel/plantes, très peu amère, ronde. Pile ton palais, zéro risque.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">La Goudale Grand Cru</span><span class="verdict v-yes">✅ à confirmer</span></div>
+        <div class="beer-note">Version premium maltée de la Goudale. Présence en rayon à vérifier.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Paix Dieu (tripel 10°, 75cl)</span><span class="verdict v-yes">✅</span></div>
+        <div class="beer-note">Tripel pleine lune — promo 4,99&nbsp;€.</div>
+      </div>
+      <div class="beer">
+        <div class="beer-top"><span class="beer-name">Pietra (châtaigne)</span><span class="verdict v-ok">🆗</span></div>
+        <div class="beer-note">Blonde maltée corse, originale.</div>
+      </div>
+      <div class="beer dim">
+        <div class="beer-top"><span class="beer-name">Pari hors-zone&nbsp;: Anosteke IPA / Chimay Blanche</span><span class="verdict v-risk">⚠️ test</span></div>
+        <div class="beer-note">Amertume houblonnée (≠ Brett). Une bouteille pour t'élargir, pas une caisse.</div>
+      </div>
+    </section>
+
+    <!-- A EVITER -->
+    <section class="block">
+      <div class="block-head">
+        <span class="block-icon">✕</span>
+        <span class="block-name">À laisser</span>
+        <span class="block-when">hors<br>profil</span>
+      </div>
+      <div class="beer dim">
+        <div class="beer-top"><span class="beer-name">Orval</span><span class="verdict v-risk">⚠️ Brett</span></div>
+        <div class="beer-note">Brett assumé — exactement ton point noir.</div>
+      </div>
+      <div class="beer dim">
+        <div class="beer-top"><span class="beer-name">Mort Subite (gueuze/kriek)</span><span class="verdict v-no">❌</span></div>
+        <div class="beer-note">Lambic → Brett/acidulé.</div>
+      </div>
+      <div class="beer dim">
+        <div class="beer-top"><span class="beer-name">Lindemans Kriek / Framboise</span><span class="verdict v-risk">⚠️</span></div>
+        <div class="beer-note">Sucrées-fruitées, pas ton style.</div>
+      </div>
+      <div class="beer dim">
+        <div class="beer-top"><span class="beer-name">LBF IPA</span><span class="verdict v-risk">⚠️</span></div>
+        <div class="beer-note">Houblon agrumes/résine — le style le plus éloigné.</div>
+      </div>
+    </section>
+
+  </div>
+
+  <div class="legend">
+    <span><b style="color:var(--accent)">⭐</b> priorité</span>
+    <span><b style="color:#10b981">✅</b> pour toi</span>
+    <span><b style="color:var(--ink-dim)">🆗</b> optionnel</span>
+    <span><b style="color:#f97316">⚠️</b> risqué</span>
+    <span><b style="color:var(--tension)">❌</b> à éviter</span>
+  </div>
+
+  <p class="footnote">
+    <b>Source</b> — profil de dégustation Jarvis (mémoire bières) + photos rayon Super U Wormhout, juin 2026.<br>
+    Page statique. Le profil évolue dans Jarvis, pas ici — donne tes notes /10 après dégustation.
+  </p>
+</main>
+
+</body>
+</html>

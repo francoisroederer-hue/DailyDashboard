@@ -1,265 +1,288 @@
 {
-  "generated_at": "2026-06-25T06:00:00Z",
+  "generated_at": "2026-06-26T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Iran: fermeture Hormuz",
-      "title": "Guerre US-Israël/Iran : le Détroit d'Ormuz fermé",
-      "summary": "Le conflit armé déclenché début mars 2026 entre les États-Unis, Israël et l'Iran a conduit à la fermeture du Détroit d'Ormuz, interrompant plus de 14 millions de barils par jour — la plus grande disruption d'approvisionnement pétrolier de l'histoire selon l'AIE. Un accord préliminaire de cessez-le-feu mi-juin a commencé à faire refluer les prix, mais la réouverture complète des voies maritimes reste conditionnelle et fragile.",
-      "source": "CSIS",
-      "url": "https://www.csis.org/analysis/iran-conflict-sending-oil-prices-soaring-what-happens-next"
+      "short_title": "Fable 5 banni aux USA",
+      "title": "US export control suspend Fable 5 et Mythos 5 d'Anthropic",
+      "summary": "Le 12 juin, le département du Commerce a émis une directive d'export control interdisant tout accès étranger à Fable 5 et Mythos 5, suite à la découverte d'un potentiel jailbreak à implications sécuritaires. Anthropic, incapable de vérifier la nationalité de chaque utilisateur en temps réel, a coupé l'accès mondial — américains inclus. Au 23 juin (jour 11), les deux modèles restent hors ligne pour des centaines de millions d'utilisateurs.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Brent $120 puis deal Iran",
-      "title": "Choc pétrolier : Brent à $120, reflux vers $78 après accord",
-      "summary": "La fermeture militaire du Détroit d'Ormuz a propulsé le Brent jusqu'à ~120 dollars le baril, frôlant le record historique de 2008. Un accord préliminaire entre les belligérants mi-juin 2026 a déclenché une détente rapide des prix vers 78 dollars, mais les analystes s'accordent à dire que les prix à la pompe ne reviendront pas à leurs niveaux d'avant-guerre avant 2027 au plus tôt.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz"
+      "short_title": "Guerre des talents IA",
+      "title": "Jumper → Anthropic, Shazeer → OpenAI : Google perd ses stars",
+      "summary": "En l'espace d'une semaine, Google DeepMind a perdu ses deux chercheurs les plus emblématiques : John Jumper, prix Nobel de Chimie 2024 pour AlphaFold, rejoint Anthropic le 19 juin, tandis que Noam Shazeer — co-auteur d'\"Attention Is All You Need\" — confirme son départ pour OpenAI. La double annonce a plongé l'action Alphabet de 5 à 7%, soulevant des doutes sur la capacité de DeepMind à rester au front de la recherche frontier.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "banques_centrales",
-      "importance": 3,
-      "short_title": "Fed hawkish, statu quo",
-      "title": "Fed maintient ses taux, dot plot révisé à la hausse",
-      "summary": "Le 17 juin 2026, la Fed a maintenu le taux directeur à 3,50-3,75% mais le nouveau dot plot efface toute baisse anticipée en 2026, repoussant les réductions à 2027-2028 en raison du choc inflationniste lié à la guerre Iran. Neuf membres du FOMC anticipent désormais au moins une hausse supplémentaire, dans ce qui fut selon les observateurs le vote le plus contesté au sein du comité depuis 1992.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "SpaceX rachète Cursor 60B",
+      "title": "SpaceX acquiert Cursor pour 60 milliards de dollars",
+      "summary": "Quatre jours après son IPO record de 75 milliards sur le Nasdaq (12 juin), SpaceX a annoncé le rachat de Cursor, l'outil de coding assisté par IA, pour 60 milliards en actions. Cursor avait atteint 4 milliards de revenus annualisés en moins de quatre ans, dont 2,6 milliards B2B enterprise. Le deal consolide xAI comme acteur incontournable du marché du coding IA, face à GitHub Copilot et aux alternatives Anthropic.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "banques_centrales",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "BCE monte 25bps juin",
-      "title": "BCE relève ses taux de 25 bps face à l'inflation importée",
-      "summary": "Le 11 juin 2026, la BCE a relevé ses trois taux directeurs de 25 points de base à l'unanimité, portant le taux de dépôt à 2,25%, une décision dictée par l'inflation importée via le choc pétrolier de la guerre Iran. Contrairement à la Fed en mode hold, l'Europe resserre donc sa politique monétaire, ce qui pèse sur une zone euro déjà fragilisée par la hausse durable des prix de l'énergie.",
-      "source": "BCE",
-      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html"
+      "short_title": "Anthropic-SpaceX Colossus",
+      "title": "Anthropic paie 1,25 Md$/mois pour tout le compute Colossus",
+      "summary": "Anthropic occupe l'intégralité de la capacité de Colossus 1 en Tennessee (220 000+ GPU NVIDIA, 300 MW) à hauteur de 1,25 milliard de dollars par mois jusqu'en mai 2029. En juin, l'accord s'étend à Colossus 2, portant le total potentiel à plus de 40 milliards de revenus pour xAI. C'est la plus grande concentration de puissance de calcul IA jamais contractualisée entre deux entités.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
     },
     {
       "id": "n05",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Fable 5 suspendu USA",
-      "title": "Export control US : Anthropic suspend Fable 5 et Mythos 5 mondialement",
-      "summary": "Le 12 juin 2026, le Bureau of Industry and Security du département du Commerce américain a ordonné à Anthropic de suspendre l'accès à ses modèles Fable 5 et Mythos 5 pour tout ressortissant étranger, invoquant la sécurité nationale après un signalement de jailbreak. C'est la première utilisation de cette autorité légale issue de l'ECRA — Anthropic, incapable de filtrer ses utilisateurs par nationalité, a dû désactiver ces modèles entièrement dans le monde entier.",
-      "source": "Nextgov/FCW",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-suspends-top-ai-models-after-us-export-control-order/414173/"
+      "subtopic": "llm_agents",
+      "importance": 2,
+      "short_title": "Copilot Wave 3 + Claude",
+      "title": "Microsoft Copilot Cowork en disponibilité générale avec Claude",
+      "summary": "Copilot Cowork — l'agent autonome de Microsoft 365 construit sur la technologie d'Anthropic — est passé en disponibilité générale le 16 juin 2026. L'interface propose un sélecteur de modèle permettant de choisir entre Claude Opus (long-document, raisonnement structuré) et les modèles OpenAI GPT selon la tâche. Microsoft se positionne comme couche d'orchestration multi-modèle agnostique, indépendante d'un fournisseur unique.",
+      "source": "A Guide to Cloud",
+      "url": "https://www.aguidetocloud.com/blog/microsoft-365-copilot-june-2026-updates/"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Anthropic IPO $965Mrd",
-      "title": "Anthropic dépasse OpenAI : valorisation $965 Mrd, IPO en vue",
-      "summary": "Anthropic a bouclé une levée de 65 milliards de dollars à une valorisation post-money de 965 milliards, dépassant OpenAI pour la première fois, et a déposé un S-1 confidentiel auprès de la SEC début juin 2026. Sa croissance est spectaculaire : de 1 milliard d'ARR en décembre 2024 à 47 milliards en mai 2026. Une cotation au Nasdaq ou NYSE est envisagée pour octobre 2026, qui pourrait faire d'Anthropic le premier lab IA valorisé au-dessus du trillion.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/05/29/anthropic-raises-65-billion-at-record-965-billion-valuation-promises-mythos-ai-model-in-wide-release-in-coming-weeks-releases-claude-opus-4-8/"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Iran: MOU fin de guerre",
+      "title": "Trump et Pezeshkian signent un MOU pour mettre fin à la guerre",
+      "summary": "Le 17 juin, Donald Trump et le président iranien Masoud Pezeshkian ont signé un mémorandum d'entente pour cesser les hostilités déclenchées en février par des frappes américano-israéliennes. Les termes — très favorables à l'Iran, qui obtient l'essentiel de ses demandes avant les négociations finales — soulèvent de vives critiques au Congrès et chez les alliés régionaux. Plus de 20 pétroliers bloqués ont commencé à traverser le détroit d'Ormuz dans la foulée.",
+      "source": "CSIS",
+      "url": "https://www.csis.org/programs/latest-analysis-war-iran"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI S-1 SEC $852Mrd",
-      "title": "OpenAI dépose son S-1 confidentiel, vise le trillion",
-      "summary": "OpenAI a déposé un S-1 confidentiel auprès de la SEC le 8 juin 2026, avec Goldman Sachs et Morgan Stanley comme banques lead, ciblant une introduction en bourse en septembre 2026 à une valorisation pouvant atteindre 1 trillion de dollars. La valorisation privée du groupe s'établissait à 852 milliards lors de sa dernière levée de 122 milliards de dollars en mars 2026.",
-      "source": "CryptoBriefing",
-      "url": "https://cryptobriefing.com/openai-ipo-filing-trillion-valuation/"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Attaque Hormuz 25 juin",
+      "title": "Les CGRI attaquent un navire dans le détroit d'Ormuz",
+      "summary": "Le 25 juin, les Gardiens de la Révolution iraniens ont attaqué un navire cargo traversant le détroit d'Ormuz, forçant l'ONU à suspendre son programme d'évacuation des pétroliers bloqués depuis des mois. L'incident illustre la fragilité de la trêve : les CGRI exigent que tout transit se fasse sur des routes désignées par Téhéran, maintenant un levier de pression sur 20% du commerce pétrolier mondial malgré le MOU du 17 juin.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/amp/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "geopol",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Vibe coding mainstream",
-      "title": "Vibe coding : marché à 4,7 Mrd$, Cursor valorisé 29 Mrd$",
-      "summary": "Le vibe coding — développement logiciel entièrement piloté en langage naturel — est passé de tendance à standard industriel en 2026, représentant un marché estimé à 4,7 milliards de dollars. Cursor dépasse 2 milliards d'ARR et est valorisé à 29,3 milliards ; la dernière promotion YC a livré 95% de code généré par IA. Mistral rebaptise son assistant Le Chat en 'Vibe' et lance Mistral Medium 3.5 avec des agents de codage à distance.",
-      "source": "AIapps",
-      "url": "https://www.aiapps.com/blog/vibe-coding-tools-cursor-vs-lovable-vs-bolt-vs-v0-2026/"
+      "short_title": "War powers US rejeté",
+      "title": "Sénat républicain rejette la résolution War Powers sur l'Iran",
+      "summary": "Le 25 juin, les sénateurs républicains ont rejeté une résolution War Powers qui aurait contraint le président Trump sur la conduite militaire en Iran, après qu'il les eut convoqués au Capitole pour faire pression. Parallèlement, la Maison Blanche a demandé au Congrès 87,6 milliards de dollars pour couvrir les coûts militaires, l'aide agricole et la réponse Ebola, révélant l'ampleur budgétaire d'un conflit dont le cadre constitutionnel reste contesté.",
+      "source": "CSIS",
+      "url": "https://www.csis.org/programs/latest-analysis-war-iran"
     },
     {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "G7 : coalition IA USA",
-      "title": "G7 : Amodei et Hassabis appellent à une coalition IA menée par les USA",
-      "summary": "En marge du G7 le 17 juin 2026, les PDG d'Anthropic (Dario Amodei) et de Google DeepMind (Demis Hassabis) ont plaidé lors d'une réunion à huis clos pour une coalition internationale sur l'IA pilotée par les États-Unis, aux côtés de Sam Altman (OpenAI) et une douzaine d'autres dirigeants tech. L'initiative vise à faire des démocraties libérales le centre de gravité du développement IA face à la montée en puissance de la Chine.",
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent volatil post-MOU",
+      "title": "Pétrole : chute sur l'espoir MOU, rebond sur l'attaque Hormuz",
+      "summary": "Le Brent a effacé ses primes de guerre le 25 juin, tombant sous 72,5 dollars, à la faveur du retour de 35 millions de barils vers le marché via le détroit. L'attaque d'un cargo par les CGRI a ensuite fait bondir le WTI de 2,1% à 71,9 dollars et le Brent à 75,3 dollars en intraday. Cette volatilité extrême illustre que le détroit d'Ormuz — 20% du pétrole mondial — reste le point géostratégique le plus sensible des marchés de l'énergie.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html"
+      "url": "https://www.cnbc.com/amp/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html"
     },
     {
       "id": "n10",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "finance",
+      "subtopic": "usa",
       "importance": 3,
-      "short_title": "Ukraine: négos en pause",
-      "title": "Négociations Ukraine-Russie en impasse, délai Trump dépassé",
-      "summary": "Les pourparlers trilatéraux USA-Ukraine-Russie initiés à Genève en février 2026 sont officiellement 'en pause' selon le Kremlin, les Russes exigeant le contrôle total du Donbas tandis que Kyiv refuse tout retrait unilatéral. Le délai de juin fixé par Trump pour parvenir à un accord n'a pas été tenu, et les contacts bilatéraux ne se maintiennent que sur des enjeux humanitaires comme l'échange de prisonniers.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/land-focus-new-geneva-peace-talks-russia-ukraine-rcna259305"
+      "short_title": "Fed Warsh: pivot hawkish",
+      "title": "Kevin Warsh surprend avec un dot plot hawkish à sa première FOMC",
+      "summary": "Lors de sa première réunion comme président de la Fed le 17 juin, Kevin Warsh a maintenu les taux à 3,50–3,75% mais a surpris : neuf des dix-huit membres du FOMC anticipent désormais au moins une hausse d'ici fin 2026, renversant les projections de mars qui pointaient vers des baisses. Le S&P 500 a cédé 0,6% et le rendement du T-note 10 ans est monté à 4,50%, signalant l'intégration d'un risque de hausse plutôt que d'une pause prolongée.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
     },
     {
       "id": "n11",
-      "theme": "geopol",
+      "theme": "finance",
       "subtopic": "europe",
       "importance": 2,
-      "short_title": "Starmer démissionne UK",
-      "title": "Keir Starmer démissionne : 7e premier ministre UK en 10 ans",
-      "summary": "Le 22 juin 2026, Keir Starmer a annoncé sa démission de premier ministre après moins de deux ans au pouvoir, sous la pression croissante de son propre camp travailliste et face à la montée fulgurante du parti Reform UK à l'extrême droite. Il reste en poste le temps de l'élection interne du nouveau leader travailliste, prévu avant la rentrée de septembre, avec le maire du Grand Manchester Andy Burnham comme favori.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html"
+      "short_title": "ZEW Allemagne positif",
+      "title": "ZEW Allemagne repasse positif pour la première fois depuis le conflit iranien",
+      "summary": "L'indicateur ZEW du sentiment économique en Allemagne a bondi de 20,7 points à +10,5 en juin 2026, son premier niveau positif depuis le début de la guerre en Iran, battant largement les attentes à -6,0. Les investisseurs anticipent une fin rapide du conflit qui permettrait de normaliser les prix de l'énergie et de relancer la demande intérieure, même si l'automobile, la chimie et la mécanique restent en territoire négatif.",
+      "source": "Mitrade",
+      "url": "https://www.mitrade.com/au/insights/news/live-news/article-6-1815184-20260616"
     },
     {
       "id": "n12",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Gaza: cessez-le-feu rompu",
-      "title": "Gaza : plus de 1 000 morts depuis le cessez-le-feu d'octobre 2025",
-      "summary": "Depuis le cessez-le-feu du 10 octobre 2025, Israël a violé l'accord plus de 3 300 fois, causant la mort d'au moins 1 005 Palestiniens supplémentaires selon les autorités de Gaza. Les négociations pour la phase 2 du plan de paix restent bloquées, et seulement 36% des camions d'aide humanitaire alloués ont pu entrer dans l'enclave depuis l'accord.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say"
+      "theme": "finance",
+      "subtopic": "frtb",
+      "importance": 3,
+      "short_title": "FRTB UE: correctif 2027",
+      "title": "UE adopte des ajustements temporaires au FRTB pour protéger les banques",
+      "summary": "Le 4 juin 2026, la Commission européenne a adopté des amendements ciblés à sa mise en œuvre du FRTB, incluant un multiplicateur temporaire destiné à compenser partiellement l'impact en capital pour les banques les plus exposées à la volatilité des marchés. Ces mesures s'appliquent sur trois ans à compter du 1er janvier 2027 — date de la nouvelle entrée en vigueur — dans un contexte où les grandes juridictions concurrentes (US, UK, Asie) n'ont pas de calendrier d'implémentation comparable, créant un risque de distorsion compétitive.",
+      "source": "Commission européenne",
+      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
     },
     {
       "id": "n13",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 2,
-      "short_title": "FRTB EU: report à 2029",
-      "title": "EU : ajustements temporaires Basel III FRTB pour préserver les banques",
-      "summary": "La Commission européenne a adopté début juin 2026 des aménagements temporaires aux règles de risque de marché Basel III (FRTB) afin de préserver la compétitivité des banques de l'UE jusqu'en 2029, dans l'attente d'un alignement global des grandes juridictions. Cette décision prolonge une série de reports depuis 2022 et s'accompagne d'une consultation ciblée pour limiter les effets négatifs en capital sur les établissements européens.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 3,
+      "short_title": "Canicule record Europe",
+      "title": "Deuxième canicule record : 45°C en France, blackouts en Italie",
+      "summary": "Une deuxième vague de chaleur exceptionnelle frappe l'Europe depuis le 17 juin, avec des températures atteignant 45°C en France et des records historiques de juin battus trois fois de suite au Royaume-Uni en une seule journée. Les conséquences sont déjà sévères : une cinquantaine de morts en France, blackouts à Turin, fermetures d'écoles et alertes incendie sur l'Ibérie. Le Copernicus Climate Change Service rappelle que l'Europe se réchauffe deux fois plus vite que la moyenne mondiale.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/24/weather/live-news/europe-heatwave-temperatures-news"
     },
     {
       "id": "n14",
       "theme": "climat",
       "subtopic": "europe",
       "importance": 2,
-      "short_title": "Canicule EU + ONU IA/CO2",
-      "title": "Canicule mortelle en Europe : l'ONU presse les labs IA sur leur bilan carbone",
-      "summary": "Une vague de chaleur meurtrière frappe l'Europe fin juin 2026, poussant le Secrétaire général de l'ONU Antonio Guterres à lancer un appel d'urgence lors de la London Climate Action Week le 23 juin. Il a explicitement demandé aux entreprises d'IA de divulguer l'intégralité de leur empreinte carbone, hydrique et foncière liée aux datacenters, au moment où la demande en énergie des grands modèles d'IA explose.",
+      "short_title": "UE Grids Package 26 juin",
+      "title": "Conseil UE Énergie : accord attendu sur le Paquet Réseaux",
+      "summary": "Les ministres de l'Énergie de l'UE se réunissent le 26 juin pour tenter de finaliser le Paquet Réseaux européen, qui vise à accélérer les permis pour les interconnexions transfrontalières et renforcer la sécurité des infrastructures électriques. L'ordre du jour inclut un échange sur l'impact de la crise du Moyen-Orient sur le secteur énergétique et les orientations de décarbonation post-2030.",
+      "source": "Conseil de l'UE",
+      "url": "https://www.consilium.europa.eu/en/meetings/tte/2026/06/26/"
+    },
+    {
+      "id": "n15",
+      "theme": "climat",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "SEC annule règles climat",
+      "title": "La SEC propose d'abroger en totalité ses règles de divulgation climatique",
+      "summary": "Le 29 mai 2026, la SEC a proposé d'abroger intégralement les règles de divulgation climatique adoptées sous Biden en mars 2024, estimant qu'elles outrepassaient son mandat légal et imposaient des coûts disproportionnés. La proposition ouvre 60 jours de commentaires, pendant que l'UE et l'Australie renforcent leurs exigences ESG — creusant un écart réglementaire qui avantage les sociétés cotées aux US sur les coûts de compliance.",
+      "source": "SEC.gov",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-49-sec-proposes-rescission-climate-related-disclosure-rules"
+    },
+    {
+      "id": "n16",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Guterres: IA et CO2",
+      "title": "Guterres demande aux labs IA de déclarer l'empreinte de leurs datacenters",
+      "summary": "À la London Climate Action Week, le secrétaire général de l'ONU António Guterres a demandé aux entreprises d'IA de rendre publique leur consommation totale d'eau et d'électricité, alertant que la croissance explosive de l'IA risque de compromettre les objectifs de net zéro 2050. Sa feuille de route insiste sur une transition énergétique rapide et équitable, avec des créations d'emplois locales dans les pays en développement.",
       "source": "UN News",
       "url": "https://news.un.org/en/story/2026/06/1167785"
     },
     {
-      "id": "n15",
-      "theme": "geopol",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "BRICS dépasse G7 PIB",
-      "title": "BRICS dépasse le G7 en PIB PPP : 56 000 Mrd$ contre 45 000",
-      "summary": "Les nations BRICS+ représentent désormais environ 40% du PIB mondial en parité de pouvoir d'achat, soit 56 000 milliards de dollars contre 45 000 pour le G7, avec une croissance moyenne de 3,7% contre 1,1% — un basculement structurel visible lors du G7 du 23 juin. Ce rééquilibrage rend d'autant plus urgente la question de la gouvernance mondiale dans un contexte de rivalité technologique et militaire.",
-      "source": "Visual Capitalist",
-      "url": "https://www.visualcapitalist.com/brics-vs-g7-comparing-2026-gdp-growth-forecasts/"
-    },
-    {
-      "id": "n16",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Alimentation: +3 ans vie",
-      "title": "Science Advances : bien manger prolonge la vie de 1,5 à 3 ans",
-      "summary": "Une étude publiée dans Science Advances début 2026 révèle que l'adoption de cinq régimes alimentaires validés scientifiquement est associée à un gain d'espérance de vie de 1,5 à 3 ans, quel que soit le profil génétique de l'individu. Ces résultats renforcent l'idée que l'alimentation est un levier de longévité universel, plus robuste que les seuls facteurs génétiques, et soutiennent les approches préventives en médecine personnalisée.",
-      "source": "LaNutrition.fr",
-      "url": "https://www.lanutrition.fr/le-monde-de-la-nutrition-67-juin-2026"
-    },
-    {
       "id": "n17",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 1,
-      "short_title": "Immunothérapie nanopart.",
-      "title": "Biotech : nanoparticules déclenchent l'immunité B contre les cancers",
-      "summary": "Des chercheurs rapportent dans Nature Biotechnology une avancée en immunothérapie : l'administration par nanoparticules d'une molécule métal-organique déclenche une réponse antivirale innée dans les cellules cancéreuses, conduisant à leur élimination via les lymphocytes B. Cette approche ouvre une nouvelle voie pour des cancers résistants aux traitements actuels, illustrant la convergence entre biotech et nanotechnologies.",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/articles/s41587-026-03179-0"
+      "theme": "sante",
+      "subtopic": "kettlebell",
+      "importance": 3,
+      "short_title": "Muscu 90min: longévité",
+      "title": "Harvard 30 ans : 90 min/semaine de musculation réduisent la mortalité de 13%",
+      "summary": "Une étude Harvard publiée dans le British Journal of Sports Medicine, portant sur 147 000 adultes suivis pendant 30 ans, établit que 90 à 120 minutes hebdomadaires d'entraînement en résistance réduisent la mortalité toutes causes de 13%, les décès cardiovasculaires de 19% et la mortalité neurologique de 27%. Aucun bénéfice supplémentaire n'apparaît au-delà de deux heures par semaine, définissant un seuil optimal clair bien en-dessous de ce que font la plupart des pratiquants réguliers.",
+      "source": "Harvard T.H. Chan School of Public Health",
+      "url": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/"
     },
     {
       "id": "n18",
-      "theme": "tech",
-      "subtopic": "regulation",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "EU AI Act: enforce août",
-      "title": "EU AI Act : application principale au 2 août 2026",
-      "summary": "Le 2 août 2026 marque l'entrée en application du cadre complet de l'EU AI Act pour les systèmes IA à haut risque, avec des amendes pouvant atteindre 35 millions d'euros ou 7% du chiffre d'affaires mondial. L'UE a cependant accordé un report partiel à décembre 2027 pour les obligations de l'Annexe III, allégeant la pression immédiate sur les entreprises tout en maintenant les interdictions actives depuis février 2025.",
-      "source": "Conseil de l'UE",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/"
+      "short_title": "Thymus clé de longévité",
+      "title": "L'IA révèle que la santé du thymus prédit la longévité",
+      "summary": "Des chercheurs du Mass General Brigham ont utilisé l'IA pour analyser des scanners thoraciques de dizaines de milliers d'adultes et découvert que la taille et la densité du thymus — organe immunitaire longtemps jugé vestigial après l'enfance — prédisent significativement la durée de vie. Les personnes au thymus plus sain présentaient des risques sensiblement réduits de maladies cardiovasculaires, de cancers et de décès toutes causes, suggérant de nouvelles cibles thérapeutiques anti-âge.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
+    },
+    {
+      "id": "n19",
+      "theme": "sciences",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "PC booste mitoch. âgées",
+      "title": "Phosphatidylcholine : restaurer ce lipide inverse la dysfonction mitochondriale",
+      "summary": "Des chercheurs ont découvert que la chute des niveaux de phosphatidylcholine (PC) avec l'âge est une cause majeure de la dysfonction mitochondriale et de la perte d'énergie cellulaire. De façon remarquable, restaurer les taux de PC dans des organismes vieillissants a permis de retrouver des performances mitochondriales comparables à celles de jeunes individus, ouvrant une piste thérapeutique concrète pour ralentir le vieillissement cellulaire.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm"
     }
   ],
   "edges": [
     {
+      "source": "n06",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "La signature du MOU le 17 juin a libéré plus de 20 pétroliers bloqués dans le Golfe, faisant anticiper une normalisation de l'offre et effaçant en séance la prime de guerre intégrée dans le Brent depuis février."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "L'attaque d'un cargo par les CGRI le 25 juin a instantanément renversé la tendance baissière du pétrole : chaque incident militaire dans le détroit se transmet en minutes aux cours du brut, maintenant une prime de risque géopolitique permanente."
+    },
+    {
+      "source": "n09",
+      "target": "n11",
+      "type": "cause",
+      "explanation": "L'anticipation d'une normalisation durable des prix de l'énergie post-conflit est le premier facteur cité par le ZEW pour expliquer le retour du sentiment en territoire positif, notamment dans les secteurs automobiles et chimiques énergio-intensifs."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "Le pivot hawkish de Warsh crée une tension avec le rebond européen : un dollar fort et des taux US durablement élevés compriment les exportations et la liquidité mondiale, freinant la reprise que les investisseurs européens espèrent du dégonflement du choc énergétique."
+    },
+    {
       "source": "n01",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "La fermeture militaire du Détroit d'Ormuz par l'Iran a physiquement coupé 14 Mb/j d'approvisionnement mondial, créant le choc d'offre qui a propulsé le Brent jusqu'à 120 dollars — le deal de sortie qui le fait refluer démontre la même mécanique en sens inverse."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "Le choc pétrolier a injecté de l'inflation importée dans l'économie américaine, forçant la Fed à réviser son dot plot à la hausse et à abandonner tout assouplissement monétaire prévu en 2026."
-    },
-    {
-      "source": "n02",
       "target": "n04",
       "type": "cause",
-      "explanation": "La flambée du pétrole a créé une pression inflationniste importée en zone euro, poussant la BCE à son premier relèvement de taux en plusieurs mois malgré une croissance déjà atone en Europe."
+      "explanation": "La suspension mondiale de Fable 5 — due à l'impossibilité de filtrer les accès par nationalité en temps réel — révèle la vulnérabilité d'Anthropic à toute décision gouvernementale sur ses canaux publics, accélérant son extension vers une infrastructure compute captive sur Colossus 2."
     },
     {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "La suspension forcée des modèles phares d'Anthropic sur ordre gouvernemental introduit un risque réglementaire inédit qui brouille la narrative de croissance et complique la valorisation de l'IPO auprès des investisseurs institutionnels."
+      "source": "n03",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "SpaceX est simultanément au cœur de deux méga-deals IA de juin : l'acquisition de Cursor (coding) et le contrat compute avec Anthropic (inférence), en faisant le fournisseur d'infrastructure de référence pour les deux leaders du marché tout en leur faisant concurrence via xAI."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Anthropic déploie simultanément une stratégie infrastructure (Colossus 1 et 2) et une stratégie de distribution enterprise (Microsoft Copilot Wave 3), formant une verticalisation rapide entre puissance de calcul brute et accès aux utilisateurs finaux en entreprise."
     },
     {
       "source": "n06",
-      "target": "n07",
+      "target": "n08",
       "type": "meme_sujet",
-      "explanation": "Anthropic et OpenAI s'apprêtent simultanément à une introduction en bourse avec des valorisations concurrentes avoisinant le trillion de dollars, dans une course aux capitaux pour financer l'IA frontier."
-    },
-    {
-      "source": "n05",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Le contrôle à l'export imposé par Washington à Anthropic contredit le discours des PDG des labs qui réclament au G7 une coalition IA 'ouverte' menée par les USA : l'État américain joue simultanément le rôle de promoteur et de régulateur strict."
+      "explanation": "La même guerre en Iran génère deux crises politiques domestiques aux USA le 25 juin : la résolution War Powers rejetée révèle les tensions constitutionnelles sur le pouvoir de guerre du président, tandis que la demande de 87,6 Mds$ expose le coût budgétaire réel du conflit."
     },
     {
       "source": "n10",
       "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Deux cessez-le-feu précaires coexistent — Ukraine et Gaza — illustrant une instabilité géopolitique systémique qui épuise la diplomatie occidentale sur plusieurs fronts simultanément."
-    },
-    {
-      "source": "n14",
-      "target": "n09",
       "type": "tension",
-      "explanation": "Pendant que les labs IA font du lobbying au G7 pour incarner un progrès positif, l'ONU pointe leur empreinte carbone croissante liée aux datacenters comme une menace climatique, créant un conflit de narratives entre tech et durabilité."
+      "explanation": "La perspective de taux US plus élevés sous Warsh accroît la volatilité des marchés obligataires et des spreads de crédit, pesant sur les trading books des banques européennes — ce qui renforce rétrospectivement le bien-fondé du multiplicateur FRTB adopté par la Commission pour éviter un désavantage compétitif face aux banques américaines."
     },
     {
-      "source": "n18",
-      "target": "n05",
-      "type": "tension",
-      "explanation": "L'EU AI Act qui entre en vigueur en août 2026 en Europe et les export controls américains sur les mêmes modèles créent une fragmentation réglementaire transatlantique qui complique le déploiement global des modèles IA frontier."
-    },
-    {
-      "source": "n08",
-      "target": "n06",
+      "source": "n13",
+      "target": "n14",
       "type": "cause",
-      "explanation": "L'explosion du vibe coding accélère l'adoption enterprise des LLMs — notamment Claude pour les développeurs — soutenant la croissance d'ARR d'Anthropic à 47 milliards et justifiant en partie sa valorisation IPO record."
+      "explanation": "Les blackouts à Turin et la pression record sur les réseaux électriques pendant la canicule ont démontré en temps réel les limites des interconnexions intra-européennes, renforçant l'urgence politique du Paquet Réseaux discuté au Conseil UE le 26 juin même."
+    },
+    {
+      "source": "n13",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "La canicule européenne record fournit la toile de fond dramatique du discours de Guterres à la London Climate Action Week : c'est précisément quand les réseaux électriques sont sous tension extrême que la consommation des datacenters IA devient un sujet politique brûlant."
+    },
+    {
+      "source": "n15",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "Le retrait américain sur les règles de divulgation climatique (SEC) et l'appel simultané de Guterres aux labs IA pour plus de transparence sur leur empreinte CO2 illustrent la fracture croissante entre la politique climatique américaine sous Trump et les standards que le reste du monde cherche à consolider."
     }
   ]
 }

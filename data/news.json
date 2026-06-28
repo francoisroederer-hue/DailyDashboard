@@ -1,254 +1,289 @@
 {
-  "generated_at": "2026-06-27T06:00:00Z",
+  "generated_at": "2026-06-28T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Export controls Fable 5",
-      "title": "L'administration Trump bloque Fable 5 et Mythos 5 d'Anthropic via l'export control",
-      "summary": "Trois jours après leur lancement le 9 juin, Fable 5 et Mythos 5 d'Anthropic ont été mis hors ligne sur directive du gouvernement américain, qui invoquait la découverte d'un potentiel jailbreak à des fins de sécurité nationale. La mesure suspend l'accès à ces modèles pour tout ressortissant étranger, y compris les propres employés d'Anthropic basés hors des États-Unis. Anthropic conteste publiquement que ce cas isolé et non universel justifie le retrait d'un modèle commercial déployé auprès de centaines de millions d'utilisateurs.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"
+      "short_title": "Fable 5/Mythos 5 bloqués",
+      "title": "Export control US : Fable 5 et Mythos 5 suspendus mondialement",
+      "summary": "Le 12 juin 2026, le gouvernement américain a ordonné à Anthropic de suspendre immédiatement l'accès à Fable 5 et Mythos 5 pour tous les ressortissants étrangers, y compris les employés non-citoyens de l'entreprise, en invoquant la sécurité nationale et un jailbreak permettant d'exploiter des vulnérabilités logicielles à grande échelle. Anthropic, qui avait lancé les deux modèles trois jours plus tôt, a désactivé l'accès pour l'ensemble de sa base clients afin d'assurer la conformité. L'entreprise conteste la directive, estimant qu'appliquer un tel standard à l'industrie bloquerait tout déploiement de modèle frontier.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html"
     },
     {
       "id": "n02",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Google perd ses stars IA",
-      "title": "Hémorragie de chercheurs chez Google DeepMind : Shazeer vers OpenAI, Jumper vers Anthropic",
-      "summary": "Les 18 et 19 juin, Google DeepMind a perdu deux figures emblématiques en deux jours : Noam Shazeer, co-auteur du paper fondateur sur l'architecture Transformer et co-lead de Gemini, a rejoint OpenAI ; John Jumper, prix Nobel de chimie 2024 pour AlphaFold, a confirmé son départ pour Anthropic. Des cadres internes pointent une bureaucratie excessive et un manque de focus produit sur le segment du coding IA comme raisons profondes de cet exode en série.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
+      "short_title": "OpenAI IPO : 850 Md$",
+      "title": "OpenAI dépose confidentiellement son S-1 à 850 Md$ de valorisation",
+      "summary": "OpenAI a soumis un dossier S-1 confidentiel à la SEC le 22 mai 2026, visant une introduction en bourse à une valorisation entre 730 et 852 Md$, avec Goldman Sachs, Morgan Stanley et JPMorgan en tête de syndicat. Le groupe affiche plus de 25 Md$ de revenus annualisés mais reste déficitaire — il perd 1,22 $ pour chaque dollar encaissé. Fin juin, Reuters signale qu'OpenAI envisagerait de repousser l'IPO à 2027 selon l'évolution des conditions de marché.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/alerts/openai-files-confidential-ipo-targeting-850b-valuation"
     },
     {
       "id": "n03",
-      "theme": "finance",
+      "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "OpenAI S-1 : $1T visé",
-      "title": "OpenAI dépose un S-1 confidentiel, ciblant une valorisation d'un trillion de dollars",
-      "summary": "Le 8 juin, OpenAI a soumis un S-1 confidentiel à la SEC avec Goldman Sachs et Morgan Stanley comme banques chefs de file, en vue d'une introduction en bourse ciblée pour septembre 2026 à plus de mille milliards de dollars, contre 852 milliards lors du dernier tour privé en mars. La société génère environ deux milliards de dollars de revenus mensuels mais reste structurellement déficitaire, perdant 1,22 dollar pour chaque dollar encaissé. Une cotation à cette valorisation ferait d'OpenAI la première IA pure-player cotée en bourse.",
-      "source": "CryptoBriefing",
-      "url": "https://cryptobriefing.com/openai-ipo-filing-trillion-valuation/"
+      "short_title": "Exode chercheurs Google",
+      "title": "Google perd Shazeer et Jumper au profit d'OpenAI et Anthropic",
+      "summary": "Noam Shazeer, co-auteur du papier Transformer fondateur et co-lead du modèle Gemini, a rejoint OpenAI le 18 juin ; John Jumper, prix Nobel de chimie 2024 pour AlphaFold, a annoncé son départ vers Anthropic le 19 juin. L'action Alphabet a cédé 5 à 6 % en séance le 22 juin, les investisseurs s'interrogeant sur la capacité de DeepMind à rester en tête de la course aux modèles. D'autres chercheurs seniors (Jonas Adler, Alexander Pritzel) auraient également rejoint Anthropic dans les jours suivants.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/"
     },
     {
       "id": "n04",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "G7 : coalition IA US",
-      "title": "Amodei, Hassabis et Altman plaident pour une coalition IA américaine au G7",
-      "summary": "Au G7 de juin, les PDG d'Anthropic (Dario Amodei) et de Google DeepMind (Demis Hassabis) ont plaidé auprès des chefs d'État pour la création d'une coalition internationale d'IA pilotée par Washington, rejoints par Sam Altman d'OpenAI. Cette convergence inédite entre labs concurrents sur un agenda géopolitique commun signale que l'IA est désormais un sujet de diplomatie de premier rang, comparable aux alliances technologiques de la Guerre froide. Le paradoxe est que ces mêmes labs subissent des contrôles export restrictifs quelques semaines plus tard.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html"
+      "short_title": "Modèles IA : sprint juin",
+      "title": "Fable 5, GPT-5.6, Gemini 3.2 : accélération frontier en juin",
+      "summary": "Juin 2026 confirme une cadence de lancement de modèles frontier toutes les 48 heures en moyenne — 53 modèles ajoutés aux trackers en 90 jours — avec Fable 5 (9 juin), GPT-5.6 et Gemini 3.2 comme têtes d'affiche, accompagnés de Kimi K2.7 et Fugu Ultra côté asiatique. Le raisonnement avancé et la multimodalité deviennent des standards de facto à ce niveau. La convergence des labs chinois (Qwen 3.7, DeepSeek V4.1) rend la rivalité US-Chine concrète sur les benchmarks.",
+      "source": "LLM Stats",
+      "url": "https://llm-stats.com/llm-updates"
     },
     {
       "id": "n05",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Mistral Vibe Agent",
-      "title": "Mistral lance un agent autonome long-terme et un datacenter de 10 MW en France",
-      "summary": "À l'AI Now Summit de juin, Mistral a présenté Vibe, un agent unifié capable de gérer des tâches longues et multi-étapes — inbox, recherche, rédaction, coding bout en bout — et annoncé un datacenter de 10 MW à Les Ulis (Essonne) pour T3 2026. Ce double mouvement agentic et souveraineté compute positionne Mistral face aux agents d'Anthropic et OpenAI tout en réduisant sa dépendance aux hyperscalers américains, un argument décisif pour les clients enterprise européens.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/"
+      "short_title": "Windsurf → Devin Desktop",
+      "title": "Windsurf rebaptisé Devin Desktop : consolidation des IDEs IA",
+      "summary": "Le 2 juin 2026, Cognition a intégré Windsurf dans Devin Desktop via une mise à jour over-the-air, fusionnant son IDE concurrent de Cursor avec son agent autonome Devin dans un centre de coordination d'agents. La société lève à une valorisation de 25 Md$, avec un ARR plus que doublé depuis l'acquisition de Windsurf en juillet 2025. L'Agent Command Center remplace l'éditeur classique comme vue principale, repositionnant l'outil comme plateforme d'orchestration multi-agents plutôt que simple IDE.",
+      "source": "Devin.ai",
+      "url": "https://devin.ai/blog/windsurf-is-now-devin-desktop"
     },
     {
       "id": "n06",
       "theme": "tech",
-      "subtopic": "vibe_coding",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Windsurf → Devin Desktop",
-      "title": "Windsurf se rebaptise Devin Desktop sous Cognition",
-      "summary": "Le 2 juin 2026, Windsurf a officialisé son rebaptême en Devin Desktop après son acquisition par Cognition, l'équipe derrière l'agent autonome Devin. Ce repositionnement marque le passage d'un IDE augmenté par l'IA à un agent de développement logiciel de bout en bout, capable de gérer une tâche du brief initial à la pull request fusionnée. La consolidation s'opère dans un marché du vibe coding estimé à 4,7 milliards de dollars en 2026, dominé par la thèse de l'agent autonome.",
-      "source": "VibeCoding.app",
-      "url": "https://vibecoding.app/blog/best-vibe-coding-tools"
+      "short_title": "G7 : coalition IA US",
+      "title": "G7 : Amodei et Hassabis appellent à une coalition IA sous leadership US",
+      "summary": "En marge du G7, les PDG d'Anthropic (Dario Amodei) et de Google DeepMind (Demis Hassabis) ont plaidé conjointement pour une alliance technologique occidentale sous leadership américain afin de maintenir la primauté des démocraties dans la course aux modèles frontier. Sam Altman (OpenAI) participait également à ce conclave réunissant une douzaine de dirigeants tech et plusieurs chefs d'État. Cette démarche converge directement avec les mesures d'export control sur Fable 5 et Mythos 5 prises la semaine précédente.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html"
     },
     {
       "id": "n07",
       "theme": "geopol",
-      "subtopic": "ukraine",
+      "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Ukraine : paix bloquée",
-      "title": "L'échéance de paix de juin expire sans accord, les négociations Ukraine-Russie s'enlisent",
-      "summary": "Les pourparlers trilatéraux USA-Ukraine-Russie initiés à Abu Dhabi puis Genève début 2026 n'ont pas abouti à l'accord de cessez-le-feu que Washington avait fixé pour juin. Moscou conditionne toute avancée à une reconnaissance de sa souveraineté sur le Donbas, position inacceptable pour Kiev. Cet enlisement maintient une incertitude structurelle sur les marchés de l'énergie et pèse sur les perspectives de reprise économique en Europe.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/02/08/nx-s1-5705967/u-s-gave-ukraine-and-russia-june-deadline-to-reach-peace-agreement-zelenskyy-says"
+      "short_title": "Iran : Hormuz se rouvre",
+      "title": "Iran : cessez-le-feu fragile, les tankers reprennent le détroit",
+      "summary": "La reprise des transits pétroliers à travers le détroit de Hormuz restaure environ 75 % des exportations du Golfe, poussant le Brent sous 72 $ le 26 juin à son plus bas depuis février 2026. Trump accuse Téhéran d'avoir violé le cessez-le-feu avec des drones sur le détroit, mais les marchés arbitrent en faveur de la détente malgré une attaque sur un cargo en mer d'Oman. L'Irak, contestant ses quotas, menace de quitter l'OPEP après le départ des Émirats en mai, fragilisant davantage l'organisation.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html"
     },
     {
       "id": "n08",
       "theme": "geopol",
-      "subtopic": "asie",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Taiwan : manœuvres Pékin",
-      "title": "Pékin intensifie la pression militaire autour de Taïwan en 2026",
-      "summary": "La Chine multiplie les incursions navales et aériennes dans la zone de Taïwan, sans franchir le seuil du conflit ouvert mais en entretenant une pression maximale sur l'île. L'International Crisis Group souligne que le risque d'incident maritime ou aérien non voulu reste élevé, dans un contexte où les États-Unis sont simultanément mobilisés sur l'Ukraine et le Venezuela. Une escalade accidentelle représenterait un choc de premier ordre pour les chaînes d'approvisionnement technologiques mondiales.",
-      "source": "International Crisis Group",
-      "url": "https://www.crisisgroup.org/fr/cmt/global/10-conflicts-watch-2026"
+      "short_title": "Ukraine : talks bloqués",
+      "title": "Ukraine : diplomatie en impasse, bilan civil record en mai 2026",
+      "summary": "Le Conseil de sécurité de l'ONU a tenu une session d'urgence le 22 juin après que la Mission de surveillance des droits humains a enregistré en mai 2026 le plus lourd bilan civil depuis février 2022. Les pourparlers tripartites (UK, France, Allemagne — Moscou) ont échoué, la Russie jugeant les conditions de médiation européennes inacceptables. Un cessez-le-feu avant fin juin reste improbable, le contentieux territorial sur le Donbass demeurant le point de blocage central.",
+      "source": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260622-unsc01.htm"
     },
     {
       "id": "n09",
       "theme": "finance",
-      "subtopic": "banques_centrales",
-      "importance": 3,
-      "short_title": "Fed hold, inflation 4,2%",
-      "title": "La Fed maintient ses taux à 3,5–3,75% tandis que l'inflation US remonte à 4,2%",
-      "summary": "Sous la présidence de Kevin Warsh, le FOMC de juin a confirmé le maintien du taux directeur à 3,50–3,75%, l'inflation américaine ayant rebondi à 4,2% (PCE core ~4%), son plus haut niveau depuis la période post-Covid. Goldman Sachs a repoussé ses prévisions de toute baisse à fin 2026 ou début 2027, citant la persistance des coûts énergétiques comme facteur principal. Pour les desks XVA et CVA, ce régime de taux élevés prolongés est désormais un paramètre structurant dans la valorisation des dérivés de taux.",
-      "source": "Dorval AM",
-      "url": "https://www.dorval-am.com/articles/inflation-et-politique-monetaire-us-:-les-marches-ont-choisi...pour-l'instant-15-juin-2026/"
+      "subtopic": "energie",
+      "importance": 2,
+      "short_title": "Brent chute sous 72$",
+      "title": "Brent chute sous 72$ : Hormuz rouvert, OPEP sous pression",
+      "summary": "La réouverture du détroit de Hormuz et le redémarrage du terminal Ras Tanura en Arabie Saoudite ont fait basculer le Brent à son plus bas depuis fin février 2026, les producteurs du Golfe (EAU, Koweït, Qatar) augmentant simultanément leur offre. Cet afflux soudain coïncide avec des signaux de ralentissement de la demande américaine — offres JOLTS tombées à 7,8 millions contre 8,1 attendus. L'équilibre reste fragile en raison de l'incertitude sur la durabilité du cessez-le-feu iranien et des menaces de sortie de l'Irak de l'OPEP.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html"
     },
     {
       "id": "n10",
       "theme": "finance",
-      "subtopic": "banques_centrales",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "BCE : hold 2,4%, UE 3,4%",
-      "title": "La BCE maintient ses taux à 2,40% sur fond de rebond inflationniste en zone euro",
-      "summary": "La BCE a confirmé le maintien de son taux directeur à 2,40% en juin 2026, les analystes d'Eurostat anticipant une accélération de l'inflation européenne à 3,4% sous l'effet du rebond des prix de l'énergie et des tensions agricoles. La canicule historique qui frappe l'Europe depuis mi-juin ajoute une pression inflationniste supplémentaire sur les denrées alimentaires et l'électricité. Les projections de l'ECB Research signalent un risque de stagflation pour le second semestre 2026.",
-      "source": "ECB / Raisin",
-      "url": "https://www.raisin.com/fr-fr/glossaire/taux-bce/"
+      "short_title": "Fed hold : inflation Iran",
+      "title": "Fed en pause : BofA repousse tout assouplissement à 2027",
+      "summary": "La Fed maintient ses taux dans la fourchette 3,5-3,75 % et Goldman Sachs ne s'attend plus à aucune baisse en 2026. Bank of America a repoussé son scénario de détente à 2027, invoquant une core PCE maintenue au-dessus de 3 % par les séquelles inflationnistes de la guerre contre l'Iran et les effets résiduels des droits de douane. Les créations de postes JOLTS en baisse alimentent simultanément le spectre d'un atterrissage plus dur que prévu.",
+      "source": "Goldman Sachs",
+      "url": "https://www.goldmansachs.com/insights/articles/why-the-fed-is-unlikely-to-cut-rates-this-year"
     },
     {
       "id": "n11",
       "theme": "finance",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Alphabet -5% post-exode",
-      "title": "Alphabet perd 5 à 6% en bourse après la vague de départs chez DeepMind",
-      "summary": "L'annonce successive des départs de Shazeer puis Jumper a provoqué une correction de 5 à 6% du cours d'Alphabet en deux séances, les marchés interprétant ces pertes de talent comme un signal de fragilisation structurelle de Google dans la course aux modèles frontier. La capitalisation boursière d'Alphabet a fondu de plusieurs dizaines de milliards de dollars, tandis que les échanges de gré à gré sur les parts d'OpenAI et les transactions secondaires Anthropic gagnaient en intensité. Des analystes s'interrogent désormais sur la capacité de DeepMind à rester à la frontière de la recherche en IA.",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/google-loses-two-top-ai-researchers-to-openai-anthropic/580201/"
+      "subtopic": "regulation_bancaire",
+      "importance": 3,
+      "short_title": "Basel III endgame US",
+      "title": "Bâle III endgame US : Fed/FDIC/OCC proposent 87,7 Md$ de relief CET1",
+      "summary": "En mars 2026, les trois régulateurs américains (Fed, FDIC, OCC) ont publié un paquet de trois propositions de refonte du cadre de capital bancaire, introduisant un CVA explicite et un régime de risque de marché calqué sur le FRTB avec Expected Shortfall. Plus souple que la version 2023, le paquet libère 87,7 Md$ de CET1 systémique et a clôturé sa période de consultation le 18 juin. En parallèle, l'UE et le Royaume-Uni ont repoussé leurs propres réformes Bâle 3.1 à janvier 2027.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
     },
     {
       "id": "n12",
-      "theme": "climat",
+      "theme": "finance",
       "subtopic": "europe",
-      "importance": 3,
-      "short_title": "Canicule Europe record",
-      "title": "La canicule qui frappe l'Europe est la pire jamais enregistrée, à son 11e jour le 26 juin",
-      "summary": "La vague de chaleur qui s'abat sur l'Europe depuis mi-juin 2026 bat tous les records : 11 jours consécutifs au 26 juin, avec des températures 14 à 18°C au-dessus des normales saisonnières — 44°C en Espagne, 39°C attendus à Vienne les 27 et 28 juin. Les impacts couvrent la santé publique (dizaines de morts recensés), l'agriculture, les infrastructures de transport et la productivité du travail en extérieur. Les chercheurs cités par le Washington Post qualifient cet épisode de pire jamais mesuré dans l'histoire climatique moderne.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/weather/2026/06/26/europe-heat-wave-is-worst-ever-recorded-researchers-say/"
+      "importance": 2,
+      "short_title": "BCE stable à 2,4%",
+      "title": "BCE à 2,4% : taux stables, divergence croissante avec la Fed",
+      "summary": "La Banque centrale européenne maintient son taux de refinancement à 2,40 % et son taux de dépôt à 2,25 %, alors que l'inflation en zone euro s'établit à 2,2 % en mai — proche de la cible — mais avec des services toujours à 3,1 %. La Fed, bloquée à 3,5-3,75 %, creuse l'écart transatlantique : cet écart de taux pèse sur l'euro et restructure les flux d'investissement obligataire vers les États-Unis.",
+      "source": "Raisin / BCE",
+      "url": "https://www.raisin.com/fr-fr/glossaire/taux-bce/"
     },
     {
       "id": "n13",
       "theme": "climat",
-      "subtopic": "numerique",
+      "subtopic": "chine",
       "importance": 2,
-      "short_title": "ONU : IA, bilan carbone",
-      "title": "Le SG de l'ONU appelle les entreprises IA à publier l'empreinte de leurs datacenters",
-      "summary": "À la London Climate Action Week du 23 juin, António Guterres a directement interpellé l'industrie de l'IA, lui demandant d'être transparente sur l'impact total de ses datacenters en carbone, eau et usage des terres. Cette prise de position crée une pression réglementaire et médiatique inédite sur des acteurs dont la demande en compute est exponentielle. L'appel de Guterres intervient au cœur d'une canicule record européenne, rendant le lien entre explosion du numérique et crise climatique visuellement évident pour l'opinion publique.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/06/1167785"
+      "short_title": "Chine : 30% renouv. 2030",
+      "title": "Chine : le 15e plan quinquennal vise 30% d'énergie propre d'ici 2030",
+      "summary": "Adopté le 25 juin 2026, le 15e plan quinquennal chinois pour l'énergie fixe un objectif de 30 % de la production électrique issue du renouvelable d'ici 2030, contre 22 % aujourd'hui, avec 200 à 300 GW de nouvelles capacités annuelles et 100 GW d'éolien offshore. Le plan omet de fixer une date de pic pour le charbon, malgré les attentes antérieures, et réduit l'ambition de décarbonation industrielle par rapport au plan précédent. La capacité propre de la Chine avait déjà dépassé les fossiles pour la première fois en février 2026.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/china-briefing-25-june-2026-five-year-plans-passed-critical-mineral-tensions-industrial-decarbonisation-plan/"
     },
     {
       "id": "n14",
       "theme": "climat",
       "subtopic": "europe",
       "importance": 2,
-      "short_title": "UE : accord ETS 2",
-      "title": "L'UE conclut un accord provisoire sur l'ETS 2, étendant le marché carbone aux bâtiments et transports",
-      "summary": "Le 11 juin, le trio législatif européen (Conseil, Parlement, Commission) a trouvé un accord provisoire sur la réserve de stabilité du marché pour l'ETS 2, qui étend pour la première fois le marché carbone aux bâtiments résidentiels, au transport routier et à des secteurs additionnels jusqu'ici non couverts. Ce mécanisme crée un signal-prix carbone dans des pans entiers de l'économie, avec des implications majeures pour l'immobilier, l'automobile et les stratégies d'investissement long terme.",
-      "source": "Cleary Gottlieb",
-      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-06-17"
+      "short_title": "Canicule EU / réseau",
+      "title": "Canicule record en Europe : réseau électrique sous pression extrême",
+      "summary": "La vague de chaleur qui frappe l'Europe en juin 2026 oblige plusieurs centrales thermiques à interrompre leur production faute d'eau de rivière suffisamment froide pour le refroidissement, tandis que la climatisation fait exploser la consommation. Les data centers IA aggravent la tension : en Irlande, ils représentent déjà 21 % de la consommation électrique nationale et le réseau a suspendu toute nouvelle approbation de connexion autour de Dublin jusqu'en 2028. La Commission européenne étudie la valorisation de la chaleur résiduelle des data centers pour la purification d'eau.",
+      "source": "Meteora Web Agency",
+      "url": "https://meteoraweb.com/en/news/europes-heat-wave-cripples-the-power-grid-while-tech-policy-chases-chips-and-ai"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "virologie",
+      "theme": "climat",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "H5N1 : pourquoi les pis",
-      "title": "Les scientifiques élucident pourquoi H5N1 infecte les pis des vaches plutôt que les poumons",
-      "summary": "Des chercheurs ont identifié le mécanisme moléculaire expliquant l'étrange tropisme du virus H5N1 pour le tissu mammaire bovin : les récepteurs auxquels se lie préférentiellement la protéine de surface virale sont massivement concentrés dans les glandes mammaires plutôt que dans les voies respiratoires. Cette découverte ouvre des pistes concrètes pour surveiller et endiguer la transmission via le lait, un vecteur de diffusion qui était sous-estimé dans les protocoles de biosécurité existants.",
-      "source": "CAS Scientific Breakthroughs",
-      "url": "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch"
+      "short_title": "IA : empreinte ONU alerte",
+      "title": "ONU : les data centers IA menacent eau, carbone et terres mondiales",
+      "summary": "Un rapport UNU-INWEH publié en juin 2026 quantifie l'empreinte globale de l'IA à horizon 2030 : 945 TWh d'électricité — presque le triple de la consommation combinée du Pakistan, Bangladesh et Nigeria — une empreinte eau équivalant aux besoins domestiques annuels de toute l'Afrique subsaharienne, et une emprise foncière de 14 500 km². Le Secrétaire général de l'ONU a demandé aux labs IA de divulguer intégralement leur impact environnemental lors de la Semaine Climat de Londres, liant pour la première fois agenda IA et agenda climatique à l'ONU.",
+      "source": "UNU-INWEH",
+      "url": "https://unu.edu/inweh/news/environmental-cost-of-AIs-Enrgy-use-carbon-water-and-land-footprints"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "energie",
-      "importance": 1,
-      "short_title": "Photosynthèse sans pile",
-      "title": "Un système de photosynthèse artificielle auto-régulée élimine le recours aux batteries",
-      "summary": "Des scientifiques ont développé un système de photosynthèse artificielle capable de s'autoréguler, supprimant la nécessité des batteries que requièrent la plupart des designs actuels. Le système convertit l'énergie lumineuse en carburant chimique tout en équilibrant lui-même ses flux d'électrons, simplifiant radicalement l'architecture et réduisant les coûts de fabrication. Cette avancée rapproche concrètement l'hypothèse d'un stockage de l'énergie solaire sous forme chimique à l'échelle industrielle.",
-      "source": "ZAGENO Biotech",
-      "url": "https://go.zageno.com/blog/whats-new-in-biotech-2026"
+      "theme": "climat",
+      "subtopic": "politique_climatique",
+      "importance": 2,
+      "short_title": "Guterres : urgence clima",
+      "title": "Semaine Climat ONU : Guterres exige transparence des labs IA sur leur empreinte",
+      "summary": "António Guterres a prononcé le 23 juin 2026 à la London Climate Action Week, en pleine canicule européenne, un appel à une transition propre, juste et rapide articulée autour de cinq priorités (réduction des émissions, transition juste, résilience, finance climatique, défense de la science). Il a spécifiquement sommé les entreprises d'IA de rendre publique leur empreinte carbone et eau, liant officiellement la question des data centers à l'agenda climatique onusien. La BCE a simultanément publié ses quatrièmes reportings climatiques pour ses portefeuilles de politique monétaire.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/06/1167785"
     },
     {
       "id": "n17",
+      "theme": "sciences",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Sénolytiques cliniques",
+      "title": "Sénolytiques : résultats cliniques probants sur l'inflammation systémique",
+      "summary": "Des essais cliniques conduits par Unity Biotechnology et la Mayo Clinic montrent une réduction de 40 à 60 % des marqueurs inflammatoires systémiques chez des patients âgés traités par de nouveaux composés sénolytiques, qui éliminent sélectivement les cellules sénescentes. Ces résultats constituent la première validation clinique solide du mécanisme théorique de la sénescence comme moteur majeur du vieillissement et de la morbidité. Le champ de la longévité bascule en 2026 de la promesse préclinique aux premières démonstrations en population humaine.",
+      "source": "Bolds Media",
+      "url": "https://www.boldsmedia.com/latest-longevity-researches/"
+    },
+    {
+      "id": "n18",
       "theme": "sante",
-      "subtopic": "nutrition",
+      "subtopic": "longevite",
       "importance": 1,
-      "short_title": "Microbiome et sport 2026",
-      "title": "La révolution probiotique s'impose dans la nutrition sportive de haut niveau",
-      "summary": "En 2026, la recherche confirme que la santé intestinale influence directement l'absorption des nutriments, l'inflammation systémique, l'immunité et la performance cognitive via l'axe gut-brain. Les champignons adaptogènes — cordyceps, lion's mane, reishi — intègrent désormais les protocoles nutritionnels des athlètes pour optimiser la récupération et la réponse au stress physiologique. Ces données sont particulièrement pertinentes pour les pratiquants de sports de force à haute intensité comme le kettlebell ou le street workout.",
-      "source": "LaNutrition.fr / Bulle-Confort",
-      "url": "https://bulle-confort.fr/nutrition-et-performance-sportive-les-tendances-incontournables-de-2026"
+      "short_title": "OMS : espérance de santé",
+      "title": "L'OMS consacre l'espérance de vie en bonne santé comme indicateur cible",
+      "summary": "En 2026, l'OMS et les principaux organismes de recherche ont officialisé le passage du concept d'espérance de vie brute à l'espérance de vie en bonne santé (healthspan) comme étalon de référence des politiques publiques. Ce changement reflète l'accumulation de données montrant que comprimer la morbidité en fin de vie est plus pertinent médicalement et économiquement que d'allonger une survie dégradée. Il redéfinit les critères de succès des essais cliniques en gériatrie et oriente les financements vers la prévention du déclin fonctionnel.",
+      "source": "OMS / JDD",
+      "url": "https://jdd.sn/longevite-esperance-vie-bonne-sante-2026/"
     }
   ],
   "edges": [
     {
-      "source": "n02",
-      "target": "n11",
+      "source": "n07",
+      "target": "n09",
       "type": "cause",
-      "explanation": "L'annonce des départs de Shazeer puis Jumper a directement provoqué la correction boursière d'Alphabet : les marchés ont interprété ces pertes de talent comme un signal de fragilisation structurelle de Google dans la course aux modèles frontier, là où se concentre désormais la valorisation de long terme."
+      "explanation": "La reprise des transits de tankers dans le détroit de Hormuz et le redémarrage du terminal Ras Tanura ont restauré ~75 % des exportations du Golfe, faisant mécaniquement chuter le Brent sous 72 $ à son plus bas depuis février 2026."
+    },
+    {
+      "source": "n07",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "Des mois de blocage du Hormuz par la guerre Iran–États-Unis ont maintenu les prix de l'énergie élevés aux États-Unis, entretenant une core PCE > 3 % qui empêche la Fed de baisser ses taux malgré le refroidissement progressif du marché du travail."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "La baisse du Brent atténue la composante énergie de l'inflation américaine, mais la Fed reste sur hold car les effets tarifaires résiduels et l'inflation des services maintiennent la core PCE hors cible ; BofA repousse désormais tout assouplissement à 2027."
     },
     {
       "source": "n02",
       "target": "n03",
       "type": "tension",
-      "explanation": "Tandis que Google perd ses chercheurs stars au profit d'Anthropic et OpenAI, OpenAI avance vers une IPO à un trillion de dollars — le marché redistribue massivement la valeur perçue de l'IA de l'acteur historique vers les challengers qui récupèrent ses talents."
+      "explanation": "La valorisation à 850 Md$ d'OpenAI en IPO confidentielle génère une puissance d'attraction salariale et symbolique que Google ne peut égaler, rendant la rétention de chercheurs d'élite comme Shazeer ou Jumper structurellement très difficile."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "L'arrivée du co-auteur du Transformer chez OpenAI et du père d'AlphaFold chez Anthropic renforce directement les capacités de recherche des deux labs rivaux, accélérant la compétition sur les modèles frontier en fin de semestre."
+    },
+    {
+      "source": "n04",
+      "target": "n15",
+      "type": "cause",
+      "explanation": "L'accélération des déploiements de modèles frontier — 53 modèles en 90 jours, Fable 5, GPT-5.6, Gemini 3.2 — démultiplie les besoins de calcul des data centers, dont l'empreinte en eau, carbone et foncier est désormais documentée et alarmante selon l'ONU."
     },
     {
       "source": "n01",
-      "target": "n04",
+      "target": "n06",
       "type": "meme_sujet",
-      "explanation": "Les contrôles export sur Fable 5 et la coalition IA au G7 sont deux instruments de la même stratégie américaine : sécuriser les modèles frontier à l'intérieur tout en institutionnalisant le leadership US en IA via la diplomatie multilatérale."
+      "explanation": "Les export controls sur Fable 5/Mythos 5 et l'appel à une coalition IA au G7 procèdent de la même doctrine américaine : contrôler la diffusion des modèles frontier pour préserver l'avantage stratégique des démocraties occidentales sur les régimes autoritaires."
     },
     {
-      "source": "n07",
-      "target": "n09",
+      "source": "n16",
+      "target": "n15",
       "type": "cause",
-      "explanation": "L'enlisement des négociations Ukraine-Russie maintient les prix de l'énergie à des niveaux élevés, ce qui alimente directement la composante énergie de l'inflation américaine à 4,2% et prive la Fed de la marge nécessaire pour abaisser ses taux."
+      "explanation": "En demandant aux labs IA de divulguer leur empreinte carbone et eau lors de la Semaine Climat de l'ONU, Guterres crée un précédent normatif qui pourrait déboucher sur des obligations de reporting environnemental pour les opérateurs de data centers frontier."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Fed et BCE adoptent toutes deux en juin 2026 une posture de maintien des taux, reflet d'un régime global d'inflation persistante où les chocs énergétiques et géopolitiques contraignent simultanément les deux principales banques centrales du monde."
-    },
-    {
-      "source": "n12",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "La canicule record amplifie les tensions sur les marchés agricoles et électriques européens, ajoutant une pression inflationniste supplémentaire que la BCE doit intégrer, rendant encore plus difficile toute décision de baisse de taux à court terme."
-    },
-    {
-      "source": "n12",
-      "target": "n13",
-      "type": "cause",
-      "explanation": "C'est précisément le contexte de canicule record qui a fourni au SG de l'ONU la tribune et l'évidence empirique pour interpeller les géants de l'IA sur l'empreinte carbone de leurs datacenters, dont la consommation énergétique explose au moment où l'Europe brûle."
-    },
-    {
-      "source": "n12",
+      "source": "n15",
       "target": "n14",
-      "type": "cause",
-      "explanation": "L'épisode de chaleur le plus sévère jamais enregistré renforce la légitimité politique du mécanisme ETS 2, dont l'accord provisoire a été conclu en juin au moment même où l'Europe subissait les effets les plus dramatiques du dérèglement climatique."
+      "type": "meme_sujet",
+      "explanation": "La canicule européenne et l'explosion de la consommation des data centers IA frappent simultanément le réseau électrique : deux phénomènes distincts qui s'amplifient mutuellement et rendent la crise énergétique de l'été 2026 particulièrement sévère en Europe."
     },
     {
       "source": "n13",
-      "target": "n05",
-      "type": "tension",
-      "explanation": "Alors que l'ONU exige des entreprises IA une transparence totale sur leur empreinte environnementale, Mistral annonce simultanément un nouveau datacenter de 10 MW — révélant la contradiction inhérente entre la dynamique d'expansion compute des labs et les objectifs climatiques."
+      "target": "n16",
+      "type": "meme_sujet",
+      "explanation": "Le 15e plan quinquennal chinois (25 juin) et la Semaine Climat de l'ONU (23 juin) s'inscrivent dans la même semaine de transition énergétique mondiale, illustrant l'écart persistant entre ambitions annoncées et réduction réelle des émissions."
     },
     {
-      "source": "n06",
-      "target": "n05",
+      "source": "n10",
+      "target": "n12",
+      "type": "tension",
+      "explanation": "La Fed bloquée à 3,5-3,75 % par l'inflation et la BCE à 2,4 % dans un contexte de désinflation convergente créent une divergence monétaire transatlantique qui pèse sur l'euro, renchérit les importations en zone euro et restructure les flux obligataires."
+    },
+    {
+      "source": "n11",
+      "target": "n12",
       "type": "meme_sujet",
-      "explanation": "Windsurf/Devin Desktop et Mistral Vibe Agent parient tous deux sur la même thèse produit : l'avenir du développeur augmenté est un agent autonome de bout en bout, pas un simple copilote passif — une convergence qui redéfinit le marché du coding tool en 2026."
+      "explanation": "La finalisation du cadre bâlois CVA/FRTB aux États-Unis et la stabilité des taux BCE constituent les deux contraintes simultanées — réglementaire et monétaire — qui redéfinissent en 2026 l'architecture du bilan et du coût du capital des banques européennes."
+    },
+    {
+      "source": "n05",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "La fusion Windsurf/Devin Desktop et l'explosion des sorties de modèles frontier reflètent le même mouvement de fond : la commoditisation rapide des modèles pousse les acteurs de l'outillage développeur à se repositionner vers des couches d'orchestration d'agents."
+    },
+    {
+      "source": "n17",
+      "target": "n18",
+      "type": "cause",
+      "explanation": "Les premiers résultats cliniques positifs des sénolytiques (réduction de 40-60 % des marqueurs d'inflammation) fournissent la validation empirique qui justifie le glissement de l'OMS vers le healthspan comme cible thérapeutique prioritaire en longévité."
     }
   ]
 }

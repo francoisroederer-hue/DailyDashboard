@@ -1,265 +1,293 @@
 {
-  "generated_at": "2026-06-30T06:00:00Z",
+  "generated_at": "2026-07-01T10:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "US-Iran accord Hormuz",
-      "title": "Accord US-Iran : le Détroit de Hormuz rouvre",
-      "summary": "Le 29 juin, Washington et Téhéran ont conclu un accord pour mettre fin aux opérations hostiles dans le Détroit de Hormuz, en échange d'une levée partielle du blocus américain des ports iraniens. L'accord reste fragile — un cargo a été touché par un projectile inconnu mi-juin lors d'une tentative d'évacuation, forçant la suspension du plan de l'OMI. Chaque signal diplomatique fait osciller les marchés pétroliers en temps réel, avec des répercussions immédiates sur l'aviation européenne (Lufthansa) et les plans d'urgence carburant.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html"
+      "short_title": "Iran re-ferme Ormuz",
+      "title": "Iran annonce refermer le détroit d'Ormuz",
+      "summary": "Téhéran a annoncé samedi refermer le détroit d'Ormuz, invoquant les frappes israéliennes poursuivies au Sud-Liban et le non-respect par Washington du premier volet de l'accord de cessez-le-feu. L'armée iranienne présente cette fermeture comme une riposte à des violations répétées du mémorandum signé le 17 juin. Le trafic maritime dans la zone reste très en-deçà de son niveau normal.",
+      "source": "Hormuz Strait Monitor / CNN",
+      "url": "https://www.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Pétrole : $120→$72",
-      "title": "Choc pétrolier 2026 : pic à 120 $, reflux post-accord à 72 $",
-      "summary": "La fermeture du Détroit de Hormuz en mars 2026 a poussé le Brent au-dessus de 120 $ le baril, choc comparable aux grandes crises énergétiques historiques. Après l'accord US-Iran du 29 juin, le WTI remonte à 70,56 $ et le Brent à 72,91 $, soit un reflux de près de 40% depuis le pic. La volatilité extrême a brouillé les signaux d'investissement dans la transition énergétique et alimenté une inflation importée dans toute l'économie mondiale.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "US Navy rouvre un couloir",
+      "title": "La marine américaine ouvre un couloir élargi près d'Oman",
+      "summary": "Le 27 juin, le Joint Maritime Information Center supervisé par l'US Navy a annoncé l'ouverture d'un couloir maritime élargi près d'Oman, permettant un trafic accru dans les deux sens malgré la fermeture proclamée par l'Iran. Washington dément que la fermeture iranienne soit effective. Le geste vise à démontrer que l'Iran ne contrôle plus seul l'accès au détroit.",
+      "source": "Joint Maritime Information Center / PBS",
+      "url": "https://www.pbs.org/newshour/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "banques_centrales",
-      "importance": 3,
-      "short_title": "ECB +25bp 1re hausse 2023",
-      "title": "BCE relève ses taux de 25 pb : premier resserrement depuis 2023",
-      "summary": "Le 11 juin, la BCE a remonté ses trois taux directeurs de 25 points de base, première hausse depuis 2023, pour contrer une inflation revenue à 3,0% en 2026 sous l'effet du choc énergétique. La croissance de la zone euro est révisée à 0,8% pour l'année, reflétant l'impact du conflit au Moyen-Orient sur les revenus réels et la confiance. Le communiqué cite explicitement la guerre comme facteur de pression inflationniste, actant le retour d'une boucle géopolitique–inflation–taux.",
-      "source": "ECB",
-      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html"
+      "theme": "geopol",
+      "subtopic": "afrique",
+      "importance": 2,
+      "short_title": "Tension Éthiopie/Érythrée",
+      "title": "Addis-Abeba et Asmara au bord de l'affrontement",
+      "summary": "L'Éthiopie et l'Érythrée échangent des accusations depuis plusieurs mois, avec un risque croissant de bascule vers un conflit ouvert dans la Corne de l'Afrique. Les analystes de risque géopolitique classent ce dossier parmi les principaux points chauds à surveiller pour le second semestre 2026. Un embrasement affecterait directement les routes commerciales de la mer Rouge, déjà fragilisées par la crise d'Ormuz.",
+      "source": "International Crisis Group",
+      "url": "https://www.crisisgroup.org/cmt/global/10-conflicts-watch-2026"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "banques_centrales",
-      "importance": 3,
-      "short_title": "Fed hawkish inf 3,6% PCE",
-      "title": "Fed maintient ses taux mais retourne le dot plot vers une hausse",
-      "summary": "Le 17 juin, la Fed a maintenu sa cible à 3,50–3,75 % tout en relevant sa prévision d'inflation PCE à 3,6% (contre 2,7% en mars) sous l'effet du choc énergétique. Le dot plot médian prévoit désormais une hausse des taux d'ici fin 2026, rupture nette avec les attentes d'assouplissement qui prévalaient en début d'année. Les marchés ont immédiatement révisé leurs scénarios de baisse, alimentant une remontée des rendements longs américains.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"
+      "theme": "geopol",
+      "subtopic": "afrique",
+      "importance": 1,
+      "short_title": "Blocus jihadiste à Bamako",
+      "title": "Le blocus jihadiste de Bamako s'installe dans la durée",
+      "summary": "Depuis septembre, des groupes jihadistes imposent un blocus partiel sur la capitale malienne, marquant une nouvelle phase de la guerre au Sahel. Les militants cherchent à consolider leur emprise sur les zones rurales pendant que le risque d'effondrement du régime augmente au Mali comme au Burkina Faso. La situation illustre l'enlisement sécuritaire de toute la bande sahélienne.",
+      "source": "International Crisis Group",
+      "url": "https://www.crisisgroup.org/cmt/global/10-conflicts-watch-2026"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Claude Fable 5 lancé",
-      "title": "Anthropic lance Claude Fable 5 : meilleur score sur FrontierBench",
-      "summary": "Le 9 juin, Anthropic a mis en production Claude Fable 5, son premier modèle de classe Mythos accessible au grand public, accompagné de Claude Mythos 5 réservé aux usages gouvernementaux en cybersécurité. Fable 5 affiche le meilleur score sur FrontierBench (coding avancé), franchit 90% sur les benchmarks analytiques complexes (bond de 10 points sur Opus) et excelle en finance quantitative et raisonnement scientifique. La fenêtre de contexte est d'un million de tokens avec jusqu'à 128 000 tokens de sortie par requête.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+      "short_title": "Brent recule malgré Ormuz",
+      "title": "Le Brent recule à 72,4$ malgré la fermeture proclamée d'Ormuz",
+      "summary": "Le Brent a reculé d'environ 1% à 72,4 dollars le 30 juin, les traders anticipant une percée diplomatique lors de pourparlers américano-iraniens à Doha plutôt que de réagir à l'annonce iranienne de fermeture du détroit. L'ouverture d'un couloir élargi par l'US Navy renforce cette lecture optimiste. Le marché reste toutefois nerveux face à la fragilité persistante du cessez-le-feu.",
+      "source": "HDFCSky / Fortune",
+      "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-june-30-2026-crude-oil-price-fall-1percent-to-72-4-as-markets-await-clarity-on-potential-us-iran-talks-in-doha"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "US suspend Fable+Mythos",
-      "title": "Export control US : Anthropic suspend ses deux modèles top mondialement",
-      "summary": "Le 12 juin, le Bureau of Industry and Security (Commerce Dept.) a ordonné à Anthropic de couper l'accès à Fable 5 et Mythos 5 pour tous ses clients dans le monde, y compris ses propres employés étrangers, sans préavis. La justification officieuse invoque des soupçons d'accès par un groupe lié à la Chine et la capacité de ces modèles à accélérer des cyberattaques sophistiquées contre les systèmes bancaires. C'est la première fois qu'un export control américain touche un modèle d'IA déjà en production commerciale.",
-      "source": "Nextgov / FCW",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/06/anthropic-suspends-top-ai-models-after-us-export-control-order/414173/"
+      "theme": "finance",
+      "subtopic": "banques_centrales",
+      "importance": 2,
+      "short_title": "Fed écarte baisse 2026",
+      "title": "La Fed maintient ses taux et évoque une possible hausse",
+      "summary": "Réunie le 17 juin, la Fed a maintenu sa fourchette de taux à 3,50-3,75% mais a retiré de ses projections toute baisse pour 2026, repoussant les réductions attendues à 2027-2028 et évoquant même la possibilité d'une hausse. Le président Kevin Warsh doit s'exprimer le 1er juillet au Portugal sur la trajectoire monétaire. Ce ton plus restrictif tranche avec le récent rallye boursier porté par les valeurs technologiques.",
+      "source": "Federal Reserve / CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "marches",
       "importance": 2,
-      "short_title": "Mythos 5 levée partielle",
-      "title": "Le gouvernement US lève partiellement le ban : Mythos 5 autorisé pour orgs sélectionnées",
-      "summary": "Le 29 juin, Washington a accordé à Anthropic une licence restreinte permettant à un nombre limité d'organisations pré-approuvées d'accéder à Mythos 5. Fable 5 reste sous embargo international. Cette résolution partielle fait suite à des négociations tendues : Anthropic avait d'abord tenté de résister à l'ordre initial, contrairement à OpenAI qui avait accepté d'emblée un mécanisme de screening gouvernemental, lui valant un cadre d'accès plus souple pour GPT-5.6.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/kateoflahertyuk/2026/06/29/us-government-partially-lifts-anthropic-ai-export-ban-what-it-means/"
+      "short_title": "S&P 500 franchit 52 000",
+      "title": "Le S&P 500 clôture au-dessus de 52 000 pour la première fois",
+      "summary": "Le S&P 500 a gagné 1,2% et le Nasdaq 100 2,3% le 30 juin, portés par le retour des acheteurs sur la tech et l'IA après cinq séances de baisse. Les investisseurs citent l'apaisement relatif des nouvelles sur l'Iran et les rééquilibrages de fin de trimestre comme moteurs du rallye. Ce regain d'appétit pour le risque contraste avec le ton prudent affiché par la Fed deux semaines plus tôt.",
+      "source": "Saxo Bank",
+      "url": "https://www.home.saxo/content/articles/macro/market-quick-take---30-june-2026-30062026"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "GPT-5.6 Sol : 20 orgs US",
-      "title": "OpenAI lance GPT-5.6 Sol en preview restreint à 20 organisations",
-      "summary": "Le 26 juin, OpenAI a mis en aperçu limité la gamme GPT-5.6 comprenant Sol (raisonnement frontier et agents long-horizon), Terra (quotidien, 2× moins cher que GPT-5.5) et Luna (le plus rapide). L'accès est restreint à une vingtaine d'organisations approuvées par le gouvernement américain, avec une disponibilité générale prévue dans les semaines suivantes. OpenAI a adopté d'emblée une posture coopérative avec l'administration — screening préalable accepté — ce qui lui a évité le choc réglementaire vécu par Anthropic.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump"
+      "theme": "finance",
+      "subtopic": "emploi",
+      "importance": 2,
+      "short_title": "Emploi US attendu jeudi",
+      "title": "Le rapport sur l'emploi américain de juin avancé au 2 juillet",
+      "summary": "Le Bureau of Labor Statistics publiera son rapport sur l'emploi de juin le jeudi 2 juillet, un jour plus tôt que prévu en raison du jour férié du 4 juillet. En mai, l'économie américaine avait créé 172 000 emplois avec un chômage stable à 4,3%. Ce chiffre sera scruté de près après le ton plus restrictif adopté par la Fed sur la trajectoire des taux.",
+      "source": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/schedule/"
     },
     {
       "id": "n09",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "finance",
+      "subtopic": "ccr_xva",
       "importance": 3,
-      "short_title": "Canicule EU 1300+ morts",
-      "title": "Canicule historique en Europe : 1300 morts, records de température",
-      "summary": "Au 29 juin, la canicule qui frappe l'Europe depuis mi-juin a causé plus de 1300 décès recensés, dont 1000 morts en excès en France seule (annoncés le 28 juin). La France a enregistré le 23 juin sa journée la plus chaude depuis 1947 avec 44,3°C, l'Allemagne un record national à 41,5°C, et le Royaume-Uni a battu son record de juin vieux de 50 ans pendant trois jours consécutifs. Le phénomène est piloté par un bloc oméga qui maintient une masse d'air chaud stationnaire, plaçant les températures jusqu'à 18°C au-dessus des moyennes saisonnières.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/more-than-1300-deaths-in-europe-amid-heatwave-what-can-countries-do"
+      "short_title": "Basel III endgame US: CVA",
+      "title": "Capital CVA : le secteur bancaire américain divisé sur le calendrier",
+      "summary": "Les régulateurs américains ont proposé le 19 mars une refonte du cadre de capital pour les grandes banques, incluant une nouvelle approche du risque CVA obligatoire pour tout établissement dépassant 1 000 milliards de dollars de notionnel dérivés. Un sondage ISDA montre le marché coupé en deux : la moitié des banques (en RWA) plaide pour un alignement sur le calendrier américain, l'autre moitié préfère avancer sur le calendrier 2027 déjà prévu en Europe. Les commentaires sur la proposition américaine étaient dus le 18 juin.",
+      "source": "ISDA / Mayer Brown",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2026/03/us-banking-regulators-propose-reforms-to-capital-requirements"
     },
     {
       "id": "n10",
-      "theme": "climat",
-      "subtopic": "ia_datacenter",
-      "importance": 2,
-      "short_title": "Guterres: IA declare CO2",
-      "title": "Guterres demande aux firmes IA de déclarer l'empreinte carbone de leurs datacenters",
-      "summary": "Le 23 juin à la London Climate Action Week, le Secrétaire général de l'ONU a appelé les entreprises d'IA à divulguer pleinement l'impact environnemental de leurs datacenters en termes de carbone, eau et usage des terres. Guterres a tracé un lien explicite entre la dépendance mondiale au pétrole, la crise climatique et la disruption du commerce maritime en mer d'Oman, illustrant comment la crise Hormuz et la crise climatique se renforcent mutuellement. L'appel prend une résonance particulière alors qu'une canicule meurtrière sévit simultanément en Europe.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/06/1167785"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Sonnet 5 lancé",
+      "title": "Anthropic lance Claude Sonnet 5, taillé pour les agents",
+      "summary": "Anthropic a annoncé le 30 juin Claude Sonnet 5, disponible sur tous les plans et devenu le modèle par défaut des offres Free et Pro. Positionné comme quasi aussi performant qu'Opus pour une fraction du prix, il vise explicitement les charges de travail agentiques en entreprise, avec un tarif promotionnel de 2$/10$ par million de tokens jusqu'au 31 août. Le lancement illustre la course à des modèles agentiques moins coûteux à faire tourner en production.",
+      "source": "Anthropic / TechCrunch",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5"
     },
     {
       "id": "n11",
-      "theme": "climat",
-      "subtopic": "chine",
-      "importance": 2,
-      "short_title": "Chine : plan énergie 2030",
-      "title": "Chine : 15e plan quinquennal fixe 30% d'énergie propre d'ici 2030",
-      "summary": "Le 25 juin, la Chine a adopté son 15e plan quinquennal pour l'énergie, visant 30% d'électricité propre d'ici 2030 (contre ~22% aujourd'hui) et une campagne intensive de décarbonation de l'industrie lourde entre 2026 et 2028. Le plan inclut des mesures sur les minéraux critiques et les chaînes d'approvisionnement en équipements renouvelables, secteur où la Chine domine mondialement. Ces ambitions coexistent avec une industrie lourde encore très carbonée à court terme, creusant le fossé entre engagements formels et trajectoire réelle.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/china-briefing-25-june-2026-five-year-plans-passed-critical-mineral-tensions-industrial-decarbonisation-plan/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Science lancé",
+      "title": "Anthropic lance Claude Science, atelier IA pour chercheurs",
+      "summary": "Le 30 juin, Anthropic a dévoilé Claude Science, un espace de travail intégrant plus de 60 bases de données et outils scientifiques pour accélérer la recherche et la découverte de médicaments. L'outil produit des artefacts auditables et donne accès à des ressources de calcul flexibles. Ce lancement s'inscrit dans une compétition frontale avec les offres équivalentes de Google et d'OpenAI sur la recherche assistée par IA.",
+      "source": "Anthropic / Northeastern",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
     },
     {
       "id": "n12",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "tech",
+      "subtopic": "mlops",
       "importance": 2,
-      "short_title": "EU ETS 2 provisoire signé",
-      "title": "EU ETS 2 : accord provisoire sur le marché carbone bâtiments/transport",
-      "summary": "La Commission, le Conseil et le Parlement européens ont conclu un accord provisoire sur l'ETS 2, le système d'échange de quotas d'émissions couvrant les bâtiments, le transport routier et des secteurs supplémentaires. Ce second marché carbone de l'UE, distinct du système existant pour l'industrie lourde, est conçu pour décarboner les usages finaux et aligner les incitations économiques avec les objectifs 2030. Sa mise en œuvre politique reste délicate dans un contexte de pression inflationniste accentuée par le choc énergétique.",
-      "source": "Cleary Gottlieb",
-      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-06-17"
+      "short_title": "Passerelle Claude Bedrock",
+      "title": "Anthropic ouvre une passerelle Claude pour Bedrock et GCP",
+      "summary": "Anthropic a introduit le 29 juin une passerelle applicative pour Claude Code déployable sur Amazon Bedrock et Google Cloud, avec SSO d'entreprise, politiques centralisées, contrôle d'accès par rôle et plafonds de dépense par utilisateur. L'outil cible les grandes organisations qui veulent industrialiser l'usage d'agents Claude tout en gardant la main sur les coûts et la gouvernance. Il complète le lancement de Sonnet 5, moins cher à faire tourner à grande échelle.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news"
     },
     {
       "id": "n13",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 2,
-      "short_title": "FRTB UE reporté à 2027",
-      "title": "FRTB : la Commission européenne ajuste les règles Basel III de marché et reporte à 2027",
-      "summary": "Le 4 juin, la Commission européenne a adopté des ajustements temporaires aux règles de risque de marché Basel III (FRTB), repoussant leur application au 1er janvier 2027 pour trois ans, avec un multiplicateur de capital destiné à amortir l'impact concurrentiel pour les banques de l'UE. Ce délai répond à la pression des grandes banques européennes qui soulignaient le terrain de jeu inégal face à leurs homologues américains, encore en phase de finalisation de leur propre package Basel III. La mise en œuvre complète du modèle interne (IMA) reste différée au 1er janvier 2028 au Royaume-Uni.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Gemini for Science",
+      "title": "Google lance Gemini for Science, son concurrent de Claude Science",
+      "summary": "Google a annoncé le 29 juin le lancement de Science Skills, un ensemble d'outils intégrant plus de 30 bases de données en sciences de la vie pour mener des analyses de bioinformatique structurale ou de génomique en quelques minutes via des plateformes agentiques comme Antigravity. L'annonce précède d'un jour celle de Claude Science par Anthropic, signe d'une course frontale entre labs sur l'IA appliquée à la recherche scientifique.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "biotech",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "IA drug Phase IIa validée",
-      "title": "IA en drug discovery : première preuve clinique Phase IIa actée à BIO 2026",
-      "summary": "La conférence BIO 2026 (26 juin) a consacré le premier franchissement de Phase IIa par un candidat médicament issu d'un processus de découverte entièrement piloté par IA, marquant le passage de la preuve de concept à la preuve clinique. Plus de 11 milliards de dollars ont été investis dans la découverte médicamenteuse par IA en 2025 sur 348 tours de financement, mais aucun médicament IA-conçu n'a encore obtenu d'autorisation FDA. Ce jalon valide l'approche tout en soulignant que la voie vers l'approbation commerciale reste longue et incertaine.",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/319136/20260626/ai-drug-discovery-reaches-clinical-proof-bio-2026-china-beat-biosecure-act-science.htm"
+      "short_title": "Gemini Spark sur macOS",
+      "title": "Gemini Spark arrive sur macOS avec des connecteurs d'apps",
+      "summary": "Google a annoncé le 30 juin l'arrivée de Gemini Spark sur macOS, permettant d'automatiser des tâches directement sur les fichiers du bureau. L'outil se connecte désormais à des applications tierces comme Canva et Dropbox pour fluidifier les flux de travail créatifs. Ce lancement complète la semaine chargée de Google, entre outils scientifiques et productivité grand public.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "nutrition",
-      "importance": 2,
-      "short_title": "UPF et baisse cognitive",
-      "title": "Aliments ultra-transformés : consommation liée à une baisse d'attention et de vitesse cognitive",
-      "summary": "Une étude portant sur plus de 2100 adultes révèle que la consommation d'aliments ultra-transformés (UPF) est associée à une attention plus faible et un traitement mental plus lent, y compris chez les personnes ayant une alimentation globalement saine par ailleurs. Ce résultat suggère que l'effet délétère des UPF sur la cognition n'est pas simplement médié par la qualité nutritionnelle globale, mais par des mécanismes propres — additifs, perturbateurs endocriens, impact sur le microbiome. Les implications pour la performance cognitive après 40 ans et la longévité cognitive sont directes.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/mind_brain/nutrition/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "GPT-5.6 sous tutelle US",
+      "title": "OpenAI limite GPT-5.6 à des partenaires validés par Washington",
+      "summary": "OpenAI a lancé le 26 juin un accès limité à GPT-5.6 (Sol, Terra, Luna) réservé à une vingtaine d'entreprises dont la participation a été validée par le gouvernement américain, dans le cadre d'un cadre d'évaluation développé avec l'administration Trump. OpenAI dit viser une disponibilité large « dans les prochaines semaines ». Cette mise sous tutelle gouvernementale des sorties de modèles frontier fait suite à la suspension d'accès imposée à Claude Fable 5 et Mythos 5 mi-juin.",
+      "source": "CNBC / Axios",
+      "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html"
     },
     {
       "id": "n16",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "learn",
+      "subtopic": "ai_tutoring",
       "importance": 2,
-      "short_title": "Gemini Flash & DiffGemma",
-      "title": "Google DeepMind : Gemini 3.1 Flash-Lite et DiffusionGemma 26B open-weight",
-      "summary": "Google DeepMind a publié Gemini 3.1 Flash-Lite, son modèle le plus rapide et économique de la gamme Gemini 3 pour les charges à fort volume, et DiffusionGemma — un modèle open-weight de 26 milliards de paramètres (MoE) qui génère du texte par diffusion à 1000 tokens/sec sur H100, soit 4× plus rapide que les architectures autorégressives classiques. La mise à disposition en open-weight de DiffusionGemma contraste nettement avec la politique d'accès restreint gouvernementale imposée à OpenAI et Anthropic sur leurs modèles frontier.",
-      "source": "llm-stats.com",
-      "url": "https://llm-stats.com/llm-updates"
+      "short_title": "Tutorat IA efficace",
+      "title": "Le tutorat par IA confirme son efficacité en conditions réelles",
+      "summary": "Des travaux publiés courant juin montrent que des tuteurs IA surclassent l'apprentissage actif traditionnel en classe, avec des tailles d'effet comprises entre 0,7 et 1,3 écart-type, pour un temps d'apprentissage réduit. Les chercheurs soulignent toutefois que le bénéfice dépend entièrement de la qualité et de la régularité de l'usage, pas de l'outil en lui-même. En parallèle, 31 États américains examinent au total 134 textes de loi encadrant l'IA en éducation.",
+      "source": "Nature Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-025-97652-6"
     },
     {
       "id": "n17",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor $2B ARR",
-      "title": "Cursor atteint 2 Md$ ARR ; 41% du code mondial généré par IA",
-      "summary": "Cursor, l'éditeur de code assisté par IA pour développeurs professionnels, a franchi 2 milliards de dollars de revenus annualisés début 2026, confirmant la maturité commerciale du vibe coding. 72% des développeurs utilisent désormais des outils IA quotidiennement et 41% du code produit globalement est généré ou co-généré par IA. Collins Dictionary a désigné « vibe coding » mot de l'année, signe que la pratique a dépassé le stade de niche pour devenir une norme professionnelle dans l'ingénierie logicielle.",
-      "source": "daily.dev",
-      "url": "https://daily.dev/blog/vibe-coding-how-ai-changing-developers-code/"
+      "theme": "climat",
+      "subtopic": "canicule",
+      "importance": 3,
+      "short_title": "Canicule record en Europe",
+      "title": "L'OMS alerte : la canicule européenne n'est qu'une « répétition »",
+      "summary": "Plus de 1 300 décès liés à la chaleur ont été recensés en Europe depuis le 21 juin selon l'OMS, dont plus de 1 000 en France depuis le 24 juin. Le directeur régional de l'OMS Europe a qualifié cet épisode de « répétition générale », rappelant que le continent se réchauffe deux fois plus vite que la moyenne mondiale et que ces crises deviennent récurrentes. La vague de chaleur doit s'étendre à l'Europe occidentale, centrale et aux Balkans.",
+      "source": "OMS / Euronews",
+      "url": "https://www.euronews.com/health/2026/06/30/europes-current-heatwave-is-just-a-dress-rehearsal-who-warns"
     },
     {
       "id": "n18",
-      "theme": "finance",
-      "subtopic": "france",
+      "theme": "sante",
+      "subtopic": "urgences",
       "importance": 2,
-      "short_title": "France : chômage 8,1%",
-      "title": "France : chômage à 8,1%, déficit à 5,4% du PIB et croissance sous 1%",
-      "summary": "En juin 2026, le taux de chômage français atteint 8,1% (+0,3 point vs mars), avec le chômage des jeunes de moins de 25 ans remonté à 18,2% — conséquence directe du ralentissement des recrutements dans le secteur technologique. La croissance reste sous 1% et le déficit public s'établit à 5,4% du PIB, déclenchant une procédure de déficit excessif de l'UE. La France reste à la traîne de ses partenaires — Espagne à 2,4%, Italie à 1,2% — dans un contexte de remontée des taux d'emprunt liée au resserrement de la BCE.",
-      "source": "Startups Nation / INSEE",
-      "url": "https://startups-nation.fr/chomage-en-france-en-juin-2026-un-taux-a-81/"
+      "short_title": "Urgences saturées",
+      "title": "Les appels d'urgence bondissent de 50% dans plusieurs villes françaises",
+      "summary": "La canicule a provoqué une hausse jusqu'à 50% des appels médicaux d'urgence dans plusieurs villes françaises, avec des services d'ambulance à Londres enregistrant leur record d'appels vitaux en une seule journée. Les autorités sanitaires notent cependant que les mesures d'adaptation déjà en place ont limité la surmortalité par rapport à un scénario sans prévention. La pression sur les systèmes de santé illustre le coût sanitaire direct du réchauffement.",
+      "source": "OMS / Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/more-than-1300-deaths-in-europe-amid-heatwave-what-can-countries-do"
+    },
+    {
+      "id": "n19",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Muscu: 90-120 min/semaine",
+      "title": "Une étude sur 30 ans confirme la dose optimale de musculation",
+      "summary": "Une étude de Harvard T.H. Chan portant sur plus de 147 000 personnes suivies pendant 30 ans, publiée début juin dans le British Journal of Sports Medicine, associe 90 à 120 minutes de renforcement musculaire par semaine à une baisse de 13% du risque de mortalité prématurée, notamment cardiovasculaire et neurologique. Combiner ce volume avec de l'exercice aérobie renforce encore le bénéfice. Au-delà de ce seuil, les gains supplémentaires semblent marginaux.",
+      "source": "Harvard T.H. Chan School of Public Health",
+      "url": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/"
+    },
+    {
+      "id": "n20",
+      "theme": "sciences",
+      "subtopic": "cosmologie",
+      "importance": 2,
+      "short_title": "L'énergie noire varierait",
+      "title": "De nouvelles observations suggèrent une énergie noire évolutive",
+      "summary": "Des observations cosmologiques récentes, rapportées fin juin par Quanta Magazine, renforcent l'hypothèse selon laquelle l'énergie noire ne serait pas une constante mais varierait dans le temps, remettant en cause un pilier du modèle cosmologique standard. Ces résultats s'ajoutent à un faisceau d'indices accumulés depuis plusieurs mois par différents relevés de galaxies. La communauté reste prudente en attendant confirmation par des mesures indépendantes.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/"
     }
   ],
   "edges": [
     {
       "source": "n01",
       "target": "n02",
-      "type": "cause",
-      "explanation": "La fermeture du Détroit de Hormuz par l'Iran a directement déclenché le choc pétrolier à 120 $ ; l'accord US-Iran du 29 juin fait refluer le Brent à 72 $, illustrant comment la géopolitique moyen-orientale pilote les marchés de l'énergie en temps réel."
+      "type": "tension",
+      "explanation": "Téhéran affirme avoir refermé le détroit tandis que Washington dément et fait la démonstration inverse en ouvrant un couloir maritime élargi : deux récits opposés sur qui contrôle réellement Ormuz."
     },
     {
       "source": "n02",
-      "target": "n03",
+      "target": "n05",
       "type": "cause",
-      "explanation": "Le choc pétrolier a alimenté l'inflation en zone euro jusqu'à 3%, forçant la BCE à abandonner sa posture accommodante et à remonter ses taux pour la première fois depuis 2023."
+      "explanation": "L'ouverture du couloir par l'US Navy et l'espoir de percée diplomatique à Doha convainquent les traders de réduire la prime de risque, faisant reculer le Brent malgré l'annonce iranienne."
     },
     {
       "source": "n02",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "La même pression inflationniste importée via les prix de l'énergie a contraint la Fed à relever ses projections d'inflation PCE à 3,6% et à signaler une probable hausse des taux d'ici fin 2026, retournant le dot plot."
-    },
-    {
-      "source": "n03",
-      "target": "n18",
-      "type": "cause",
-      "explanation": "La hausse des taux de la BCE renchérit le crédit en France et pèse sur la demande intérieure, aggravant une économie déjà fragile et contribuant à la remontée du chômage à 8,1% dans un pays dont le déficit public dépasse 5% du PIB."
-    },
-    {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "Le lancement de Fable 5 et Mythos 5 a déclenché une revue de sécurité nationale : leurs capacités inédites en cyberattaque sophistiquée contre les systèmes bancaires — et des soupçons d'accès par un groupe lié à la Chine — ont motivé l'intervention du Bureau of Industry and Security."
-    },
-    {
-      "source": "n06",
       "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "La levée partielle du ban pour Mythos 5 est la résolution provisoire du même dossier réglementaire : après résistance initiale, Anthropic a négocié un régime de licence restreinte qui exclut toujours Fable 5."
+      "type": "cause",
+      "explanation": "L'apaisement perçu des tensions sur Ormuz, matérialisé par le couloir élargi, est cité par les marchés comme un facteur clé du regain d'appétit pour le risque qui pousse le S&P 500 au-dessus de 52 000."
     },
     {
       "source": "n06",
       "target": "n08",
       "type": "tension",
-      "explanation": "Anthropic a résisté à l'injonction gouvernementale avant d'être forcé à une suspension totale, tandis qu'OpenAI a accepté d'emblée un mécanisme de screening pour GPT-5.6 Sol — deux postures opposées face à l'intervention de l'État dans la diffusion des modèles frontier."
+      "explanation": "La Fed a écarté toute baisse de taux en 2026 sur la base des données disponibles ; un rapport sur l'emploi plus faible que prévu jeudi raviverait le débat sur la pertinence de ce ton restrictif."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "La canicule meurtrière qui sévit en Europe au moment exact de la London Climate Action Week donne une résonance concrète et immédiate au discours de Guterres, transformant des statistiques climatiques en urgence visible et palpable."
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Anthropic dévoile le même jour un nouveau modèle grand public et un produit vertical pour la recherche scientifique, deux volets d'une même offensive produit."
     },
     {
       "source": "n11",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "La Chine affiche des objectifs climatiques ambitieux mais maintient une industrie lourde très carbonée à court terme : ce fossé entre ambition et réalité concrète illustre pourquoi les événements extrêmes comme la canicule européenne s'intensifient malgré les engagements formels."
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Claude Science et Gemini for Science sont annoncés à un jour d'intervalle avec un positionnement quasi identique : agréger des bases de données scientifiques dans un espace de travail agentique."
     },
     {
-      "source": "n16",
-      "target": "n08",
+      "source": "n10",
+      "target": "n12",
+      "type": "cause",
+      "explanation": "La baisse de coût de Sonnet 5 pour les charges agentiques rend crédible le déploiement à grande échelle que la passerelle entreprise pour Bedrock et GCP est censée industrialiser."
+    },
+    {
+      "source": "n15",
+      "target": "n10",
       "type": "tension",
-      "explanation": "Google publie DiffusionGemma en open-weight, accessible à tous, pendant qu'OpenAI restreint GPT-5.6 Sol à 20 organisations approuvées par le gouvernement : deux philosophies opposées sur qui doit contrôler l'accès aux modèles frontier à l'ère des export controls."
+      "explanation": "OpenAI restreint GPT-5.6 à une vingtaine de partenaires validés par le gouvernement américain, tandis qu'Anthropic déploie Sonnet 5 en accès général la même semaine : deux stratégies opposées de mise sur le marché des modèles frontier."
+    },
+    {
+      "source": "n10",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "La baisse continue du coût des modèles agentiques comme Sonnet 5 rend économiquement viable le déploiement à grande échelle de tuteurs IA, renforçant la dynamique déjà observée dans la recherche en éducation."
+    },
+    {
+      "source": "n17",
+      "target": "n18",
+      "type": "cause",
+      "explanation": "La vague de chaleur provoque directement l'engorgement des services d'urgence, avec des appels médicaux en hausse de 50% dans plusieurs villes françaises."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "Tensions Éthiopie-Érythrée et blocus jihadiste de Bamako sont deux foyers distincts d'un même phénomène : la fragilisation sécuritaire simultanée de plusieurs régions africaines en 2026."
     }
   ]
 }

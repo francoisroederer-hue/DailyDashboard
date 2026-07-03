@@ -1,255 +1,271 @@
 {
-  "generated_at": "2026-07-02T04:20:00Z",
+  "generated_at": "2026-07-03T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Qatar: pourparlers Iran",
-      "title": "USA et Iran concluent des pourparlers indirects à Qatar",
-      "summary": "Les émissaires américains Steve Witkoff et Jared Kushner ont achevé le 1er juillet deux jours de discussions indirectes à Doha avec des médiateurs qatariens et pakistanais, sans rencontrer directement les diplomates iraniens. Les échanges ont porté sur les 6 milliards de dollars d'avoirs iraniens gelés au Qatar et sur le statut contesté du détroit d'Ormuz, que Téhéran continue de revendiquer sous autorité de facto malgré le mémorandum signé le mois dernier.",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/jul/1/us-iran-conclude-two-days-indirect-talks-qatar-major-questions-left/"
+      "short_title": "Iran-USA: talks à Doha",
+      "title": "Iran et États-Unis rapprochent leurs positions à Doha",
+      "summary": "Après une semaine de frappes croisées, les négociateurs iraniens et américains se sont retrouvés à Doha sous médiation qatarie et pakistanaise. Un mémorandum prévoit une feuille de route vers un accord final sous 60 jours, incluant la réouverture du détroit d'Ormuz, mais le dossier nucléaire iranien reste le point dur non résolu.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 3,
-      "short_title": "Brent sous 69$",
-      "title": "Le Brent tombe sous 69 dollars, plus bas niveau depuis février",
-      "summary": "Le baril de Brent est passé sous les 69 dollars le 1er juillet, son niveau le plus bas depuis fin février, alors que les flux pétroliers via le détroit d'Ormuz dépassent désormais 10 millions de barils par jour. Les exportations iraniennes ont bondi au-delà de 40 millions de barils depuis la levée du blocus naval américain, et les exportations russes atteignent des records, provoquant un afflux de barils qui pèse lourdement sur les prix.",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      "short_title": "Frappe russe sur Kyiv",
+      "title": "Russie: plus lourde frappe sur Kyiv depuis deux semaines",
+      "summary": "Dans la nuit du 1er au 2 juillet, la Russie a lancé 74 missiles et près de 500 drones sur l'Ukraine, majoritairement sur Kyiv, faisant au moins 18 morts. La Pologne a fait décoller ses chasseurs et la Finlande a restreint son espace aérien par précaution, signe de la nervosité régionale face à l'escalade.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "emploi",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "ADP: emploi ralentit",
-      "title": "ADP : seulement 98 000 emplois privés créés en juin aux USA",
-      "summary": "Le secteur privé américain n'a créé que 98 000 emplois en juin selon ADP, en dessous des 110 000 attendus et en repli par rapport aux 122 000 de mai. Près de la moitié des créations proviennent de la santé et de l'éducation, et la croissance salariale reste stable à 4,4% pour les emplois stables, signe d'un marché du travail qui ralentit sans se dégrader brutalement, à la veille du rapport officiel NFP de juin.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/amp/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html"
+      "short_title": "Pénurie carburant Russie",
+      "title": "La Russie confrontée à une pénurie de carburant",
+      "summary": "Les frappes de drones ukrainiens à longue portée sur les raffineries russes, intensifiées ces dernières semaines, ont fait reculer une part significative des capacités de raffinage du pays. La pénurie touche désormais plusieurs régions russes, en pleine escalade militaire avec Kyiv.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "banques_centrales",
+      "subtopic": "usa",
       "importance": 3,
-      "short_title": "Warsh: Fed reste ferme",
-      "title": "Kevin Warsh défend l'indépendance de la Fed au forum de Sintra",
-      "summary": "S'exprimant au forum de la BCE à Sintra le 1er juillet, le président de la Fed Kevin Warsh a jugé l'inflation encore trop élevée tout en se montrant plus ouvert sur le potentiel désinflationniste de l'IA à moyen terme. Il a explicitement rejeté la pression exercée par Donald Trump sur la banque centrale, affirmant que son indépendance ne changerait pas, à quelques semaines de la réunion du FOMC des 28-29 juillet.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html"
+      "short_title": "Emploi US déçoit, Fed",
+      "title": "L'emploi américain déçoit, les paris sur une pause de la Fed se renforcent",
+      "summary": "L'économie américaine n'a créé que 57 000 emplois en juin, loin des 113 000 attendus, avec un taux de chômage à 4,2%. Ce ralentissement met fin à trois mois de statistiques solides et conforte l'idée que la Fed maintiendra ses taux inchangés lors de sa prochaine réunion.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/02/stock-market-live-july-2-2026-sp-500-spy-flat-with-new-jobs-data/"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "ia_europe",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Lagarde: UE en retard IA",
-      "title": "Lagarde reconnaît le retard européen en investissement IA",
-      "summary": "Toujours à Sintra, la présidente de la BCE Christine Lagarde a reconnu que l'Europe accusait un retard dans l'investissement en IA et le développement de champions technologiques face aux États-Unis. Elle a néanmoins nuancé le constat en estimant que l'Europe et les États-Unis étaient devenus « otages l'un de l'autre » sur ce terrain, chacun dépendant des infrastructures et de la demande de l'autre.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html"
+      "short_title": "Dow au record historique",
+      "title": "Le Dow Jones au plus haut, le pétrole recule sur fond de diplomatie iranienne",
+      "summary": "Le Dow Jones a gagné plus de 1,1% jeudi, signant un nouveau record, tandis que le WTI cédait 1,4% à 67,6 dollars et le Brent 1,36% à 70,6 dollars. Les progrès rapportés dans les discussions Iran-USA à Doha ont réduit la prime de risque géopolitique sur l'énergie, à la veille de la fermeture des marchés US pour le 4 juillet.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-2-2026"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 1,
-      "short_title": "UE: 8 pays aux urnes",
-      "title": "2026, année électorale test pour l'Union européenne",
-      "summary": "Huit États membres de l'UE (Slovénie, Danemark, Hongrie, Bulgarie, Malte, Suède, Lettonie, Chypre) doivent élire un nouveau parlement en 2026 dans un contexte de montée des partis d'extrême droite et de fracturation du soutien à l'Ukraine. L'électorat pro-russe gagne en visibilité dans les pays baltes, ajoutant une pression politique interne à la difficulté de l'UE à se positionner comme puissance technologique et diplomatique autonome.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2025/12/31/the-elections-that-will-shape-europe-in-2026"
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Tesla et semis chutent",
+      "title": "Tesla et les semi-conducteurs décrochent malgré le record du Dow",
+      "summary": "Tesla a chuté de 7% jeudi malgré des livraisons trimestrielles meilleures que prévu, tandis qu'AMD, Micron et Intel ont prolongé leur repli de la veille. Ce mouvement contraste avec le record du Dow Jones, illustrant une rotation hors des valeurs tech et EV les plus chères.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 3,
-      "short_title": "Fable5: export levé",
-      "title": "Washington lève les contrôles à l'export sur Claude Fable 5 et Mythos 5",
-      "summary": "Le département du Commerce américain a levé le 30 juin les contrôles à l'export imposés mi-juin à Anthropic sur ses modèles Fable 5 et Mythos 5, après que l'entreprise a accepté de détecter proactivement les risques de sécurité et de coopérer avec le gouvernement sur les futurs modèles. Fable 5 redevient accessible aux utilisateurs du monde entier sur Claude.ai, l'API et Claude Code dès le 1er juillet, une volte-face rapide après un épisode inédit de restriction export sur un LLM frontier.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html"
+      "short_title": "Basel III assoupli",
+      "title": "Basel III Endgame: les banques réagissent au relâchement du cadre de capital",
+      "summary": "Après la clôture le 18 juin de la période de commentaires sur la re-proposition Fed/OCC/FDIC, qui allège nettement les exigences par rapport au texte de 2023 (suppression du double calcul, assouplissement des seuils NMRF en FRTB), les Federal Home Loan Banks ont soumis fin juin une lettre saluant l'objectif de simplification tout en pointant des effets techniques défavorables pour leur secteur. Le gouverneur Fed Michael Barr avait dissenti, jugeant le texte risqué pour la résilience du système bancaire.",
+      "source": "FHLBanks",
+      "url": "https://fhlbanks.com/fhlbanks-submit-letter-to-federal-financial-regulators-on-basel-iii-endgame-re-proposal/"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Meta Compute lancé",
-      "title": "Meta lance Meta Compute pour revendre sa capacité IA excédentaire",
-      "summary": "Meta a dévoilé Meta Compute, une offre cloud vendant à des tiers l'accès à ses modèles propriétaires Muse Spark ainsi que du calcul GPU brut, entrant frontalement en concurrence avec CoreWeave, Nebius et les hyperscalers. L'action Meta a bondi d'environ 8 à 9% sur l'annonce, alors que le groupe investit 125 à 145 milliards de dollars dans ses infrastructures IA en 2026, dont un campus de 2250 acres en Louisiane.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html"
+      "short_title": "Claude Fable 5 de retour",
+      "title": "Claude Fable 5 redéployé après la levée des contrôles à l'export",
+      "summary": "Suspendu depuis le 12 juin après que des chercheurs Amazon ont montré comment contourner ses garde-fous pour extraire des informations sur des vulnérabilités logicielles, Claude Fable 5 est redevenu accessible mondialement le 1er juillet. Anthropic a entraîné un nouveau classifieur de sécurité qui bloque la technique de contournement dans plus de 99% des cas, condition posée par l'administration américaine pour lever son ordre de contrôle à l'export.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "marches",
-      "importance": 2,
-      "short_title": "CoreWeave/Nebius chutent",
-      "title": "CoreWeave et Nebius chutent après l'annonce de Meta Compute",
-      "summary": "Les actions de CoreWeave et Nebius, deux « neoclouds » spécialisés dans la location de capacité GPU, ont plongé après l'annonce de Meta Compute, qui menace directement leurs contrats pluriannuels avec Meta évalués respectivement à 21 et 27 milliards de dollars. Le marché s'interroge désormais sur la pérennité du modèle économique de ces fournisseurs si leurs plus gros clients deviennent eux-mêmes des concurrents directs.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-coreweave-iren-tumble-meta-162444225.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "GPT-5.6 sous contrôle US",
+      "title": "GPT-5.6 Sol limité à une vingtaine de partenaires triés sur le volet",
+      "summary": "OpenAI a dévoilé la famille GPT-5.6 (Sol, Terra, Luna) mais, à la demande du gouvernement américain, en restreint l'accès à environ 20 organisations validées individuellement, sans liste d'attente publique. Le déclencheur serait le score de Sol à un benchmark interne de cyberattaque (96,7%), franchissant le seuil \"élevé\" du cadre de préparation d'OpenAI, qui juge ce mode de contrôle gouvernemental de l'accès non tenable à long terme.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
     },
     {
       "id": "n10",
-      "theme": "finance",
-      "subtopic": "marches",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "S&P500 vs Mag7 -9%",
-      "title": "S&P 500 en hausse de 9,4% au premier semestre malgré des Mag7 en repli",
-      "summary": "Le S&P 500 a progressé de 9,4% au premier semestre 2026 et le Nasdaq de 12,5%, portés par des résultats d'entreprises solides, mais les valeurs Magnificent Seven ont perdu près de 9% en juin, leur pire mois depuis mars 2025. Cette divergence entre indices larges et mégacapitalisations technologiques illustre une rotation de marché à surveiller alors que s'ouvre la saison des résultats le 14 juillet.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-9-2026-wall-093200956.html"
+      "short_title": "Cursor revoit ses prix",
+      "title": "Cursor refond sa tarification Teams face à l'explosion d'usage des agents",
+      "summary": "Cursor sépare désormais l'usage de ses modèles maison (Composer/Auto) de celui des modèles tiers (Claude, GPT) dans deux pools distincts par siège, et introduit un siège Premium à 120$/mois offrant 5x plus d'usage pour 3x le coût. L'entreprise dit vouloir absorber la charge des utilisateurs qui font tourner des agents en continu toute la journée.",
+      "source": "Cursor",
+      "url": "https://cursor.com/blog/teams-pricing-june-2026"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "GeneBench-Pro (OpenAI)",
-      "title": "OpenAI publie GeneBench-Pro pour tester le raisonnement biologique des IA",
-      "summary": "OpenAI a introduit GeneBench-Pro, un benchmark de 129 problèmes de génomique et biologie quantitative conçus pour évaluer le jugement scientifique des agents IA face à des données réelles bruitées, et non leur simple mémorisation factuelle. Le modèle le plus performant, GPT-5.6 Sol, ne résout que 28,7% des problèmes en mode raisonnement maximal, contre moins de 5% pour GPT-5 sur la version initiale du benchmark, illustrant à la fois les progrès et les limites persistantes du raisonnement scientifique automatisé.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-genebench-pro/"
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Stack IA coding fusionne",
+      "title": "Cursor, Claude Code et Codex convergent vers une même pile d'outils",
+      "summary": "Les frontières entre éditeurs et agents de codage s'estompent: Cursor intègre de plus en plus les modèles concurrents, tandis que Claude Code et Codex empruntent des patterns d'interface popularisés par les IDE agentiques. La presse tech y voit la formation d'une pile d'outils IA de développement commune, née sans plan concerté entre les acteurs.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/ai-coding-tool-stack/"
     },
     {
       "id": "n12",
-      "theme": "sciences",
-      "subtopic": "biologie",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Cellule de synthèse",
-      "title": "Une cellule construite de toutes pièces croît et se divise pour la première fois",
-      "summary": "Des chercheurs ont réussi à faire croître et se diviser une cellule entièrement synthétique, assemblée composant par composant plutôt que modifiée à partir d'un organisme existant, une première rapportée le 1er juillet. Cette avancée de biologie synthétique franchit une étape clé vers la compréhension des propriétés minimales nécessaires à la vie cellulaire, avec des implications potentielles pour la recherche biomédicale et la bio-ingénierie.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
+      "short_title": "Muscu 90min: sweet spot",
+      "title": "90 à 120 minutes de muscu par semaine, le point optimal pour la longévité",
+      "summary": "Une étude Harvard ayant suivi 147 000 adultes pendant 30 ans montre que 90 à 119 minutes de renforcement musculaire hebdomadaire réduisent la mortalité toutes causes de 13%, la mortalité cardiovasculaire de 19% et la mortalité neurologique de 27%. Au-delà de ce volume, le bénéfice supplémentaire est marginal; combiner muscu et cardio amplifie l'effet.",
+      "source": "Outside",
+      "url": "https://www.outsideonline.com/health/training-performance/strength-training-minutes-longevity/"
     },
     {
       "id": "n13",
-      "theme": "learn",
-      "subtopic": "metacognition",
-      "importance": 2,
-      "short_title": "IA: perte de compétences",
-      "title": "Délestage cognitif : l'usage de l'IA fragilise l'apprentissage de compétences",
-      "summary": "Une synthèse de travaux récents en psychologie cognitive distingue deux profils face à l'IA : les adultes qui délèguent des tâches déjà maîtrisées réalisent un arbitrage effort/efficacité sans perte réelle, tandis que les 17-25 ans délèguent des tâches qu'ils n'ont jamais apprises, empêchant la formation initiale de la compétence. Ce paradoxe de performance, où l'IA améliore le résultat immédiat tout en réduisant l'apprentissage durable, questionne directement l'usage professionnel intensif d'agents de plus en plus capables.",
-      "source": "APA Monitor",
-      "url": "https://www.apa.org/monitor/2026/07-08/ai-job-skills-thinking"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Vieillir peut améliorer",
+      "title": "Une étude Yale nuance l'idée que vieillir rime avec déclin",
+      "summary": "En croisant plus d'une décennie de données de la Health and Retirement Study, des chercheurs de Yale montrent que près de la moitié des Américains de 65 ans et plus s'améliorent sur le plan cognitif ou physique au fil du temps. Avoir une perception positive du vieillissement au départ est le facteur le plus associé à ces progrès, indépendamment de l'âge, du niveau d'études ou des maladies chroniques.",
+      "source": "Yale School of Public Health",
+      "url": "https://ysph.yale.edu/news-article/yale-study-challenges-notion-that-aging-means-decline-finds-many-older-adults-improve-over-time/"
     },
     {
       "id": "n14",
       "theme": "climat",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "EDF réduit le nucléaire",
-      "title": "La canicule contraint EDF à réduire sa production nucléaire",
-      "summary": "EDF a réduit la production de plusieurs réacteurs, dont celui de Golfech, en raison de la hausse des températures des rivières provoquée par la canicule record de fin juin, retirant environ 4 GW de capacité, soit 6% du parc nucléaire français. Les contrats d'électricité française pour juillet ont bondi de 27% à 81 euros le MWh, plus haut niveau depuis janvier, la baisse de production nucléaire se combinant à une demande de climatisation record et une production éolienne faible.",
-      "source": "Montel News",
-      "url": "https://montelnews.com/news/71fed808-f624-4bc4-8b9b-b4db6a863f70/43c-heat-cuts-6-of-french-nuclear-capacity-more-curbs-possible"
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Allemagne: 58% ENR",
+      "title": "Les renouvelables couvrent 58% de l'électricité allemande au 1er semestre",
+      "summary": "Selon les instituts ZSW et BDEW, les énergies renouvelables ont fourni un record de 58% de la consommation électrique allemande entre janvier et juin 2026, contre 55,8% un an plus tôt. L'éolien offshore (+28%) et le solaire (+8,3 GW installés) portent l'essentiel de la croissance, sur la trajectoire de l'objectif de 80% en 2030.",
+      "source": "Clean Energy Wire",
+      "url": "https://www.cleanenergywire.org/news/renewables-covered-record-58-german-electricity-consumption-first-half-2026"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Peptides sans preuves",
-      "title": "La mode des peptides de bien-être devance largement la science",
-      "summary": "L'engouement pour des peptides injectables comme le BPC-157, le MOTS-c ou le TB-500, vendus « à usage de recherche uniquement » et non homologués pour l'humain, explose sur les réseaux sociaux : les recherches Google sont passées de 1,3 à 8 millions par mois entre 2024 et 2026. Des médecins urgentistes alertent sur un marché totalement non régulé, avec des risques documentés de réactions immunitaires et de stimulation de cellules cancéreuses, à distinguer des peptides thérapeutiques approuvés comme les GLP-1.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01816-x"
+      "theme": "climat",
+      "subtopic": "regulation",
+      "importance": 1,
+      "short_title": "Réforme ETS UE retardée",
+      "title": "Bruxelles reporte de deux jours sa réforme du marché carbone",
+      "summary": "La Commission européenne a confirmé le report au 17 juillet de la présentation de sa révision de l'EU ETS, qui doit inclure l'allocation gratuite de quotas et l'intégration d'options de captation carbone permanente. Le marché du carbone européen a réagi avec prudence, sans réaction forte à ce report jugé mineur.",
+      "source": "Carbon Pulse",
+      "url": "https://carbon-pulse.com/527884/"
     },
     {
       "id": "n16",
-      "theme": "sante",
-      "subtopic": "sport",
+      "theme": "sciences",
+      "subtopic": "biologie",
+      "importance": 3,
+      "short_title": "1re cellule synthétique",
+      "title": "Première cellule synthétique capable de croître et de se diviser",
+      "summary": "L'équipe de Kate Adamala à l'Université du Minnesota a assemblé à partir de composants chimiques non-vivants une cellule synthétique - surnommée SpudCell - capable de répliquer son ADN et de se diviser, une étape considérée comme la plus importante du domaine ces dernières années. La cellule n'est pas vivante au sens strict: elle reste dépendante d'apports externes en nutriments et en machinerie de traduction pour fonctionner.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
+    },
+    {
+      "id": "n17",
+      "theme": "sciences",
+      "subtopic": "astrophysique",
       "importance": 1,
-      "short_title": "Kettlebell: bénéfices",
-      "title": "Le kettlebell confirmé comme outil d'entraînement complet",
-      "summary": "Une revue de littérature consolide les preuves selon lesquelles l'entraînement au kettlebell améliore simultanément la force maximale, la puissance explosive, le VO2max, l'équilibre dynamique et le gainage, avec un format compact adapté à une pratique régulière. Ces bénéfices multi-systèmes en font un outil pertinent pour l'entretien de la force fonctionnelle à 40 ans et au-delà, en complément du travail au poids du corps.",
-      "source": "PMC / NIH",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10910645/"
+      "short_title": "Trous noirs primordiaux",
+      "title": "Le télescope Webb multiplie les énigmes sur les trous noirs primordiaux",
+      "summary": "Les centaines de \"petits points rouges\" détectés par James Webb, apparus dès 650 millions d'années après le Big Bang, continuent de défier les modèles: certains semblent être des trous noirs supermassifs nus, sans étoiles autour, quand d'autres pourraient être des cocons de gaz émettant comme une atmosphère stellaire. Plusieurs théories concurrentes s'affrontent, de la croissance ultra-rapide par accrétion à un effondrement direct de matière dense de l'univers primordial.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+    },
+    {
+      "id": "n18",
+      "theme": "learn",
+      "subtopic": "llm_agents",
+      "importance": 2,
+      "short_title": "IA et paresse cognitive",
+      "title": "La \"paresse métacognitive\" inquiète les chercheurs en éducation",
+      "summary": "Plusieurs études documentent comment l'usage intensif de chatbots comme ChatGPT permet d'améliorer la qualité immédiate d'un texte sans réel gain d'apprentissage, les étudiants déléguant à l'IA les tâches de suivi et d'évaluation de leur propre compréhension. Des districts scolaires américains, dont l'Ohio sous mandat dès juillet 2026, formalisent des politiques d'usage encadré pour limiter ce risque de dépendance cognitive.",
+      "source": "KQED Mindshift",
+      "url": "https://www.kqed.org/mindshift/65511/university-students-offload-critical-thinking-other-hard-work-to-ai"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
+      "target": "n05",
       "type": "cause",
-      "explanation": "Les progrès des pourparlers de Doha et la reprise des flux via Ormuz (>10 Mb/j) ont directement permis l'effondrement du Brent sous 69$, les marchés anticipant un excédent d'offre durable."
+      "explanation": "Les progrès rapportés à Doha réduisent la prime de risque sur l'approvisionnement énergétique via le détroit d'Ormuz, ce qui explique le repli du pétrole et soutient la hausse des indices actions."
     },
     {
-      "source": "n08",
-      "target": "n09",
-      "type": "cause",
-      "explanation": "Le lancement de Meta Compute transforme l'un des plus gros clients de CoreWeave et Nebius en concurrent direct, menaçant leurs contrats pluriannuels de 21 et 27 milliards de dollars et provoquant la chute de leurs actions."
-    },
-    {
-      "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Le ralentissement de l'emploi privé mesuré par ADP alimente le débat sur la trajectoire des taux, sur laquelle Warsh a refusé de s'engager publiquement à Sintra tout en défendant l'indépendance de la Fed."
+      "source": "n02",
+      "target": "n03",
+      "type": "tension",
+      "explanation": "Les frappes russes sur Kyiv et les frappes ukrainiennes en profondeur sur les raffineries russes s'inscrivent dans une escalade réciproque: chaque camp cherche à frapper l'arrière de l'autre, l'un sur les civils, l'autre sur les capacités énergétiques."
     },
     {
       "source": "n04",
       "target": "n05",
-      "type": "tension",
-      "explanation": "Warsh défend une Fed indépendante et prudente sur les taux face à Trump, tandis que Lagarde reconnaît le retard structurel de l'Europe en IA : deux postures qui illustrent une fracture transatlantique sur la souveraineté monétaire et technologique."
-    },
-    {
-      "source": "n07",
-      "target": "n05",
       "type": "cause",
-      "explanation": "La rapidité avec laquelle Washington accorde puis retire l'accès à ses modèles frontier illustre le levier réglementaire dont disposent les États-Unis sur l'IA mondiale, un facteur de dépendance que Lagarde évoque explicitement pour l'Europe."
+      "explanation": "Le chiffre de l'emploi plus faible que prévu renforce les anticipations de statu quo de la Fed, un facteur qui, combiné au recul du pétrole, a contribué au nouveau record du Dow Jones."
     },
     {
-      "source": "n07",
-      "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "Le même jour où Anthropic restaure l'accès mondial à ses modèles les plus puissants, Meta bouleverse le marché du cloud IA : deux mouvements distincts qui accélèrent la consolidation du secteur IA américain."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "À un jour d'intervalle, un benchmark IA dédié à la biologie et la première cellule synthétique fonctionnelle illustrent la convergence croissante entre IA générative et biologie de synthèse comme nouvelle frontière scientifique."
-    },
-    {
-      "source": "n13",
-      "target": "n07",
+      "source": "n05",
+      "target": "n06",
       "type": "tension",
-      "explanation": "Alors qu'Anthropic élargit l'accès à des modèles toujours plus capables, les études en psychologie cognitive questionnent le bénéfice net de cette adoption accélérée sur la formation durable des compétences, notamment chez les plus jeunes utilisateurs."
+      "explanation": "Le même jour où le Dow Jones battait un record, Tesla et les semi-conducteurs plongeaient, signe d'une rotation sectorielle qui contredit la lecture univoque d'un marché euphorique."
+    },
+    {
+      "source": "n04",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "Emploi en berne et cadre de capital bancaire assoupli dessinent ensemble une politique économique américaine désormais orientée vers le soutien à la croissance plutôt que vers la rigueur prudentielle."
     },
     {
       "source": "n09",
+      "target": "n08",
+      "type": "tension",
+      "explanation": "Washington restreint drastiquement l'accès à GPT-5.6 pour risque cyber tout en levant, la même semaine, l'interdiction d'exporter Claude Fable 5 une fois ses garde-fous renforcés: deux traitements différents d'un même levier de contrôle gouvernemental sur les modèles frontière."
+    },
+    {
+      "source": "n08",
       "target": "n10",
       "type": "cause",
-      "explanation": "L'effondrement de CoreWeave et Nebius s'ajoute au décrochage déjà marqué des Magnificent Seven en juin (-9%), fragilisant la dynamique haussière du S&P 500 entamée au premier semestre."
-    },
-    {
-      "source": "n15",
-      "target": "n16",
-      "type": "tension",
-      "explanation": "Les deux sujets illustrent un même écart : d'un côté des peptides de bien-être non homologués portés par le marketing et les réseaux sociaux, de l'autre un outil d'entraînement dont les bénéfices reposent sur une littérature scientifique consolidée."
-    },
-    {
-      "source": "n06",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "La fragmentation politique attendue lors des élections 2026 dans huit pays de l'UE et le retard reconnu par Lagarde en investissement IA dessinent une même difficulté européenne à peser collectivement face aux États-Unis."
+      "explanation": "L'essor de l'usage de modèles comme Claude au sein des agents de codage alourdit la facture d'API des éditeurs d'outils, ce qui pousse Cursor à séparer les pools d'usage et à créer un siège Premium pour les gros consommateurs."
     },
     {
       "source": "n10",
-      "target": "n04",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Les deux nouvelles illustrent le même mouvement de fond: la pile d'outils de codage assisté par IA se recompose autour de l'usage et du coût des modèles frontière plutôt que des éditeurs eux-mêmes."
+    },
+    {
+      "source": "n09",
+      "target": "n18",
       "type": "tension",
-      "explanation": "La faiblesse de l'emploi privé et le repli des mégacapitalisations technologiques testent la capacité de Warsh à maintenir une politique monétaire ferme sans fragiliser davantage la dynamique de marché."
+      "explanation": "Alors que les labs repoussent les limites de capacité au point de franchir des seuils de risque cyber \"élevé\", les chercheurs en éducation alertent sur le revers de cette puissance croissante: plus les modèles deviennent capables, plus la tentation de leur déléguer sa réflexion grandit."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Les deux études abordent le vieillissement en bonne santé sous deux angles complémentaires: l'une identifie la dose d'exercice optimale, l'autre le rôle des croyances sur le vieillissement dans les trajectoires réelles de santé."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "tension",
+      "explanation": "Le déploiement organique des renouvelables allemandes avance plus vite que le cadre réglementaire européen du marché carbone, dont la réforme prend du retard - un décalage entre le terrain et la politique climatique commune."
     }
   ]
 }

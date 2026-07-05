@@ -1,243 +1,238 @@
 {
-  "generated_at": "2026-07-04T09:00:00Z",
+  "generated_at": "2026-07-05T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "europe",
       "importance": 3,
-      "short_title": "Obseques de Khamenei",
-      "title": "Obsèques d'État pour Ali Khamenei, tué en février",
-      "summary": "Quatre mois après avoir été tué dans une frappe israélienne le premier jour de la guerre américano-israélienne contre l'Iran, l'ex-guide suprême Ali Khamenei est honoré par des funérailles nationales étalées sur une semaine, cinq villes d'Iran et d'Irak, avec jusqu'à 20 millions de personnes attendues. Téhéran orchestre la cérémonie comme un message de défi envers Washington, tandis que les pourparlers de paix engagés à Doha sont suspendus le temps du deuil.",
-      "source": "CNN",
-      "url": "https://us.cnn.com/2026/07/03/middleeast/iran-leader-funeral-trump-intl"
+      "short_title": "Sommet OTAN Ankara",
+      "title": "L'OTAN prépare son sommet d'Ankara sous le signe du réarmement",
+      "summary": "Les 32 alliés se retrouvent les 7 et 8 juillet à Ankara pour réaffirmer leur engagement envers l'article 5 et annoncer un paquet d'environ 70 milliards d'euros de soutien annuel à l'Ukraine, financé pour moitié par un prêt européen et pour moitié par des engagements bilatéraux. Les dépenses de défense des alliés européens et du Canada ont bondi de 20% sur un an, portant l'effort collectif à son plus haut niveau depuis la création de l'Alliance.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/07/03/nato-to-reaffirm-iron-clad-commitment-to-article-5-at-ankara-summit"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "europe",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Sumy: frappe meurtriere",
-      "title": "Une frappe russe sur Soumy fait au moins quatre morts",
-      "summary": "Une attaque combinée de bombes planantes et de drones russes a visé la région de Soumy, tuant au moins quatre civils dont un tout-petit et sa mère, et blessant une vingtaine de personnes. Volodymyr Zelensky a immédiatement réclamé un tour de vis supplémentaire des sanctions occidentales contre Moscou.",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/79557"
+      "short_title": "Ormuz: reouverture lente",
+      "title": "La réouverture du détroit d'Ormuz s'annonce plus longue que prévu",
+      "summary": "Malgré l'accord initial signé mi-juin entre Washington et Téhéran pour prolonger le cessez-le-feu et rouvrir le détroit d'Ormuz, les difficultés persistent et la compagnie pétrolière publique émiratie estime qu'un retour à un trafic maritime normal n'interviendra pas avant 2027. Le blocage quasi total imposé par l'Iran depuis fin février continue ainsi de peser sur l'approvisionnement mondial en brut, même si les exportations iraniennes redémarrent progressivement.",
+      "source": "PBS News",
+      "url": "https://www.pbs.org/newshour/amp/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Raffinerie russe visee",
-      "title": "La 4e raffinerie russe stoppée par un drone ukrainien",
-      "summary": "Un drone ukrainien a endommagé l'unité de distillation principale de la raffinerie Lukoil de Kstovo, la quatrième de Russie par la taille et son deuxième plus gros producteur d'essence, la forçant à suspendre son traitement de brut. C'est la deuxième frappe en dix jours sur ce site, dans le cadre de la campagne ukrainienne visant les capacités pétrolières russes.",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/major-russian-oil-refinery-suspends-operations-again-after-ukrainian-drone-strike/"
+      "subtopic": "soudan",
+      "importance": 3,
+      "short_title": "Siege d'El-Obeid",
+      "title": "L'ONU redoute un massacre de masse à El-Obeid au Soudan",
+      "summary": "Les forces paramilitaires du RSF resserrent leur siège autour d'El-Obeid, capitale du Kordofan-Nord, où environ 500 000 civils sont pris au piège sous des frappes de drones qui coupent l'accès à l'eau, à la nourriture et aux hôpitaux. Le Conseil des droits de l'homme de l'ONU tient un débat d'urgence, craignant une répétition du scénario d'El-Fasher où l'encerclement avait précédé des exactions de masse.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "L'or proche de 4200$",
-      "title": "L'or s'approche des 4200 dollars l'once",
-      "summary": "L'once d'or se rapproche de 4200 dollars, portée par un dollar en passe de connaître sa plus forte baisse hebdomadaire depuis avril, dans le sillage d'un rapport sur l'emploi américain de juin plus faible qu'attendu. Les cambistes réduisent leurs anticipations de resserrement monétaire de la Fed, un contexte macro qui profite mécaniquement au métal précieux.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-2-2026-prices-break-above-4100-following-a-disappointing-june-jobs-report-120224733.html"
+      "subtopic": "france",
+      "importance": 3,
+      "short_title": "PIB France en berne",
+      "title": "La croissance française cale au premier trimestre",
+      "summary": "L'Insee confirme un repli du PIB français de 0,1% au premier trimestre 2026, la Direction générale du Trésor pointant un choc énergétique lié aux tensions au Moyen-Orient conjugué à une dégradation marquée du pouvoir d'achat des ménages. L'Institut limite désormais sa prévision de croissance à 0,7% pour l'ensemble de 2026, contre 0,9% en 2025.",
+      "source": "Insee",
+      "url": "https://www.insee.fr/fr/statistiques/8999175"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Petrole: Ormuz rassure",
-      "title": "Le Brent recule alors que le trafic reprend dans le détroit d'Ormuz",
-      "summary": "Le Brent est retombé vers ses plus bas niveaux depuis fin février, porté par la reprise du trafic maritime dans le détroit d'Ormuz et par les avancées rapportées des discussions Iran-USA engagées à Doha. Les analystes évoquent aussi une offre abondante, entre exportations iraniennes en hausse et production soutenue de l'OPEP+, qui pèse sur les prix à court terme.",
-      "source": "Capital.com",
-      "url": "https://capital.com/en-int/market-updates/oil-price-forecast-30-06-2026"
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Warsh: inflation haute",
+      "title": "Le nouveau patron de la Fed juge les prix toujours trop élevés",
+      "summary": "Lors du forum annuel de la BCE à Sintra, Kevin Warsh a estimé que l'inflation restait trop élevée malgré des anticipations en baisse, tout en se disant, comme ses homologues, de plus en plus ouvert à l'idée que l'IA agentique puisse avoir un effet désinflationniste via des gains de productivité. Il partageait la tribune avec Christine Lagarde, Andrew Bailey et Tiff Macklem pour débattre de l'impact de l'IA sur la stabilité financière.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "Medef: 50 mesures",
-      "title": "Le Medef propose une cinquantaine de mesures pour les finances publiques",
-      "summary": "Le Medef a présenté une cinquantaine de mesures pour redresser les finances publiques françaises, visant une économie de 100 milliards d'euros d'ici 2030. Le patronat propose de faire porter la moitié de l'effort sur les fonctionnaires et les retraités, en échange d'une baisse des cotisations sociales compensée par une hausse de la TVA.",
-      "source": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/deficit-public-retraites-tva-fonctionnaires-le-medef-propose-une-cinquantaine-de-mesures-pour-assainir-les-finances-publiques-453b733791332541481b17658f024b71"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Fable/Mythos reviennent",
+      "title": "Washington lève ses restrictions sur les modèles Fable et Mythos d'Anthropic",
+      "summary": "Le Département du Commerce américain a levé les contrôles à l'export imposés il y a 18 jours sur Claude Fable 5 et Mythos 5, une restriction inédite qui bloquait tout accès étranger, y compris pour les employés d'Anthropic. L'entreprise redéploie les deux modèles dans le monde entier dès le 1er juillet après s'être engagée à détecter et corriger proactivement les risques de sécurité et à informer le gouvernement de toute activité malveillante détectée.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "france",
-      "importance": 1,
-      "short_title": "L'OCDE presse Paris",
-      "title": "L'OCDE presse la France d'accélérer l'assainissement budgétaire",
-      "summary": "L'OCDE a exhorté la France à accélérer la réduction de son déficit public, jugeant le rythme actuel insuffisant face à l'accumulation de la dette. L'organisation appelle à des réformes structurelles plutôt qu'à des ajustements ponctuels, un message qui fait écho aux propositions patronales de la même semaine.",
-      "source": "Echos Plus",
-      "url": "https://echosplus.com/2026/07/01/locde-exhorte-la-france-a-accelerer-lassainissement-de-ses-finances-publiques/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Echelle jailbreak IA",
+      "title": "Anthropic propose une échelle commune de sévérité des jailbreaks",
+      "summary": "Avec Amazon, Microsoft et Google réunis au sein du Projet Glasswing, Anthropic propose une échelle en cinq niveaux, de CJS-0 à CJS-4, pour qualifier la gravité d'un contournement de sécurité selon le gain de capacité qu'il procure, sa facilité de mise en arme et sa diffusion. L'objectif est de donner aux laboratoires et aux gouvernements un langage commun pour réagir aux jailbreaks les plus critiques, notamment ceux visant des infrastructures sensibles.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "BCE simplifie ses guides",
-      "title": "La BCE clarifie son guide des modèles internes",
-      "summary": "La BCE a publié une version simplifiée de son guide des modèles internes destiné aux banques qu'elle supervise, retirant les passages sur le facteur de conversion de crédit en attendant les lignes directrices à venir de l'EBA. D'autres guides prudentiels doivent suivre d'ici fin 2026, alors que les régulateurs américains assouplissent en parallèle leur propre cadre Bâle III.",
-      "source": "ECB Banking Supervision",
-      "url": "https://www.bankingsupervision.europa.eu/press/pr/date/2026/html/ssm.pr260626~57c6ccd373.en.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Sonnet 5 arrive",
+      "title": "Anthropic fait de Claude Sonnet 5 son modèle par défaut",
+      "summary": "Anthropic a mis en ligne Claude Sonnet 5 le 30 juin, désormais modèle par défaut pour les utilisateurs gratuits et Pro, avec une fenêtre de contexte native d'un million de tokens et des capacités agentiques inédites pour un modèle de cette gamme. Le tarif de lancement, deux fois moins cher que le tarif définitif prévu après le 31 août, vise à accélérer l'adoption face à la concurrence de GPT-5.6 et Gemini.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Claude Science debarque",
-      "title": "Anthropic lance Claude Science",
-      "summary": "Anthropic a dévoilé Claude Science, une déclinaison de son modèle optimisée pour les laboratoires de recherche et l'industrie pharmaceutique, et annonce se doter de ses propres programmes internes de découverte de médicaments. Le mouvement marque une diversification claire au-delà du codage et de l'assistance bureautique vers la recherche scientifique appliquée.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/"
+      "importance": 3,
+      "short_title": "GPT-5.6 acces restreint",
+      "title": "OpenAI dévoile GPT-5.6 mais en restreint l'accès sous supervision de Washington",
+      "summary": "OpenAI a présenté sa nouvelle famille de modèles GPT-5.6 (Sol, Terra, Luna) mais n'y donne accès qu'à une vingtaine de partenaires triés sur le volet, après avoir partagé ses plans de déploiement avec le gouvernement américain à sa demande. C'est la première fois qu'un lancement de modèle frontière d'OpenAI est ainsi conditionné à un feu vert implicite de Washington, un parallèle direct avec l'épisode Fable/Mythos vécu par Anthropic quelques jours plus tôt.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "OpenAI vise la bio",
-      "title": "OpenAI teste ses agents sur la biologie computationnelle",
-      "summary": "OpenAI a lancé GeneBench-Pro, un benchmark de recherche évaluant la capacité d'agents IA à naviguer dans des données biologiques bruitées et à faire des choix méthodologiques dignes d'un chercheur. Les meilleurs modèles, dont Sol d'OpenAI, plafonnent autour de 30% de réussite, loin des standards attendus pour remplacer un travail d'expert estimé à plusieurs dizaines d'heures.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-genebench-pro/"
+      "subtopic": "mlops",
+      "importance": 2,
+      "short_title": "Claude sur Azure/GB300",
+      "title": "Claude atteint la disponibilité générale sur Azure Foundry",
+      "summary": "Les modèles Claude Opus 4.8 et Haiku 4 sont désormais généralement disponibles sur Microsoft Azure Foundry, tournant sur les GPU NVIDIA GB300 Blackwell Ultra reliés par un réseau Quantum-X800 InfiniBand. Les premiers testeurs rapportent une latence jusqu'à 40% inférieure aux déploiements cloud classiques, un argument clé pour les entreprises qui veulent faire tourner des agents autonomes à grande échelle.",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "GPT-5.6 sur Cerebras",
-      "title": "GPT-5.6 Sol débarque sur l'infrastructure Cerebras",
-      "summary": "OpenAI prévoit de déployer GPT-5.6 Sol sur les puces Cerebras en juillet, avec une vitesse d'inférence promise jusqu'à 750 tokens par seconde, très supérieure aux 40-120 tokens/s habituels sur GPU. L'accès reste toutefois limité à une poignée de clients sélectionnés, le temps que la capacité de production s'étende.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
+      "short_title": "Vercel Ship: agents IA",
+      "title": "Vercel dévoile une pile complète pour déployer des agents en production",
+      "summary": "Lors de sa conférence Ship 2026, Vercel a lancé Vercel Services pour regrouper frontend, backend et déploiement dans un seul projet, ainsi qu'un Agent Stack incluant un framework open source, un Sandbox en microVM isolée par agent et des connecteurs sécurisés vers outils et données. L'ensemble cible directement les équipes qui veulent faire passer leurs prototypes d'agents IA du stade de démo à celui de production gouvernée.",
+      "source": "Vercel",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "design",
-      "importance": 2,
-      "short_title": "Figma: Code Layers",
-      "title": "Figma lance les Code Layers et un outil de motion",
-      "summary": "Lors de sa conférence Config 2026, Figma a présenté les Code Layers, qui transforment un calque de design en composant de code interactif en un clic ou via un prompt, ainsi qu'un outil de motion design intégré et un agent Figma amélioré. L'accès anticipé aux Code Layers doit s'ouvrir en juillet, confirmant la fusion croissante entre outils de design et agents de codage IA.",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/config-2026-recap/"
+      "theme": "sciences",
+      "subtopic": "biologie",
+      "importance": 3,
+      "short_title": "1ere cellule vivante",
+      "title": "Une cellule construite de toutes pièces grandit et se divise",
+      "summary": "Kate Adamala et son équipe de l'Université du Minnesota ont assemblé des composants non vivants à l'intérieur de vésicules lipidiques et observé, pour la première fois, cette cellule synthétique croître, répliquer son ADN et se diviser en deux. Encore incapable de survivre sans apports constants de nutriments et de ribosomes fournis de l'extérieur, cette preuve de concept ouvre la voie à des cellules programmables pour produire biocarburants ou médicaments.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sciences",
+      "subtopic": "astrophysique",
       "importance": 2,
-      "short_title": "Mistral vise l'usine",
-      "title": "Mistral s'attaque à l'ingénierie industrielle",
-      "summary": "Lors de son AI Now Summit, Mistral a dévoilé une nouvelle pile logicielle pour l'ingénierie industrielle en partenariat avec Airbus, BMW et ASML, destinée à optimiser conception, simulation et production. L'entreprise française a aussi confirmé la construction d'un centre de données de 10 mégawatts aux Ulis, prévu pour le troisième trimestre 2026, afin de sécuriser sa capacité de calcul.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/ai-now-summit-2026/"
+      "short_title": "JWST brouille l'univers",
+      "title": "James Webb multiplie les énigmes sur l'univers primitif",
+      "summary": "Les observations du télescope James Webb continuent de révéler des trous noirs supermassifs et des galaxies trop matures pour leur âge dans le premier milliard d'années après le Big Bang, forçant les astrophysiciens à multiplier les théories concurrentes. Les mystérieux petits points rouges détectés en grand nombre depuis 2022 restent l'une des énigmes les plus commentées de la cosmologie actuelle.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "biologie",
+      "theme": "sante",
+      "subtopic": "musculation",
       "importance": 2,
-      "short_title": "Alzheimer: neurones",
-      "title": "Des neurones immatures pourraient expliquer la résistance à Alzheimer",
-      "summary": "Des chercheurs néerlandais ont montré que, chez les personnes qui restent cognitivement préservées malgré une pathologie d'Alzheimer avancée, certains neurones immatures de l'hippocampe activent des programmes de survie face aux dégâts plutôt que de dépérir, avec moins de signaux d'inflammation. Cette piste de résilience cérébrale, distincte de l'élimination des plaques amyloïdes, ouvre une nouvelle direction thérapeutique.",
+      "short_title": "Muscu: dose optimale",
+      "title": "Une étude sur 30 ans identifie le dosage optimal de musculation",
+      "summary": "En suivant 147 374 personnes pendant trois décennies, des chercheurs de Harvard montrent que 90 à 120 minutes de renforcement musculaire par semaine réduisent la mortalité toutes causes de 13%, la mortalité cardiovasculaire de 19% et la mortalité neurologique de 27%, sans bénéfice supplémentaire au-delà. Combiner cette dose avec de l'endurance (marche, course, natation) abaisse le risque de mortalité jusqu'à 45% par rapport à l'inactivité totale.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "physique",
-      "importance": 1,
-      "short_title": "Temps quantique inverse",
-      "title": "Des physiciens font apparemment reculer le temps quantique",
-      "summary": "Une équipe du Los Alamos National Laboratory a mis au point des protocoles de contrôle quantique qui, en combinant mesures, rétroaction et champs de contrôle, peuvent supprimer ou inverser la flèche du temps apparente d'un système quantique. La prouesse, publiée dans Physical Review X, ouvre des pistes pour la correction d'erreurs et les batteries quantiques plutôt qu'un véritable voyage dans le temps.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm"
-    },
-    {
-      "id": "n16",
       "theme": "climat",
-      "subtopic": "geoingenierie",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Blanchir les nuages",
-      "title": "La géo-ingénierie marine pourrait compenser le réchauffement... à un prix",
-      "summary": "Des simulations montrent qu'injecter des aérosols de sel marin dans les nuages bas du Pacifique pourrait compenser le réchauffement lié à la baisse de la pollution atmosphérique et maintenir les températures proches de leur niveau de 2020. Mais les chercheurs soulignent que cette technique modifierait aussi les régimes de précipitations régionaux, avec des effets très inégaux selon les zones du globe.",
-      "source": "Nature Communications Earth & Environment",
-      "url": "https://www.nature.com/articles/s43247-026-03304-6"
+      "short_title": "UE: retrait carbone",
+      "title": "L'UE prépare l'intégration du retrait carbone dans son objectif 2040",
+      "summary": "Après avoir gravé dans la loi son objectif de réduction de 90% des émissions d'ici 2040, dont jusqu'à cinq points via des crédits carbone internationaux, l'UE doit publier en juillet les résultats de sa consultation sur l'intégration des retraits permanents de gaz à effet de serre. Une révision du marché carbone européen (ETS) est attendue en parallèle pour couvrir les secteurs industriels les plus difficiles à décarboner.",
+      "source": "Commission européenne",
+      "url": "https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2040-climate-target_en"
     }
   ],
   "edges": [
     {
+      "source": "n02",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Le blocage prolongé du détroit d'Ormuz est explicitement cité par le Trésor comme le choc énergétique qui explique en partie le repli du PIB français au premier trimestre."
+    },
+    {
       "source": "n01",
       "target": "n05",
-      "type": "tension",
-      "explanation": "La suspension des pourparlers de Doha pendant la semaine de deuil funéraire fait planer un risque de reprise des tensions sur le détroit d'Ormuz, qui pourrait interrompre la détente actuellement observée sur les prix du pétrole."
+      "type": "cause",
+      "explanation": "L'explosion des budgets de défense annoncée à l'OTAN ajoute une pression budgétaire et potentiellement inflationniste que les banquiers centraux réunis à Sintra doivent désormais intégrer dans leur lecture de prix jugés encore trop élevés."
     },
     {
       "source": "n05",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Le repli du pétrole limite les pressions inflationnistes et conforte les paris sur une Fed patiente, un cocktail macro qui, combiné à l'affaiblissement du dollar, alimente la hausse de l'or."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
+      "target": "n08",
       "type": "tension",
-      "explanation": "Les deux frappes illustrent l'escalade réciproque de la guerre: la Russie vise des zones civiles ukrainiennes pendant que Kyiv frappe en profondeur les capacités pétrolières russes."
+      "explanation": "Warsh évoque l'ouverture d'esprit des banquiers centraux sur le potentiel désinflationniste de l'IA agentique au moment même où Anthropic lance un modèle conçu pour automatiser des tâches économiques entières, un test grandeur nature de cette thèse encore spéculative."
     },
     {
-      "source": "n03",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Les frappes ukrainiennes sur les raffineries russes et la reprise du trafic dans le détroit d'Ormuz tirent le marché pétrolier dans des directions opposées, montrant à quel point l'offre mondiale reste otage de deux conflits distincts."
+      "source": "n07",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "C'est en s'engageant à déployer ce nouveau classifieur anti-jailbreak et à codévelopper une échelle de sévérité avec Washington qu'Anthropic a obtenu la levée des contrôles à l'export sur Fable 5 et Mythos 5."
     },
     {
       "source": "n06",
-      "target": "n07",
+      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Le patronat français et l'OCDE convergent la même semaine pour presser Paris d'accélérer le redressement de ses finances publiques, chacun avec sa propre feuille de route."
+      "explanation": "Les deux épisodes illustrent la même dynamique naissante: le gouvernement américain s'insère désormais directement dans les décisions de déploiement des modèles frontières d'Anthropic et d'OpenAI, invoquant la sécurité nationale."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Anthropic et OpenAI se positionnent la même semaine sur la biologie computationnelle comme nouveau terrain de compétition, au-delà du codage et de l'assistance générale."
+      "source": "n08",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Les deux laboratoires dégainent la même semaine leur nouvelle génération de modèles agentiques, chacun cherchant à imposer son rapport prix/performance comme référence du marché."
     },
     {
-      "source": "n11",
+      "source": "n08",
       "target": "n10",
       "type": "cause",
-      "explanation": "L'infrastructure d'inférence ultra-rapide de Cerebras vise justement les usages agentiques longs et itératifs, comme ceux qu'exige un benchmark de raisonnement scientifique tel que GeneBench-Pro."
+      "explanation": "La disponibilité générale de Claude sur l'infrastructure GB300 Blackwell Ultra d'Azure vise à absorber la charge de calcul supplémentaire qu'exigent les usages agentiques intensifs popularisés par Sonnet 5."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Les deux annonces, la même semaine, illustrent la course à l'infrastructure agentique: capacité de calcul dédiée côté Anthropic/Microsoft, outils de déploiement et sandboxing côté Vercel."
+    },
+    {
+      "source": "n03",
+      "target": "n01",
+      "type": "tension",
+      "explanation": "Alors que l'attention diplomatique occidentale et les milliards de l'OTAN se concentrent sur l'Ukraine, l'ONU peine à mobiliser une réponse comparable face au risque de massacre de masse à El-Obeid, révélant une hiérarchisation très inégale des crises."
     },
     {
       "source": "n12",
       "target": "n13",
       "type": "meme_sujet",
-      "explanation": "Figma et Mistral illustrent, chacun dans son domaine, l'intégration croissante d'agents IA dans les outils professionnels: la conception d'interfaces d'un côté, l'ingénierie industrielle de l'autre."
+      "explanation": "Les deux découvertes, publiées à un jour d'intervalle, illustrent la vitalité de la recherche fondamentale la même semaine, entre biologie synthétique et cosmologie observationnelle."
     },
     {
-      "source": "n13",
-      "target": "n16",
+      "source": "n15",
+      "target": "n04",
       "type": "tension",
-      "explanation": "Le nouveau data center IA de Mistral, gourmand en électricité, fait écho au débat sur la géo-ingénierie: dans les deux cas, une intervention à grande échelle promet des bénéfices tout en posant la question de ses effets secondaires mal maîtrisés."
-    },
-    {
-      "source": "n14",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Pendant que la recherche traditionnelle en neurosciences perce une énigme vieille de plusieurs années sur la résilience cérébrale, les laboratoires d'IA promettent d'accélérer ce type de découverte biologique: une comparaison utile entre méthode éprouvée et promesse technologique."
+      "explanation": "Alors que la France peine à contenir son déficit et sa croissance dans un contexte de choc énergétique, l'UE s'apprête à durcir encore l'objectif carbone 2040, ajoutant une contrainte réglementaire supplémentaire pour les secteurs industriels français les plus exposés."
     }
   ]
 }

@@ -1,203 +1,181 @@
 {
-  "generated_at": "2026-07-06T09:00:00Z",
+  "generated_at": "2026-07-07T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Ormuz: reprise rapide",
-      "title": "Le trafic pétrolier reprend plus vite que prévu dans le détroit d'Ormuz",
-      "summary": "Grâce au protocole d'accord signé entre Washington et Téhéran et à des pourparlers indirects au Qatar, le nombre de navires transitant par le détroit est passé de 138 à plus de 258 en une semaine. L'Iran maintient toutefois un avertissement: tout pétrolier qui s'écarterait des routes qu'il a validées s'expose à une «réponse musclée», signe que la normalisation reste fragile.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut"
+      "short_title": "Ormuz: tirs sur navires",
+      "title": "Des gardiens de la révolution iraniens visent des navires commerciaux dans le détroit d'Ormuz",
+      "summary": "Selon des responsables occidentaux, au moins deux missiles ont touché des navires commerciaux dans la nuit, dont un méthanier qatari affrété par Nakilat, provoquant un incendie sans faire de victime. L'incident survient alors que le trafic s'était nettement redressé ces derniers jours et qu'aucune revendication officielle n'a été formulée par Téhéran.",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-says-maritime-agency/"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "OTAN: sommet Ankara",
-      "title": "Le sommet de l'OTAN s'ouvre à Ankara sur fond de tensions internes",
-      "summary": "Les 32 alliés se réunissent les 7 et 8 juillet pour acter la hausse des budgets de défense et le soutien à l'Ukraine, sous la présidence turque, mais aussi pour gérer les critiques répétées de Donald Trump sur la cohésion de l'Alliance. Le forum de l'industrie de défense qui précède le sommet doit acter un effort de production sans précédent depuis la fin de la Guerre froide.",
-      "source": "NATO",
-      "url": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-"
+      "theme": "climat",
+      "subtopic": "canicule",
+      "importance": 3,
+      "short_title": "3e canicule: 42°C",
+      "title": "Une troisième vague de chaleur, plus intense, s'abat sur la France",
+      "summary": "Après le pic historique de fin juin, une nouvelle canicule s'installe dès le 6 juillet avec des pointes annoncées entre 38 et 42°C dans le Sud-Ouest et le pourtour méditerranéen, un maximum attendu vers le 10 juillet. Les prévisionnistes n'anticipent aucune accalmie durable avant la mi-juillet, avec un nouveau pic possible autour du 12-14 juillet.",
+      "source": "Sortiraparis",
+      "url": "https://www.sortiraparis.com/en/news/in-paris/articles/348262-heatwave-the-third-heat-wave-starts-with-temperatures-up-to-38-c-expected-in-paris"
     },
     {
       "id": "n03",
       "theme": "geopol",
       "subtopic": "france",
       "importance": 2,
-      "short_title": "Motion censure: canicule",
-      "title": "La motion de censure des Écologistes sur la gestion de la canicule est examinée",
-      "summary": "Cyrielle Chatelain et 57 députés écologistes et insoumis ont déposé une motion de censure reprochant au gouvernement Lecornu d'avoir réduit les budgets d'adaptation climatique avant une vague de chaleur meurtrière, avec écoles fermées et services publics débordés. Le vote a lieu le 6 juillet à l'Assemblée; il lui faudrait 289 voix pour aboutir, un seuil que les oppositions dispersées ne devraient pas atteindre.",
-      "source": "Euronews",
-      "url": "https://fr.euronews.com/my-europe/2026/07/02/canicule-une-motion-de-censure-deposee-pour-denoncer-limpreparation-du-gouvernement-lecorn"
+      "short_title": "Censure Lecornu rejetée",
+      "title": "L'Assemblée rejette largement la motion de censure écologiste",
+      "summary": "Seuls 132 députés ont voté le texte porté par Cyrielle Chatelain, loin des 289 voix nécessaires pour renverser le gouvernement Lecornu, malgré une gauche divisée puisque 20 des 68 députés socialistes, dont Olivier Faure, ont voté la censure contre la ligne officielle du groupe. Le vote clôt un épisode centré sur la gestion de la canicule de juin, mais Olivier Faure ressort affaibli en interne au PS.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/france/20260706-assembl%C3%A9e-rejette-motion-de-censure-%C3%A9cologiste-d%C3%A9non%C3%A7ant-gestion-canicule-lecornu"
     },
     {
       "id": "n04",
-      "theme": "climat",
-      "subtopic": "canicule",
-      "importance": 3,
-      "short_title": "Feux de foret: sud France",
-      "title": "Une vague de chaleur précoce embrase le sud de la France",
-      "summary": "Sébastien Lecornu a présidé une cellule de crise à Marseille après que près de 7 000 départs de feu et 8 700 hectares brûlés ont été comptabilisés depuis le début de la saison, dont 900 hectares dans l'Aude et l'Hérault en une seule intempérie. Le Premier ministre souligne que ces incendies surviennent deux à trois semaines plus tôt que d'habitude, un décalage qu'il attribue directement au réchauffement climatique.",
-      "source": "Le Soleil",
-      "url": "https://www.lesoleil.com/monde/2026/07/02/des-incendies-de-foret-alimentes-par-la-canicule-ravagent-le-sud-de-la-france-WWH6G4WJNBHMDBC6MUQ22FBQGU/"
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "OTAN: 70Md€ Ukraine",
+      "title": "Le sommet de l'OTAN à Ankara acte 70 milliards d'euros pour l'Ukraine",
+      "summary": "Les 32 alliés, réunis les 7 et 8 juillet, doivent réaffirmer leur engagement «inébranlable» envers la défense collective et qualifier la Russie de menace de long terme, selon le projet de déclaration obtenu par plusieurs médias. Le texte prévoit environ 70 milliards d'euros de soutien militaire à l'Ukraine pour 2026, un niveau au moins équivalent étant promis pour 2027.",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/79692"
     },
     {
       "id": "n05",
       "theme": "geopol",
       "subtopic": "soudan",
-      "importance": 3,
-      "short_title": "Soudan: alerte rouge ONU",
-      "title": "L'ONU sonne l'alerte rouge sur la catastrophe humanitaire d'El-Obeid",
-      "summary": "Le Haut-Commissaire aux droits de l'homme Volker Türk décrit une nouvelle catastrophe des droits humains à El-Obeid, où le siège des FSR a fait grimper le prix de l'eau et de la nourriture de 300%, tandis que des frappes de drones continuent de viser les infrastructures électriques de la ville. Environ 500 000 civils restent piégés, et les organisations humanitaires redoutent un scénario comparable au massacre d'El-Fasher.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid"
+      "importance": 2,
+      "short_title": "Soudan: enquête ONU",
+      "title": "L'ONU ouvre une enquête urgente sur les exactions à El-Obeid",
+      "summary": "Le Conseil des droits de l'homme a décidé le 6 juillet de mandater une enquête sur les violations du droit international commises dans cette ville du Kordofan-Nord, encerclée par les Forces de soutien rapide et privée d'accès humanitaire depuis deux mois. Volker Türk évoque des frappes de drones «incessantes» sur une population d'environ 500 000 habitants, dont 100 000 déplacés.",
+      "source": "ONU Info",
+      "url": "https://news.un.org/fr/story/2026/07/1159099"
     },
     {
       "id": "n06",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Petrole: risque de glut",
-      "title": "Morgan Stanley abaisse ses prévisions de prix du pétrole",
-      "summary": "La banque révise sa cible de Brent pour le troisième trimestre à une fourchette de 65 à 70 dollars, contre 72-78 dollars précédemment, invoquant la conjonction d'une réouverture d'Ormuz plus rapide qu'anticipé, d'une hausse de production de l'OPEP+ et d'une demande chinoise atone. Elle chiffre le risque d'un excédent d'offre pouvant atteindre 1 à 1,5 million de barils par jour au troisième trimestre si l'alliance confirme une nouvelle hausse de quotas.",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Cuts-Brent-Forecast-to-75-a-Barrel.html"
+      "short_title": "Pétrole: risque de choc",
+      "title": "Le pétrole évoluait près de ses plus bas niveaux depuis février avant l'attaque",
+      "summary": "Le baril de Brent est retombé sous 70 dollars ces derniers jours, porté par la reprise du trafic à Ormuz et par la perspective d'une nouvelle hausse des quotas de l'OPEP+, effaçant une bonne partie de la prime de risque accumulée depuis le début du conflit. La frappe de la nuit dernière contre des navires commerciaux menace toutefois de renverser brutalement cette tendance si l'incident se répète.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-07-06-2026/"
     },
     {
       "id": "n07",
       "theme": "finance",
       "subtopic": "usa",
-      "importance": 3,
-      "short_title": "Emploi US: net ralenti",
-      "title": "L'emploi américain ralentit nettement en juin, sous les attentes",
-      "summary": "L'économie américaine n'a créé que 57 000 emplois en juin, contre 115 000 attendus, et les chiffres d'avril et mai ont été révisés en baisse de 74 000 postes au total. Le taux de chômage recule légèrement à 4,2%, mais uniquement parce que des actifs quittent le marché du travail, tandis que les secteurs financier et de l'information, les plus exposés à l'automatisation par l'IA, continuent de détruire environ 25 000 postes par mois.",
+      "importance": 2,
+      "short_title": "Fed: silence avant FOMC",
+      "title": "La Fed de Kevin Warsh cultive le flou avant les minutes du FOMC",
+      "summary": "Le nouveau président de la Réserve fédérale a refusé de donner la moindre indication sur la prochaine décision de taux lors du forum de la BCE, préférant une communication fondée uniquement sur les données économiques plutôt que sur des indications prospectives classiques. Les minutes de la réunion de juin, attendues le 8 juillet, seront scrutées pour évaluer l'ampleur de ce changement de doctrine alors que l'inflation reste jugée «trop élevée».",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Zone euro: chomage record",
-      "title": "Le chômage de la zone euro reste à son plus bas historique",
-      "summary": "Eurostat confirme un taux de chômage stable à 6,2% en mai dans la zone euro, un plancher inédit, avec l'Allemagne à 3,8% et les Pays-Bas à 3,9% en tête, contre 8,2% pour la France. Ce contraste avec le ralentissement américain illustre une divergence transatlantique croissante sur le marché du travail au moment où l'IA générative commence à peser sur l'emploi outre-Atlantique.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/business/2026/07/02/us-job-growth-plummets-as-eurozone-unemployment-holds-at-record-low"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Fable 5: fin du gratuit",
+      "title": "Claude Fable 5 bascule sur facturation à l'usage dès demain",
+      "summary": "Depuis la levée des contrôles à l'export fin juin, Fable 5 et Mythos 5 sont de nouveau disponibles dans le monde entier, mais la fenêtre gratuite qui incluait Fable 5 dans les forfaits Pro, Max, Team et Enterprise s'achève ce 7 juillet. À partir du 8, chaque token consommé sera facturé via des crédits d'usage au tarif API standard, soit 10 et 50 dollars par million de tokens en entrée et en sortie.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Anthropic-SpaceX: calcul",
-      "title": "Anthropic verrouille toute la capacité du data center Colossus 1 de SpaceX",
-      "summary": "L'accord donne à Anthropic l'accès à plus de 220 000 GPU Nvidia et 300 mégawatts de capacité, en plus des méga-contrats déjà signés avec Amazon, Google/Broadcom et Microsoft/Nvidia. En parallèle, Anthropic double les limites d'usage de Claude Code sur les offres Pro, Max et Enterprise et supprime la réduction de quota aux heures de pointe.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex"
+      "short_title": "GPT-5.6 sous tutelle",
+      "title": "GPT-5.6 reste cantonné à une poignée de partenaires validés par Washington",
+      "summary": "Sol, Terra et Luna, la nouvelle famille de modèles d'OpenAI, restent limités à une vingtaine d'organisations validées par le gouvernement américain, l'entreprise ayant accepté de restreindre la diffusion à la demande de l'administration Trump. OpenAI affirme vouloir élargir l'accès «dans les prochaines semaines» tout en soulignant qu'un tel filtrage gouvernemental ne devrait pas devenir la norme à long terme.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "regulation",
       "importance": 2,
-      "short_title": "GPT-5.6 sur Cerebras",
-      "title": "OpenAI promet une inférence dix fois plus rapide avec Cerebras",
-      "summary": "GPT-5.6 Sol doit tourner en juillet sur le matériel Cerebras à «wafer scale» jusqu'à 750 tokens par seconde, contre 40 à 120 tokens par seconde pour un cluster GPU classique servant un modèle frontière équivalent. L'accès reste initialement limité à une poignée de clients pendant que Cerebras, qui a déjà signé un contrat de plus de 20 milliards de dollars avec OpenAI, monte en capacité.",
-      "source": "AESOP AI News",
-      "url": "https://aesopacademy.org/ai-news/articles/2026-07-01-openai-gpt56-sol-cerebras-750-tokens-per-second"
+      "short_title": "Maison Blanche: cadre IA",
+      "title": "La Maison Blanche s'apprête à publier son cadre de revue des IA de pointe",
+      "summary": "Selon le Financial Times, les standards négociés depuis des mois entre la Maison Blanche, OpenAI, Anthropic et Google pourraient être officialisés dès cette semaine, avec un droit de regard gouvernemental de 30 jours avant la diffusion des modèles jugés «frontières». Le dispositif s'appuie sur l'executive order signé début juin et sur des benchmarks classifiés élaborés avec la NSA.",
+      "source": "Towards AI",
+      "url": "https://towardsai.com/p/machine-learning/white-house-ai-standards-30-day-reviews-3-labs-and-a-classified-pass-bar"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "regulation",
+      "theme": "finance",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "AI Act: report accorde",
-      "title": "Bruxelles simplifie l'AI Act et repousse ses obligations les plus lourdes",
-      "summary": "Le Conseil de l'UE a donné le 29 juin son feu vert final au paquet de simplification négocié avec le Parlement, décalant l'entrée en application des règles sur les IA à haut risque au 2 décembre 2027 pour les systèmes autonomes et au 2 août 2028 pour les IA intégrées à des produits. Le texte ajoute en contrepartie une nouvelle interdiction visant la génération d'images intimes non consenties ou de contenus pédopornographiques par IA.",
-      "source": "Consilium (Conseil de l'UE)",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/"
+      "short_title": "IPO: OpenAI hésite",
+      "title": "OpenAI hésite sur son IPO, Anthropic maintient le cap",
+      "summary": "Échaudé par la chute du titre SpaceX depuis son introduction, passé de plus de 225 à 153 dollars en quelques semaines, OpenAI envisagerait de repousser sa propre entrée en Bourse à 2027 plutôt que de viser une valorisation de 1 000 milliards de dollars dès cette année. Anthropic, elle, continuerait de viser une cotation au Nasdaq dès octobre, ce qui en ferait la première entreprise d'IA générative cotée à une valorisation proche de 1 000 milliards de dollars.",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/02/openai-is-considering-a-2027-ipo-1-trillion-cap/"
     },
     {
       "id": "n12",
       "theme": "tech",
       "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "IA agentique: XVA freine",
-      "title": "L'IA agentique pour les XVA reste à cinq ans de la production selon les praticiens",
-      "summary": "Des spécialistes cités par Risk.net estiment que malgré les promesses de l'IA agentique pour automatiser le calcul des ajustements de valorisation (CVA, FVA, KVA), la validation des modèles, la traçabilité des décisions et la lecture réglementaire ne sont pas prêtes pour une adoption en production. Les banques continuent en parallèle de renforcer l'intégration entre risque de contrepartie (CCR) et XVA, sans pour autant déléguer ces calculs sensibles à des agents autonomes.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/markets/7963795/agentic-ai-for-xvas-still-five-years-away-experts-say"
+      "short_title": "RBI: alerte cyber Mythos",
+      "title": "La banque centrale indienne somme les banques de se prémunir contre Mythos",
+      "summary": "La Reserve Bank of India a demandé aux établissements régulés de réaliser un diagnostic des failles de leur dispositif de cybersécurité et de soumettre un plan d'action avant fin juin, face à des modèles comme Claude Mythos capables de détecter des vulnérabilités zero-day. La RBI classe désormais les cyberattaques assistées par IA comme la menace la plus pressante pesant sur le système bancaire indien.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/industry/banking/rbi-asks-banks-to-assess-ai-risk-gaps-draw-action-plan-by-june-end-126060901145_1.html"
     },
     {
       "id": "n13",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 1,
-      "short_title": "FRTB: repit temporaire",
-      "title": "Bruxelles accorde un répit temporaire aux banques sur la FRTB",
-      "summary": "La Commission européenne a adopté un acte délégué introduisant un multiplicateur correcteur pour atténuer l'impact en capital de la nouvelle réglementation sur le risque de marché (FRTB) pour les banques européennes désavantagées par sa mise en œuvre. La mesure, applicable dès janvier 2027 pour trois ans, vise à préserver leur compétitivité tant que les autres juridictions, notamment les États-Unis, tardent à finaliser leur propre calendrier Basel III.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+      "theme": "sciences",
+      "subtopic": "informatique_quantique",
+      "importance": 2,
+      "short_title": "Preuves quantiques",
+      "title": "Une preuve confirme l'avantage irréductible du calcul quantique",
+      "summary": "Des chercheurs récompensés lors du Symposium on Theory of Computing ont identifié un problème dont la vérification exige nécessairement une preuve quantique, aucune preuve classique ne pouvant s'y substituer. Ce résultat, publié début juillet, apporte l'une des démonstrations les plus nettes à ce jour d'une séparation fondamentale entre calcul classique et calcul quantique.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/"
     },
     {
       "id": "n14",
-      "theme": "tech",
-      "subtopic": "mlops",
+      "theme": "sante",
+      "subtopic": "nutrition",
       "importance": 2,
-      "short_title": "Anthropic: IA et emploi",
-      "title": "Anthropic publie un indice mesurant l'impact de l'IA sur l'emploi",
-      "summary": "Le laboratoire détaille une nouvelle méthodologie croisant l'usage réel de Claude avec les données d'emploi sectorielles pour objectiver, au-delà des anecdotes, où l'automatisation agentique remplace réellement des tâches humaines. Les secteurs finance et information ressortent parmi les plus exposés, ce qui recoupe directement les destructions d'emploi observées ce mois-ci dans le rapport américain sur l'emploi.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/labor-market-impacts"
+      "short_title": "Vitamine C et cerveau",
+      "title": "Le taux de vitamine C dans le sang associé au volume cérébral chez les seniors",
+      "summary": "En croisant IRM et taux plasmatiques de vitamine C chez plus de 2 000 Japonais de plus de 64 ans, une équipe de l'université d'Hirosaki observe qu'un déficit est associé à un volume de matière grise plus faible et à une connectivité réduite dans le réseau du mode par défaut, même après ajustement sur l'âge et l'activité physique. L'étude ne prouve pas de lien de causalité mais renforce l'hypothèse d'un rôle protecteur de la nutrition sur le vieillissement cognitif.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm"
     },
     {
       "id": "n15",
-      "theme": "learn",
-      "subtopic": "ia_education",
+      "theme": "tech",
+      "subtopic": "regulation",
       "importance": 2,
-      "short_title": "Tutorat IA: paresse",
-      "title": "La recherche s'inquiète d'une «paresse métacognitive» induite par les tuteurs IA",
-      "summary": "Plusieurs revues systématiques publiées ces derniers mois pointent un risque de dépendance excessive aux plateformes de tutorat génératif, qui peuvent court-circuiter la planification et l'auto-évaluation propres à l'apprentissage autorégulé. Les auteurs appellent à des designs pédagogiques qui forcent l'élève à rester actif dans la boucle plutôt qu'à déléguer entièrement le raisonnement à l'outil.",
-      "source": "Brookings",
-      "url": "https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/"
+      "short_title": "OpenAI: 5% pour l'Etat",
+      "title": "OpenAI proposerait 5% de son capital à l'État américain",
+      "summary": "Selon le Financial Times, OpenAI négocierait la cession d'une participation de 5% au gouvernement américain, valorisée autour de 42,6 milliards de dollars, pour désamorcer les critiques politiques sur son influence croissante. La proposition intervient alors que l'administration Trump négocie en parallèle avec OpenAI, Anthropic et Google un droit de regard sur la diffusion de leurs modèles les plus avancés.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
     },
     {
       "id": "n16",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "geopol",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "Vieillir: l'attitude",
-      "title": "Une étude de Yale relie attitude positive envers l'âge et déclin ralenti",
-      "summary": "En suivant près de 4 000 adultes de 19 à 94 ans pendant trois ans, l'équipe de Becca Levy montre que 45% des personnes de plus de 65 ans se sont améliorées sur au moins un plan cognitif ou physique, avec un lien net entre attitude positive envers son propre vieillissement et ampleur des gains. Le résultat renforce l'idée que les croyances sur l'âge constituent un levier de santé publique aussi concret que l'exercice ou la nutrition.",
-      "source": "SUCCESS",
-      "url": "https://www.success.com/longevity-research-2026-new-findings"
-    },
-    {
-      "id": "n17",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 3,
-      "short_title": "1 prise sang, 50 cancers",
-      "title": "Un test sanguin unique détecterait une cinquantaine de cancers avant les symptômes",
-      "summary": "Le test Galleri de GRAIL, capable de repérer des signaux d'une cinquantaine de cancers à partir d'une simple prise de sang, est désormais en examen formel à la FDA après le dépôt du dernier module de son dossier d'homologation. Il s'appuie sur deux grandes études, PATHFINDER 2 et l'essai britannique NHS-Galleri portant sur plus de 140 000 volontaires asymptomatiques, et une décision de la FDA est attendue dès la fin 2026.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/one-blood-test-could-detect-50-cancers-once-fda-decision-that-could-change-screening-forever-475792"
-    },
-    {
-      "id": "n18",
-      "theme": "sciences",
-      "subtopic": "neurosciences",
-      "importance": 2,
-      "short_title": "Alzheimer: resilience",
-      "title": "Certains cerveaux résisteraient à Alzheimer en protégeant leurs jeunes neurones",
-      "summary": "Des chercheurs de l'Institut néerlandais des neurosciences montrent qu'environ 30% des personnes âgées dont le cerveau est envahi par les lésions d'Alzheimer ne développent jamais de démence, et qu'un groupe rare de neurones immatures de l'hippocampe semble expliquer cette résilience. Chez ces individus, ces cellules activeraient des programmes de survie qui réduisent l'inflammation locale, une piste qui pourrait ouvrir de nouvelles cibles thérapeutiques centrées sur la neurogenèse plutôt que sur l'élimination des plaques amyloïdes.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm"
+      "short_title": "Lecornu: budget à risque",
+      "title": "Lecornu presse les oppositions de trouver un accord budgétaire",
+      "summary": "Aux Rencontres économiques d'Aix, le Premier ministre a averti qu'une absence de budget pour 2027 ferait courir le risque de porter le déficit à 7% du PIB, qualifiant ce scénario de «faute» et d'«erreur très grave». Sa feuille de route budgétaire, qui doit fixer les grandes orientations du PLF 2027, est attendue à la mi-juillet, juste après avoir surmonté la motion de censure du 6 juillet.",
+      "source": "Boursorama (AFP)",
+      "url": "https://www.boursorama.com/bourse/actualites/aux-rencontres-economiques-d-aix-lecornu-appelle-avec-gravite-a-trouver-un-budget-6d7bde8559c2d56eba6ac21bd60ed426"
     }
   ],
   "edges": [
@@ -205,79 +183,67 @@
       "source": "n01",
       "target": "n06",
       "type": "cause",
-      "explanation": "La normalisation plus rapide que prévu du trafic à Ormuz est le facteur cité en premier par Morgan Stanley pour justifier sa révision à la baisse des prix du pétrole."
+      "explanation": "La nouvelle attaque de missiles contre des navires commerciaux dans le détroit d'Ormuz menace de renverser la tendance baissière du Brent, qui évoluait près de ses plus bas niveaux depuis février avant cet incident."
     },
     {
-      "source": "n04",
+      "source": "n02",
       "target": "n03",
-      "type": "cause",
-      "explanation": "C'est la gestion jugée défaillante de cette vague de chaleur précoce et des feux qu'elle a déclenchés qui a directement motivé le dépôt de la motion de censure des Écologistes."
+      "type": "tension",
+      "explanation": "Le gouvernement vient d'obtenir un répit sur sa gestion de la canicule de juin en repoussant la motion de censure, mais une troisième vague, plus intense encore, s'installe dès le lendemain du vote et remet aussitôt sous tension le même sujet."
     },
     {
       "source": "n03",
-      "target": "n02",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "Ayant écarté la menace immédiate de la censure, Lecornu doit maintenant convaincre sur le budget 2027 qu'il a lui-même averti risquer de creuser le déficit à 7% du PIB en l'absence d'accord."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
       "type": "tension",
-      "explanation": "Le même jour où Paris est absorbée par une crise de politique intérieure sur le climat, les dirigeants de l'Alliance se concentrent à Ankara sur le réarmement et l'Ukraine, révélant des priorités qui divergent selon l'échelle d'observation."
+      "explanation": "Le jour même où l'Assemblée rejette la censure sur la canicule, l'attention des dirigeants occidentaux se porte à Ankara sur le réarmement et l'Ukraine, deux agendas qui se déroulent en parallèle sans jamais se croiser."
     },
     {
       "source": "n05",
-      "target": "n02",
+      "target": "n04",
       "type": "tension",
-      "explanation": "Alors que l'OTAN mobilise des dizaines de milliards pour l'Ukraine, l'ONU peine à obtenir une réponse internationale comparable face au risque de massacre de masse à El-Obeid, illustrant une hiérarchisation très inégale des crises humanitaires."
+      "explanation": "Alors que l'OTAN mobilise 70 milliards d'euros pour l'Ukraine, l'ONU peine à obtenir un accès humanitaire à El-Obeid depuis deux mois, illustrant une hiérarchie très inégale des urgences internationales."
+    },
+    {
+      "source": "n01",
+      "target": "n04",
+      "type": "tension",
+      "explanation": "Le sommet de l'OTAN affiche l'unité occidentale face à la Russie au moment même où une frappe iranienne dans le Golfe rappelle qu'un second front sécuritaire majeur reste actif, dispersant l'attention stratégique des alliés."
+    },
+    {
+      "source": "n08",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "La même semaine, Anthropic et OpenAI ajustent chacun l'accès à leur modèle le plus avancé sous contrainte, l'un en basculant sur facturation à l'usage, l'autre en le maintenant sous contrôle gouvernemental."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "Le régime d'accès restreint et vetté par l'administration imposé à GPT-5.6 est le cas concret qui a précédé et motive la formalisation, attendue sous peu, du cadre de revue de 30 jours de la Maison Blanche."
     },
     {
       "source": "n10",
-      "target": "n09",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "La même semaine, OpenAI et Anthropic sécurisent chacun un partenariat matériel dédié, Cerebras pour l'un, SpaceX pour l'autre, dans la même course à l'inférence et au calcul agentique à bas coût."
+      "explanation": "Les deux dossiers relèvent du même bras de fer entre OpenAI et l'administration Trump: l'un porte sur le droit de regard de Washington avant diffusion des modèles, l'autre sur une prise de participation directe au capital."
+    },
+    {
+      "source": "n08",
+      "target": "n12",
+      "type": "cause",
+      "explanation": "La levée des contrôles à l'export qui a élargi la diffusion mondiale de Mythos, capable de détecter des failles zero-day, est le déclencheur direct de la directive de la RBI demandant aux banques indiennes un plan d'action cyber."
     },
     {
       "source": "n11",
-      "target": "n12",
-      "type": "tension",
-      "explanation": "Bruxelles allège son calendrier réglementaire sur l'IA à haut risque au moment même où les praticiens financiers jugent, eux, que la validation de l'IA agentique pour des calculs aussi sensibles que les XVA n'est pas près d'être mûre, deux rythmes de prudence qui divergent."
-    },
-    {
-      "source": "n12",
-      "target": "n14",
-      "type": "meme_sujet",
-      "explanation": "Les deux publications illustrent la même tension dans le secteur financier: d'un côté la prudence des praticiens sur le déploiement de l'IA agentique, de l'autre la mesure déjà tangible de son impact sur l'emploi du secteur."
-    },
-    {
-      "source": "n14",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "La méthodologie d'Anthropic, qui pointe la finance et l'information comme secteurs les plus exposés à l'automatisation agentique, fournit une grille de lecture directe aux destructions d'emplois observées dans ces mêmes secteurs par le rapport américain sur l'emploi de juin."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "Le net ralentissement de l'emploi américain contraste avec le chômage de la zone euro resté à son plancher historique, une divergence transatlantique inhabituelle qui intervient précisément quand l'IA générative commence à peser sur le marché du travail américain."
-    },
-    {
-      "source": "n13",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Les deux dossiers relèvent du même écosystème de régulation bancaire du risque de marché et de contrepartie: l'un porte sur le calendrier réglementaire FRTB, l'autre sur la maturité technologique des outils qui alimentent ces calculs."
-    },
-    {
-      "source": "n17",
-      "target": "n18",
-      "type": "meme_sujet",
-      "explanation": "Ces deux avancées biomédicales publiées la même semaine illustrent le même virage vers une médecine de détection et de prévention précoces, qu'il s'agisse de cancer ou de neurodégénérescence."
-    },
-    {
-      "source": "n16",
-      "target": "n17",
-      "type": "meme_sujet",
-      "explanation": "Les deux études, l'une sur les croyances qui ralentissent le déclin lié à l'âge, l'autre sur la détection ultra-précoce du cancer, relèvent de la même dynamique de prévention proactive plutôt que de traitement tardif."
-    },
-    {
-      "source": "n15",
       "target": "n09",
-      "type": "tension",
-      "explanation": "Pendant qu'Anthropic double la capacité de calcul mise à disposition des agents Claude pour maximiser leur autonomie, des chercheurs en éducation s'inquiètent au même moment que cette même autonomie déléguée à l'IA nuise à l'autorégulation cognitive des apprenants."
+      "type": "meme_sujet",
+      "explanation": "Les deux dossiers montrent des laboratoires d'IA sous contrainte externe simultanée: pressions des marchés post-IPO SpaceX d'un côté, tutelle gouvernementale sur la diffusion des modèles de l'autre."
     }
   ]
 }

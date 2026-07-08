@@ -1,249 +1,265 @@
 {
-  "generated_at": "2026-07-07T09:00:00Z",
+  "generated_at": "2026-07-08T04:11:19Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "regulation_ia",
       "importance": 3,
-      "short_title": "Ormuz: tirs sur navires",
-      "title": "Des gardiens de la révolution iraniens visent des navires commerciaux dans le détroit d'Ormuz",
-      "summary": "Selon des responsables occidentaux, au moins deux missiles ont touché des navires commerciaux dans la nuit, dont un méthanier qatari affrété par Nakilat, provoquant un incendie sans faire de victime. L'incident survient alors que le trafic s'était nettement redressé ces derniers jours et qu'aucune revendication officielle n'a été formulée par Téhéran.",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-says-maritime-agency/"
+      "short_title": "Cadre IA Maison Blanche",
+      "title": "Maison Blanche finalise un cadre IA volontaire",
+      "summary": "L'administration Trump négocie avec OpenAI, Google et Anthropic un dispositif volontaire de revue de sécurité nationale (jusqu'à 30 jours) avant la sortie de tout modèle frontière à capacités cyber avancées. Une annonce est attendue dès la semaine du 7 juillet, ce qui en ferait la plus grande intervention américaine sur l'IA depuis l'executive order d'octobre 2023.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/"
     },
     {
       "id": "n02",
-      "theme": "climat",
-      "subtopic": "canicule",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "3e canicule: 42°C",
-      "title": "Une troisième vague de chaleur, plus intense, s'abat sur la France",
-      "summary": "Après le pic historique de fin juin, une nouvelle canicule s'installe dès le 6 juillet avec des pointes annoncées entre 38 et 42°C dans le Sud-Ouest et le pourtour méditerranéen, un maximum attendu vers le 10 juillet. Les prévisionnistes n'anticipent aucune accalmie durable avant la mi-juillet, avec un nouveau pic possible autour du 12-14 juillet.",
-      "source": "Sortiraparis",
-      "url": "https://www.sortiraparis.com/en/news/in-paris/articles/348262-heatwave-the-third-heat-wave-starts-with-temperatures-up-to-38-c-expected-in-paris"
+      "short_title": "GPT-5.6 Sol autorisé",
+      "title": "Feu vert du Commerce Dept pour GPT-5.6",
+      "summary": "Le département du Commerce américain a donné son accord pour un déploiement large de GPT-5.6 Sol, mettant fin à trois semaines de restriction où seuls une vingtaine de partenaires triés par l'administration Trump y avaient accès. OpenAI prévoit une sortie élargie dès cette semaine, après des tests complémentaires avec le Center for AI Standards and Innovation du Commerce.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "france",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Censure Lecornu rejetée",
-      "title": "L'Assemblée rejette largement la motion de censure écologiste",
-      "summary": "Seuls 132 députés ont voté le texte porté par Cyrielle Chatelain, loin des 289 voix nécessaires pour renverser le gouvernement Lecornu, malgré une gauche divisée puisque 20 des 68 députés socialistes, dont Olivier Faure, ont voté la censure contre la ligne officielle du groupe. Le vote clôt un épisode centré sur la gestion de la canicule de juin, mais Olivier Faure ressort affaibli en interne au PS.",
-      "source": "France 24",
-      "url": "https://www.france24.com/fr/france/20260706-assembl%C3%A9e-rejette-motion-de-censure-%C3%A9cologiste-d%C3%A9non%C3%A7ant-gestion-canicule-lecornu"
+      "short_title": "Fable 5 passe aux crédits",
+      "title": "Claude Fable 5 facturé en crédits API",
+      "summary": "Depuis le 8 juillet, Claude Fable 5 ne bénéficie plus d'un quota inclus dans les abonnements Anthropic et se facture au tarif API standard (10$/50$ par million de tokens), soit le double d'Opus 4.8. Cette bascule marque la fin de la période de compensation accordée après la suspension du modèle pour cause de contrôle à l'export, levée le 30 juin.",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/319767/20260706/fable-5-subscription-ends-tomorrow-per-token-costs-who-gets-hit-hardest.htm"
     },
     {
       "id": "n04",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "OTAN: 70Md€ Ukraine",
-      "title": "Le sommet de l'OTAN à Ankara acte 70 milliards d'euros pour l'Ukraine",
-      "summary": "Les 32 alliés, réunis les 7 et 8 juillet, doivent réaffirmer leur engagement «inébranlable» envers la défense collective et qualifier la Russie de menace de long terme, selon le projet de déclaration obtenu par plusieurs médias. Le texte prévoit environ 70 milliards d'euros de soutien militaire à l'Ukraine pour 2026, un niveau au moins équivalent étant promis pour 2027.",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/79692"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Microsoft mise sur MAI",
+      "title": "Microsoft réduit sa dépendance à OpenAI/Anthropic",
+      "summary": "Microsoft remplace progressivement OpenAI et Anthropic par ses propres modèles MAI dans des produits comme Excel et Outlook, dans une logique de réduction des coûts. Plusieurs dizaines de milliers de requêtes hebdomadaires sont désormais traitées en interne plutôt que via les API des deux labs partenaires/concurrents.",
+      "source": "Bloomberg (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html"
     },
     {
       "id": "n05",
-      "theme": "geopol",
-      "subtopic": "soudan",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Soudan: enquête ONU",
-      "title": "L'ONU ouvre une enquête urgente sur les exactions à El-Obeid",
-      "summary": "Le Conseil des droits de l'homme a décidé le 6 juillet de mandater une enquête sur les violations du droit international commises dans cette ville du Kordofan-Nord, encerclée par les Forces de soutien rapide et privée d'accès humanitaire depuis deux mois. Volker Türk évoque des frappes de drones «incessantes» sur une population d'environ 500 000 habitants, dont 100 000 déplacés.",
-      "source": "ONU Info",
-      "url": "https://news.un.org/fr/story/2026/07/1159099"
+      "short_title": "Modèles chinois gagnent",
+      "title": "Les modèles chinois progressent face aux coûts US",
+      "summary": "Face à la hausse des tarifs d'OpenAI et d'Anthropic, des entreprises américaines se tournent davantage vers des modèles chinois moins coûteux. Ce basculement illustre l'impact direct de la politique de prix des labs occidentaux sur leurs parts de marché en entreprise.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Pétrole: risque de choc",
-      "title": "Le pétrole évoluait près de ses plus bas niveaux depuis février avant l'attaque",
-      "summary": "Le baril de Brent est retombé sous 70 dollars ces derniers jours, porté par la reprise du trafic à Ormuz et par la perspective d'une nouvelle hausse des quotas de l'OPEP+, effaçant une bonne partie de la prime de risque accumulée depuis le début du conflit. La frappe de la nuit dernière contre des navires commerciaux menace toutefois de renverser brutalement cette tendance si l'incident se répète.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-06-2026/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Mistral vise le frontier",
+      "title": "Mistral prépare un modèle frontière open-weight",
+      "summary": "Arthur Mensch a confirmé l'entrée en accès anticipé, dès juillet, d'un nouveau modèle open-weight de type mixture-of-experts, décrit comme 'fat but sparse', signe que Mistral retente une percée au niveau frontière. Le CEO a par ailleurs appelé les entreprises à se méfier des fournisseurs fermés, qui leur imposent selon lui une rétention de données et un rapport de force défavorable.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "usa",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Fed: silence avant FOMC",
-      "title": "La Fed de Kevin Warsh cultive le flou avant les minutes du FOMC",
-      "summary": "Le nouveau président de la Réserve fédérale a refusé de donner la moindre indication sur la prochaine décision de taux lors du forum de la BCE, préférant une communication fondée uniquement sur les données économiques plutôt que sur des indications prospectives classiques. Les minutes de la réunion de juin, attendues le 8 juillet, seront scrutées pour évaluer l'ampleur de ce changement de doctrine alors que l'inflation reste jugée «trop élevée».",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html"
+      "short_title": "Meta lit les pensées",
+      "title": "Meta dévoile Brain2Qwerty v2",
+      "summary": "Meta a présenté Brain2Qwerty v2, un système non invasif qui convertit l'activité cérébrale captée par magnétoencéphalographie en texte, avec une précision moyenne de 61%, en net progrès par rapport aux approches non invasives précédentes. Le système combine signaux neuronaux bruts et modèles de langage pour interpréter les enregistrements cérébraux.",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/07/01/meta-says-brain2qwerty-v2-turns-brain-activity-into-text/"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Fable 5: fin du gratuit",
-      "title": "Claude Fable 5 bascule sur facturation à l'usage dès demain",
-      "summary": "Depuis la levée des contrôles à l'export fin juin, Fable 5 et Mythos 5 sont de nouveau disponibles dans le monde entier, mais la fenêtre gratuite qui incluait Fable 5 dans les forfaits Pro, Max, Team et Enterprise s'achève ce 7 juillet. À partir du 8, chaque token consommé sera facturé via des crédits d'usage au tarif API standard, soit 10 et 50 dollars par million de tokens en entrée et en sortie.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5"
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Cursor arrive sur iOS",
+      "title": "Cursor lance sa bêta publique iOS",
+      "summary": "Cursor propose désormais une application iOS en bêta publique sur tous les plans payants, avec agents autonomes permanents, contrôle à distance et notifications en direct pour piloter des tâches de développement depuis un mobile. L'outil élargit aussi ses marketplaces d'équipe avec des serveurs MCP partagés au niveau organisation.",
+      "source": "Releasebot",
+      "url": "https://releasebot.io/updates/cursor"
     },
     {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "GPT-5.6 sous tutelle",
-      "title": "GPT-5.6 reste cantonné à une poignée de partenaires validés par Washington",
-      "summary": "Sol, Terra et Luna, la nouvelle famille de modèles d'OpenAI, restent limités à une vingtaine d'organisations validées par le gouvernement américain, l'entreprise ayant accepté de restreindre la diffusion à la demande de l'administration Trump. OpenAI affirme vouloir élargir l'accès «dans les prochaines semaines» tout en soulignant qu'un tel filtrage gouvernemental ne devrait pas devenir la norme à long terme.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov"
+      "theme": "finance",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Israël baisse son taux",
+      "title": "La Banque d'Israël abaisse son taux à 3,5%",
+      "summary": "La Banque d'Israël a réduit son taux directeur de 25 points de base pour la deuxième réunion consécutive, invoquant une inflation stable et le recul des prix de l'énergie consécutif à la trêve entre Washington et Téhéran. C'est un des premiers exemples concrets d'assouplissement monétaire directement lié à la désescalade au Moyen-Orient.",
+      "source": "WTVB (AP)",
+      "url": "https://wtvbam.com/2026/07/06/bank-of-israel-cuts-key-rate-by-25-bps-as-us-iran-ceasefire-pushes-down-energy-prices/"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "regulation",
+      "theme": "finance",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Maison Blanche: cadre IA",
-      "title": "La Maison Blanche s'apprête à publier son cadre de revue des IA de pointe",
-      "summary": "Selon le Financial Times, les standards négociés depuis des mois entre la Maison Blanche, OpenAI, Anthropic et Google pourraient être officialisés dès cette semaine, avec un droit de regard gouvernemental de 30 jours avant la diffusion des modèles jugés «frontières». Le dispositif s'appuie sur l'executive order signé début juin et sur des benchmarks classifiés élaborés avec la NSA.",
-      "source": "Towards AI",
-      "url": "https://towardsai.com/p/machine-learning/white-house-ai-standards-30-day-reviews-3-labs-and-a-classified-pass-bar"
+      "short_title": "Emploi US en berne",
+      "title": "Créations d'emplois américaines en net ralentissement",
+      "summary": "Les créations d'emplois non agricoles américaines n'ont progressé que de 57 000 en juin, contre environ 113 000 attendus, avec des révisions à la baisse de 74 000 postes sur avril-mai. Le taux de chômage reste à 4,2%, mais la population active continue de se contracter, un signal de tension sur le marché du travail américain.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-jobs-report-june-2026-key-takeaways-on-employment-payrolls"
     },
     {
       "id": "n11",
       "theme": "finance",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "IPO: OpenAI hésite",
-      "title": "OpenAI hésite sur son IPO, Anthropic maintient le cap",
-      "summary": "Échaudé par la chute du titre SpaceX depuis son introduction, passé de plus de 225 à 153 dollars en quelques semaines, OpenAI envisagerait de repousser sa propre entrée en Bourse à 2027 plutôt que de viser une valorisation de 1 000 milliards de dollars dès cette année. Anthropic, elle, continuerait de viser une cotation au Nasdaq dès octobre, ce qui en ferait la première entreprise d'IA générative cotée à une valorisation proche de 1 000 milliards de dollars.",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/investing/2026/07/02/openai-is-considering-a-2027-ipo-1-trillion-cap/"
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "FSB encadre l'IA bancaire",
+      "title": "Le FSB consulte sur l'IA responsable en finance",
+      "summary": "Le Financial Stability Board propose 12 pratiques de référence pour l'adoption responsable de l'IA par les institutions financières, couvrant la gouvernance, le cycle de vie des modèles et les risques spécifiques à l'IA générative et agentique. La consultation est ouverte jusqu'au 22 juillet, pour un rapport final attendu en octobre 2026.",
+      "source": "Financial Stability Board",
+      "url": "https://www.fsb.org/2026/06/fsb-consults-on-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "regulation_bancaire",
+      "theme": "geopol",
+      "subtopic": "ukraine",
       "importance": 2,
-      "short_title": "RBI: alerte cyber Mythos",
-      "title": "La banque centrale indienne somme les banques de se prémunir contre Mythos",
-      "summary": "La Reserve Bank of India a demandé aux établissements régulés de réaliser un diagnostic des failles de leur dispositif de cybersécurité et de soumettre un plan d'action avant fin juin, face à des modèles comme Claude Mythos capables de détecter des vulnérabilités zero-day. La RBI classe désormais les cyberattaques assistées par IA comme la menace la plus pressante pesant sur le système bancaire indien.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/industry/banking/rbi-asks-banks-to-assess-ai-risk-gaps-draw-action-plan-by-june-end-126060901145_1.html"
+      "short_title": "Russie: avancée stoppée",
+      "title": "L'avancée russe s'effondre en Ukraine",
+      "summary": "Les gains territoriaux russes se sont quasiment arrêtés au premier semestre 2026 (à peine 97 km² net), tandis que les pertes militaires explosent: environ 39 500 pertes russes pour le seul mois de juin selon Kyiv. La Russie revendique la prise de Kostiantynivka, mais Zelensky affirme que les combats se poursuivent, alors que l'Ukraine mène une campagne de frappes à moyen et long rayon contre la logistique russe.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/russian-advance-collapses-in-ukraine-as-anxiety-rises-in-moscow"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "informatique_quantique",
-      "importance": 2,
-      "short_title": "Preuves quantiques",
-      "title": "Une preuve confirme l'avantage irréductible du calcul quantique",
-      "summary": "Des chercheurs récompensés lors du Symposium on Theory of Computing ont identifié un problème dont la vérification exige nécessairement une preuve quantique, aucune preuve classique ne pouvant s'y substituer. Ce résultat, publié début juillet, apporte l'une des démonstrations les plus nettes à ce jour d'une séparation fondamentale entre calcul classique et calcul quantique.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/"
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 1,
+      "short_title": "UE verrouille l'ETS2",
+      "title": "Accord UE sur la réserve de stabilité de l'ETS2",
+      "summary": "Conseil et Parlement européens se sont accordés sur un ajustement de la réserve de stabilité du marché pour l'ETS2, le futur système d'échange de quotas carbone couvrant bâtiments et transport routier. Le mécanisme doit lisser les prix du carbone avant le lancement complet de l'ETS2 prévu en 2028.",
+      "source": "Conseil de l'UE",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/11/ets2-market-stability-reserve-council-and-parliament-reach-provisional-agreement/"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "nutrition",
-      "importance": 2,
-      "short_title": "Vitamine C et cerveau",
-      "title": "Le taux de vitamine C dans le sang associé au volume cérébral chez les seniors",
-      "summary": "En croisant IRM et taux plasmatiques de vitamine C chez plus de 2 000 Japonais de plus de 64 ans, une équipe de l'université d'Hirosaki observe qu'un déficit est associé à un volume de matière grise plus faible et à une connectivité réduite dans le réseau du mode par défaut, même après ajustement sur l'âge et l'activité physique. L'étude ne prouve pas de lien de causalité mais renforce l'hypothèse d'un rôle protecteur de la nutrition sur le vieillissement cognitif.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm"
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 3,
+      "short_title": "1ère cellule synthétique",
+      "title": "Une cellule synthétique boucle un cycle de vie complet",
+      "summary": "Des chercheurs ont assemblé une cellule entièrement à partir de composants non vivants (liposomes, ADN, 36 enzymes) baptisée SpudCell, qui a grandi, répliqué son ADN et s'est divisée: une première pour une cellule construite intégralement de novo. Elle reste dépendante d'apports externes constants et n'est pas considérée comme vivante, mais ouvre une voie expérimentale vers l'étude des origines du vivant.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
     },
     {
       "id": "n15",
-      "theme": "tech",
-      "subtopic": "regulation",
-      "importance": 2,
-      "short_title": "OpenAI: 5% pour l'Etat",
-      "title": "OpenAI proposerait 5% de son capital à l'État américain",
-      "summary": "Selon le Financial Times, OpenAI négocierait la cession d'une participation de 5% au gouvernement américain, valorisée autour de 42,6 milliards de dollars, pour désamorcer les critiques politiques sur son influence croissante. La proposition intervient alors que l'administration Trump négocie en parallèle avec OpenAI, Anthropic et Google un droit de regard sur la diffusion de leurs modèles les plus avancés.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
+      "theme": "sciences",
+      "subtopic": "informatique_quantique",
+      "importance": 1,
+      "short_title": "Preuves quantiques",
+      "title": "Une avancée sur les 'preuves quantiques'",
+      "summary": "Des chercheurs montrent que même pour vérifier des solutions à certains problèmes, la complexité inhérente au monde quantique reste incontournable, un résultat théorique qui affine la frontière entre ce qui est efficacement vérifiable classiquement et quantiquement.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/physics/"
     },
     {
       "id": "n16",
-      "theme": "geopol",
-      "subtopic": "france",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Lecornu: budget à risque",
-      "title": "Lecornu presse les oppositions de trouver un accord budgétaire",
-      "summary": "Aux Rencontres économiques d'Aix, le Premier ministre a averti qu'une absence de budget pour 2027 ferait courir le risque de porter le déficit à 7% du PIB, qualifiant ce scénario de «faute» et d'«erreur très grave». Sa feuille de route budgétaire, qui doit fixer les grandes orientations du PLF 2027, est attendue à la mi-juillet, juste après avoir surmonté la motion de censure du 6 juillet.",
-      "source": "Boursorama (AFP)",
-      "url": "https://www.boursorama.com/bourse/actualites/aux-rencontres-economiques-d-aix-lecornu-appelle-avec-gravite-a-trouver-un-budget-6d7bde8559c2d56eba6ac21bd60ed426"
+      "short_title": "Sommeil, sport, nutrition",
+      "title": "De petits changements de mode de vie allongent la vie",
+      "summary": "Une étude de cohorte sur huit ans montre qu'associer de modestes améliorations simultanées du sommeil (+15 min/jour), de l'activité physique (+1,6 min/jour) et de la qualité alimentaire (+5 points) réduit la mortalité toutes causes de 10%. Prises isolément, ces mêmes améliorations nécessitent des efforts bien plus importants pour un effet comparable, ce qui plaide pour des changements combinés plutôt que séquentiels.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/small-changes-sleep-diet-exercise-live-longer-not-overhaul-studies-rcna252640"
+    },
+    {
+      "id": "n17",
+      "theme": "learn",
+      "subtopic": "metacognition",
+      "importance": 2,
+      "short_title": "Métacognition bat l'IA",
+      "title": "Apprendre à apprendre renforce face à l'IA",
+      "summary": "Une étude mondiale menée par Nord Anglia Education et Boston College montre que les élèves explicitement formés à comprendre leur propre façon d'apprendre renforcent nettement des compétences humaines que l'IA ne peut pas répliquer, jusqu'à 72% sur certaines mesures. Le résultat nourrit le débat sur le risque de 'paresse métacognitive' lié à une délégation excessive aux chatbots génériques.",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/in-an-ai-world-human-skills-matter-most-global-study-shows-students-strengthen-critical-capabilities-by-up-to-72-302686519.html"
+    },
+    {
+      "id": "n18",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Trêve Iran pétrole recule",
+      "title": "La trêve Iran-USA fait reculer le pétrole",
+      "summary": "Les cours du pétrole ont chuté d'environ 20% depuis leurs pics de 2026, le Brent repassant sous 95$/baril, portés par l'espoir d'une trêve durable entre Washington et Téhéran qui rouvrirait le détroit d'Ormuz au trafic maritime. Des tirs sporadiques (missiles iraniens vers le Koweït, drones vers le détroit) continuent toutefois de peser sur la confiance des marchés.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n06",
+      "target": "n02",
       "type": "cause",
-      "explanation": "La nouvelle attaque de missiles contre des navires commerciaux dans le détroit d'Ormuz menace de renverser la tendance baissière du Brent, qui évoluait près de ses plus bas niveaux depuis février avant cet incident."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Le gouvernement vient d'obtenir un répit sur sa gestion de la canicule de juin en repoussant la motion de censure, mais une troisième vague, plus intense encore, s'installe dès le lendemain du vote et remet aussitôt sous tension le même sujet."
-    },
-    {
-      "source": "n03",
-      "target": "n16",
-      "type": "cause",
-      "explanation": "Ayant écarté la menace immédiate de la censure, Lecornu doit maintenant convaincre sur le budget 2027 qu'il a lui-même averti risquer de creuser le déficit à 7% du PIB en l'absence d'accord."
-    },
-    {
-      "source": "n03",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Le jour même où l'Assemblée rejette la censure sur la canicule, l'attention des dirigeants occidentaux se porte à Ankara sur le réarmement et l'Ukraine, deux agendas qui se déroulent en parallèle sans jamais se croiser."
-    },
-    {
-      "source": "n05",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Alors que l'OTAN mobilise 70 milliards d'euros pour l'Ukraine, l'ONU peine à obtenir un accès humanitaire à El-Obeid depuis deux mois, illustrant une hiérarchie très inégale des urgences internationales."
+      "explanation": "Le cadre de revue de sécurité nationale en cours de finalisation est le dispositif qui a permis au Commerce Department de donner son feu vert à la sortie large de GPT-5.6."
     },
     {
       "source": "n01",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Le sommet de l'OTAN affiche l'unité occidentale face à la Russie au moment même où une frappe iranienne dans le Golfe rappelle qu'un second front sécuritaire majeur reste actif, dispersant l'attention stratégique des alliés."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
+      "target": "n03",
       "type": "meme_sujet",
-      "explanation": "La même semaine, Anthropic et OpenAI ajustent chacun l'accès à leur modèle le plus avancé sous contrainte, l'un en basculant sur facturation à l'usage, l'autre en le maintenant sous contrôle gouvernemental."
+      "explanation": "Les deux épisodes relèvent du même dispositif de contrôle export/sécurité nationale déployé par l'administration Trump sur les labs IA depuis juin."
     },
     {
-      "source": "n09",
-      "target": "n10",
+      "source": "n03",
+      "target": "n04",
       "type": "cause",
-      "explanation": "Le régime d'accès restreint et vetté par l'administration imposé à GPT-5.6 est le cas concret qui a précédé et motive la formalisation, attendue sous peu, du cadre de revue de 30 jours de la Maison Blanche."
+      "explanation": "Le doublement du coût de Fable 5 par rapport à Opus pousse les grands comptes comme Microsoft à privilégier leurs propres modèles plutôt que les API Anthropic/OpenAI."
+    },
+    {
+      "source": "n03",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "La hausse des tarifs des labs américains ouvre un espace de prix pour des modèles chinois moins chers, accélérant leur adoption en entreprise."
+    },
+    {
+      "source": "n06",
+      "target": "n03",
+      "type": "tension",
+      "explanation": "L'appel de Mistral à éviter le verrouillage des fournisseurs fermés entre en résonance directe avec la bascule tarifaire subie par les utilisateurs de Fable 5."
+    },
+    {
+      "source": "n02",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "Le lancement de GPT-5.6 sous contrôle gouvernemental illustre une stratégie de déploiement encadré, à l'opposé de la philosophie open-weight que revendique Mistral avec son prochain modèle frontière."
+    },
+    {
+      "source": "n18",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "Le recul des prix de l'énergie lié à la trêve Iran-USA donne à la Banque d'Israël la marge pour assouplir sa politique monétaire."
     },
     {
       "source": "n10",
-      "target": "n15",
-      "type": "meme_sujet",
-      "explanation": "Les deux dossiers relèvent du même bras de fer entre OpenAI et l'administration Trump: l'un porte sur le droit de regard de Washington avant diffusion des modèles, l'autre sur une prise de participation directe au capital."
-    },
-    {
-      "source": "n08",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "La levée des contrôles à l'export qui a élargi la diffusion mondiale de Mythos, capable de détecter des failles zero-day, est le déclencheur direct de la directive de la RBI demandant aux banques indiennes un plan d'action cyber."
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Alors que la Banque d'Israël assouplit immédiatement face au ralentissement, la Fed reste sur une ligne 'higher for longer' malgré un marché de l'emploi américain qui montre des signes de faiblesse comparables."
     },
     {
       "source": "n11",
-      "target": "n09",
+      "target": "n04",
       "type": "meme_sujet",
-      "explanation": "Les deux dossiers montrent des laboratoires d'IA sous contrainte externe simultanée: pressions des marchés post-IPO SpaceX d'un côté, tutelle gouvernementale sur la diffusion des modèles de l'autre."
+      "explanation": "Le cadre de pratiques saines du FSB pour l'IA en finance fait écho aux arbitrages coût/fournisseur illustrés par le pivot de Microsoft vers ses modèles internes."
+    },
+    {
+      "source": "n12",
+      "target": "n18",
+      "type": "tension",
+      "explanation": "Les deux conflits suivent des trajectoires opposées cet été: désescalade actée au Moyen-Orient contre enlisement meurtrier en Ukraine malgré les efforts diplomatiques."
     }
   ]
 }

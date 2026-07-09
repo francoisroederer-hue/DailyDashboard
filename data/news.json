@@ -1,203 +1,192 @@
 {
-  "generated_at": "2026-07-08T04:11:19Z",
+  "generated_at": "2026-07-09T04:11:01Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "regulation_ia",
+      "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Cadre IA Maison Blanche",
-      "title": "Maison Blanche finalise un cadre IA volontaire",
-      "summary": "L'administration Trump négocie avec OpenAI, Google et Anthropic un dispositif volontaire de revue de sécurité nationale (jusqu'à 30 jours) avant la sortie de tout modèle frontière à capacités cyber avancées. Une annonce est attendue dès la semaine du 7 juillet, ce qui en ferait la plus grande intervention américaine sur l'IA depuis l'executive order d'octobre 2023.",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/"
+      "short_title": "Iran: trêve rompue",
+      "title": "Trump déclare la trêve avec l'Iran 'terminée'",
+      "summary": "Après de nouvelles attaques dans le détroit d'Ormuz (tankers saoudien et qatari visés), Washington a mené une nouvelle vague de frappes sur plus de 80 sites iraniens et révoqué la dérogation qui permettait à Téhéran de vendre du pétrole. Trump a jugé depuis Ankara que la trêve conclue le mois dernier était 'terminée', rouvrant la perspective d'une escalade prolongée.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html"
     },
     {
       "id": "n02",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "GPT-5.6 Sol autorisé",
-      "title": "Feu vert du Commerce Dept pour GPT-5.6",
-      "summary": "Le département du Commerce américain a donné son accord pour un déploiement large de GPT-5.6 Sol, mettant fin à trois semaines de restriction où seuls une vingtaine de partenaires triés par l'administration Trump y avaient accès. OpenAI prévoit une sortie élargie dès cette semaine, après des tests complémentaires avec le Center for AI Standards and Innovation du Commerce.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted"
+      "short_title": "Brent bondit à 78$",
+      "title": "Le pétrole s'envole sur la rupture de la trêve Iran-USA",
+      "summary": "Le Brent a bondi d'environ 5% mercredi pour atteindre 78$/baril après les nouvelles frappes américaines et la révocation de la dérogation pétrolière iranienne, effaçant en quelques jours le repli lié à l'espoir de désescalade. Le marché redoute désormais de nouvelles perturbations du trafic dans le détroit d'Ormuz, artère vitale pour les exportations mondiales de brut.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9"
     },
     {
       "id": "n03",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Fable 5 passe aux crédits",
-      "title": "Claude Fable 5 facturé en crédits API",
-      "summary": "Depuis le 8 juillet, Claude Fable 5 ne bénéficie plus d'un quota inclus dans les abonnements Anthropic et se facture au tarif API standard (10$/50$ par million de tokens), soit le double d'Opus 4.8. Cette bascule marque la fin de la période de compensation accordée après la suspension du modèle pour cause de contrôle à l'export, levée le 30 juin.",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/319767/20260706/fable-5-subscription-ends-tomorrow-per-token-costs-who-gets-hit-hardest.htm"
+      "short_title": "Fed reste restrictive",
+      "title": "La Fed campe sur une ligne restrictive malgré l'emploi en berne",
+      "summary": "Les minutes de la réunion de juin, publiées le 8 juillet, confirment un comité divisé mais globalement plus 'faucon' qu'attendu, avec près de la moitié des membres anticipant encore une hausse de taux d'ici fin 2026. Le taux directeur reste inchangé à 3,50-3,75% sous la présidence de Kevin Warsh, la Fed préférant surveiller le risque inflationniste ravivé par la flambée du pétrole plutôt que le ralentissement du marché du travail.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-hike-interest-rates-july-060507499.html"
     },
     {
       "id": "n04",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Microsoft mise sur MAI",
-      "title": "Microsoft réduit sa dépendance à OpenAI/Anthropic",
-      "summary": "Microsoft remplace progressivement OpenAI et Anthropic par ses propres modèles MAI dans des produits comme Excel et Outlook, dans une logique de réduction des coûts. Plusieurs dizaines de milliers de requêtes hebdomadaires sont désormais traitées en interne plutôt que via les API des deux labs partenaires/concurrents.",
-      "source": "Bloomberg (via Yahoo Finance)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html"
+      "theme": "geopol",
+      "subtopic": "otan",
+      "importance": 2,
+      "short_title": "Sommet OTAN Ankara",
+      "title": "Le sommet de l'OTAN à Ankara acte une nouvelle aide à l'Ukraine",
+      "summary": "Réunis les 7 et 8 juillet à Ankara, les 32 pays de l'Alliance ont promis environ 70 milliards d'euros d'aide supplémentaire à Kyiv et réaffirmé l'objectif de porter les dépenses de défense vers 5% du PIB d'ici 2035. Seuls cinq membres atteignent aujourd'hui le seuil des 3,5% consacré aux dépenses de défense pures, ce qui a nourri les pressions de Trump pour accélérer les engagements pris l'an dernier.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "geopol",
+      "subtopic": "ukraine",
       "importance": 2,
-      "short_title": "Modèles chinois gagnent",
-      "title": "Les modèles chinois progressent face aux coûts US",
-      "summary": "Face à la hausse des tarifs d'OpenAI et d'Anthropic, des entreprises américaines se tournent davantage vers des modèles chinois moins coûteux. Ce basculement illustre l'impact direct de la politique de prix des labs occidentaux sur leurs parts de marché en entreprise.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
+      "short_title": "Frappes russes tuent",
+      "title": "Des frappes russes tuent des civils à la veille du sommet OTAN",
+      "summary": "Des attaques russes ont fait une vingtaine de morts en Ukraine juste avant l'ouverture du sommet de l'OTAN, tandis que Kyiv poursuit en retour des frappes à longue portée, dont une contre la raffinerie russe d'Omsk à 2700 km du front. Sur le terrain, l'avancée russe reste quasi à l'arrêt (à peine 31 miles² net sur quatre semaines) malgré des pertes humaines massives.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say"
     },
     {
       "id": "n06",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Mistral vise le frontier",
-      "title": "Mistral prépare un modèle frontière open-weight",
-      "summary": "Arthur Mensch a confirmé l'entrée en accès anticipé, dès juillet, d'un nouveau modèle open-weight de type mixture-of-experts, décrit comme 'fat but sparse', signe que Mistral retente une percée au niveau frontière. Le CEO a par ailleurs appelé les entreprises à se méfier des fournisseurs fermés, qui leur imposent selon lui une rétention de données et un rapport de force défavorable.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+      "importance": 3,
+      "short_title": "GPT-5.6 lancé au public",
+      "title": "OpenAI lance publiquement GPT-5.6 (Sol, Terra, Luna)",
+      "summary": "OpenAI a annoncé le 8 juillet la sortie publique complète des trois variantes de GPT-5.6, deux semaines après que l'administration Trump a limité leur diffusion à un cercle restreint de partenaires triés sur le volet. Sol, le modèle phare, cible en priorité le code, la science et la cybersécurité offensive/défensive, tandis que Terra et Luna visent respectivement le rapport qualité-prix et le coût minimal.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Meta lit les pensées",
-      "title": "Meta dévoile Brain2Qwerty v2",
-      "summary": "Meta a présenté Brain2Qwerty v2, un système non invasif qui convertit l'activité cérébrale captée par magnétoencéphalographie en texte, avec une précision moyenne de 61%, en net progrès par rapport aux approches non invasives précédentes. Le système combine signaux neuronaux bruts et modèles de langage pour interpréter les enregistrements cérébraux.",
-      "source": "Dataconomy",
-      "url": "https://dataconomy.com/2026/07/01/meta-says-brain2qwerty-v2-turns-brain-activity-into-text/"
+      "importance": 3,
+      "short_title": "Gemini 3.5 Pro retardé",
+      "title": "Google repousse Gemini 3.5 Pro au 17 juillet, Alphabet dévisse",
+      "summary": "Google DeepMind a reporté au 17 juillet la sortie de Gemini 3.5 Pro, après avoir abandonné l'architecture de Gemini 2.5 Pro pour une refonte complète visant le raisonnement mathématique et le contexte à 2 millions de tokens. Le marché a interprété ce report combiné aux départs de chercheurs comme un seul et même signal de faiblesse, effaçant environ 225 milliards de dollars de capitalisation boursière d'Alphabet.",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Cursor arrive sur iOS",
-      "title": "Cursor lance sa bêta publique iOS",
-      "summary": "Cursor propose désormais une application iOS en bêta publique sur tous les plans payants, avec agents autonomes permanents, contrôle à distance et notifications en direct pour piloter des tâches de développement depuis un mobile. L'outil élargit aussi ses marketplaces d'équipe avec des serveurs MCP partagés au niveau organisation.",
-      "source": "Releasebot",
-      "url": "https://releasebot.io/updates/cursor"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "DeepMind perd ses stars",
+      "title": "Quatre chercheurs vedettes quittent DeepMind pour OpenAI et Anthropic",
+      "summary": "En l'espace d'une semaine, Noam Shazeer (co-inventeur du Transformer, co-responsable de Gemini) a rejoint OpenAI, tandis que le prix Nobel John Jumper ainsi que Jonas Adler (responsable du codage chez Gemini, contributeur d'AlphaFold) et Alexander Pritzel ont rejoint Anthropic. Cette hémorragie de talents fragilise directement la capacité de Google à tenir le rythme de la course aux modèles frontière.",
+      "source": "Bind AI",
+      "url": "https://blog.getbind.co/gemini-3-5-pro-slips-to-july-and-four-senior-google-researchers-just-left-for-anthropic/"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "moyen-orient",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Israël baisse son taux",
-      "title": "La Banque d'Israël abaisse son taux à 3,5%",
-      "summary": "La Banque d'Israël a réduit son taux directeur de 25 points de base pour la deuxième réunion consécutive, invoquant une inflation stable et le recul des prix de l'énergie consécutif à la trêve entre Washington et Téhéran. C'est un des premiers exemples concrets d'assouplissement monétaire directement lié à la désescalade au Moyen-Orient.",
-      "source": "WTVB (AP)",
-      "url": "https://wtvbam.com/2026/07/06/bank-of-israel-cuts-key-rate-by-25-bps-as-us-iran-ceasefire-pushes-down-energy-prices/"
+      "short_title": "Mistral: robot navigue",
+      "title": "Mistral dévoile Robostral Navigate pour la robotique physique",
+      "summary": "Mistral a lancé Robostral Navigate, un modèle de 8 milliards de paramètres qui permet à un robot de se déplacer dans un environnement complexe à partir d'une seule caméra RGB et d'instructions en langage naturel, sans capteur de profondeur. Entraîné entièrement en simulation, il atteint 76,6% de réussite sur le benchmark R2R-CE et vise des usages en logistique, entrepôt et hôtellerie, confirmant l'expansion de Mistral vers l'IA physique.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push"
     },
     {
       "id": "n10",
-      "theme": "finance",
-      "subtopic": "macro",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Emploi US en berne",
-      "title": "Créations d'emplois américaines en net ralentissement",
-      "summary": "Les créations d'emplois non agricoles américaines n'ont progressé que de 57 000 en juin, contre environ 113 000 attendus, avec des révisions à la baisse de 74 000 postes sur avril-mai. Le taux de chômage reste à 4,2%, mais la population active continue de se contracter, un signal de tension sur le marché du travail américain.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-jobs-report-june-2026-key-takeaways-on-employment-payrolls"
+      "short_title": "Figma: code layers",
+      "title": "Figma déploie ses 'code layers' issus de Config 2026",
+      "summary": "Annoncées à sa conférence Config fin juin, les 'code layers' de Figma commencent à être déployées en juillet: elles permettent de transformer n'importe quel calque de design en composant interactif codé, d'un clic ou par prompt. Combinées à Figma Motion (timeline, keyframes, export React/CSS), l'outil se positionne comme un espace de travail unifié entre design, code et IA plutôt qu'un simple outil de maquettage.",
+      "source": "CMSWire",
+      "url": "https://www.cmswire.com/digital-experience/figma-launches-code-layers-motion-at-config-2026/"
     },
     {
       "id": "n11",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "FSB encadre l'IA bancaire",
-      "title": "Le FSB consulte sur l'IA responsable en finance",
-      "summary": "Le Financial Stability Board propose 12 pratiques de référence pour l'adoption responsable de l'IA par les institutions financières, couvrant la gouvernance, le cycle de vie des modèles et les risques spécifiques à l'IA générative et agentique. La consultation est ouverte jusqu'au 22 juillet, pour un rapport final attendu en octobre 2026.",
-      "source": "Financial Stability Board",
-      "url": "https://www.fsb.org/2026/06/fsb-consults-on-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/"
+      "short_title": "SpaceX rachète Cursor",
+      "title": "SpaceX prend une option d'achat sur Cursor pour 60Mds$",
+      "summary": "SpaceX a versé 10 milliards de dollars pour des droits de collaboration exclusifs et une option d'achat de Cursor (Anysphere) à 60 milliards de dollars, préemptant une levée en cours qui valorisait déjà l'éditeur à 50 milliards. Anysphere a vu son revenu annualisé passer de 100 millions à environ 4 milliards de dollars entre janvier 2025 et juin 2026, la clôture de l'opération étant attendue au troisième trimestre.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/"
     },
     {
       "id": "n12",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
       "importance": 2,
-      "short_title": "Russie: avancée stoppée",
-      "title": "L'avancée russe s'effondre en Ukraine",
-      "summary": "Les gains territoriaux russes se sont quasiment arrêtés au premier semestre 2026 (à peine 97 km² net), tandis que les pertes militaires explosent: environ 39 500 pertes russes pour le seul mois de juin selon Kyiv. La Russie revendique la prise de Kostiantynivka, mais Zelensky affirme que les combats se poursuivent, alors que l'Ukraine mène une campagne de frappes à moyen et long rayon contre la logistique russe.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/russian-advance-collapses-in-ukraine-as-anxiety-rises-in-moscow"
+      "short_title": "LearnLM bat le tutorat",
+      "title": "Un essai contrôlé montre les gains du tutorat hybride IA-humain",
+      "summary": "Une étude menée par Eedi et Google DeepMind sur 165 élèves de cinq collèges britanniques montre que le tutorat combinant un tuteur humain et LearnLM (modèle de DeepMind conçu pour la pédagogie) surpasse le tutorat humain seul: 66,2% de réussite sur des problèmes inédits contre 60,7%. Les tuteurs ont validé sans modification 76,4% des messages rédigés par l'IA, et certains disent avoir eux-mêmes appris de nouvelles pratiques pédagogiques du modèle.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html"
     },
     {
       "id": "n13",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 1,
-      "short_title": "UE verrouille l'ETS2",
-      "title": "Accord UE sur la réserve de stabilité de l'ETS2",
-      "summary": "Conseil et Parlement européens se sont accordés sur un ajustement de la réserve de stabilité du marché pour l'ETS2, le futur système d'échange de quotas carbone couvrant bâtiments et transport routier. Le mécanisme doit lisser les prix du carbone avant le lancement complet de l'ETS2 prévu en 2028.",
-      "source": "Conseil de l'UE",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/11/ets2-market-stability-reserve-council-and-parliament-reach-provisional-agreement/"
+      "theme": "sante",
+      "subtopic": "medecine",
+      "importance": 3,
+      "short_title": "Pilule orforglipron",
+      "title": "L'orforglipron de Lilly bat le Ozempic oral en phase 3",
+      "summary": "Les résultats complets de l'essai ATTAIN-1, publiés dans le New England Journal of Medicine début juillet, montrent que les patients sous la dose la plus forte d'orforglipron (pilule GLP-1 quotidienne) perdent en moyenne 12,4% de leur poids à 72 semaines, avec près d'un patient sur cinq perdant plus de 20%. Ce résultat positionne le premier GLP-1 oral à grande échelle comme un concurrent sérieux des injectables comme le Wegovy, avec des soumissions réglementaires mondiales prévues dès cette année.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm"
     },
     {
       "id": "n14",
       "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 3,
-      "short_title": "1ère cellule synthétique",
-      "title": "Une cellule synthétique boucle un cycle de vie complet",
-      "summary": "Des chercheurs ont assemblé une cellule entièrement à partir de composants non vivants (liposomes, ADN, 36 enzymes) baptisée SpudCell, qui a grandi, répliqué son ADN et s'est divisée: une première pour une cellule construite intégralement de novo. Elle reste dépendante d'apports externes constants et n'est pas considérée comme vivante, mais ouvre une voie expérimentale vers l'étude des origines du vivant.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
+      "subtopic": "astrophysique",
+      "importance": 1,
+      "short_title": "IA simule kilonovae",
+      "title": "Un modèle d'IA affine la simulation des fusions d'étoiles à neutrons",
+      "summary": "Une équipe internationale associée à GSI/FAIR a entraîné un réseau de neurones pour modéliser le dégagement d'énergie du processus r (formation des éléments lourds) au sein des simulations hydrodynamiques de fusions d'étoiles à neutrons, jusqu'ici l'un des calculs les plus coûteux de l'astrophysique nucléaire. Le gain de rapidité permet de tester beaucoup plus de scénarios et de mieux relier les observations spatiales aux expériences de laboratoire, selon l'étude publiée dans Physical Review D.",
+      "source": "Max Planck Institute (AEI)",
+      "url": "https://www.aei.mpg.de/1249127/breakthrough-in-simulating-how-neutron-stars-collide"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "informatique_quantique",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 1,
-      "short_title": "Preuves quantiques",
-      "title": "Une avancée sur les 'preuves quantiques'",
-      "summary": "Des chercheurs montrent que même pour vérifier des solutions à certains problèmes, la complexité inhérente au monde quantique reste incontournable, un résultat théorique qui affine la frontière entre ce qui est efficacement vérifiable classiquement et quantiquement.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/physics/"
+      "short_title": "UE: paquet climat 2040",
+      "title": "L'UE prépare son paquet climat-énergie 'Fit for 90'",
+      "summary": "Bruxelles prépare pour le second semestre 2026 un ensemble législatif visant une réduction nette de 90% des émissions de gaz à effet de serre d'ici 2040, qui doit actualiser le système d'échange de quotas carbone (ETS) et le mécanisme d'ajustement carbone aux frontières (CBAM). Le débat porte notamment sur le maintien ou l'assouplissement de la tarification carbone pour l'industrie, dans un contexte où l'UE peine à accélérer son électrification face au rythme chinois.",
+      "source": "Clean Energy Wire",
+      "url": "https://www.cleanenergywire.org/news/2026-set-shape-future-eus-climate-and-energy-architecture"
     },
     {
       "id": "n16",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "finance",
+      "subtopic": "sasu",
       "importance": 2,
-      "short_title": "Sommeil, sport, nutrition",
-      "title": "De petits changements de mode de vie allongent la vie",
-      "summary": "Une étude de cohorte sur huit ans montre qu'associer de modestes améliorations simultanées du sommeil (+15 min/jour), de l'activité physique (+1,6 min/jour) et de la qualité alimentaire (+5 points) réduit la mortalité toutes causes de 10%. Prises isolément, ces mêmes améliorations nécessitent des efforts bien plus importants pour un effet comparable, ce qui plaide pour des changements combinés plutôt que séquentiels.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/health/health-news/small-changes-sleep-diet-exercise-live-longer-not-overhaul-studies-rcna252640"
+      "short_title": "Charges micro-entreprise",
+      "title": "Cotisations micro-entreprise en hausse, ACRE réduite au 1er juillet",
+      "summary": "Depuis le 1er juillet 2026, le taux global de cotisations sociales de la micro-entreprise est passé à 26,1% du chiffre d'affaires (contre 25,6% en janvier), tandis que le taux d'exonération ACRE pour les nouvelles créations est ramené de 50% à 25%. Les plafonds de chiffre d'affaires ont en revanche été relevés à 83 600€, ce qui laisse une marge d'environ 6 000€ avant de devoir changer de statut vers l'EURL ou la SASU.",
+      "source": "Nouvelle Vie Pro",
+      "url": "https://www.nouvelleviepro.fr/auto-entrepreneurs-ce-qui-change"
     },
     {
       "id": "n17",
-      "theme": "learn",
-      "subtopic": "metacognition",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Métacognition bat l'IA",
-      "title": "Apprendre à apprendre renforce face à l'IA",
-      "summary": "Une étude mondiale menée par Nord Anglia Education et Boston College montre que les élèves explicitement formés à comprendre leur propre façon d'apprendre renforcent nettement des compétences humaines que l'IA ne peut pas répliquer, jusqu'à 72% sur certaines mesures. Le résultat nourrit le débat sur le risque de 'paresse métacognitive' lié à une délégation excessive aux chatbots génériques.",
-      "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/in-an-ai-world-human-skills-matter-most-global-study-shows-students-strengthen-critical-capabilities-by-up-to-72-302686519.html"
-    },
-    {
-      "id": "n18",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Trêve Iran pétrole recule",
-      "title": "La trêve Iran-USA fait reculer le pétrole",
-      "summary": "Les cours du pétrole ont chuté d'environ 20% depuis leurs pics de 2026, le Brent repassant sous 95$/baril, portés par l'espoir d'une trêve durable entre Washington et Téhéran qui rouvrirait le détroit d'Ormuz au trafic maritime. Des tirs sporadiques (missiles iraniens vers le Koweït, drones vers le détroit) continuent toutefois de peser sur la confiance des marchés.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html"
+      "short_title": "EBA: pertes immobilières",
+      "title": "L'EBA publie ses données 2025 sur les pertes immobilières bancaires",
+      "summary": "L'Autorité bancaire européenne a publié le 6 juillet son jeu de données annuel sur les pertes et expositions liées à l'immobilier résidentiel et commercial dans l'UE/EEE, agrégé à partir du reporting prudentiel des établissements au titre de l'article 430a du CRR. Cette base harmonisée sert de référence aux banques pour calibrer leurs modèles internes de risque de crédit immobilier, un enjeu direct pour les équipes de gestion des risques.",
+      "source": "European Banking Authority",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements"
     }
   ],
   "edges": [
@@ -205,61 +194,61 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "Le cadre de revue de sécurité nationale en cours de finalisation est le dispositif qui a permis au Commerce Department de donner son feu vert à la sortie large de GPT-5.6."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Les deux épisodes relèvent du même dispositif de contrôle export/sécurité nationale déployé par l'administration Trump sur les labs IA depuis juin."
-    },
-    {
-      "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Le doublement du coût de Fable 5 par rapport à Opus pousse les grands comptes comme Microsoft à privilégier leurs propres modèles plutôt que les API Anthropic/OpenAI."
-    },
-    {
-      "source": "n03",
-      "target": "n05",
-      "type": "cause",
-      "explanation": "La hausse des tarifs des labs américains ouvre un espace de prix pour des modèles chinois moins chers, accélérant leur adoption en entreprise."
-    },
-    {
-      "source": "n06",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "L'appel de Mistral à éviter le verrouillage des fournisseurs fermés entre en résonance directe avec la bascule tarifaire subie par les utilisateurs de Fable 5."
+      "explanation": "La reprise des frappes américaines et la révocation de la dérogation pétrolière iranienne suppriment d'un coup l'espoir de désescalade qui avait fait reculer les cours, provoquant le rebond du Brent."
     },
     {
       "source": "n02",
-      "target": "n06",
-      "type": "tension",
-      "explanation": "Le lancement de GPT-5.6 sous contrôle gouvernemental illustre une stratégie de déploiement encadré, à l'opposé de la philosophie open-weight que revendique Mistral avec son prochain modèle frontière."
-    },
-    {
-      "source": "n18",
-      "target": "n09",
+      "target": "n03",
       "type": "cause",
-      "explanation": "Le recul des prix de l'énergie lié à la trêve Iran-USA donne à la Banque d'Israël la marge pour assouplir sa politique monétaire."
+      "explanation": "La flambée du pétrole ravive le risque inflationniste et conforte la Fed dans sa posture restrictive, malgré un marché de l'emploi américain déjà affaibli."
     },
     {
-      "source": "n10",
-      "target": "n09",
+      "source": "n05",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Les frappes russes meurtrières survenues juste avant l'ouverture du sommet renforcent la pression sur les alliés pour acter une nouvelle aide à l'Ukraine et accélérer les objectifs de dépenses de défense."
+    },
+    {
+      "source": "n01",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "L'escalade au Moyen-Orient et le sommet de l'OTAN relèvent du même agenda sécuritaire testé la même semaine par l'administration Trump face à ses alliés et adversaires."
+    },
+    {
+      "source": "n08",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "Le départ de quatre chercheurs clés vers des concurrents directs a nourri la perte de confiance du marché qui a interprété le report de Gemini 3.5 Pro comme le symptôme d'un affaiblissement structurel plus profond."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
       "type": "tension",
-      "explanation": "Alors que la Banque d'Israël assouplit immédiatement face au ralentissement, la Fed reste sur une ligne 'higher for longer' malgré un marché de l'emploi américain qui montre des signes de faiblesse comparables."
+      "explanation": "OpenAI accélère avec un lancement public complet la même semaine où Google DeepMind doit repousser son propre modèle phare, illustrant une divergence de momentum entre les deux labs."
+    },
+    {
+      "source": "n08",
+      "target": "n12",
+      "type": "tension",
+      "explanation": "Au moment où la recherche pédagogique de DeepMind (LearnLM) démontre sa valeur, le laboratoire perd une partie des talents qui pourraient capitaliser sur cet avantage face à des rivaux mieux dotés en chercheurs."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "Le trébuchement de Google et la percée de Mistral sur un nouveau créneau (robotique physique) illustrent la même semaine de recomposition des rapports de force dans la course à l'IA frontière."
     },
     {
       "source": "n11",
-      "target": "n04",
+      "target": "n06",
       "type": "meme_sujet",
-      "explanation": "Le cadre de pratiques saines du FSB pour l'IA en finance fait écho aux arbitrages coût/fournisseur illustrés par le pivot de Microsoft vers ses modèles internes."
+      "explanation": "L'option d'achat de SpaceX sur Cursor et le lancement public de GPT-5.6 traduisent la même dynamique de valorisations records et d'accélération commerciale dans l'écosystème IA cette semaine-là."
     },
     {
-      "source": "n12",
-      "target": "n18",
-      "type": "tension",
-      "explanation": "Les deux conflits suivent des trajectoires opposées cet été: désescalade actée au Moyen-Orient contre enlisement meurtrier en Ukraine malgré les efforts diplomatiques."
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Les 'code layers' de Figma et le rachat de Cursor par SpaceX marquent tous deux la même consolidation des outils de conception et de développement autour de workflows natifs IA."
     }
   ]
 }

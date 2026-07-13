@@ -1,283 +1,260 @@
 {
-  "generated_at": "2026-07-12T09:30:00Z",
+  "generated_at": "2026-07-13T09:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Cessez-le-feu Iran rompu",
-      "title": "Le cessez-le-feu Iran/Israël vole en éclats",
-      "summary": "Des tirs de missiles ont eu lieu des deux côtés pendant les funérailles de l'ayatollah Khamenei, poussant Trump à déclarer publiquement que le cessez-le-feu de juin était terminé. La trêve, en vigueur depuis un mois, était déjà fragile et cet épisode marque la plus forte tension depuis sa signature.",
-      "source": "Modern Diplomacy",
-      "url": "https://moderndiplomacy.eu/2026/07/10/can-july-11-prevent-a-wider-middle-east-war/"
+      "short_title": "Hormuz sous tension",
+      "title": "Nouvelle escalade Iran-Israël-USA autour du détroit d'Hormuz",
+      "summary": "Après plusieurs jours de frappes croisées entre l'Iran et les États-Unis, Téhéran affirme que le détroit d'Hormuz est fermé « jusqu'à nouvel ordre », ce que dément le CENTCOM américain qui poursuit ses opérations pour garantir la liberté de navigation. Donald Trump a déclaré que le mémorandum de cessez-le-feu signé en juin était désormais caduc, après trois vagues de frappes américaines ayant visé environ 300 cibles iraniennes en trois nuits.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Tankers visés à Hormuz",
-      "title": "Washington accuse l'Iran d'avoir visé trois pétroliers dans le détroit d'Hormuz",
-      "summary": "Trois navires commerciaux, dont un pétrolier saoudien et un qatari, auraient été frappés alors qu'ils transitaient par le détroit d'Hormuz. L'ONU s'est dite alarmée, jugeant qu'un retour à un conflit ouvert aurait des conséquences économiques mondiales majeures.",
-      "source": "Modern Diplomacy",
-      "url": "https://moderndiplomacy.eu/2026/07/10/can-july-11-prevent-a-wider-middle-east-war/"
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Ukraine: trêves rivales",
+      "title": "Ukraine et Russie annoncent des trêves que l'autre camp rejette",
+      "summary": "Kiev et Moscou ont chacun proclamé un cessez-le-feu unilatéral à des dates différentes, sans qu'aucune des deux parties n'accepte le calendrier de l'autre. La Russie affirme avoir pris le contrôle de Kostiantynivka dans le Donbass, ce que l'Ukraine dément, illustrant l'enlisement diplomatique du conflit.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "Pourparlers Iran-US",
-      "title": "Les discussions techniques Iran/USA maintenues malgré l'escalade",
-      "summary": "Un nouveau round de pourparlers techniques était prévu le 11 juillet pour prolonger le mémorandum signé le 17 juin, censé traiter en soixante jours le nucléaire iranien, les sanctions et les avoirs gelés. Aucune des parties n'a annoncé l'annulation des discussions malgré les frappes récentes.",
-      "source": "Modern Diplomacy",
-      "url": "https://moderndiplomacy.eu/2026/07/10/can-july-11-prevent-a-wider-middle-east-war/"
+      "short_title": "Le Pen validée pour 2027",
+      "title": "La justice française autorise Marine Le Pen à se présenter en 2027",
+      "summary": "La cour d'appel de Paris a confirmé sa condamnation pour détournement de fonds européens mais a ramené sa peine d'inéligibilité à 45 mois, dont 30 avec sursis, lui permettant théoriquement de se présenter. Marine Le Pen a annoncé qu'elle sera candidate aux côtés de Jordan Bardella et qu'elle se pourvoira en cassation.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/france-far-right-marine-le-pen-presidential-election-macron-rcna353271"
     },
     {
       "id": "n04",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent bondit à 78$",
-      "title": "Le Brent grimpe à environ 78 dollars après les frappes sur les tankers",
-      "summary": "Le baril est repassé d'environ 71 à 78 dollars en quelques jours, une hausse hebdomadaire de près de 4%, après la rupture du cessez-le-feu et les incidents dans le détroit d'Hormuz. L'AIE table toutefois sur un retour vers 74 dollars au troisième trimestre si la production mondiale se stabilise.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-08-2026/"
+      "short_title": "Brent proche de 79$",
+      "title": "Le Brent repasse près de 79 dollars",
+      "summary": "Le baril de Brent est remonté vers 79 dollars, en hausse de plus de 5% sur la semaine, porté par la dispute sur la fermeture du détroit d'Hormuz et la reprise des frappes. Les prix avaient pourtant reflué sous 70 dollars début juillet après les premiers signaux de désescalade.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/iran-says-strait-hormuz-closed-131305018.html"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "emploi",
-      "importance": 2,
-      "short_title": "Fed prudente sur taux",
-      "title": "La Fed refroidit les anticipations de hausse de taux avant sa réunion du 28-29 juillet",
-      "summary": "Le président de la Fed Kevin Warsh a jugé l'inflation encore trop élevée sans s'engager sur la décision de juillet, alors qu'un rapport sur l'emploi américain plus faible que prévu réduit les paris sur un relèvement des taux. Les taux directeurs restent inchangés entre 3,50% et 3,75% depuis juin.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html"
+      "subtopic": "france",
+      "importance": 3,
+      "short_title": "INSEE abaisse croissance",
+      "title": "L'Insee abaisse sa prévision de croissance 2026 à 0,7%",
+      "summary": "Dans sa note de conjoncture, l'Insee cite explicitement le choc énergétique lié aux tensions au Moyen-Orient et un fort recul du pouvoir d'achat des ménages pour expliquer cette révision à la baisse. L'institut anticipe aussi une remontée du chômage à 8,4% fin 2026 et une inflation à 2,7% sur l'année, contre moins de 1% avant le conflit.",
+      "source": "Insee",
+      "url": "https://www.insee.fr/fr/statistiques/8907421?sommaire=8907467"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "bce",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "BCE proche d'une hausse",
-      "title": "La BCE s'oriente vers un nouveau tour de vis monétaire",
-      "summary": "Après avoir relevé ses taux en juin, la BCE table sur une inflation encore supérieure à 2% en 2027 et 2028, ce qui laisse la porte ouverte à un nouveau resserrement si les prévisions de cœur d'inflation ne sont pas révisées à la baisse. La trajectoire reste plus restrictive que celle de la Fed.",
-      "source": "ING Think",
-      "url": "https://think.ing.com/articles/our-latest-views-on-the-major-central-banks-july-2026"
+      "short_title": "Fed: semaine à risque",
+      "title": "La Fed sous pression avant l'audition de Kevin Warsh",
+      "summary": "Le président de la Fed doit livrer mardi sa première audition devant le Congrès, dans une semaine chargée en indicateurs (CPI, PPI) alors que la prévision d'inflation 2026 de la banque centrale a été relevée à 3,6%. Les marchés surveillent si la remontée des prix du pétrole va encore compliquer la trajectoire des taux.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "frtb",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "FRTB: sursis pour l'UE",
-      "title": "Bruxelles accorde un sursis temporaire aux banques européennes sur la FRTB",
-      "summary": "La Commission européenne a adopté des ajustements transitoires à la FRTB, avec un multiplicateur destiné à limiter l'impact en capital pour les banques de l'UE, applicables trois ans à partir de janvier 2027. La mesure vise à préserver la compétitivité européenne pendant que d'autres juridictions retardent elles aussi leur mise en œuvre.",
-      "source": "European Commission",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+      "short_title": "Fable 5 de retour",
+      "title": "Anthropic redéploie Claude Fable 5 dans le monde entier",
+      "summary": "Après la découverte par des chercheurs d'Amazon d'une faille permettant de faire écrire du code exploitant une vulnérabilité, Washington avait imposé le 12 juin des contrôles à l'export bloquant l'accès de Fable 5 et Mythos 5 aux utilisateurs non américains, poussant Anthropic à suspendre les deux modèles pour tous. Les autorités ont levé ces restrictions le 30 juin après qu'Anthropic a déployé un nouveau classificateur bloquant la technique dans plus de 99% des cas.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/01/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 3,
-      "short_title": "GPT-5.6 lancé au public",
-      "title": "OpenAI lance publiquement GPT-5.6 après une revue de sécurité gouvernementale",
-      "summary": "La famille GPT-5.6 (Sol, Terra, Luna) est désormais disponible dans ChatGPT, Codex et l'API après une diffusion restreinte imposée par Washington, la revue portant spécifiquement sur les capacités cyber de Sol jugées les plus avancées du marché pour la recherche de vulnérabilités. Sam Altman revendique aussi un gain d'efficacité de 54% sur les tâches de code.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-5-6/"
+      "short_title": "SpaceX rachète Cursor",
+      "title": "SpaceX rachète Cursor pour 60 milliards de dollars",
+      "summary": "SpaceX exerce une option d'achat pour acquérir Anysphere, la société derrière l'éditeur de code IA Cursor, dans une opération entièrement en actions qui constituerait le plus gros rachat de l'histoire des startups soutenues par du capital-risque. Anysphere a atteint environ 4 milliards de dollars de revenus annualisés en juin, contre 100 millions dix-huit mois plus tôt.",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/spacex-buys-anysphere-cursor-60b-all-stock-xai-enterprise-ai/"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "regulation",
       "importance": 3,
-      "short_title": "Claude gouvernement 1$",
-      "title": "Anthropic ouvre Claude aux trois pouvoirs de l'État américain pour 1 dollar",
-      "summary": "Anthropic étend l'accès à Claude for Enterprise et Claude for Government aux agences fédérales exécutives ainsi qu'au législatif et au judiciaire, facturé symboliquement 1 dollar. Claude Code et Claude Cowork passent aussi en bêta publique dans un environnement certifié FedRAMP High.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government"
+      "short_title": "AI Act: échéance août",
+      "title": "L'UE active ses premières sanctions au titre de l'AI Act",
+      "summary": "À partir du 2 août, les obligations de transparence de l'article 50 (signalement des chatbots, marquage des contenus synthétiques) deviennent opposables, et la Commission pourra pour la première fois sanctionner les fournisseurs de modèles généralistes, rétroactivement depuis août 2025. La mise en œuvre reste très inégale selon les États membres: la France n'avait toujours pas notifié d'autorité compétente à la Commission en juin.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/320101/20260710/eu-ai-act-enforcement-here-chatbot-rules-live-high-risk-ai-delay-now-binding-law.htm"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Sonnet 5 par défaut",
-      "title": "Claude Sonnet 5 devient le modèle par défaut de Claude Code",
-      "summary": "Sonnet 5 est désormais le modèle par défaut sur les offres gratuites et Pro ainsi que dans Claude Code, avec un tarif promotionnel de 2$/10$ par million de tokens jusqu'au 31 août. Anthropic le présente comme son Sonnet le plus agentique, capable de planifier et d'utiliser des outils de façon autonome.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5"
+      "short_title": "Nvidia lâche la Chine",
+      "title": "Nvidia renonce de fait au marché chinois des puces IA",
+      "summary": "De nouvelles restrictions américaines sur l'export des puces Blackwell vers la Chine ont conduit Jensen Huang à reconnaître avoir « largement concédé » ce marché à Huawei, la part de marché de Nvidia y étant tombée à environ 50% contre plus de 90% quelques années plus tôt. L'entreprise n'a comptabilisé aucun revenu de data centers en Chine sur son dernier trimestre.",
+      "source": "The Wire China",
+      "url": "https://www.thewirechina.com/2026/07/02/nvidia-uses-the-specter-of-huawei-to-make-its-chip-exports-case/"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Mistral lance Robostral",
-      "title": "Mistral se positionne sur l'IA physique avec Robostral Navigate",
-      "summary": "Le nouveau modèle permet à des robots de naviguer dans des environnements complexes à partir d'une simple caméra et de commandes en langage naturel, sans être lié à un fournisseur de matériel particulier. C'est une diversification notable pour Mistral, qui prépare par ailleurs une nouvelle famille de modèles frontière en accès anticipé.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push"
+      "short_title": "Meta lance Muse Image",
+      "title": "Meta lance Muse Image pour rattraper son retard en IA générative",
+      "summary": "Le nouveau modèle de génération d'images Muse Image est déployé dans Meta AI, Instagram et WhatsApp, avec plus de 30 nouveaux effets, mais suscite déjà une controverse sur l'utilisation des photos des utilisateurs pour l'entraîner. Meta prépare également un modèle plus ambitieux, nom de code Watermelon, dont les performances internes approcheraient déjà GPT-5.5.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/07/ai-meta-image-generator"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Gemini 3.5 Pro retardé",
-      "title": "Google repousse Gemini 3.5 Pro au 17 juillet pour une refonte complète",
-      "summary": "Google DeepMind abandonne l'architecture de Gemini 2.5 Pro pour reconstruire Gemini 3.5 Pro, avec pour objectif d'améliorer le raisonnement mathématique et la génération d'images, tout en intégrant les retours des testeurs sur la consommation de tokens. C'est le troisième report du modèle, qui reste en prévisualisation entreprise limitée sur Vertex AI.",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a"
+      "theme": "climat",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "IA assoiffe le réseau",
+      "title": "La demande électrique de l'IA percute la politique énergétique américaine",
+      "summary": "Une vague de chaleur qui met le réseau électrique américain sous tension révèle l'ampleur du dilemme: l'essor des centres de données IA fait grimper la demande d'électricité au moment même où l'administration Trump restreint l'éolien et le solaire. Selon les estimations citées, près de la moitié des projets de centres de données prévus en 2026 pourraient être retardés faute de capacité réseau disponible.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/07/climate/trump-electricity-bills-renewables-energy-costs"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "design",
+      "theme": "climat",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Figma: code layers IA",
-      "title": "Figma transforme ses calques en code exécutable à Config 2026",
-      "summary": "Figma introduit des \"code layers\" permettant de transformer n'importe quel calque en composant de code interactif d'un clic ou d'un prompt, ainsi que des connecteurs MCP vers GitHub, Linear ou Slack pour que l'agent Figma importe du contexte produit en direct. Le canevas gagne aussi des outils de mouvement, de 3D et de shaders.",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/config-2026-recap/"
+      "short_title": "Solaire dépasse charbon",
+      "title": "Le solaire dépasse le charbon aux États-Unis, une première",
+      "summary": "En mai 2026, le solaire a fourni 12,8% de l'électricité américaine contre 12,2% pour le charbon, un basculement historique porté par un record de production mensuelle. Le charbon a vu sa part quasiment divisée par deux en cinq ans, tombant de 19,7% à 12,2%.",
+      "source": "Ember",
+      "url": "https://ember-energy.org/latest-updates/solar-overtakes-coal-in-us-electricity-for-the-first-month-on-record/"
     },
     {
       "id": "n14",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "sciences",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Vercel: linter agentique",
-      "title": "Vercel lance un linter structurel pensé pour le code généré par des agents",
-      "summary": "\"Konsistent\" vise à garder les conventions d'implémentation TypeScript lisibles à la fois par les humains et par les agents IA, en complément d'un mode dry-run pour les déploiements CLI. L'outil répond à un problème croissant : la cohérence du code produit massivement par des agents de type Cursor ou Claude Code.",
-      "source": "Art Direction Daily",
-      "url": "https://artdirectiondaily.com/issues/2026-07-02-pick-the-interface-first.html"
+      "short_title": "Médicaments anti-âge",
+      "title": "Un cadre de calcul identifie des médicaments existants contre le vieillissement",
+      "summary": "Publiée dans Nature Aging, cette étude cartographie 2358 gènes liés à la longévité sur l'interactome humain pour repérer, parmi 6442 composés déjà approuvés, ceux susceptibles de contrer les marqueurs moléculaires du vieillissement. L'approche de repositionnement de médicaments existants promet d'être plus rapide et moins coûteuse que la découverte de nouvelles molécules.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-06-drugs-repurposed-longevity-network-aging.html"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "GLP-1 et sport combinés",
-      "title": "Associer sport et GLP-1 démultiplie les bénéfices de santé à long terme",
-      "summary": "Une étude multinationale montre que combiner un traitement GLP-1 à une activité physique structurée améliore les résultats de santé sur la durée et réduirait les coûts de système de santé, avec un retour sur investissement estimé à 496% aux États-Unis sur dix ans. Le constat contraste avec une autre observation : les patients sous GLP-1 réduisent en moyenne leur nombre de pas quotidiens.",
-      "source": "Health & Fitness Association",
-      "url": "https://www.healthandfitness.org/exercise-improves-the-long-term-benefits-of-glp-1-drugs-new-multinational-study-finds/"
+      "theme": "sciences",
+      "subtopic": "sante",
+      "importance": 1,
+      "short_title": "Résilience Alzheimer",
+      "title": "Pourquoi certains cerveaux résistent mieux à la maladie d'Alzheimer",
+      "summary": "Une étude néerlandaise montre que la résilience cognitive face à la maladie d'Alzheimer ne dépend pas du nombre de neurones immatures présents dans l'hippocampe, mais de leur comportement: chez les personnes résilientes, ces cellules expriment davantage de gènes de survie et moins de gènes pro-inflammatoires. Cette piste ouvre des perspectives thérapeutiques ciblant ce mécanisme de protection naturel.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125709.htm"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "france",
-      "importance": 1,
-      "short_title": "Gaz réglementé +4,5%",
-      "title": "Le tarif réglementé du gaz augmente de 4,5% en France au 1er juillet",
-      "summary": "La hausse alourdit d'environ 50 euros la facture annuelle des ménages se chauffant au gaz. Elle s'inscrit dans une série de changements du 1er juillet incluant aussi une revalorisation des pensions Agirc-Arrco et une nouvelle taxe sur les petits colis importés destinée à financer la transition écologique.",
-      "source": "Journal de l'Économie",
-      "url": "https://www.journaldeleconomie.fr/quotidien-les-changements-de-juillet-2026/"
+      "theme": "sante",
+      "subtopic": "streetlifting",
+      "importance": 2,
+      "short_title": "Streetlifting: sommeil",
+      "title": "Sommeil et masse maigre, facteurs clés de performance en streetlifting",
+      "summary": "Une revue de la littérature sur le streetlifting, discipline qui allie callisthénie et charges lourdes progressives, souligne le rôle combiné de la nutrition, de la masse maigre et du sommeil dans l'optimisation de la performance. Les auteurs pointent le manque de protocoles standardisés pour cette discipline encore jeune, en plein essor notamment en Europe.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12788023/"
     },
     {
       "id": "n17",
-      "theme": "sciences",
-      "subtopic": "japon",
-      "importance": 2,
-      "short_title": "Bactérie tue tumeurs",
-      "title": "Une bactérie intestinale de grenouille élimine des tumeurs colorectales chez la souris",
-      "summary": "Des chercheurs du JAIST ont identifié Ewingella americana, une bactérie du tube digestif de grenouilles japonaises, capable de faire disparaître totalement des tumeurs colorectales en une seule injection intraveineuse chez la souris. Elle agit par un double mécanisme : elle s'accumule dans l'environnement tumoral pauvre en oxygène tout en activant la réponse immunitaire.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260709160655.htm"
-    },
-    {
-      "id": "n18",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "learn",
+      "subtopic": "llm_agents",
       "importance": 1,
-      "short_title": "Essor du vibe coding",
-      "title": "Les outils de vibe coding se professionnalisent et se multiplient",
-      "summary": "Cursor s'impose comme IDE par défaut des développeurs professionnels, Bolt.new évolue vers une plateforme full-stack complète et Lovable atteint une valorisation de 6,6 milliards de dollars. De nouveaux entrants comme Bezier AI cherchent à se faire une place face à ces acteurs déjà installés.",
-      "source": "EIN Presswire",
-      "url": "https://www.einpresswire.com/article/925750819/the-rise-of-ai-website-builders-where-bezier-ai-fits-among-cursor-lovable-bolt-new-v0-replit-and-github-copilot"
+      "short_title": "Tutorat IA: prudence",
+      "title": "Le tutorat par IA générative aide surtout si l'accompagnement est structuré",
+      "summary": "Une étude quasi expérimentale menée auprès de 175 étudiants montre qu'un tutorat par IA générative structuré selon un cadre d'objectifs et de contraintes améliore l'acquisition de connaissances, la motivation et la réflexion métacognitive. À l'inverse, un usage non cadré du chatbot présente un risque de « paresse métacognitive » et de désengagement à long terme.",
+      "source": "MDPI",
+      "url": "https://www.mdpi.com/2227-7102/16/4/651"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "La rupture du cessez-le-feu et l'escalade militaire ouvrent la voie à des actions plus risquées contre le trafic maritime dans le détroit d'Hormuz."
-    },
-    {
-      "source": "n02",
       "target": "n04",
       "type": "cause",
-      "explanation": "Une menace crédible sur le trafic pétrolier dans un point de passage stratégique fait immédiatement grimper la prime de risque sur le Brent."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Frappes militaires et poursuite des pourparlers techniques coexistent, révélant un écart entre l'escalade rhétorique et la volonté de préserver la voie diplomatique."
-    },
-    {
-      "source": "n04",
-      "target": "n16",
-      "type": "cause",
-      "explanation": "La remontée des prix de l'énergie sur les marchés mondiaux se répercute directement sur les tarifs réglementés du gaz payés par les ménages français."
+      "explanation": "La fermeture annoncée du détroit d'Hormuz et la reprise des frappes ravivent la prime de risque géopolitique sur le baril, qui repart à la hausse après le reflux lié au cessez-le-feu de juin."
     },
     {
       "source": "n04",
       "target": "n05",
       "type": "cause",
-      "explanation": "Un pétrole plus cher ravive le risque inflationniste que la Fed doit arbitrer face à un marché du travail déjà affaibli."
+      "explanation": "La remontée du Brent constitue précisément le choc énergétique que l'Insee cite pour justifier sa révision à la baisse de la croissance française et de son inflation."
     },
     {
-      "source": "n05",
+      "source": "n04",
       "target": "n06",
+      "type": "cause",
+      "explanation": "Un pétrole plus cher complique l'équation inflationniste américaine au moment où Kevin Warsh doit défendre devant le Congrès une prévision d'inflation déjà relevée à 3,6%."
+    },
+    {
+      "source": "n01",
+      "target": "n02",
       "type": "meme_sujet",
-      "explanation": "Fed et BCE affrontent le même dilemme inflation/croissance au même moment, mais penchent pour des trajectoires de taux opposées."
+      "explanation": "Deux cessez-le-feu s'effondrent simultanément cette semaine, au Moyen-Orient et en Ukraine, mettant à l'épreuve les mêmes leviers diplomatiques américains sur deux théâtres à la fois."
     },
     {
-      "source": "n06",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Politique monétaire de la BCE et calendrier réglementaire FRTB forment les deux fronts simultanés de la régulation financière européenne."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Washington a imposé un ralentissement de GPT-5.6 le temps d'une revue de sécurité cyber, tandis qu'Anthropic pousse à l'inverse un accès gouvernemental élargi et quasi gratuit : deux stratégies opposées face à la même demande d'IA dans l'État."
-    },
-    {
-      "source": "n09",
+      "source": "n07",
       "target": "n10",
       "type": "meme_sujet",
-      "explanation": "Deux annonces Anthropic de la même semaine qui traduisent la même stratégie d'expansion agressive de la distribution de Claude, côté gouvernement comme côté grand public."
+      "explanation": "Washington actionne deux leviers juridiques distincts pour contenir la diffusion de l'IA frontière au même moment: le contrôle à l'export appliqué aux poids de Fable 5, et les restrictions à l'export visant les puces Nvidia destinées à la Chine."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "L'épisode des contrôles à l'export sur Fable 5 et l'entrée en vigueur des sanctions de l'AI Act européen illustrent, de part et d'autre de l'Atlantique, un même resserrement réglementaire sur les modèles de pointe."
     },
     {
       "source": "n08",
       "target": "n12",
-      "type": "tension",
-      "explanation": "La sortie publique de GPT-5.6 accroît la pression concurrentielle sur Google, qui choisit pourtant de retarder Gemini 3.5 Pro plutôt que de livrer un modèle jugé pas assez abouti."
+      "type": "cause",
+      "explanation": "Le rachat de Cursor par SpaceX capitalise davantage une plateforme de codage agentique dont l'usage croissant ajoute à la demande de calcul qui met le réseau électrique américain sous tension."
     },
     {
       "source": "n11",
-      "target": "n12",
-      "type": "tension",
-      "explanation": "Mistral multiplie les lancements de niche pour exister face aux géants, quand Google préfère ralentir son modèle phare : deux réponses opposées à la pression du marché frontier."
-    },
-    {
-      "source": "n18",
-      "target": "n14",
-      "type": "cause",
-      "explanation": "La prolifération d'outils de génération de code par IA pousse Vercel à créer des garde-fous de cohérence pour absorber ce volume de code produit par des agents."
-    },
-    {
-      "source": "n13",
-      "target": "n18",
+      "target": "n07",
       "type": "meme_sujet",
-      "explanation": "Figma et les outils de vibe coding convergent vers la même promesse : transformer le langage naturel ou le design en code fonctionnel directement exploitable."
+      "explanation": "Le rattrapage de Meta en génération d'images et le retour de Fable 5 chez Anthropic sont deux mouvements de la même course de mi-2026 entre laboratoires IA pour reprendre l'avantage capacitaire."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "tension",
+      "explanation": "L'explosion de la demande électrique liée à l'IA plaide pour développer toutes les sources de production disponibles, en tension directe avec la politique anti-renouvelables de l'administration Trump, alors même que le solaire vient de dépasser le charbon."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "Les deux études s'appuient sur des réseaux biologiques déjà existants — interactome gènes-médicaments d'un côté, résilience neuronale naturelle de l'autre — plutôt que sur la découverte de nouvelles molécules ou thérapies géniques."
+    },
+    {
+      "source": "n07",
+      "target": "n17",
+      "type": "tension",
+      "explanation": "Des modèles plus capables et plus accessibles (retour de Fable 5, montée en puissance des labs) accélèrent l'adoption de l'IA comme outil d'étude, exacerbant justement le risque de « paresse métacognitive » que pointe cette étude sur le tutorat."
     }
   ]
 }

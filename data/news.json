@@ -1,203 +1,225 @@
 {
-  "generated_at": "2026-07-14T10:30:00Z",
+  "generated_at": "2026-07-15T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz sous tension",
-      "title": "Reprise des frappes autour du détroit d'Ormuz",
-      "summary": "Après l'effondrement du cessez-le-feu conclu en juin, les Etats-Unis et l'Iran ont repris leurs frappes autour du détroit d'Ormuz, avec des attaques visant des pétroliers. Washington a par ailleurs révoqué une autorisation de vente de pétrole iranien, durcissant encore la pression sur Téhéran.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html"
+      "short_title": "Frappes 3e nuit Ormuz",
+      "title": "Troisième nuit de frappes US sur l'Iran, blocus d'Ormuz réactivé",
+      "summary": "Washington a mené une troisième nuit consécutive de frappes contre l'Iran tandis que Donald Trump annonçait la réinstauration d'un blocus des navires iraniens dans le détroit d'Ormuz, avant de reculer sur l'idée d'un péage de transit un temps évoquée. Le président a par ailleurs notifié au Congrès la reprise officielle des hostilités, ouvrant une nouvelle fenêtre de 60 jours d'action militaire sans vote parlementaire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Brent bondit à $79",
-      "title": "Le Brent bondit à ~79$ sur la crise d'Ormuz",
-      "summary": "Le Brent a grimpé d'environ 4% lundi pour atteindre près de 79$, son plus haut niveau depuis fin juin, après la reprise des échanges de frappes entre Washington et Téhéran. Le détroit d'Ormuz, qui écoulait environ 130 navires par jour et un cinquième du pétrole mondial avant la guerre, reste un point de fragilité majeur pour les marchés de l'énergie.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz"
+      "short_title": "Iran frappe la Jordanie",
+      "title": "L'Iran cible une base américaine en Jordanie",
+      "summary": "Les Gardiens de la révolution ont revendiqué des tirs de missiles balistiques contre la base aérienne du Prince Hassan en Jordanie, présentés comme une riposte aux frappes américaines sur les côtes iraniennes. L'armée jordanienne affirme avoir intercepté la majorité des projectiles, mais l'épisode illustre l'élargissement géographique du conflit au-delà du seul territoire iranien.",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com/news/2026-07-14/Iran-targets-US-base-in-Jordan-Houthis-strike-Saudi-Arabia-1OM06k9W1WM/p.html"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "macro",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "CPI US de juin",
-      "title": "Publication du CPI américain de juin, attendu en repli",
-      "summary": "Le CPI de juin, publié ce mardi, est attendu en léger repli grâce à la chute d'environ 10% des prix à la pompe en juin, elle-même liée au cessez-le-feu qui avait rouvert le détroit d'Ormuz. Le consensus table sur un ralentissement de l'inflation annuelle à environ 3,9% contre 4,2% en mai, mais la reprise des frappes fait planer un risque de retournement pour les mois suivants.",
-      "source": "IG UK",
-      "url": "https://www.ig.com/uk/trading-strategies/us-cpi-june-2026-preview-what-to-expect-tomorrow-260713"
+      "short_title": "Houthis visent l'Arabie",
+      "title": "Les Houthis frappent l'aéroport saoudien d'Abha",
+      "summary": "Le mouvement houthi a revendiqué des tirs de missiles et de drones contre l'aéroport international d'Abha en Arabie saoudite, en représailles à des frappes attribuées à Riyad sur l'aéroport de Sanaa. Cette escalade rompt une accalmie observée depuis 2022 entre les deux parties et a conduit le Conseil de sécurité de l'ONU à tenir une réunion d'urgence.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/13/yemen-houthis-airport-saudi-strikes/3eb0c79c-7eae-11f1-8a16-393bd03340b0_story.html"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "macro",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Warsh au Congrès",
-      "title": "Le président de la Fed Warsh témoigne devant le Congrès",
-      "summary": "Kevin Warsh, nouveau président de la Fed, entame mardi sa première audition de politique monétaire devant le Congrès, dans un contexte où il a abandonné les indications prospectives traditionnelles au profit d'une approche strictement pilotée par les données. Il a récemment jugé l'inflation \"encore trop élevée\".",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html"
+      "short_title": "Complot Ahmadinejad",
+      "title": "Révélation d'un plan israélien pour installer Ahmadinejad",
+      "summary": "Le New York Times révèle qu'Israël a mené pendant des années une opération secrète visant à recruter l'ex-président iranien Mahmoud Ahmadinejad, via notamment une rencontre à Budapest avec le chef du Mossad, dans l'idée de l'installer à la tête d'un futur régime post-Khamenei. Ahmadinejad serait désormais assigné à résidence par les Gardiens de la révolution après la découverte de ces contacts.",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/report-ahmadinejad-met-mossad-chief-under-israeli-plan-to-install-him-as-iran-leader/"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "banques",
-      "importance": 2,
-      "short_title": "Saison résultats banques",
-      "title": "JPMorgan et Goldman Sachs ouvrent la saison des résultats",
-      "summary": "JPMorgan Chase et Goldman Sachs publient mardi leurs résultats du deuxième trimestre, suivis dans la semaine par Bank of America, Wells Fargo et Citigroup. Les investisseurs scrutent la solidité des consommateurs, les risques de crédit et les perspectives de taux dans un contexte d'inflation encore élevée.",
-      "source": "FX Leaders",
-      "url": "https://www.fxleaders.com/news/2026/07/13/forex-signals-brief-july-14-jpmorgan-bac-gs-wfc-and-citigroup-earnings-preview-tuesday/"
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent grimpe à $87",
+      "title": "Le Brent bondit à 87$ sur la crainte d'un blocage d'Ormuz",
+      "summary": "Le Brent a grimpé de plus de 10% sur la semaine pour retoucher les 87$, un plus haut depuis juin, après la réinstauration du blocus américain sur les navires iraniens. Le trafic de pétroliers dans le détroit d'Ormuz serait quasiment à l'arrêt, ravivant les craintes d'une contraction durable de l'offre mondiale.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "GPT-5.6 lancé",
-      "title": "OpenAI lance GPT-5.6 (Sol, Terra, Luna) et ChatGPT Work",
-      "summary": "OpenAI a ouvert au public GPT-5.6, décliné en trois niveaux (Sol pour le raisonnement frontière, Terra pour l'usage quotidien, Luna pour la rapidité/coût), après un déploiement échelonné validé par l'administration américaine pour des raisons de sécurité. Le lancement s'accompagne de ChatGPT Work, un agent visant à accomplir des tâches complètes plutôt que de simples réponses.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 2,
+      "short_title": "Wall Street plonge",
+      "title": "Wall Street recule, les compagnies aériennes chutent",
+      "summary": "Les indices américains ont reculé alors que la remontée du pétrole liée au conflit iranien pesait sur le sentiment de marché, le Dow perdant plus de 500 points sur la séance. Les valeurs aériennes ont été parmi les plus touchées tandis que les pétrolières progressaient, un basculement sectoriel classique en période de choc énergétique.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Fable 5 prolongé",
-      "title": "Anthropic prolonge l'accès gratuit à Claude Fable 5",
-      "summary": "Pour la deuxième fois en une semaine, Anthropic prolonge jusqu'au 19 juillet l'accès gratuit à Claude Fable 5 pour ses abonnés, une réponse apparente au lancement de GPT-5.6 par OpenAI. La manœuvre illustre l'intensification de la concurrence commerciale entre les deux labs sur l'accès aux modèles de pointe.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/07/13/ai-model-wars-anthropic-extends-fable-access-again-after-openais-sol-release/"
+      "short_title": "Fed sous pression",
+      "title": "La Fed de Warsh sous pression avant sa décision du 29 juillet",
+      "summary": "Le président de la Fed Kevin Warsh, qui juge déjà l'inflation \"encore trop élevée\", doit statuer le 29 juillet dans un contexte compliqué par la flambée du pétrole liée à la crise iranienne. Une partie du comité de politique monétaire évoquait même des hausses de taux avant ce choc, ce qui restreint la marge de manoeuvre de la banque centrale si l'énergie continue de renchérir l'inflation.",
+      "source": "fori.us",
+      "url": "https://fori.us/july-fed-decision-2026-interest-rate-forecast/"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Gemini 3.5 reporté",
-      "title": "Gemini 3.5 Pro reporté au 17 juillet pour refonte",
-      "summary": "Selon des sources non officielles, Google DeepMind aurait repoussé le lancement de Gemini 3.5 Pro au 17 juillet, abandonnant l'architecture de Gemini 2.5 Pro pour une refonte complète visant à rivaliser avec GPT-5.6 et Claude Fable 5. Aucune fiche modèle ni tarification n'a toutefois été officiellement publiée par Google à ce stade.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm"
+      "short_title": "EBA revoit le SREP",
+      "title": "L'Autorité bancaire européenne finalise la révision du SREP",
+      "summary": "L'EBA a franchi une nouvelle étape dans la révision de ses lignes directrices SREP, le processus de supervision et d'évaluation prudentielle utilisé pour calibrer les exigences de fonds propres des banques européennes. L'ACPR salue une avancée dans l'effort de simplification du reporting prudentiel, un chantier suivi de près par les équipes risques et XVA des banques concernées.",
+      "source": "ACPR - Banque de France",
+      "url": "https://acpr.banque-france.fr/fr/actualites/lautorite-bancaire-europeenne-franchit-une-nouvelle-etape-dans-lamelioration-de-lefficacite-de-la"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Le J-space de Claude",
-      "title": "Anthropic découvre un espace latent caché chez Claude",
-      "summary": "Une nouvelle technique de sondage développée par Anthropic a révélé l'existence d'un espace interne aux modèles Claude, surnommé le \"J-space\", rempli de mots qui n'apparaissent jamais dans les réponses mais semblent influencer le raisonnement du modèle. MIT Technology Review souligne que la portée exacte de cette découverte sur l'interprétabilité reste à préciser.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      "short_title": "Claude pour profs",
+      "title": "Anthropic lance Claude for Teachers",
+      "summary": "Anthropic ouvre aux enseignants du K-12 américain un accès gratuit à des fonctionnalités premium de Claude, avec des compétences pédagogiques calées sur les standards académiques des 50 Etats et une connexion à des curricula reconnus comme OpenSciEd. Les données partagées par les enseignants ne servent pas à l'entraînement des modèles, un argument de confiance central face à la méfiance du monde éducatif envers l'IA générative.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-for-teachers"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "regulation",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Apple attaque OpenAI",
-      "title": "Apple poursuit OpenAI pour vol de secrets industriels",
-      "summary": "Apple accuse OpenAI d'avoir orchestré un vol systématique de secrets industriels via plus de 400 anciens employés d'Apple désormais chez OpenAI, notamment son responsable matériel Tang Tan, pour développer ses propres appareils grand public. OpenAI dément tout intérêt pour les secrets industriels d'autrui.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+      "short_title": "Enceinte IA d'OpenAI",
+      "title": "OpenAI prépare une enceinte IA sans écran",
+      "summary": "OpenAI travaillerait sur un haut-parleur mobile sans écran conçu comme un compagnon IA domestique, son premier produit matériel grand public, capable de contrôler des appareils connectés et de s'appuyer sur ChatGPT. Le même jour, l'entreprise assouplissait aussi les limites d'usage horaires de Codex et ChatGPT Work pour ses abonnés payants.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "design",
-      "importance": 2,
-      "short_title": "Figma défie Cursor",
-      "title": "Figma lance Code Layers, la conception rejoint le code",
-      "summary": "Lors de sa conférence Config 2026, Figma a dévoilé Code Layers, qui permet de connecter un dépôt GitHub directement sur le canevas de design et de synchroniser les changements avec le code. La fonctionnalité place Figma en concurrence frontale avec les outils de \"vibe coding\" comme Cursor, qui remontent au contraire le développement vers la phase de design.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/319041/20260625/figma-config-2026-code-layers-challenge-cursor-gpu-shaders-hit-paid-plans.htm"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Apple attaque OpenAI",
+      "title": "Apple poursuit OpenAI pour vol de secrets industriels",
+      "summary": "Apple accuse OpenAI d'avoir orchestré, \"à tous les niveaux\" de l'entreprise, le vol de secrets industriels liés à ses futurs appareils matériels, notamment via d'anciens employés d'Apple recrutés par OpenAI, dont son responsable matériel Tang Tan. La plainte marque un net refroidissement entre les deux groupes, alors qu'OpenAI a racheté la startup matérielle de Jony Ive et prépare visiblement ses propres produits grand public.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
     },
     {
       "id": "n12",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Mistral et la robotique",
-      "title": "Mistral lance un modèle de navigation pour robots",
-      "summary": "Mistral AI a présenté Robostral Navigate, un modèle permettant à des robots de naviguer dans des environnements complexes à partir d'une seule caméra et d'instructions en langage naturel, entraîné entièrement en simulation. Le lancement marque l'entrée de la startup française dans l'IA physique, alors que sa valorisation approche 23 milliards de dollars.",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Gemini 3.5 retardé",
+      "title": "Gemini 3.5 Pro retardé, DeepMind perd des cadres clés",
+      "summary": "Google DeepMind aurait repoussé la sortie de Gemini 3.5 Pro après avoir abandonné l'architecture de Gemini 2.5 Pro pour une refonte complète visant un contexte de 2 millions de tokens et un mode de raisonnement approfondi. L'annonce intervient alors que plusieurs chercheurs seniors, dont le co-responsable de Gemini Noam Shazeer, ont quitté DeepMind pour OpenAI ou Anthropic, épisode qui aurait effacé environ 225 milliards de dollars de capitalisation chez Alphabet.",
+      "source": "The Agent Report",
+      "url": "https://the-agent-report.com/2026/07/google-gemini-3-5-pro-delayed-july-2026/"
+    },
+    {
+      "id": "n13",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "OpenAI: part à l'Etat",
+      "title": "OpenAI propose 5% de son capital à l'Etat américain",
+      "summary": "Selon le Financial Times, OpenAI envisagerait de céder une participation de 5% au gouvernement américain, valorisée autour de 42,6 milliards de dollars sur la base de sa valorisation actuelle de 852 milliards. Sam Altman présente l'idée comme un moyen de partager les gains de l'IA avec le public, un schéma qu'il verrait potentiellement étendu à d'autres laboratoires comme Anthropic, Google ou Meta via un fonds souverain.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
+    },
+    {
+      "id": "n14",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Mistral lance Navigate",
+      "title": "Mistral dévoile un modèle de navigation robotique",
+      "summary": "Mistral AI a présenté Robostral Navigate, un modèle permettant à des robots de naviguer dans des environnements complexes à partir d'une simple caméra et d'instructions en langage naturel, entraîné entièrement en simulation et compatible avec différents types de matériel. Le lancement illustre la diversification de la startup française au-delà des LLM, vers l'IA physique et l'industrie, avec déjà des partenariats chez Airbus, BMW et ASML.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push"
     },
     {
-      "id": "n13",
+      "id": "n15",
       "theme": "climat",
       "subtopic": "europe",
       "importance": 2,
-      "short_title": "Green bonds durcis",
-      "title": "L'UE resserre le contrôle des obligations vertes",
-      "summary": "Depuis le 22 juin, seuls les organismes enregistrés auprès de l'ESMA peuvent effectuer les revues externes des European Green Bonds, mettant fin au régime transitoire qui permettait à d'autres examinateurs d'opérer. La mesure vise à renforcer la crédibilité du label européen alors que le marché de la finance verte continue de croître.",
-      "source": "Cleary Gottlieb",
-      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-07-01"
-    },
-    {
-      "id": "n14",
-      "theme": "climat",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Réseaux, frein climat",
-      "title": "Les réseaux électriques freinent la transition énergétique",
-      "summary": "Le marché mondial de la transition énergétique approche 3,2 trillions de dollars en 2026 et pourrait atteindre 6 trillions d'ici 2032, mais la saturation des réseaux électriques empêche le raccordement d'environ 1650 GW de capacités renouvelables. Les goulots d'étranglement d'infrastructure deviennent la contrainte critique du secteur, davantage que le financement lui-même.",
-      "source": "MarketScale",
-      "url": "https://www.marketscale.com/industries/energy/energy-transition-market-approaches-32-trillion-in-2026-as-grid-bottlenecks-emerge-as-the-critical-constraint"
-    },
-    {
-      "id": "n15",
-      "theme": "sciences",
-      "subtopic": "llm_agents",
-      "importance": 2,
-      "short_title": "IA calibre le quantique",
-      "title": "Un agent d'IA calibre en continu un ordinateur quantique",
-      "summary": "Des chercheurs de Google ont démontré qu'un agent d'apprentissage par renforcement peut réutiliser les données de correction d'erreur quantique comme signal d'apprentissage pour recalibrer en continu le processeur Willow pendant le calcul, sans l'interrompre. L'approche réduit le taux d'erreur logique d'environ 20% et rend le système 3,5 fois plus stable face aux dérives matérielles.",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/"
+      "short_title": "UE vise -50% pétrole",
+      "title": "Bruxelles prépare un objectif d'électrification à horizon 2040",
+      "summary": "Un projet de la Commission européenne, dévoilé le 17 juillet, viserait à fixer un objectif de part d'électricité dans la consommation finale d'énergie à horizon 2040, avec l'ambition de réduire de moitié l'usage du pétrole et des deux tiers celui du gaz. Le texte s'inscrit dans la feuille de route climatique post-2030 de l'UE, encore en discussion entre Etats membres.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/"
     },
     {
       "id": "n16",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "Bâle III: acte 2",
-      "title": "Bâle III Endgame: les régulateurs US retravaillent leur copie",
-      "summary": "Après l'échec du projet de 2023, les régulateurs bancaires américains (OCC, Fed, FDIC) ont proposé en mars une nouvelle mouture de Bâle III Endgame remplaçant les approches avancées par un cadre standardisé unique couvrant notamment le risque d'ajustement de valeur de crédit (CVA/XVA). En parallèle, l'UE a reporté l'application du FRTB à janvier 2027, retardant encore l'harmonisation internationale.",
-      "source": "Freshfields",
-      "url": "https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/basel-iii-endgame-take-two-8-key-takeaways-from-the-federal-banking-agencies-c-102mnm3"
+      "theme": "climat",
+      "subtopic": "france",
+      "importance": 1,
+      "short_title": "TotalEnergies condamné",
+      "title": "Un tribunal français élargit le devoir de vigilance de TotalEnergies",
+      "summary": "Un tribunal français a ordonné à TotalEnergies d'étendre son plan de vigilance climatique pour y inclure ses émissions de Scope 3, c'est-à-dire celles générées par l'usage de ses produits par ses clients, et non les seules émissions directes de ses sites. La décision pourrait faire jurisprudence pour d'autres groupes énergétiques soumis à la loi française sur le devoir de vigilance.",
+      "source": "Cleary Gottlieb",
+      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-07-01"
     },
     {
       "id": "n17",
       "theme": "sante",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "90 min/sem, longévité",
-      "title": "90 à 120 minutes de renfo par semaine, l'optimum longévité",
-      "summary": "Une étude de Harvard portant sur 147 000 adultes suivis pendant 30 ans (Health Professionals Follow-up Study, Nurses' Health Study) montre que 90 à 120 minutes de musculation par semaine réduisent la mortalité toutes causes de 13%, la mortalité cardiovasculaire de 19% et la mortalité neurologique de 27%, sans bénéfice supplémentaire au-delà. L'effet est renforcé quand le renforcement musculaire est combiné à de l'exercice aérobie.",
-      "source": "BMJ Group / British Journal of Sports Medicine",
-      "url": "https://bmjgroup.com/90-120-weekly-minutes-of-strength-training-may-be-optimal-for-lowering-death-risk/"
+      "short_title": "Démence: écarts pays",
+      "title": "Les facteurs de risque de démence varient fortement selon les pays",
+      "summary": "Une étude de l'USC portant sur plus de 214 000 personnes dans 14 pays montre que les facteurs de risque modifiables de démence, comme le faible niveau d'éducation, l'hypertension ou le tabagisme, pèsent très différemment selon les régions du monde. Les auteurs, qui ont présenté leurs travaux à l'Alzheimer's Association International Conference, plaident pour des politiques de prévention adaptées au contexte local plutôt que pour des recommandations uniformes.",
+      "source": "EurekAlert! / USC",
+      "url": "https://www.eurekalert.org/news-releases/1135248"
     },
     {
       "id": "n18",
-      "theme": "sante",
+      "theme": "sciences",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "DEAF1, muscle et âge",
-      "title": "Un gène clé explique comment l'exercice rajeunit le muscle",
-      "summary": "Une équipe de Duke-NUS a identifié le gène DEAF1, dont le niveau augmente dans les muscles vieillissants et perturbe leur capacité de réparation. L'exercice physique abaisse l'expression de DEAF1, ce qui restaure l'équilibre entre production et élimination des protéines dans les cellules musculaires âgées, selon une étude publiée dans PNAS.",
-      "source": "SciTechDaily",
-      "url": "https://scitechdaily.com/scientists-identify-molecular-switch-that-lets-exercise-reverse-muscle-aging/"
+      "short_title": "Tau et la mémoire",
+      "title": "La protéine tau serait essentielle à la formation des souvenirs",
+      "summary": "De nouveaux travaux montrent que la protéine tau, surtout connue pour son rôle pathologique dans Alzheimer, joue aussi un rôle physiologique clé en aidant à organiser les cellules qui stockent la mémoire lors de la transformation d'une expérience vécue en souvenir durable. Cette double fonction complique la conception de traitements anti-tau, qui pourraient perturber la mémoire normale en visant la protéine pathologique.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm"
+    },
+    {
+      "id": "n19",
+      "theme": "sciences",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Ovaires: rôle de l'IL-11",
+      "title": "L'IL-11 identifiée comme moteur du vieillissement ovarien",
+      "summary": "Des chercheurs montrent que l'interleukine IL-11, dont le niveau augmente avec l'âge dans les ovaires de souris, de rats et d'humains, active des fibroblastes qui rigidifient le tissu ovarien en sécrétant un excès de collagène. Bloquer génétiquement ce signal atténue le vieillissement ovarien et préserve la fonction ovarienne chez la souris, ouvrant une piste thérapeutique pour la fertilité.",
+      "source": "Nature Aging (via ScienceAlert)",
+      "url": "https://www.sciencealert.com/blocking-one-protein-kept-aging-ovaries-soft-in-mice-extending-fertility"
+    },
+    {
+      "id": "n20",
+      "theme": "sante",
+      "subtopic": "kettlebell",
+      "importance": 1,
+      "short_title": "Kettlebell: étude 2026",
+      "title": "Le kettlebell confirmé comme outil d'entraînement complet",
+      "summary": "Une synthèse des tendances fitness 2026 souligne la montée en puissance du renforcement musculaire à tout âge, kettlebells en tête, avec des études antérieures montrant des gains simultanés en VO2max, force de préhension, équilibre dynamique et gainage après huit semaines d'entraînement bihebdomadaire. Le kettlebell swing en particulier améliorerait la force maximale et la puissance explosive du bas du corps en seulement six semaines.",
+      "source": "Versa Gripps / ACE",
+      "url": "https://www.versagripps.com/blogs/news/2026-fitness-trends"
     }
   ],
   "edges": [
@@ -205,73 +227,79 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "Les frappes autour d'Ormuz et le durcissement des sanctions américaines font mécaniquement grimper le Brent, le détroit étant un goulot d'étranglement pour un cinquième du pétrole mondial."
+      "explanation": "La reprise des frappes américaines sur les côtes iraniennes déclenche une riposte iranienne visant une base US en Jordanie."
     },
     {
-      "source": "n02",
+      "source": "n01",
       "target": "n03",
       "type": "cause",
-      "explanation": "Le rebond du Brent menace de renverser la baisse des prix à la pompe qui avait tiré le CPI de juin vers le bas, remettant en question la trajectoire désinflationniste anticipée."
-    },
-    {
-      "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "La publication du CPI juste avant l'audition de Warsh au Congrès conditionne directement le ton qu'il pourra adopter sur la trajectoire des taux."
+      "explanation": "L'embrasement du conflit américano-iranien enhardit les Houthis, qui ouvrent un second front contre l'Arabie saoudite en parallèle."
     },
     {
       "source": "n04",
-      "target": "n05",
+      "target": "n01",
       "type": "meme_sujet",
-      "explanation": "L'audition de Warsh et les résultats bancaires interviennent le même jour et sont scrutés ensemble par les marchés pour jauger la trajectoire des taux et la solidité du crédit."
+      "explanation": "La révélation du complot Mossad-Ahmadinejad éclaire, sous un autre angle, les années de manoeuvres secrètes qui ont précédé l'escalade militaire actuelle."
+    },
+    {
+      "source": "n01",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "La réinstauration du blocus américain sur le détroit d'Ormuz et l'arrêt quasi total du trafic de pétroliers font mécaniquement grimper le Brent."
     },
     {
       "source": "n05",
-      "target": "n16",
-      "type": "meme_sujet",
-      "explanation": "La saison des résultats bancaires se joue en toile de fond de la refonte en cours des règles de capital (Bâle III Endgame, FRTB), qui redéfiniront la rentabilité et les besoins en capital de ces mêmes banques."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "L'extension de l'accès gratuit à Fable 5 est une réponse commerciale directe d'Anthropic au lancement de GPT-5.6, dans une guerre des modèles où chaque lab cherche à retenir les utilisateurs."
-    },
-    {
-      "source": "n06",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "La refonte accélérée de Gemini 3.5 Pro vise explicitement à combler l'écart de capacités ouvert par GPT-5.6 et Fable 5."
-    },
-    {
-      "source": "n07",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Anthropic mène la même semaine une offensive commerciale (extension de Fable 5) et une avancée de recherche (découverte du J-space), deux facettes de sa stratégie face à la concurrence."
-    },
-    {
-      "source": "n10",
       "target": "n06",
+      "type": "cause",
+      "explanation": "La flambée du pétrole se répercute directement sur les marchés actions, pénalisant les compagnies aériennes et dopant les pétrolières."
+    },
+    {
+      "source": "n05",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "Un pétrole durablement plus cher renchérit l'inflation importée et complique l'arbitrage de la Fed entre soutenir la croissance et contenir les prix avant sa réunion du 29 juillet."
+    },
+    {
+      "source": "n11",
+      "target": "n10",
       "type": "tension",
-      "explanation": "La plainte d'Apple tombe la même semaine que le lancement triomphal de GPT-5.6, jetant une ombre juridique sur la dynamique commerciale d'OpenAI."
+      "explanation": "La plainte d'Apple pour vol de secrets matériels prend tout son sens le jour où OpenAI dévoile ses propres ambitions dans le hardware grand public."
+    },
+    {
+      "source": "n12",
+      "target": "n10",
+      "type": "tension",
+      "explanation": "Pendant que Google DeepMind retarde son modèle phare et perd des chercheurs clés, OpenAI accélère au contraire son rythme de sortie de produits, creusant l'écart dans la course frontière."
     },
     {
       "source": "n13",
-      "target": "n14",
+      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Les deux news illustrent une même tension: la finance verte se durcit sur la gouvernance (green bonds) au moment même où l'ampleur des besoins d'investissement se heurte à des goulots d'étranglement d'infrastructure."
-    },
-    {
-      "source": "n17",
-      "target": "n18",
-      "type": "meme_sujet",
-      "explanation": "Les deux études, publiées à quelques semaines d'intervalle, convergent pour expliquer, à l'échelle épidémiologique puis moléculaire, pourquoi l'exercice contre résistance ralentit le vieillissement."
+      "explanation": "La même semaine, OpenAI cherche à s'attirer les faveurs de l'Etat via une participation au capital tandis qu'Anthropic soigne sa légitimité publique en offrant Claude aux enseignants: deux réponses différentes à la même pression politique sur les labs d'IA."
     },
     {
       "source": "n15",
-      "target": "n09",
+      "target": "n05",
+      "type": "tension",
+      "explanation": "L'ambition européenne de diviser par deux l'usage du pétrole d'ici 2040 contraste avec le choc pétrolier immédiat provoqué par la crise iranienne, qui rappelle la dépendance persistante à l'énergie fossile."
+    },
+    {
+      "source": "n16",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Les deux avancées illustrent une même tendance scientifique: sonder et piloter les états internes cachés de systèmes complexes, qu'il s'agisse d'un modèle de langage ou d'un processeur quantique."
+      "explanation": "Ces deux décisions européennes, l'une judiciaire et l'autre réglementaire, resserrent le même mois la pression sur les majors pétrolières et gazières."
+    },
+    {
+      "source": "n18",
+      "target": "n17",
+      "type": "meme_sujet",
+      "explanation": "Ces deux études publiées la même semaine renouvellent la compréhension du vieillissement cérébral et des risques de démence, sous deux angles complémentaires: mécanisme moléculaire et épidémiologie mondiale."
+    },
+    {
+      "source": "n19",
+      "target": "n18",
+      "type": "meme_sujet",
+      "explanation": "Deux publications distinctes de la même semaine identifient chacune un nouveau moteur moléculaire du vieillissement tissulaire, l'une pour la mémoire, l'autre pour la fertilité."
     }
   ]
 }

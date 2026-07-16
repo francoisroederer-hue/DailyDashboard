@@ -1,305 +1,249 @@
 {
-  "generated_at": "2026-07-15T09:00:00Z",
+  "generated_at": "2026-07-16T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Frappes 3e nuit Ormuz",
-      "title": "Troisième nuit de frappes US sur l'Iran, blocus d'Ormuz réactivé",
-      "summary": "Washington a mené une troisième nuit consécutive de frappes contre l'Iran tandis que Donald Trump annonçait la réinstauration d'un blocus des navires iraniens dans le détroit d'Ormuz, avant de reculer sur l'idée d'un péage de transit un temps évoquée. Le président a par ailleurs notifié au Congrès la reprise officielle des hostilités, ouvrant une nouvelle fenêtre de 60 jours d'action militaire sans vote parlementaire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz"
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Plan $95Mds guerre Iran",
+      "title": "La Chambre des représentants dévoile un plan de 95 milliards $ pour la guerre en Iran",
+      "summary": "La Chambre des représentants a dévoilé un plan budgétaire de 95 milliards de dollars, dont environ 60 milliards pour l'armée, destiné à financer la guerre contre l'Iran et reconstituer les stocks militaires américains. Le texte, porté sans compensation budgétaire alors que le déficit dépasse 2000 milliards de dollars, doit encore être examiné en commission. Le trafic de pétroliers dans le détroit d'Ormuz a chuté de plus de moitié la semaine précédente sous l'effet du blocus et des frappes.",
+      "source": "US News",
+      "url": "https://www.usnews.com/news/politics/articles/2026-07-15/house-republicans-unveil-95-billion-plan-for-the-iran-war-farm-aid-and-elections"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Iran frappe la Jordanie",
-      "title": "L'Iran cible une base américaine en Jordanie",
-      "summary": "Les Gardiens de la révolution ont revendiqué des tirs de missiles balistiques contre la base aérienne du Prince Hassan en Jordanie, présentés comme une riposte aux frappes américaines sur les côtes iraniennes. L'armée jordanienne affirme avoir intercepté la majorité des projectiles, mais l'épisode illustre l'élargissement géographique du conflit au-delà du seul territoire iranien.",
-      "source": "CGTN",
-      "url": "https://news.cgtn.com/news/2026-07-14/Iran-targets-US-base-in-Jordan-Houthis-strike-Saudi-Arabia-1OM06k9W1WM/p.html"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 2,
+      "short_title": "Fed: carburant inquiète",
+      "title": "Le Beige Book de la Fed signale une inflation en amélioration mais des craintes sur le carburant",
+      "summary": "Le Beige Book de la Fed du 15 juillet décrit une activité économique en légère hausse et des signes d'amélioration de l'inflation, mais plusieurs districts signalent une incertitude accrue sur les coûts du carburant. Cette réserve intervient alors que le Brent a grimpé au-dessus de 85 dollars cette semaine sous l'effet du conflit en Iran, compliquant la décision de taux du 29 juillet.",
+      "source": "Fed (via US News)",
+      "url": "https://money.usnews.com/investing/news/articles/2026-07-15/economic-activity-on-the-rise-and-inflation-may-be-improving-fed-survey-shows"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Houthis visent l'Arabie",
-      "title": "Les Houthis frappent l'aéroport saoudien d'Abha",
-      "summary": "Le mouvement houthi a revendiqué des tirs de missiles et de drones contre l'aéroport international d'Abha en Arabie saoudite, en représailles à des frappes attribuées à Riyad sur l'aéroport de Sanaa. Cette escalade rompt une accalmie observée depuis 2022 entre les deux parties et a conduit le Conseil de sécurité de l'ONU à tenir une réunion d'urgence.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/07/13/yemen-houthis-airport-saudi-strikes/3eb0c79c-7eae-11f1-8a16-393bd03340b0_story.html"
-    },
-    {
-      "id": "n04",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Complot Ahmadinejad",
-      "title": "Révélation d'un plan israélien pour installer Ahmadinejad",
-      "summary": "Le New York Times révèle qu'Israël a mené pendant des années une opération secrète visant à recruter l'ex-président iranien Mahmoud Ahmadinejad, via notamment une rencontre à Budapest avec le chef du Mossad, dans l'idée de l'installer à la tête d'un futur régime post-Khamenei. Ahmadinejad serait désormais assigné à résidence par les Gardiens de la révolution après la découverte de ces contacts.",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/report-ahmadinejad-met-mossad-chief-under-israeli-plan-to-install-him-as-iran-leader/"
-    },
-    {
-      "id": "n05",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent grimpe à $87",
-      "title": "Le Brent bondit à 87$ sur la crainte d'un blocage d'Ormuz",
-      "summary": "Le Brent a grimpé de plus de 10% sur la semaine pour retoucher les 87$, un plus haut depuis juin, après la réinstauration du blocus américain sur les navires iraniens. Le trafic de pétroliers dans le détroit d'Ormuz serait quasiment à l'arrêt, ravivant les craintes d'une contraction durable de l'offre mondiale.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook"
-    },
-    {
-      "id": "n06",
-      "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Wall Street plonge",
-      "title": "Wall Street recule, les compagnies aériennes chutent",
-      "summary": "Les indices américains ont reculé alors que la remontée du pétrole liée au conflit iranien pesait sur le sentiment de marché, le Dow perdant plus de 500 points sur la séance. Les valeurs aériennes ont été parmi les plus touchées tandis que les pétrolières progressaient, un basculement sectoriel classique en période de choc énergétique.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html"
-    },
-    {
-      "id": "n07",
-      "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Fed sous pression",
-      "title": "La Fed de Warsh sous pression avant sa décision du 29 juillet",
-      "summary": "Le président de la Fed Kevin Warsh, qui juge déjà l'inflation \"encore trop élevée\", doit statuer le 29 juillet dans un contexte compliqué par la flambée du pétrole liée à la crise iranienne. Une partie du comité de politique monétaire évoquait même des hausses de taux avant ce choc, ce qui restreint la marge de manoeuvre de la banque centrale si l'énergie continue de renchérir l'inflation.",
-      "source": "fori.us",
-      "url": "https://fori.us/july-fed-decision-2026-interest-rate-forecast/"
-    },
-    {
-      "id": "n08",
       "theme": "finance",
       "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "EBA revoit le SREP",
-      "title": "L'Autorité bancaire européenne finalise la révision du SREP",
-      "summary": "L'EBA a franchi une nouvelle étape dans la révision de ses lignes directrices SREP, le processus de supervision et d'évaluation prudentielle utilisé pour calibrer les exigences de fonds propres des banques européennes. L'ACPR salue une avancée dans l'effort de simplification du reporting prudentiel, un chantier suivi de près par les équipes risques et XVA des banques concernées.",
-      "source": "ACPR - Banque de France",
-      "url": "https://acpr.banque-france.fr/fr/actualites/lautorite-bancaire-europeenne-franchit-une-nouvelle-etape-dans-lamelioration-de-lefficacite-de-la"
+      "short_title": "BCE: facteur climat",
+      "title": "La BCE applique désormais un facteur climat dans son cadre de garanties bancaires",
+      "summary": "Depuis la mi-juin, la BCE applique des facteurs climat dans son cadre de garanties, ajustant la valeur des obligations d'entreprises acceptées en collatéral selon leur exposition aux chocs de transition énergétique. Les secteurs intensifs en carbone comme l'énergie, les matériaux ou le transport voient la valeur de leur collatéral réduite, tandis que les services logiciels en bénéficient relativement.",
+      "source": "European Central Bank",
+      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260707~bb81f1b45e.en.html"
+    },
+    {
+      "id": "n04",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic vise l'IPO",
+      "title": "Anthropic entame des rencontres investisseurs en vue d'une IPO géante",
+      "summary": "Anthropic organiserait des rencontres avec des investisseurs en vue d'une introduction en bourse pouvant intervenir dès octobre, avec Goldman Sachs, Morgan Stanley et JPMorgan comme banques conseils. La démarche intervient alors que l'entreprise vient d'être classée numéro un mondial de la sécurité IA par le Future of Life Institute, un argument qu'elle devrait mettre en avant auprès des marchés.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
+    },
+    {
+      "id": "n05",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Anthropic lance Ode",
+      "title": "Anthropic, Blackstone et Hellman & Friedman lancent Ode, filiale de services IA",
+      "summary": "Anthropic, Blackstone et Hellman & Friedman ont officiellement lancé Ode with Anthropic, une société de services IA dotée de 1,5 milliard de dollars, construite sur la structure de Fractional AI rachetée en mai. L'objectif est d'aider les grandes entreprises à identifier où l'IA peut avoir le plus d'impact et à construire les systèmes correspondants, avec une centaine d'ingénieurs déjà en place.",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260715205134/en/Anthropic-Blackstone-and-Hellman-Friedman-Introduce-Ode-with-Anthropic-an-Enterprise-AI-Services-Firm"
+    },
+    {
+      "id": "n06",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "OpenAI: principes sécu",
+      "title": "OpenAI publie ses \"National Security Principles\"",
+      "summary": "OpenAI a publié ses National Security Principles, fixant trois lignes rouges: pas d'usage pour la surveillance de masse domestique, pas de pilotage d'armes autonomes, et aucune décision automatisée à fort enjeu sans validation humaine. Le texte accompagne l'expansion du programme OpenAI for Government, incluant un contrat de 200 millions de dollars avec le Pentagone.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/government-national-security-partnerships/"
+    },
+    {
+      "id": "n07",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "GPT-5.6 preuve maths",
+      "title": "OpenAI affirme que GPT-5.6 Sol Ultra a prouvé une conjecture mathématique de 1979",
+      "summary": "OpenAI affirme que GPT-5.6 Sol Ultra a produit, en s'appuyant sur 64 sous-agents pendant moins d'une heure, une preuve de la conjecture de la double couverture par cycles, un problème de théorie des graphes ouvert depuis 1979. La communauté mathématique est en train de vérifier la démonstration, dont l'absence de citations et de vérification formelle (Lean) suscite déjà des réserves.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/"
+    },
+    {
+      "id": "n08",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Meta lance sa puce Iris",
+      "title": "Meta prévoit de lancer la production de sa puce IA \"Iris\" en septembre",
+      "summary": "Selon des documents internes, Meta prévoit de lancer en septembre la production de sa puce IA maison Iris, conçue avec Broadcom et fabriquée par TSMC, dans le cadre d'un plan visant à doubler sa capacité de calcul à 14 gigawatts d'ici 2027. Le composant, destiné à l'inférence, a passé sa phase de test sans incident majeur et illustre la volonté du groupe de réduire sa dépendance à Nvidia.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/09/meta-to-put-ai-chip-into-production-in-september-report.html"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Claude pour profs",
-      "title": "Anthropic lance Claude for Teachers",
-      "summary": "Anthropic ouvre aux enseignants du K-12 américain un accès gratuit à des fonctionnalités premium de Claude, avec des compétences pédagogiques calées sur les standards académiques des 50 Etats et une connexion à des curricula reconnus comme OpenSciEd. Les données partagées par les enseignants ne servent pas à l'entraînement des modèles, un argument de confiance central face à la méfiance du monde éducatif envers l'IA générative.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-for-teachers"
+      "short_title": "Meta: IA et licenciements",
+      "title": "Des salariés de Meta accusent l'entreprise d'avoir utilisé l'IA pour cibler des licenciements",
+      "summary": "Vingt-six salariés de Meta poursuivent l'entreprise, affirmant que des systèmes internes d'IA, croisant données de frappe au clavier et tableaux de bord d'usage, ont servi à sélectionner les personnes visées par les 8000 suppressions de postes annoncées en mai, en ciblant de façon disproportionnée des salariés en congé médical ou parental. Meta dément et affirme que les décisions ont été prises par des humains.",
+      "source": "US News",
+      "url": "https://www.usnews.com/news/business/articles/2026-07-14/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Enceinte IA d'OpenAI",
-      "title": "OpenAI prépare une enceinte IA sans écran",
-      "summary": "OpenAI travaillerait sur un haut-parleur mobile sans écran conçu comme un compagnon IA domestique, son premier produit matériel grand public, capable de contrôler des appareils connectés et de s'appuyer sur ChatGPT. Le même jour, l'entreprise assouplissait aussi les limites d'usage horaires de Codex et ChatGPT Work pour ses abonnés payants.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion"
+      "importance": 3,
+      "short_title": "Indice sécurité IA 2026",
+      "title": "L'indice FLI 2026 place Anthropic en tête de la sécurité IA, Mistral recalé",
+      "summary": "Le Future of Life Institute a publié son indice 2026 de sécurité IA, évaluant neuf laboratoires sur 37 critères répartis en six domaines: Anthropic arrive en tête avec un C+, suivi d'OpenAI et Google DeepMind (C), tandis que xAI, DeepSeek et le français Mistral échouent avec un F. Le rapport souligne que plusieurs laboratoires, dont Anthropic et OpenAI, ont affaibli ces derniers mois leurs engagements internes de sécurité.",
+      "source": "MIT Sloan Management Review",
+      "url": "https://www.mitsloanme.com/article/anthropic-tops-2026-ai-safety-index-but-no-ai-firm-earns-above-a-c/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Apple attaque OpenAI",
-      "title": "Apple poursuit OpenAI pour vol de secrets industriels",
-      "summary": "Apple accuse OpenAI d'avoir orchestré, \"à tous les niveaux\" de l'entreprise, le vol de secrets industriels liés à ses futurs appareils matériels, notamment via d'anciens employés d'Apple recrutés par OpenAI, dont son responsable matériel Tang Tan. La plainte marque un net refroidissement entre les deux groupes, alors qu'OpenAI a racheté la startup matérielle de Jony Ive et prépare visiblement ses propres produits grand public.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+      "subtopic": "regulation",
+      "importance": 2,
+      "short_title": "UE: souveraineté tech",
+      "title": "Bruxelles avance son paquet de souveraineté technologique",
+      "summary": "La Commission européenne poursuit son paquet de souveraineté technologique, comprenant le Cloud and AI Development Act et le Chips Act 2.0, pour tripler la capacité de centres de données en Europe et bâtir une première fonderie européenne sous 3 nm. Le texte part du constat que l'UE dépend de fournisseurs non européens pour plus de 80% de ses produits numériques et que trois hyperscalers américains contrôlent plus de 70% du marché du cloud.",
+      "source": "European Commission",
+      "url": "https://commission.europa.eu/news-and-media/news/strengthening-europes-tech-sovereignty-2026-06-03_en"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Gemini 3.5 retardé",
-      "title": "Gemini 3.5 Pro retardé, DeepMind perd des cadres clés",
-      "summary": "Google DeepMind aurait repoussé la sortie de Gemini 3.5 Pro après avoir abandonné l'architecture de Gemini 2.5 Pro pour une refonte complète visant un contexte de 2 millions de tokens et un mode de raisonnement approfondi. L'annonce intervient alors que plusieurs chercheurs seniors, dont le co-responsable de Gemini Noam Shazeer, ont quitté DeepMind pour OpenAI ou Anthropic, épisode qui aurait effacé environ 225 milliards de dollars de capitalisation chez Alphabet.",
-      "source": "The Agent Report",
-      "url": "https://the-agent-report.com/2026/07/google-gemini-3-5-pro-delayed-july-2026/"
+      "theme": "climat",
+      "subtopic": "energie",
+      "importance": 2,
+      "short_title": "1650 GW bloqués (réseau)",
+      "title": "La transition énergétique bute sur 1650 GW bloqués dans les files d'attente réseau",
+      "summary": "Selon une analyse sectorielle, le marché mondial de la transition énergétique doit atteindre 3170 milliards de dollars en 2026, mais environ 1650 gigawatts de capacité renouvelable restent bloqués dans les files d'attente de raccordement au réseau à travers le monde. Les goulots d'étranglement des réseaux électriques deviennent ainsi la principale contrainte freinant le déploiement effectif des projets déjà financés.",
+      "source": "MarketScale",
+      "url": "https://www.marketscale.com/industries/energy/energy-transition-market-reaches-317-trillion-in-2026-as-grid-connection-backlogs-stall-1650-gw-of-capacity"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "OpenAI: part à l'Etat",
-      "title": "OpenAI propose 5% de son capital à l'Etat américain",
-      "summary": "Selon le Financial Times, OpenAI envisagerait de céder une participation de 5% au gouvernement américain, valorisée autour de 42,6 milliards de dollars sur la base de sa valorisation actuelle de 852 milliards. Sam Altman présente l'idée comme un moyen de partager les gains de l'IA avec le public, un schéma qu'il verrait potentiellement étendu à d'autres laboratoires comme Anthropic, Google ou Meta via un fonds souverain.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html"
+      "short_title": "Sang: cibler télomères",
+      "title": "Cibler les dommages télomériques restaure le sang vieillissant chez la souris",
+      "summary": "Une étude publiée dans Nature Aging montre que l'inhibition du signal de dommage télomérique, via des oligonucléotides antisens ciblant des ARN non codants télomériques, restaure la production de cellules sanguines et la fonction immunitaire chez des souris âgées ou déficientes en télomérase. L'approche améliore aussi la fonction de cellules souches hématopoïétiques humaines en laboratoire, ouvrant une piste contre l'épuisement du système sanguin lié à l'âge.",
+      "source": "Nature Aging",
+      "url": "https://www.nature.com/articles/s43587-026-01136-9"
     },
     {
       "id": "n14",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "Mistral lance Navigate",
-      "title": "Mistral dévoile un modèle de navigation robotique",
-      "summary": "Mistral AI a présenté Robostral Navigate, un modèle permettant à des robots de naviguer dans des environnements complexes à partir d'une simple caméra et d'instructions en langage naturel, entraîné entièrement en simulation et compatible avec différents types de matériel. Le lancement illustre la diversification de la startup française au-delà des LLM, vers l'IA physique et l'industrie, avec déjà des partenariats chez Airbus, BMW et ASML.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push"
+      "short_title": "Puce Harvard écrit l'ADN",
+      "title": "Des chercheurs de Harvard transforment une puce en silicium en machine à écrire de l'ADN",
+      "summary": "Des chercheurs de Harvard ont transformé une puce en silicium en machine à écrire de l'ADN, capable de synthétiser en parallèle 64 séquences grâce à des courants électriques déclenchant des réactions enzymatiques en milieu aqueux. Cette approche évite la chimie classique à base de solvants et pourrait, si elle passe à l'échelle, réduire fortement le coût de synthèse d'ADN pour la thérapie génique et les vaccins personnalisés.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
     },
     {
       "id": "n15",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "sciences",
+      "subtopic": "materiaux",
       "importance": 2,
-      "short_title": "UE vise -50% pétrole",
-      "title": "Bruxelles prépare un objectif d'électrification à horizon 2040",
-      "summary": "Un projet de la Commission européenne, dévoilé le 17 juillet, viserait à fixer un objectif de part d'électricité dans la consommation finale d'énergie à horizon 2040, avec l'ambition de réduire de moitié l'usage du pétrole et des deux tiers celui du gaz. Le texte s'inscrit dans la feuille de route climatique post-2030 de l'UE, encore en discussion entre Etats membres.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/"
+      "short_title": "Dendrites: mystère résolu",
+      "title": "Le mécanisme de défaillance des batteries solid-state enfin élucidé",
+      "summary": "Une équipe utilisant la cryomicroscopie électronique a établi le mécanisme exact par lequel le lithium métallique, pourtant mou, parvient à fissurer l'électrolyte céramique rigide des batteries solid-state: le métal s'infiltre dans des microfissures de fabrication et y génère une pression suffisante pour provoquer une rupture fragile, à la façon d'un jet d'eau perçant la roche. La découverte ouvre trois pistes concrètes: électrolytes plus tenaces, micro-vides d'ingénierie et revêtements protecteurs d'anode.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "france",
-      "importance": 1,
-      "short_title": "TotalEnergies condamné",
-      "title": "Un tribunal français élargit le devoir de vigilance de TotalEnergies",
-      "summary": "Un tribunal français a ordonné à TotalEnergies d'étendre son plan de vigilance climatique pour y inclure ses émissions de Scope 3, c'est-à-dire celles générées par l'usage de ses produits par ses clients, et non les seules émissions directes de ses sites. La décision pourrait faire jurisprudence pour d'autres groupes énergétiques soumis à la loi française sur le devoir de vigilance.",
-      "source": "Cleary Gottlieb",
-      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-07-01"
-    },
-    {
-      "id": "n17",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Démence: écarts pays",
-      "title": "Les facteurs de risque de démence varient fortement selon les pays",
-      "summary": "Une étude de l'USC portant sur plus de 214 000 personnes dans 14 pays montre que les facteurs de risque modifiables de démence, comme le faible niveau d'éducation, l'hypertension ou le tabagisme, pèsent très différemment selon les régions du monde. Les auteurs, qui ont présenté leurs travaux à l'Alzheimer's Association International Conference, plaident pour des politiques de prévention adaptées au contexte local plutôt que pour des recommandations uniformes.",
-      "source": "EurekAlert! / USC",
-      "url": "https://www.eurekalert.org/news-releases/1135248"
-    },
-    {
-      "id": "n18",
       "theme": "sciences",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Tau et la mémoire",
-      "title": "La protéine tau serait essentielle à la formation des souvenirs",
-      "summary": "De nouveaux travaux montrent que la protéine tau, surtout connue pour son rôle pathologique dans Alzheimer, joue aussi un rôle physiologique clé en aidant à organiser les cellules qui stockent la mémoire lors de la transformation d'une expérience vécue en souvenir durable. Cette double fonction complique la conception de traitements anti-tau, qui pourraient perturber la mémoire normale en visant la protéine pathologique.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm"
-    },
-    {
-      "id": "n19",
-      "theme": "sciences",
-      "subtopic": "longevite",
+      "subtopic": "biotech",
       "importance": 1,
-      "short_title": "Ovaires: rôle de l'IL-11",
-      "title": "L'IL-11 identifiée comme moteur du vieillissement ovarien",
-      "summary": "Des chercheurs montrent que l'interleukine IL-11, dont le niveau augmente avec l'âge dans les ovaires de souris, de rats et d'humains, active des fibroblastes qui rigidifient le tissu ovarien en sécrétant un excès de collagène. Bloquer génétiquement ce signal atténue le vieillissement ovarien et préserve la fonction ovarienne chez la souris, ouvrant une piste thérapeutique pour la fertilité.",
-      "source": "Nature Aging (via ScienceAlert)",
-      "url": "https://www.sciencealert.com/blocking-one-protein-kept-aging-ovaries-soft-in-mice-extending-fertility"
-    },
-    {
-      "id": "n20",
-      "theme": "sante",
-      "subtopic": "kettlebell",
-      "importance": 1,
-      "short_title": "Kettlebell: étude 2026",
-      "title": "Le kettlebell confirmé comme outil d'entraînement complet",
-      "summary": "Une synthèse des tendances fitness 2026 souligne la montée en puissance du renforcement musculaire à tout âge, kettlebells en tête, avec des études antérieures montrant des gains simultanés en VO2max, force de préhension, équilibre dynamique et gainage après huit semaines d'entraînement bihebdomadaire. Le kettlebell swing en particulier améliorerait la force maximale et la puissance explosive du bas du corps en seulement six semaines.",
-      "source": "Versa Gripps / ACE",
-      "url": "https://www.versagripps.com/blogs/news/2026-fitness-trends"
+      "short_title": "Spermatozoïdes en labo",
+      "title": "Deux biotechs revendiquent des gamètes humains cultivés entièrement en laboratoire",
+      "summary": "Les biotechs Paterna Biosciences et Conception Biosciences affirment avoir respectivement produit des spermatozoïdes humains fonctionnels et des ovocytes immatures entièrement en laboratoire, à partir de cellules souches reprogrammées. Paterna dit être allée jusqu'à féconder des ovules avec ces spermatozoïdes pour former des embryons, mais ces résultats n'ont pas encore été évalués par les pairs ni validés cliniquement.",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/press-releases/paterna-biosciences-announces-world-first-achievement-lab-grown-human-sperm"
     }
   ],
   "edges": [
     {
       "source": "n01",
       "target": "n02",
-      "type": "cause",
-      "explanation": "La reprise des frappes américaines sur les côtes iraniennes déclenche une riposte iranienne visant une base US en Jordanie."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "L'embrasement du conflit américano-iranien enhardit les Houthis, qui ouvrent un second front contre l'Arabie saoudite en parallèle."
+      "type": "meme_sujet",
+      "explanation": "La guerre en Iran alimente à la fois la demande de financement budgétaire du Congrès et l'inquiétude de la Fed sur les coûts du carburant: deux faces de la même onde de choc économique et budgétaire."
     },
     {
       "source": "n04",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "La révélation du complot Mossad-Ahmadinejad éclaire, sous un autre angle, les années de manoeuvres secrètes qui ont précédé l'escalade militaire actuelle."
-    },
-    {
-      "source": "n01",
       "target": "n05",
       "type": "cause",
-      "explanation": "La réinstauration du blocus américain sur le détroit d'Ormuz et l'arrêt quasi total du trafic de pétroliers font mécaniquement grimper le Brent."
+      "explanation": "Anthropic structure sa filiale de services Ode juste avant sa tournée investisseurs, pour présenter aux marchés un modèle de revenus diversifié au-delà des seuls abonnements et API."
     },
     {
-      "source": "n05",
-      "target": "n06",
+      "source": "n10",
+      "target": "n04",
       "type": "cause",
-      "explanation": "La flambée du pétrole se répercute directement sur les marchés actions, pénalisant les compagnies aériennes et dopant les pétrolières."
+      "explanation": "La première place obtenue à l'indice de sécurité IA du Future of Life Institute renforce l'argumentaire de gouvernance responsable qu'Anthropic met en avant auprès des investisseurs en vue de son IPO."
     },
     {
-      "source": "n05",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "Un pétrole durablement plus cher renchérit l'inflation importée et complique l'arbitrage de la Fed entre soutenir la croissance et contenir les prix avant sa réunion du 29 juillet."
+      "source": "n10",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "L'UE mise sur des champions comme Mistral dans sa stratégie de souveraineté technologique, alors que ce même Mistral vient d'obtenir la pire note possible (F) à l'indice de sécurité IA du FLI."
     },
     {
-      "source": "n11",
+      "source": "n06",
       "target": "n10",
       "type": "tension",
-      "explanation": "La plainte d'Apple pour vol de secrets matériels prend tout son sens le jour où OpenAI dévoile ses propres ambitions dans le hardware grand public."
+      "explanation": "OpenAI publie des principes de sécurité nationale rassurants la semaine même où le FLI relève que plusieurs labs, dont OpenAI, ont affaibli en interne leurs engagements de sécurité pris publiquement."
     },
     {
-      "source": "n12",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "Pendant que Google DeepMind retarde son modèle phare et perd des chercheurs clés, OpenAI accélère au contraire son rythme de sortie de produits, creusant l'écart dans la course frontière."
-    },
-    {
-      "source": "n13",
+      "source": "n08",
       "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "La même semaine, OpenAI cherche à s'attirer les faveurs de l'Etat via une participation au capital tandis qu'Anthropic soigne sa légitimité publique en offrant Claude aux enseignants: deux réponses différentes à la même pression politique sur les labs d'IA."
+      "type": "tension",
+      "explanation": "Meta investit massivement dans le calcul IA (puce Iris, 14 GW visés) au moment même où d'anciens salariés l'accusent d'avoir utilisé des systèmes d'IA pour cibler des licenciements, illustrant les tensions internes que fait naître l'automatisation à grande échelle."
     },
     {
-      "source": "n15",
-      "target": "n05",
+      "source": "n02",
+      "target": "n03",
+      "type": "meme_sujet",
+      "explanation": "Fed et BCE publient la même semaine des signaux montrant comment les banques centrales intègrent des chocs exogènes, énergie et climat, dans leurs décisions et leurs cadres de collatéral respectifs."
+    },
+    {
+      "source": "n03",
+      "target": "n12",
       "type": "tension",
-      "explanation": "L'ambition européenne de diviser par deux l'usage du pétrole d'ici 2040 contraste avec le choc pétrolier immédiat provoqué par la crise iranienne, qui rappelle la dépendance persistante à l'énergie fossile."
+      "explanation": "La BCE cherche à mieux pricer le risque climatique dans le collatéral bancaire au moment même où les chiffres montrent que la transition énergétique réelle bute sur des goulots d'étranglement massifs, un décalage entre ambition financière et réalité des infrastructures."
+    },
+    {
+      "source": "n07",
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "La preuve mathématique revendiquée par GPT-5.6 et la publication des principes de sécurité nationale sortent la même semaine chez OpenAI: l'entreprise démontre la puissance de ses modèles tout en rassurant sur leur usage encadré."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "Ces deux avancées publiées la même semaine lèvent chacune un verrou matériel de longue date, l'une en électronique pour la synthèse d'ADN, l'autre en science des matériaux pour la fiabilité des batteries solid-state."
     },
     {
       "source": "n16",
-      "target": "n15",
+      "target": "n13",
       "type": "meme_sujet",
-      "explanation": "Ces deux décisions européennes, l'une judiciaire et l'autre réglementaire, resserrent le même mois la pression sur les majors pétrolières et gazières."
-    },
-    {
-      "source": "n18",
-      "target": "n17",
-      "type": "meme_sujet",
-      "explanation": "Ces deux études publiées la même semaine renouvellent la compréhension du vieillissement cérébral et des risques de démence, sous deux angles complémentaires: mécanisme moléculaire et épidémiologie mondiale."
-    },
-    {
-      "source": "n19",
-      "target": "n18",
-      "type": "meme_sujet",
-      "explanation": "Deux publications distinctes de la même semaine identifient chacune un nouveau moteur moléculaire du vieillissement tissulaire, l'une pour la mémoire, l'autre pour la fertilité."
+      "explanation": "Ces deux travaux relèvent d'une même vague de recherche en biologie du vieillissement qui vise directement les mécanismes cellulaires, gamètes reconstitués en laboratoire d'un côté, cellules souches sanguines restaurées de l'autre, plutôt que leurs symptômes."
     }
   ]
 }

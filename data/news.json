@@ -1,249 +1,271 @@
 {
-  "generated_at": "2026-07-16T09:00:00Z",
+  "generated_at": "2026-07-17T04:09:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Plan $95Mds guerre Iran",
-      "title": "La Chambre des représentants dévoile un plan de 95 milliards $ pour la guerre en Iran",
-      "summary": "La Chambre des représentants a dévoilé un plan budgétaire de 95 milliards de dollars, dont environ 60 milliards pour l'armée, destiné à financer la guerre contre l'Iran et reconstituer les stocks militaires américains. Le texte, porté sans compensation budgétaire alors que le déficit dépasse 2000 milliards de dollars, doit encore être examiné en commission. Le trafic de pétroliers dans le détroit d'Ormuz a chuté de plus de moitié la semaine précédente sous l'effet du blocus et des frappes.",
-      "source": "US News",
-      "url": "https://www.usnews.com/news/politics/articles/2026-07-15/house-republicans-unveil-95-billion-plan-for-the-iran-war-farm-aid-and-elections"
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Hormuz: guerre reprend",
+      "title": "Le cessez-le-feu americano-iranien vole en eclats",
+      "summary": "Apres plusieurs semaines d'accalmie relative, Washington et Teheran ont repris leurs frappes croisees pres du detroit d'Ormuz, l'armee americaine ayant vise plus de 80 sites iraniens en representailles a des attaques contre des navires marchands. Donald Trump a declare le cessez-le-feu 'termine' a l'issue du sommet de l'OTAN, rouvrant une phase d'incertitude militaire dans le Golfe.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference"
     },
     {
       "id": "n02",
       "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Fed: carburant inquiète",
-      "title": "Le Beige Book de la Fed signale une inflation en amélioration mais des craintes sur le carburant",
-      "summary": "Le Beige Book de la Fed du 15 juillet décrit une activité économique en légère hausse et des signes d'amélioration de l'inflation, mais plusieurs districts signalent une incertitude accrue sur les coûts du carburant. Cette réserve intervient alors que le Brent a grimpé au-dessus de 85 dollars cette semaine sous l'effet du conflit en Iran, compliquant la décision de taux du 29 juillet.",
-      "source": "Fed (via US News)",
-      "url": "https://money.usnews.com/investing/news/articles/2026-07-15/economic-activity-on-the-rise-and-inflation-may-be-improving-fed-survey-shows"
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent au-dessus de $78",
+      "title": "Le Brent bondit au-dessus de 78 dollars",
+      "summary": "La reprise des affrontements americano-iraniens autour du detroit d'Ormuz a fait grimper le Brent de plus de 4% en une seance, a son plus haut niveau depuis fin juin. Le trafic maritime dans le detroit s'est effondre, avec a peine six navires ayant traverse la zone en une journee contre une vingtaine habituellement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "BCE: facteur climat",
-      "title": "La BCE applique désormais un facteur climat dans son cadre de garanties bancaires",
-      "summary": "Depuis la mi-juin, la BCE applique des facteurs climat dans son cadre de garanties, ajustant la valeur des obligations d'entreprises acceptées en collatéral selon leur exposition aux chocs de transition énergétique. Les secteurs intensifs en carbone comme l'énergie, les matériaux ou le transport voient la valeur de leur collatéral réduite, tandis que les services logiciels en bénéficient relativement.",
-      "source": "European Central Bank",
-      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260707~bb81f1b45e.en.html"
+      "subtopic": "fed",
+      "importance": 3,
+      "short_title": "Fed: hausse de taux",
+      "title": "Les probabilites d'un relevement des taux Fed remontent",
+      "summary": "Le choc petrolier lie a la crise du detroit d'Ormuz a fait grimper la probabilite, selon les marches a terme, d'un relevement des taux directeurs par la Fed le 29 juillet, la sonde CME FedWatch etant repassee au-dessus de 40% avant de refluer. Une gouverneure de la Fed evoque desormais la possibilite de devoir remonter les taux si les pressions sur les prix se confirment.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html"
     },
     {
       "id": "n04",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic vise l'IPO",
-      "title": "Anthropic entame des rencontres investisseurs en vue d'une IPO géante",
-      "summary": "Anthropic organiserait des rencontres avec des investisseurs en vue d'une introduction en bourse pouvant intervenir dès octobre, avec Goldman Sachs, Morgan Stanley et JPMorgan comme banques conseils. La démarche intervient alors que l'entreprise vient d'être classée numéro un mondial de la sécurité IA par le Future of Life Institute, un argument qu'elle devrait mettre en avant auprès des marchés.",
+      "theme": "finance",
+      "subtopic": "fed",
+      "importance": 2,
+      "short_title": "CPI US ralentit",
+      "title": "L'inflation de juin ralentit plus que prevu aux Etats-Unis",
+      "summary": "L'indice des prix a la consommation a recule de 0,4% en juin, une baisse plus marquee qu'attendu, ramenant la hausse annuelle a 3,5% contre 3,8% anticipes par les economistes. Cette accalmie tempere partiellement les anticipations de hausse de taux nourries par le choc petrolier lie a l'Iran.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
+      "url": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Anthropic lance Ode",
-      "title": "Anthropic, Blackstone et Hellman & Friedman lancent Ode, filiale de services IA",
-      "summary": "Anthropic, Blackstone et Hellman & Friedman ont officiellement lancé Ode with Anthropic, une société de services IA dotée de 1,5 milliard de dollars, construite sur la structure de Fractional AI rachetée en mai. L'objectif est d'aider les grandes entreprises à identifier où l'IA peut avoir le plus d'impact et à construire les systèmes correspondants, avec une centaine d'ingénieurs déjà en place.",
-      "source": "Business Wire",
-      "url": "https://www.businesswire.com/news/home/20260715205134/en/Anthropic-Blackstone-and-Hellman-Friedman-Introduce-Ode-with-Anthropic-an-Enterprise-AI-Services-Firm"
+      "short_title": "Wall St: résultats forts",
+      "title": "Wall Street: la saison des resultats confirme la solidite des banques",
+      "summary": "Goldman Sachs a largement depasse les attentes au deuxieme trimestre, avec un benefice par action de 20,98 dollars contre 14,48 dollars anticipes, portant son titre en hausse de plus de 3% en avant-Bourse. La saison de publications s'annonce comme la deuxieme consecutive avec une croissance des benefices superieure a 20%, un signal rassurant pour les marches actions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "OpenAI: principes sécu",
-      "title": "OpenAI publie ses \"National Security Principles\"",
-      "summary": "OpenAI a publié ses National Security Principles, fixant trois lignes rouges: pas d'usage pour la surveillance de masse domestique, pas de pilotage d'armes autonomes, et aucune décision automatisée à fort enjeu sans validation humaine. Le texte accompagne l'expansion du programme OpenAI for Government, incluant un contrat de 200 millions de dollars avec le Pentagone.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/government-national-security-partnerships/"
+      "theme": "geopol",
+      "subtopic": "otan",
+      "importance": 2,
+      "short_title": "OTAN: sommet Ankara",
+      "title": "Le sommet de l'OTAN a Ankara domine par la guerre en Iran",
+      "summary": "Reunis en Turquie, les dirigeants de l'Alliance ont adopte un communique a minima, sans engagement pour l'an prochain, alors que la guerre americano-iranienne a eclipse les autres priorites. Washington a par ailleurs signale son feu vert a la vente d'avions F-35 a la Turquie, revenant sur des annees de restrictions liees a l'achat de S-400 russes par Ankara.",
+      "source": "Atlantic Council",
+      "url": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara/"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "GPT-5.6 preuve maths",
-      "title": "OpenAI affirme que GPT-5.6 Sol Ultra a prouvé une conjecture mathématique de 1979",
-      "summary": "OpenAI affirme que GPT-5.6 Sol Ultra a produit, en s'appuyant sur 64 sous-agents pendant moins d'une heure, une preuve de la conjecture de la double couverture par cycles, un problème de théorie des graphes ouvert depuis 1979. La communauté mathématique est en train de vérifier la démonstration, dont l'absence de citations et de vérification formelle (Lean) suscite déjà des réserves.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/"
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 3,
+      "short_title": "Zelensky remanie son gvt",
+      "title": "Zelensky limoge son ministre de la Defense et provoque des manifestations",
+      "summary": "Le president ukrainien a evince Mykhailo Fedorov, ministre de la Defense tres populaire pour sa modernisation de l'armee par les drones, dans le cadre d'un remaniement gouvernemental qui a aussi vu le depart de la Premiere ministre Ioulia Svyrydenko. Le limogeage a provoque des manifestations spontanees dans plusieurs villes ukrainiennes, des soutiens occidentaux saluant pourtant le bilan de Fedorov.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Meta lance sa puce Iris",
-      "title": "Meta prévoit de lancer la production de sa puce IA \"Iris\" en septembre",
-      "summary": "Selon des documents internes, Meta prévoit de lancer en septembre la production de sa puce IA maison Iris, conçue avec Broadcom et fabriquée par TSMC, dans le cadre d'un plan visant à doubler sa capacité de calcul à 14 gigawatts d'ici 2027. Le composant, destiné à l'inférence, a passé sa phase de test sans incident majeur et illustre la volonté du groupe de réduire sa dépendance à Nvidia.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/meta-to-put-ai-chip-into-production-in-september-report.html"
+      "importance": 3,
+      "short_title": "OpenAI lance GPT-5.6",
+      "title": "OpenAI publie GPT-5.6 et lance l'agent ChatGPT Work",
+      "summary": "OpenAI a ouvert au public GPT-5.6, decline en trois niveaux (Sol, Terra, Luna), ainsi qu'un nouvel agent baptise ChatGPT Work capable de mener des taches completes sur plusieurs heures a travers les applications et fichiers de l'utilisateur. Le modele devient par ailleurs le moteur par defaut de Microsoft 365 Copilot.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Meta: IA et licenciements",
-      "title": "Des salariés de Meta accusent l'entreprise d'avoir utilisé l'IA pour cibler des licenciements",
-      "summary": "Vingt-six salariés de Meta poursuivent l'entreprise, affirmant que des systèmes internes d'IA, croisant données de frappe au clavier et tableaux de bord d'usage, ont servi à sélectionner les personnes visées par les 8000 suppressions de postes annoncées en mai, en ciblant de façon disproportionnée des salariés en congé médical ou parental. Meta dément et affirme que les décisions ont été prises par des humains.",
-      "source": "US News",
-      "url": "https://www.usnews.com/news/business/articles/2026-07-14/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave"
+      "short_title": "Claude for Teachers",
+      "title": "Anthropic lance Claude for Teachers",
+      "summary": "Anthropic a devoile une offre gratuite de Claude destinee aux enseignants du primaire et du secondaire aux Etats-Unis, avec une bibliotheque de competences pedagogiques reliee a des programmes conformes aux standards academiques des 50 Etats. Le lancement s'inscrit dans une bataille croissante entre labs IA pour s'implanter dans les salles de classe americaines.",
+      "source": "Chalkbeat",
+      "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Indice sécurité IA 2026",
-      "title": "L'indice FLI 2026 place Anthropic en tête de la sécurité IA, Mistral recalé",
-      "summary": "Le Future of Life Institute a publié son indice 2026 de sécurité IA, évaluant neuf laboratoires sur 37 critères répartis en six domaines: Anthropic arrive en tête avec un C+, suivi d'OpenAI et Google DeepMind (C), tandis que xAI, DeepSeek et le français Mistral échouent avec un F. Le rapport souligne que plusieurs laboratoires, dont Anthropic et OpenAI, ont affaibli ces derniers mois leurs engagements internes de sécurité.",
-      "source": "MIT Sloan Management Review",
-      "url": "https://www.mitsloanme.com/article/anthropic-tops-2026-ai-safety-index-but-no-ai-firm-earns-above-a-c/"
+      "short_title": "Gemini 3.5 Pro retardé",
+      "title": "Gemini 3.5 Pro de nouveau retarde, Flash devient le modele par defaut",
+      "summary": "Google a discretement repousse la sortie de Gemini 3.5 Pro, evoquant selon Bloomberg des lacunes persistantes en generation de code, sans nouvelle date precise au-dela d'un vague 'mois prochain'. En attendant, Gemini 3.5 Flash devient le modele par defaut de l'app Gemini et du mode IA dans Search, pendant qu'un exode de chercheurs seniors de DeepMind s'est accelere.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "regulation",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "UE: souveraineté tech",
-      "title": "Bruxelles avance son paquet de souveraineté technologique",
-      "summary": "La Commission européenne poursuit son paquet de souveraineté technologique, comprenant le Cloud and AI Development Act et le Chips Act 2.0, pour tripler la capacité de centres de données en Europe et bâtir une première fonderie européenne sous 3 nm. Le texte part du constat que l'UE dépend de fournisseurs non européens pour plus de 80% de ses produits numériques et que trois hyperscalers américains contrôlent plus de 70% du marché du cloud.",
-      "source": "European Commission",
-      "url": "https://commission.europa.eu/news-and-media/news/strengthening-europes-tech-sovereignty-2026-06-03_en"
+      "short_title": "Mistral: robot Robostral",
+      "title": "Mistral devoile Robostral Navigate, son premier modele robotique",
+      "summary": "Mistral AI a presente Robostral Navigate, un modele permettant a des robots de naviguer dans des environnements complexes a partir d'une simple camera et d'instructions en langage naturel, entraine entierement en simulation. Le modele est agnostique au materiel et vise a equiper n'importe quelle flotte robotique, marquant l'entree du lab francais dans l'IA physique.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push"
     },
     {
       "id": "n12",
-      "theme": "climat",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "1650 GW bloqués (réseau)",
-      "title": "La transition énergétique bute sur 1650 GW bloqués dans les files d'attente réseau",
-      "summary": "Selon une analyse sectorielle, le marché mondial de la transition énergétique doit atteindre 3170 milliards de dollars en 2026, mais environ 1650 gigawatts de capacité renouvelable restent bloqués dans les files d'attente de raccordement au réseau à travers le monde. Les goulots d'étranglement des réseaux électriques deviennent ainsi la principale contrainte freinant le déploiement effectif des projets déjà financés.",
-      "source": "MarketScale",
-      "url": "https://www.marketscale.com/industries/energy/energy-transition-market-reaches-317-trillion-in-2026-as-grid-connection-backlogs-stall-1650-gw-of-capacity"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 3,
+      "short_title": "SpaceX rachète Cursor",
+      "title": "SpaceX rachete Cursor pour 60 milliards de dollars",
+      "summary": "SpaceX a annonce le rachat en actions d'Anysphere, editeur de l'outil de code IA Cursor, pour 60 milliards de dollars, quelques jours seulement apres son introduction en Bourse record. L'operation, qui doit se clore au troisieme trimestre, vise a armer SpaceX et xAI face a Anthropic et OpenAI sur les outils de code, les deux entreprises developpant deja un modele partage destine a Cursor et a Grok.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Sang: cibler télomères",
-      "title": "Cibler les dommages télomériques restaure le sang vieillissant chez la souris",
-      "summary": "Une étude publiée dans Nature Aging montre que l'inhibition du signal de dommage télomérique, via des oligonucléotides antisens ciblant des ARN non codants télomériques, restaure la production de cellules sanguines et la fonction immunitaire chez des souris âgées ou déficientes en télomérase. L'approche améliore aussi la fonction de cellules souches hématopoïétiques humaines en laboratoire, ouvrant une piste contre l'épuisement du système sanguin lié à l'âge.",
-      "source": "Nature Aging",
-      "url": "https://www.nature.com/articles/s43587-026-01136-9"
+      "short_title": "Figma Config 2026",
+      "title": "Figma devoile code layers, motion et 3D a sa conference Config",
+      "summary": "Lors de Config 2026, Figma a presente les 'code layers' qui transforment un calque de design en composant interactif d'un clic, de nouveaux outils de motion design pilotables par un agent IA, et des transformations 3D pour donner du relief aux interfaces. Ces annonces confirment le virage de Figma vers un outil de conception assistee par IA de bout en bout.",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/config-2026-recap/"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "biotech",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Puce Harvard écrit l'ADN",
-      "title": "Des chercheurs de Harvard transforment une puce en silicium en machine à écrire de l'ADN",
-      "summary": "Des chercheurs de Harvard ont transformé une puce en silicium en machine à écrire de l'ADN, capable de synthétiser en parallèle 64 séquences grâce à des courants électriques déclenchant des réactions enzymatiques en milieu aqueux. Cette approche évite la chimie classique à base de solvants et pourrait, si elle passe à l'échelle, réduire fortement le coût de synthèse d'ADN pour la thérapie génique et les vaccins personnalisés.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
+      "short_title": "Bâle III: report UE",
+      "title": "L'UE reporte un volet cle de Bale III, au risque d'un arbitrage reglementaire",
+      "summary": "Le paquet CRR3/CRD6 qui transpose les derniers accords de Bale a vu certains elements du cadre de risque de marche repousses au 1er janvier 2026, creant un decalage temporaire avec les calendriers americain et britannique. Les praticiens du risque bancaire s'inquietent d'un arbitrage reglementaire entre juridictions tant que cette desynchronisation persiste.",
+      "source": "A&O Shearman",
+      "url": "https://www.aoshearman.com/en/insights/financial-services-horizon-report-2026/prudential-regulation-in-2026"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "materiaux",
-      "importance": 2,
-      "short_title": "Dendrites: mystère résolu",
-      "title": "Le mécanisme de défaillance des batteries solid-state enfin élucidé",
-      "summary": "Une équipe utilisant la cryomicroscopie électronique a établi le mécanisme exact par lequel le lithium métallique, pourtant mou, parvient à fissurer l'électrolyte céramique rigide des batteries solid-state: le métal s'infiltre dans des microfissures de fabrication et y génère une pression suffisante pour provoquer une rupture fragile, à la façon d'un jet d'eau perçant la roche. La découverte ouvre trois pistes concrètes: électrolytes plus tenaces, micro-vides d'ingénierie et revêtements protecteurs d'anode.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 3,
+      "short_title": "FSB alerte dette IA",
+      "title": "Le FSB alerte sur le financement par la dette de l'infrastructure IA",
+      "summary": "Le Financial Stability Board releve que les entreprises d'IA se tournent de plus en plus vers le financement par dette pour soutenir leurs investissements en infrastructure, une tendance qui s'est acceleree au premier semestre 2026. Combinee a l'opacite du credit prive, cette dependance croissante au levier fait craindre au regulateur une concentration de vulnerabilites susceptibles de se materialiser simultanement.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/06/private-credit-stress-risks-financial-stability-markets.html"
     },
     {
       "id": "n16",
+      "theme": "climat",
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "Climat: bilan France",
+      "title": "Premier bilan officiel des impacts du changement climatique en France",
+      "summary": "La ministre de la Transition ecologique Monique Barbut a presente le premier bilan annuel des impacts du rechauffement en France, ou l'Hexagone a atteint +2,2°C par rapport a l'ere preindustrielle en 2025. Le rapport souligne la multiplication et l'intensification des canicules, secheresses et episodes de fortes precipitations.",
+      "source": "Ministere de la Transition ecologique",
+      "url": "https://www.ecologie.gouv.fr/presse/brief-presse-presentation-du-premier-bilan-annuel-impacts-du-changement-climatique-france"
+    },
+    {
+      "id": "n17",
       "theme": "sciences",
-      "subtopic": "biotech",
+      "subtopic": "physique_quantique",
       "importance": 1,
-      "short_title": "Spermatozoïdes en labo",
-      "title": "Deux biotechs revendiquent des gamètes humains cultivés entièrement en laboratoire",
-      "summary": "Les biotechs Paterna Biosciences et Conception Biosciences affirment avoir respectivement produit des spermatozoïdes humains fonctionnels et des ovocytes immatures entièrement en laboratoire, à partir de cellules souches reprogrammées. Paterna dit être allée jusqu'à féconder des ovules avec ces spermatozoïdes pour former des embryons, mais ces résultats n'ont pas encore été évalués par les pairs ni validés cliniquement.",
-      "source": "BioSpace",
-      "url": "https://www.biospace.com/press-releases/paterna-biosciences-announces-world-first-achievement-lab-grown-human-sperm"
+      "short_title": "Preuves quantiques",
+      "title": "Une avancee theorique sur la puissance des preuves quantiques",
+      "summary": "Des chercheurs recompenses par le prix du meilleur article au symposium STOC 2026 ont identifie un probleme de calcul qui necessite veritablement une preuve quantique, aucune preuve classique ne pouvant s'y substituer. Ce resultat clarifie une question ouverte de longue date sur la separation entre calcul classique et calcul quantique.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/"
+    },
+    {
+      "id": "n18",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 3,
+      "short_title": "Renfo: 90-120min/sem",
+      "title": "Une etude sur 147 000 personnes fixe la dose optimale de renforcement musculaire",
+      "summary": "Un suivi de 147 374 personnes sur 30 ans montre que 90 a 120 minutes de musculation par semaine constituent le point optimal pour la longevite, avec 13% de mortalite toutes causes en moins, 19% de moins pour les causes cardiovasculaires et 27% de moins pour les causes neurologiques. Aucun benefice supplementaire n'apparait au-dela de 120 minutes, et les gains sont encore meilleurs lorsque le renforcement est combine a de l'aerobie.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
     }
   ],
   "edges": [
     {
       "source": "n01",
       "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "La guerre en Iran alimente à la fois la demande de financement budgétaire du Congrès et l'inquiétude de la Fed sur les coûts du carburant: deux faces de la même onde de choc économique et budgétaire."
-    },
-    {
-      "source": "n04",
-      "target": "n05",
       "type": "cause",
-      "explanation": "Anthropic structure sa filiale de services Ode juste avant sa tournée investisseurs, pour présenter aux marchés un modèle de revenus diversifié au-delà des seuls abonnements et API."
-    },
-    {
-      "source": "n10",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "La première place obtenue à l'indice de sécurité IA du Future of Life Institute renforce l'argumentaire de gouvernance responsable qu'Anthropic met en avant auprès des investisseurs en vue de son IPO."
-    },
-    {
-      "source": "n10",
-      "target": "n11",
-      "type": "tension",
-      "explanation": "L'UE mise sur des champions comme Mistral dans sa stratégie de souveraineté technologique, alors que ce même Mistral vient d'obtenir la pire note possible (F) à l'indice de sécurité IA du FLI."
-    },
-    {
-      "source": "n06",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "OpenAI publie des principes de sécurité nationale rassurants la semaine même où le FLI relève que plusieurs labs, dont OpenAI, ont affaibli en interne leurs engagements de sécurité pris publiquement."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Meta investit massivement dans le calcul IA (puce Iris, 14 GW visés) au moment même où d'anciens salariés l'accusent d'avoir utilisé des systèmes d'IA pour cibler des licenciements, illustrant les tensions internes que fait naître l'automatisation à grande échelle."
+      "explanation": "Les frappes reciproques pres du detroit d'Ormuz font craindre une perturbation du transit petrolier, ce qui pousse mecaniquement le Brent a la hausse."
     },
     {
       "source": "n02",
       "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Fed et BCE publient la même semaine des signaux montrant comment les banques centrales intègrent des chocs exogènes, énergie et climat, dans leurs décisions et leurs cadres de collatéral respectifs."
+      "type": "cause",
+      "explanation": "La flambee du petrole ravive le risque inflationniste et incite les marches a reevaluer a la hausse la probabilite d'un geste restrictif de la Fed."
     },
     {
       "source": "n03",
-      "target": "n12",
+      "target": "n04",
       "type": "tension",
-      "explanation": "La BCE cherche à mieux pricer le risque climatique dans le collatéral bancaire au moment même où les chiffres montrent que la transition énergétique réelle bute sur des goulots d'étranglement massifs, un décalage entre ambition financière et réalité des infrastructures."
+      "explanation": "La hausse du petrole plaide pour un relevement des taux tandis que le ralentissement de l'inflation sous-jacente en juin plaide pour le statu quo, ecartelant les anticipations de marche."
     },
     {
-      "source": "n07",
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Le ralentissement de l'inflation et les resultats bancaires superieurs aux attentes alimentent le meme narratif de marche cette semaine: une economie qui resiste malgre le choc geopolitique."
+    },
+    {
+      "source": "n01",
       "target": "n06",
       "type": "meme_sujet",
-      "explanation": "La preuve mathématique revendiquée par GPT-5.6 et la publication des principes de sécurité nationale sortent la même semaine chez OpenAI: l'entreprise démontre la puissance de ses modèles tout en rassurant sur leur usage encadré."
+      "explanation": "Le sommet de l'OTAN s'est tenu dans l'ombre de la reprise des hostilites entre Washington et Teheran, qui a domine les discussions entre allies."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Alors que l'OTAN cherche a afficher une unite occidentale sur l'Ukraine, le remaniement brutal a Kyiv juste apres le sommet fragilise cette image de cohesion."
+    },
+    {
+      "source": "n08",
+      "target": "n10",
+      "type": "tension",
+      "explanation": "OpenAI met en marche GPT-5.6 quand Google, empetre dans des lacunes de generation de code, retarde une nouvelle fois Gemini 3.5 Pro: la course aux modeles frontier avance a deux vitesses."
+    },
+    {
+      "source": "n09",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Anthropic et OpenAI misent la meme semaine sur l'elargissement de leur distribution (salles de classe, agents transverses) plus que sur la seule puissance brute des modeles."
+    },
+    {
+      "source": "n08",
+      "target": "n12",
+      "type": "meme_sujet",
+      "explanation": "La sortie de GPT-5.6 et le rachat spectaculaire de Cursor par SpaceX illustrent la meme ruee des acteurs de l'IA vers les outils de code agentiques."
+    },
+    {
+      "source": "n12",
+      "target": "n15",
+      "type": "cause",
+      "explanation": "Le rachat de Cursor par SpaceX a 60 milliards de dollars illustre l'afflux massif de capitaux et de dette vers l'infrastructure IA que le FSB identifie precisement comme un facteur de risque systemique croissant."
     },
     {
       "source": "n14",
       "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Ces deux avancées publiées la même semaine lèvent chacune un verrou matériel de longue date, l'une en électronique pour la synthèse d'ADN, l'autre en science des matériaux pour la fiabilité des batteries solid-state."
-    },
-    {
-      "source": "n16",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "Ces deux travaux relèvent d'une même vague de recherche en biologie du vieillissement qui vise directement les mécanismes cellulaires, gamètes reconstitués en laboratoire d'un côté, cellules souches sanguines restaurées de l'autre, plutôt que leurs symptômes."
+      "explanation": "Le report du volet marche de Bale III en Europe et l'alerte du FSB sur le financement de l'IA relevent tous deux d'angles morts reglementaires dans la surveillance bancaire mondiale."
     }
   ]
 }

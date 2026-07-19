@@ -1,254 +1,266 @@
 {
-  "generated_at": "2026-07-18T04:11:35Z",
+  "generated_at": "2026-07-19T08:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran vise Qatar/Koweït",
-      "title": "L'Iran frappe le Qatar et le Koweït, les Etats-Unis detruisent des ponts strategiques",
-      "summary": "L'Iran a de nouveau vise le Golfe, avec des tirs interceptes au-dessus de Doha et du Koweit, tandis que les forces americaines ont detruit deux ponts strategiques pres de Bandar Khamir, sur le detroit d'Ormuz. Au moins huit personnes ont ete tuees dans les frappes americaines en Iran, lors d'une septieme nuit consecutive de bombardements. L'escalade ravive la crainte d'un blocage prolonge du trafic maritime dans le detroit.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest"
+      "short_title": "Iran tue 2 soldats US",
+      "title": "Une frappe iranienne tue deux soldats americains, Washington riposte",
+      "summary": "Deux militaires americains ont ete tues et un troisieme porte disparu lors d'une frappe iranienne, selon le CENTCOM, dans le cadre de l'escalade qui dure depuis une semaine autour du detroit d'Ormuz. Les Etats-Unis ont aussitot lance une nouvelle vague de frappes pour punir rapidement l'Iran et continuer de degrader ses capacites militaires. L'episode marque les premieres pertes americaines confirmees depuis la reprise des hostilites fin juin.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Al-Tanf: dément CENTCOM",
-      "title": "L'Iran revendique une frappe en Syrie, le CENTCOM dement formellement",
-      "summary": "Le Corps des gardiens de la revolution iranien a revendique une frappe de representailles contre la base americaine d'al-Tanf en Syrie, affirmant avoir capture ou tue des soldats americains. Le commandement central americain (CENTCOM) a formellement dementi ces affirmations, les qualifiant de fausses. L'episode illustre la bataille de communication qui accompagne l'escalade militaire en cours.",
-      "source": "NewsNation",
-      "url": "https://www.newsnationnow.com/world/us-iran-war-strait-hormuz-syria-centcom/"
+      "short_title": "Ponts et Koweit vises",
+      "title": "Les Etats-Unis frappent des ponts strategiques, l'Iran vise une usine de desalinisation au Koweit",
+      "summary": "L'armee americaine a detruit plusieurs ponts reliant des villes du sud de l'Iran, dont l'axe principal vers Bandar Abbas, ville cle surplombant le detroit d'Ormuz, faisant au moins huit morts. En representailles, des missiles et drones iraniens ont vise une usine de desalinisation au Koweit pour la deuxieme fois en deux jours, un pays qui depend de ces installations pour 90% de son eau potable. L'escalade s'etend ainsi aux infrastructures civiles des voisins du Golfe.",
+      "source": "AP via KSAT",
+      "url": "https://www.ksat.com/news/world/2026/07/18/us-and-iran-exchange-strikes-as-they-struggle-over-strait-of-hormuz/"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent $87, Ormuz bloqué",
-      "title": "Le Brent grimpe a 87 dollars, plus haut niveau depuis un mois",
-      "summary": "Le baril de Brent a grimpe jusqu'a 87 dollars, son plus haut niveau depuis un mois, porte par la troisieme journee consecutive de frappes croisees entre Washington et Teheran. Le trafic de navires dans le detroit d'Ormuz continue de se contracter fortement face aux risques d'attaques. Les prix restent 19% au-dessus de leur niveau d'avant-guerre de fin fevrier.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/energy/oil-prices-us-iran-strikes-blockade-rcna587432"
-    },
-    {
-      "id": "n04",
       "theme": "geopol",
       "subtopic": "ukraine",
       "importance": 2,
-      "short_title": "Kyiv: 2e jour de manifs",
-      "title": "Deuxieme jour de manifestations a Kyiv apres le limogeage de Fedorov",
-      "summary": "Une deuxieme journee de manifestations a eu lieu a Kyiv apres le limogeage surprise du ministre de la Defense Mykhailo Fedorov, tres populaire pour sa modernisation de l'armee par les drones. Un conseiller du ministere et un commandant adjoint de l'armee de l'air ont demissionne en signe de protestation. Le limogeage decoulait d'un conflit ouvert entre Fedorov et le commandant en chef Oleksandr Syrsky, que Zelensky a tranche en faveur de ce dernier.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/07/17/a-crisis-of-his-own-zelenskyys-wartime-reshuffle-backfires-and-leads-to-protests"
+      "short_title": "Kyiv frappe en Russie",
+      "title": "L'Ukraine mene ses frappes de drones les plus meurtrieres en Russie depuis deux ans",
+      "summary": "Des attaques de drones ukrainiens ont tue au moins huit personnes dans des entrepots en Russie, a Kotovsk et a Elektrostal, ce qui en fait les frappes les plus meurtrieres menees par Kyiv en territoire russe depuis plus de deux ans. La meme nuit, les forces ukrainiennes ont egalement frappe treize navires de la flotte fantome russe en mer Noire et en mer d'Azov. Ces actions surviennent alors que la guerre s'intensifie aussi sur le front, avec plus de 850 frappes russes recensees en une journee sur la region de Zaporijjia.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/18/europe/eight-killed-in-ukrainian-drone-attacks-on-russian-warehouses"
+    },
+    {
+      "id": "n04",
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent au plus haut",
+      "title": "Le Brent poursuit sa flambee, en hausse de plus de 14% sur la semaine",
+      "summary": "Le baril de Brent a grimpe au-dela de 86 dollars, en hausse de plus de 14% sur la semaine, porte par l'intensification des frappes croisees entre Washington et Teheran autour du detroit d'Ormuz. Le trafic maritime dans le detroit continue de se contracter fortement face au risque d'attaques sur les navires. Les prix sont desormais environ 25% superieurs a leur niveau d'il y a un an.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html"
     },
     {
       "id": "n05",
-      "theme": "geopol",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Trump accuse la Chine",
-      "title": "Trump declassifie des documents accusant la Chine d'un vol massif de donnees electorales",
-      "summary": "Donald Trump a declassifie des documents accusant la Chine d'avoir derobe les donnees personnelles de 220 millions d'electeurs americains, qualifiant l'affaire de plus grand vol de donnees electorales de l'histoire. Les verificateurs de faits soulignent que les documents publies apportent peu d'elements nouveaux appuyant les affirmations plus larges de Trump sur une fraude electorale en 2020. L'episode relance la tension diplomatique avec Pekin sur fond de rivalite technologique.",
-      "source": "PBS News",
-      "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 3,
+      "short_title": "Fed: options resserrees",
+      "title": "Le rapport sur l'emploi affaiblit les paris sur une hausse des taux de la Fed",
+      "summary": "Les creations d'emploi americaines n'ont atteint que 57 000 en juin, tres en dessous des 115 000 attendus, avec des revisions a la baisse des deux mois precedents. Cette faiblesse du marche du travail a fait reculer les anticipations d'une hausse des taux lors de la reunion du FOMC du 29 juillet, le president de la Fed Kevin Warsh refusant de se prononcer sur la suite. La Fed se retrouve ainsi prise en etau entre le risque inflationniste lie a la flambee du petrole et un marche de l'emploi qui se degrade.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/15/warsh-inflation-ppi-rates"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Gemini: Alphabet -200Md$",
-      "title": "Le retard de Gemini 3.5 Pro efface pres de 200 milliards de dollars de capitalisation Alphabet",
-      "summary": "Une information de Bloomberg revelant que Gemini 3.5 Pro, le modele phare tant attendu de Google, accuse plusieurs mois de retard en raison de performances de codage jugees insuffisantes en interne, a fait chuter l'action Alphabet de plus de 4% et efface environ 200 milliards de dollars de capitalisation en une seance. Le modele avait ete annonce lors de Google I/O en mai avec une sortie prevue en juin. L'episode alimente les inquietudes internes sur la perte d'avance de Google face a Anthropic et OpenAI.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 2,
+      "short_title": "BCE: statu quo attendu",
+      "title": "La BCE devrait maintenir ses taux le 23 juillet apres son relevement de juin",
+      "summary": "Apres avoir releve ses trois taux directeurs de 25 points de base en juin, une premiere hausse depuis 2023 justifiee par les pressions inflationnistes liees au conflit au Moyen-Orient, la BCE devrait cette fois marquer une pause le 23 juillet. Les marches attribuent environ 88% de probabilite a un statu quo, l'inflation de la zone euro etant retombee a 2,8% en juin. La reunion de juillet ne comporte pas de nouvelles projections macroeconomiques, laissant le ton du communique porter l'essentiel du signal.",
+      "source": "Morningstar",
+      "url": "https://global.morningstar.com/en-eu/economy/ecb-rate-decision-what-expect-july-23"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "commerce",
       "importance": 2,
-      "short_title": "Claude for Government",
-      "title": "Anthropic ouvre Claude Code et Cowork aux agences federales americaines",
-      "summary": "Anthropic a ouvert en beta publique Claude Code et Claude Cowork au sein de Claude for Government Desktop, un environnement certifie FedRAMP High destine aux agences federales americaines. L'offre ajoute des journaux d'audit inviolables, une double validation pour les operations sensibles et une gouvernance des depenses pensee pour le secteur public. Anthropic reste l'unique interlocuteur contractuel, sans obligation pour les agences de nouer une relation cloud separee.",
-      "source": "Anthropic",
-      "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government"
+      "short_title": "USMCA non renouvele",
+      "title": "Washington refuse de renouveler l'accord commercial USMCA avec le Canada et le Mexique",
+      "summary": "Le representant americain au Commerce Jamieson Greer a officialise le refus de l'administration Trump de renouveler l'USMCA sous sa forme actuelle, declenchant un processus de revision annuelle plutot qu'une reconduction automatique pour seize ans. L'accord, en vigueur depuis 2020 et cense expirer en 2036, reste techniquement actif mais desormais soumis a une renegociation potentielle chaque annee. Des discussions avec le Mexique sont prevues des la semaine du 20 juillet, tandis que le Canada n'a pas encore entame de negociations de fond.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI ferme Atlas",
-      "title": "OpenAI ferme son navigateur Atlas neuf mois apres son lancement",
-      "summary": "OpenAI a annonce l'arret definitif de son navigateur Atlas au 9 aout 2026, a peine neuf mois apres son lancement, faute d'avoir depasse macOS et en raison de failles de securite face aux injections de prompt. Les fonctionnalites de navigation agentique testees dans Atlas seront redistribuees dans l'application de bureau ChatGPT et une extension Chrome. L'arret illustre le pari d'OpenAI de concentrer ses efforts d'agents sur ChatGPT et Codex plutot que sur un produit autonome.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+      "importance": 3,
+      "short_title": "Gemini 3.5 Pro derape",
+      "title": "Gemini 3.5 Pro rate un troisieme delai, toujours ronge par les hallucinations",
+      "summary": "Le modele phare tant attendu de Google DeepMind a manque un troisieme delai de sortie externe, les versions internes restant sujettes a des hallucinations et des sorties incoherentes qui empechent de valider les standards de fiabilite de base. Google avait pourtant abandonne l'architecture existante de Gemini 2.5 Pro pour une refonte complete visant un contexte de 2 millions de tokens et une nouvelle couche de raisonnement. L'episode, qui a deja efface pres de 200 milliards de dollars de capitalisation Alphabet cette semaine, alimente les doutes internes sur l'avance de Google face a Anthropic et OpenAI.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/320736/20260716/rebuilt-gemini-35-pro-misses-third-deadline-google-eyes-stopgap-release.htm"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "FRTB reporté à 2027",
-      "title": "L'UE reporte une nouvelle fois l'entree en vigueur de FRTB, au 1er janvier 2027",
-      "summary": "La Commission europeenne a adopte un acte delegue reportant d'un an supplementaire, au 1er janvier 2027, l'entree en application du volet risque de marche de Bale III (FRTB) dans l'UE. L'objectif affiche est de preserver un cadre de concurrence equitable pour les banques europeennes tant que les autres juridictions, notamment les Etats-Unis, n'ont pas elles-memes transpose ces regles. Il s'agit du dernier report que la Commission est habilitee a accorder sur ce texte.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/eu-temporarily-amends-prudential-rules-banks-market-risk-2026-06-08_en"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 3,
+      "short_title": "SpaceX rachete Cursor",
+      "title": "SpaceX rachete Anysphere, editeur de Cursor, pour 60 milliards de dollars",
+      "summary": "SpaceX, recemment fusionne avec xAI, a leve une option pour racheter Anysphere, l'editeur de l'outil de codage IA Cursor, dans une transaction entierement en actions valorisee 60 milliards de dollars, la plus importante acquisition d'une startup soutenue par le capital-risque jamais realisee. Cursor genere desormais environ 4 milliards de dollars de revenus annualises aupres de plus de 50 000 clients entreprise. La cloture est prevue au troisieme trimestre 2026, sous reserve d'un examen antitrust juge quasi certain compte tenu du poids de Cursor dans les outils de developpement en entreprise.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
     },
     {
       "id": "n10",
-      "theme": "climat",
-      "subtopic": "finance_verte",
+      "theme": "learn",
+      "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "BCE: facteur climat",
-      "title": "La BCE integre un facteur climatique dans son cadre de collateral",
-      "summary": "La Banque centrale europeenne applique depuis le 15 juin un nouveau facteur climatique dans son cadre de collateral, qui reduit la valeur retenue pour les obligations d'entreprises utilisees en garantie par les banques lors d'operations de refinancement. Le facteur combine un score sectoriel d'exposition a un choc de transition, les emissions et objectifs de decarbonation de l'emetteur, et la qualite de ses informations climatiques. Les secteurs de l'energie, des materiaux et des transports subissent les decotes les plus importantes.",
-      "source": "ECB",
-      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260707~bb81f1b45e.en.html"
+      "short_title": "Mollick: fin du chat",
+      "title": "Ethan Mollick: l'IA passe du chatbot a l'agent qu'il faut savoir manager",
+      "summary": "Dans un billet largement relaye, le professeur Ethan Mollick decrit un basculement du paradigme de co-intelligence conversationnelle vers des agents autonomes capables de mener des heures de travail de maniere independante, mais qui exigent desormais d'etre manages plutot que simplement sollicites. Cette transition rebat les cartes des competences a developper: savoir deleguer, cadrer et controler un agent devient aussi important que savoir formuler un bon prompt. L'analyse fait echo aux constats de terrain sur l'entree en production des agents IA en entreprise.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/07/14/ethan-mollick-sees-dusk-settling/"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "finance",
+      "subtopic": "ccr_xva",
       "importance": 2,
-      "short_title": "Vercel v0 en prod",
-      "title": "Vercel: v0 passe du prototypage a la production, IPO en vue",
-      "summary": "Vercel affiche un revenu recurrent annuel de 340 millions de dollars fin fevrier, contre 100 millions debut 2024, porte notamment par v0, son generateur d'interfaces par IA desormais utilise en production par des equipes clientes avec une revue allegee du code genere. Le PDG Guillermo Rauch a laisse entendre que l'entreprise se prepare a une introduction en Bourse. Le succes de v0 illustre la bascule du vibe coding du prototypage vers des usages en production reelle.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+      "short_title": "IA agentique et XVA",
+      "title": "L'IA agentique pour les calculs XVA resterait a cinq ans de la production",
+      "summary": "Selon des experts cites par Risk.net, l'IA agentique promet de transformer le calcul des ajustements de valorisation des derives (XVA), mais des questions non resolues de validation des modeles, de responsabilite et de preparation reglementaire pourraient retarder son adoption operationnelle de pres de cinq ans. Les desks XVA investissent deja massivement dans la migration cloud et la modernisation de leurs outils de sensibilites, mais restent prudents face a l'incertitude reglementaire americaine. L'ecart entre le battage autour des agents IA et la realite du deploiement dans des fonctions specialisees comme le risque de contrepartie reste ainsi important.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/markets/7963795/agentic-ai-for-xvas-still-five-years-away-experts-say"
     },
     {
       "id": "n12",
-      "theme": "finance",
-      "subtopic": "france",
+      "theme": "sciences",
+      "subtopic": "astronomie",
       "importance": 2,
-      "short_title": "Emploi FR au plus bas",
-      "title": "Le climat de l'emploi en France tombe a son plus bas niveau depuis 2013",
-      "summary": "L'indicateur du climat de l'emploi calcule par l'Insee a perdu trois points en juin pour tomber a 89, son plus bas niveau depuis 2013 hors crise sanitaire, alors que l'activite se redresse pourtant legerement dans l'industrie et les services. Les chefs d'entreprise interroges citent en premier lieu les tensions internationales comme facteur pesant sur le climat des affaires et les prix des intrants. Le taux de chomage pourrait legerement remonter a 7,8% mi-2026.",
-      "source": "INSEE",
-      "url": "https://www.insee.fr/fr/statistiques/9011005"
+      "short_title": "Satellites vs astro",
+      "title": "Les megaconstellations de satellites menacent l'astronomie spatiale",
+      "summary": "Une etude publiee dans Nature estime que plus de 96% des expositions des futurs telescopes spatiaux seront affectees par des trainees de satellites si les megaconstellations projetees, dont celle de Starlink qui vise plus d'un million de satellites d'ici 2028, se concretisent. Un tiers des images du telescope Hubble seraient deja contaminees, avec un impact encore plus severe pour d'autres instruments. Les chercheurs appellent a plafonner le nombre total de satellites en orbite, alors que le nombre d'engins en orbite a deja atteint 14 000.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-025-09759-5"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Sommeil et longévité",
-      "title": "Une etude Nature fixe la duree de sommeil optimale contre le vieillissement",
-      "summary": "Une vaste etude publiee dans Nature portant sur des dizaines de milliers de participants de la UK Biobank etablit une relation en U entre duree de sommeil et vieillissement biologique, mesure via 23 horloges d'age biologique construites a partir d'imagerie cerebrale et de marqueurs sanguins. Dormir entre 6,4 et 7,8 heures par nuit est associe au vieillissement le plus lent, tandis que le sommeil court comme le sommeil long accelerent le vieillissement de plusieurs organes. L'etude relie aussi ces extremes a un risque accru de depression tardive.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-01564-y"
+      "theme": "sciences",
+      "subtopic": "biologie",
+      "importance": 1,
+      "short_title": "Mitochondries et esprit",
+      "title": "La theorie mitochondriale de l'esprit de Martin Picard",
+      "summary": "Le chercheur Martin Picard, qui dirige un laboratoire de psychobiologie mitochondriale a l'universite Columbia, developpe l'hypothese que la cognition, l'humeur et l'experience consciente refletent des processus energetiques prenant racine au niveau subcellulaire, dans les mitochondries. Son champ, la psychobiologie mitochondriale, etudie comment des etats psychologiques comme le stress influencent le fonctionnement des mitochondries, qui en retour affectent la sante mentale et physique. L'hypothese, jugee audacieuse par une partie du monde academique, s'inscrit dans un interet croissant pour les liens entre metabolisme cellulaire et vieillissement cerebral.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "calcul_thermodynamique",
-      "importance": 1,
-      "short_title": "Ordinateurs thermo",
-      "title": "Des ordinateurs thermodynamiques transforment le bruit en ressource de calcul",
-      "summary": "Des chercheurs explorent une architecture de calcul dite thermodynamique, qui exploite plutot qu'elle ne combat les fluctuations d'energie et le bruit thermique inherents a toute machine physique. Contrairement aux ordinateurs classiques qui depensent de l'energie pour se premunir contre ce bruit, ces machines s'en servent comme ressource de calcul, avec la promesse de reduire fortement la consommation energetique de calculs comme l'inference de modeles d'IA. L'approche reste a un stade de recherche mais attire un interet croissant.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 3,
+      "short_title": "OMS: demence evitable",
+      "title": "L'OMS estime que jusqu'a 45% des cas de demence sont evitables",
+      "summary": "L'Organisation mondiale de la sante a publie des lignes directrices actualisees estimant que jusqu'a 45% du risque de demence est attribuable a des facteurs modifiables: tabac, alcool, isolement social, sedentarite, pollution de l'air et maladies non transmissibles comme l'hypertension ou le diabete. Pour la premiere fois, l'exposition a la pollution atmospherique est explicitement integree comme facteur de risque a part entiere, aux cotes d'une insistance renforcee sur la stimulation cognitive et l'apprentissage continu. Plus de 57 millions de personnes vivent aujourd'hui avec une demence dans le monde, avec pres de 10 millions de nouveaux cas diagnostiques chaque annee.",
+      "source": "OMS",
+      "url": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed"
     },
     {
       "id": "n15",
-      "theme": "tech",
-      "subtopic": "mlops",
+      "theme": "sante",
+      "subtopic": "nutrition_evidence_based",
       "importance": 2,
-      "short_title": "Agents IA: gouvernance",
-      "title": "Gartner: les agents IA entrent en production, la gouvernance peine a suivre",
-      "summary": "Gartner prevoit que 40% des applications d'entreprise integreront des agents IA specialises d'ici la fin 2026, contre moins de 5% en 2025, mais avertit que d'ici 2027 40% des organisations devront retrograder ou desactiver des agents autonomes faute d'une gouvernance adaptee. Le cabinet pointe une approche binaire du controle des agents, soit trop rigide soit trop permissive, comme cause principale des echecs observes en production. La gouvernance des agents devient ainsi un enjeu aussi critique que la cybersecurite pour les directions IT.",
-      "source": "Gartner",
-      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-26-gartner-says-applying-uniform-governance-across-ai-agents-will-lead-to-enterprise-ai-agent-failure"
+      "short_title": "Edulcorants et memoire",
+      "title": "Une etude relie plusieurs edulcorants artificiels a un declin cognitif plus rapide",
+      "summary": "Une etude de cohorte menee sur huit ans aupres de plus de 12 000 adultes bresiliens, publiee dans la revue Neurology, associe une consommation elevee de plusieurs edulcorants sans calorie a un declin plus rapide de la memoire et des capacites de raisonnement. Chez les moins de 60 ans, les plus gros consommateurs presentaient un declin cognitif environ 62% plus rapide que les plus faibles consommateurs, soit l'equivalent d'environ un an et demi de vieillissement cerebral supplementaire. Le tagatose est le seul edulcorant teste a ne pas montrer d'association avec ce declin, et les auteurs soulignent qu'un lien de causalite reste a demontrer.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm"
     },
     {
       "id": "n16",
       "theme": "climat",
-      "subtopic": "transition_energetique",
+      "subtopic": "qualite_air",
       "importance": 2,
-      "short_title": "Energie: goulots réseau",
-      "title": "Le marche de la transition energetique atteint 3,17 mille milliards de dollars, freine par les reseaux",
-      "summary": "Le marche mondial de la transition energetique doit atteindre 3,17 mille milliards de dollars en 2026, mais environ 1650 gigawatts de capacite renouvelable restent bloques dans les files d'attente de raccordement au reseau a travers le monde. Ce goulot d'etranglement des infrastructures de reseau, plutot que le financement, devient la principale contrainte au deploiement des energies renouvelables. La Chine continue de consolider son avance sur les chaines d'approvisionnement des technologies propres face aux Etats-Unis.",
-      "source": "MarketScale",
-      "url": "https://www.marketscale.com/industries/energy/energy-transition-market-reaches-317-trillion-in-2026-as-grid-connection-backlogs-stall-1650-gw-of-capacity"
+      "short_title": "Fumees: 100M Americains",
+      "title": "Les fumees des incendies canadiens degradent l'air pour plus de 100 millions d'Americains",
+      "summary": "D'epaisses fumees issues des incendies de foret au Canada et dans le Minnesota se sont repandues sur le Midwest et le Nord-Est des Etats-Unis, exposant plus de 100 millions de personnes a une pollution atmospherique dangereuse. Des alertes qualite de l'air ont ete emises dans seize Etats, avec New York et Washington DC classees parmi les grandes villes les plus polluees au monde ce week-end, Washington placee en alerte code violet. L'episode illustre la frequence croissante de ces vagues transfrontalieres de pollution liees aux incendies de foret.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/"
     },
     {
       "id": "n17",
-      "theme": "geopol",
-      "subtopic": "europe",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 1,
-      "short_title": "Pologne: veto Nawrocki",
-      "title": "Le president polonais oppose son veto aux droits civils des couples de meme sexe",
-      "summary": "Le president polonais Karol Nawrocki a oppose son veto a deux textes qui auraient instaure un contrat de cohabitation ouvert aux couples de meme sexe, au nom d'une definition constitutionnelle du mariage comme union d'un homme et d'une femme. Le Premier ministre pro-europeen Donald Tusk a denonce une decision de mepris envers le droit des citoyens au bonheur, mais sa coalition ne dispose pas de la majorite des trois cinquiemes necessaire pour passer outre. L'episode illustre les tensions politiques internes croissantes dans une Europe centrale sous pression face a la guerre en Ukraine.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/07/17/polish-president-karol-nawrocki-vetoes-civil-partnerships-bill"
+      "short_title": "ACPR: coop cyber IA",
+      "title": "L'ANSSI, l'ACPR et la Banque de France renforcent leur cooperation face aux cyberattaques dopees a l'IA",
+      "summary": "L'agence francaise de cybersecurite ANSSI, le superviseur bancaire ACPR et la Banque de France ont signe un accord pour renforcer l'echange d'informations et la coordination dans le cadre des reglementations NIS2 et DORA. L'objectif est d'assurer une defense plus reactive face a des attaques dont l'IA generative accelere desormais la vitesse et l'intensite. L'accord illustre la montee en puissance de la cybersecurite comme priorite reglementaire conjointe pour le secteur financier francais.",
+      "source": "Banque de France",
+      "url": "https://www.banque-france.fr/fr/communiques-de-presse/lanssi-lacpr-et-la-banque-de-france-signent-un-accord-et-renforcent-leur-cooperation-en-matiere-de"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n03",
+      "target": "n04",
       "type": "cause",
-      "explanation": "L'intensification des frappes autour du detroit d'Ormuz et la destruction de ponts strategiques reduisent la confiance dans la securite du transit petrolier, ce qui pousse mecaniquement le Brent a la hausse."
-    },
-    {
-      "source": "n03",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "La flambee du Brent renchérit les couts d'intrants pour les entreprises francaises et nourrit l'incertitude internationale que l'Insee cite comme premier facteur pesant sur le climat de l'emploi."
+      "explanation": "La mort de deux soldats americains declenche une nouvelle vague de frappes de representailles, ce qui aggrave le risque percu sur le transit petrolier via le detroit d'Ormuz et pousse le Brent a la hausse."
     },
     {
       "source": "n01",
       "target": "n02",
       "type": "meme_sujet",
-      "explanation": "Les deux news relevent de la meme escalade militaire en cours depuis une semaine, vue sous deux angles differents: les frappes reelles dans le Golfe et la bataille de communication autour de la Syrie."
-    },
-    {
-      "source": "n06",
-      "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "La meme semaine voit deux labs frontier revoir leur feuille de route sous la pression concurrentielle: Google retarde son modele phare pendant qu'OpenAI ferme un produit autonome pour concentrer ses efforts ailleurs."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "Alors que Google peine sur les capacites de codage de son modele phare, Anthropic accelere au contraire sa penetration institutionnelle en ouvrant Claude for Government, deux trajectoires opposees dans la course aux labs IA."
-    },
-    {
-      "source": "n09",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "Le meme mois voit la regulation bancaire europeenne evoluer en sens opposes: un assouplissement du calendrier sur le risque de marche FRTB, et un durcissement simultane via le nouveau facteur climatique integre au collateral de la BCE."
-    },
-    {
-      "source": "n15",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "L'essor prevu des agents IA en entreprise identifie par Gartner et le pari d'Anthropic sur des agents Claude Code/Cowork pour les agences publiques relevent du meme basculement du chatbot vers l'agent autonome en production."
-    },
-    {
-      "source": "n11",
-      "target": "n06",
-      "type": "tension",
-      "explanation": "La maturite de production revendiquee par v0 de Vercel, dont le code genere part directement en production, contraste avec les lacunes de generation de code qui retardent justement Gemini 3.5 Pro chez Google."
-    },
-    {
-      "source": "n16",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Les 3,17 mille milliards de dollars du marche de la transition energetique et le nouveau facteur climatique de collateral de la BCE illustrent deux facettes de la meme integration croissante du risque climatique dans les flux financiers."
+      "explanation": "Les deux news relevent de la meme escalade militaire de la semaine autour du detroit d'Ormuz, vue sous l'angle des pertes americaines et sous celui des frappes sur les infrastructures civiles et strategiques."
     },
     {
       "source": "n04",
+      "target": "n05",
+      "type": "tension",
+      "explanation": "La flambee du Brent nourrit un risque inflationniste qui plaiderait pour une hausse des taux, alors que le rapport sur l'emploi tres faible pousse au contraire vers un statu quo, ecartelant la Fed avant sa reunion du 29 juillet."
+    },
+    {
+      "source": "n04",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "La hausse des prix de l'energie liee au conflit au Moyen-Orient est la raison explicite invoquee par la BCE pour son relevement de taux de juin et continue de cadrer le debat inflationniste pour la reunion du 23 juillet."
+    },
+    {
+      "source": "n01",
+      "target": "n03",
+      "type": "tension",
+      "explanation": "Alors que la guerre Iran-Etats-Unis franchit un nouveau seuil avec des pertes americaines directes, l'Ukraine mene simultanement ses frappes les plus meurtrieres en Russie depuis deux ans, deux fronts majeurs qui s'intensifient au meme moment et se disputent l'attention strategique de Washington."
+    },
+    {
+      "source": "n08",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "La meme semaine voit deux mouvements majeurs dans la course a l'IA de codage: le modele phare de Google trebuche sur sa fiabilite pendant que SpaceX/xAI s'apprete a racheter l'outil de codage IA leader du marche entreprise."
+    },
+    {
+      "source": "n09",
+      "target": "n12",
+      "type": "tension",
+      "explanation": "L'expansion de SpaceX dans les infrastructures d'IA de codage via le rachat de Cursor contraste avec l'inquietude scientifique croissante que ses propres megaconstellations de satellites degradent justement l'astronomie au sol et spatiale."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Le constat de Mollick sur des agents IA desormais autonomes mais exigeants a manager fait echo au constat inverse de Risk.net: dans une fonction aussi specialisee que le XVA, l'IA agentique reste encore a des annees d'un deploiement operationnel fiable."
+    },
+    {
+      "source": "n11",
       "target": "n17",
       "type": "meme_sujet",
-      "explanation": "Les manifestations a Kyiv contre le limogeage de Fedorov et le veto polonais aux droits civils des couples de meme sexe refletent la meme fragilisation des cohesions politiques internes en Europe sous la pression de la guerre."
+      "explanation": "La prudence des desks XVA face a l'IA agentique et le nouvel accord ANSSI-ACPR-Banque de France contre les cyberattaques dopees a l'IA refletent la meme course des banques et regulateurs francais pour faire suivre leur gouvernance au rythme des capacites de l'IA."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "cause",
+      "explanation": "Les nouvelles lignes directrices de l'OMS integrent formellement les facteurs de consommation modifiables dans la prevention de la demence, et l'etude sur les edulcorants apporte une preuve concrete supplementaire de ce type de risque lie a l'alimentation."
+    },
+    {
+      "source": "n16",
+      "target": "n14",
+      "type": "meme_sujet",
+      "explanation": "L'inclusion inedite de la pollution de l'air parmi les facteurs de risque de demence dans les lignes directrices de l'OMS resonne directement avec l'episode de fumees d'incendies qui degrade la qualite de l'air pour plus de 100 millions d'Americains cette semaine."
+    },
+    {
+      "source": "n13",
+      "target": "n14",
+      "type": "meme_sujet",
+      "explanation": "La theorie mitochondriale de l'esprit de Picard et le cadre de prevention de la demence de l'OMS abordent, sous un angle fondamental et un angle de sante publique, la meme question de ce qui fait vieillir le cerveau."
     }
   ]
 }

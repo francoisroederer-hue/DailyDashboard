@@ -1,271 +1,272 @@
 {
-  "generated_at": "2026-07-20T06:00:00Z",
+  "generated_at": "2026-07-21T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Reprise frappes Iran",
-      "title": "Les Etats-Unis reprennent leurs frappes en Iran, le detroit d'Ormuz bloque",
-      "summary": "Apres l'attaque de trois navires ayant devie de leur route homologuee debut juillet, les Etats-Unis ont repris leurs frappes sur des cibles militaires iraniennes et reinstaure un blocus naval pres du detroit d'Ormuz. Le compromis negocie en juin pour rouvrir le detroit s'effondre, avec plus de 140 sites vises lors d'une troisieme vague de frappes cette semaine.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes"
+      "short_title": "Ormuz: 3e vague frappes",
+      "title": "Etats-Unis et Iran s'affrontent pour le troisieme jour autour d'Ormuz",
+      "summary": "L'armee americaine a frappe des cibles iraniennes pour la troisieme journee consecutive afin de reduire la capacite de Teheran a viser le trafic commercial, tandis que les Gardiens de la revolution ont touche deux petroliers et lance missiles et drones contre des bases americaines au Koweit et a Bahrein. Le trafic dans le detroit s'est effondre de plus de moitie par rapport a la semaine precedente.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent au plus haut",
-      "title": "Le Brent grimpe a son plus haut niveau depuis un mois",
-      "summary": "Le baril de Brent est repasse au-dessus de 85 dollars cette semaine, en hausse de plus de 14% sur sept jours, sous l'effet direct de l'escalade militaire autour du detroit d'Ormuz. L'agence americaine EIA a neanmoins abaisse sa prevision de prix moyen 2026 a 82 dollars, pariant sur une desescalade a moyen terme.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Ormuz: pas de peage",
+      "title": "Trump renonce a son peage de 20% sur le detroit d'Ormuz",
+      "summary": "Apres avoir propose que les Etats-Unis deviennent le garant du detroit moyennant un prelevement de 20% sur les cargaisons, Donald Trump a recule sous la pression de l'Organisation maritime internationale, qui jugeait la mesure sans base legale sur une voie de navigation internationale. Il a remplace le projet par des accords commerciaux et d'investissement negocies avec les Etats du Golfe.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "macro",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Fed: hausse taux en vue",
-      "title": "La probabilite d'une hausse de taux Fed grimpe",
-      "summary": "Le president de la Fed Kevin Warsh a juge l'inflation encore trop elevee, alors que la probabilite anticipee par le marche d'une hausse de 25 points de base lors de la reunion du 29 juillet est passee a 46,5% selon l'outil FedWatch du CME. Warsh a par ailleurs annonce l'abandon du forward guidance traditionnel, ajoutant de l'incertitude sur la trajectoire des taux.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html"
+      "short_title": "Brent au-dessus de 90$",
+      "title": "Le Brent depasse 90 dollars le baril",
+      "summary": "Le petrole Brent a franchi la barre des 90 dollars, porte par la crainte d'une disruption prolongee du trafic dans le detroit d'Ormuz alors que les frappes se poursuivent. Le marche reste tres nerveux face au risque que l'escalade militaire coupe durablement une route qui achemine environ un cinquieme du petrole mondial.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20"
     },
     {
       "id": "n04",
       "theme": "finance",
       "subtopic": "macro",
       "importance": 2,
-      "short_title": "Emploi US juin faible",
-      "title": "Seulement 57 000 emplois crees aux Etats-Unis en juin",
-      "summary": "L'economie americaine n'a cree que 57 000 emplois en juin, un chiffre juge preoccupant apres de fortes revisions a la baisse d'avril et mai. Les salaires progressent de 3,5% sur un an, un rythme reste inferieur a l'inflation pour le troisieme mois consecutif, malgre un taux de chomage stable a 4,2%.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/june-jobs-report-stable-hiring-rcna352603"
+      "short_title": "Inflation US refroidit",
+      "title": "L'inflation americaine retombe a 3,5% en juin",
+      "summary": "L'indice des prix a la consommation a recule de 0,4% sur le mois de juin et ralentit a 3,5% sur un an contre 4,2% en mai, une premiere baisse mensuelle en cinq mois selon le Bureau of Labor Statistics. L'inflation sous-jacente est revenue a 2,6%, en dessous des attentes, juste avant que la flambee petroliere ne vienne rebattre les cartes.",
+      "source": "US Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
     },
     {
       "id": "n05",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Sommet OTAN Ankara",
-      "title": "Sommet de l'OTAN a Ankara: 70 Md EUR pour l'Ukraine",
-      "summary": "Reunis a Ankara les 7 et 8 juillet, les chefs d'Etat de l'OTAN ont promis 70 milliards d'euros d'equipements et de formation pour l'Ukraine en 2026, et lance l'initiative Drone Edge dotee de 40 milliards de dollars sur cinq ans. Le sommet a aussi du composer avec les critiques repetees de Donald Trump sur l'utilite de l'alliance.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic: J-lens IA",
+      "title": "Anthropic decouvre un espace de travail global dans Claude",
+      "summary": "Grace a une nouvelle technique d'interpretabilite baptisee J-lens, les chercheurs d'Anthropic ont identifie une petite zone interne, le J-space, ou le modele concentre les concepts qu'il peut consciemment rapporter et diriger, evoquant la theorie de l'espace de travail global du psychologue Bernard Baars. Anthropic precise que la decouverte modifie deja sa maniere de surveiller les risques de securite, sans affirmer que Claude serait conscient.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "royaume-uni",
-      "importance": 2,
-      "short_title": "Burnham nouveau PM UK",
-      "title": "Andy Burnham devient Premier ministre britannique",
-      "summary": "L'ancien maire de Manchester Andy Burnham a ete elu a la tete du Labour et succede a Keir Starmer, pousse vers la sortie apres seulement deux ans au pouvoir. Il devient le septieme Premier ministre britannique en une decennie et promet de placer le cout de la vie au centre de son action, en rupture avec la ligne de son predecesseur.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Index securite IA: C+",
+      "title": "Aucun laboratoire d'IA ne depasse le C+ a l'indice de securite du FLI",
+      "summary": "Le Future of Life Institute a note neuf laboratoires frontier sur 37 indicateurs de securite: Anthropic arrive en tete avec un C+ (2,66/4), OpenAI et Google DeepMind suivent avec un C, Meta obtient un D+, tandis que xAI, DeepSeek et Mistral echouent purement et simplement. Le rapport souligne que plusieurs grands labs ont discretement abandonne des engagements de pause securite pris auparavant.",
+      "source": "Future of Life Institute",
+      "url": "https://futureoflife.org/ai-safety-index-summer-2026/"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "OpenAI lance GPT-5.6",
-      "title": "OpenAI lance GPT-5.6 et l'agent ChatGPT Work",
-      "summary": "OpenAI a rendu public le 9 juillet GPT-5.6, decline en trois versions (Sol, Terra, Luna) avec des prix allant de 1 a 30 dollars par million de tokens selon le niveau. Le lab a simultanement lance ChatGPT Work, un agent capable de suivre un projet plusieurs heures et de produire un livrable fini a partir d'un objectif, signe d'une bascule vers l'automatisation de taches completes.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release"
+      "short_title": "Anthropic vise IPO",
+      "title": "Anthropic prepare une entree en Bourse des octobre",
+      "summary": "Anthropic organise des rencontres avec des investisseurs en vue d'une introduction en Bourse envisagee autour du 23 octobre, apres avoir boucle en mai une levee de 65 milliards de dollars a une valorisation de 965 milliards, superieure aux 852 milliards d'OpenAI. Goldman Sachs, Morgan Stanley et JPMorgan pilotent l'operation, qui permettrait a Anthropic de devancer OpenAI, dont l'IPO a ete repoussee a 2027.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Exode talents DeepMind",
-      "title": "DeepMind perd des chercheurs cles, Gemini 3.5 Pro retarde",
-      "summary": "Le depart coup sur coup de Noam Shazeer (co-auteur du papier Transformer, parti chez OpenAI) et du prix Nobel John Jumper (parti chez Anthropic), suivis de deux autres chercheurs Gemini, a coute environ 270 milliards de dollars de capitalisation a Alphabet en deux seances. Dans le meme temps, Google a repousse la sortie de Gemini 3.5 Pro apres avoir juge le modele insuffisant sur la fiabilite et les hallucinations, et l'a reconstruit depuis sa base.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/23/google-deepmind-ai-researcher-departures-raise-doubts-about-ability-to-win-the-ai-race-shazeer-jumper-eye-on-ai/"
+      "importance": 2,
+      "short_title": "Meta: Muse Spark 1.1",
+      "title": "Meta lance Muse Spark 1.1 et sa premiere API payante",
+      "summary": "Meta Superintelligence Labs a devoile Muse Spark 1.1, un modele multimodal agentique dote de gains importants en usage d'outils et de code, presente comme rival de GPT-5.5 et d'Opus 4.8 sur les evaluations agentiques. Le modele est accessible via la toute premiere API payante de Meta en preview publique, avec usage d'ordinateur sur bureau, navigateur et mobile, et delegation de sous-agents en parallele.",
+      "source": "Meta AI",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "robotique",
       "importance": 2,
-      "short_title": "Fable 5 relance hors US",
-      "title": "Claude Fable 5 de nouveau accessible hors des Etats-Unis",
-      "summary": "Anthropic a rouvert l'acces international a Claude Fable 5 apres la levee par l'administration americaine des restrictions a l'export qui limitaient sa diffusion. Le modele, de classe Mythos rendu sur pour un usage public, avait ete lance debut juin avec des garde-fous declenches dans moins de 5% des sessions pour limiter les usages a risque, notamment en cybersecurite.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/"
+      "short_title": "Mistral: robot Navigate",
+      "title": "Mistral se lance dans la robotique avec Robostral Navigate",
+      "summary": "Mistral AI a presente Robostral Navigate, un modele de navigation qui permet a des robots de se deplacer dans des environnements complexes a partir d'une seule camera et de consignes en langage naturel. Independant du materiel et entraine entierement en simulation, ce lancement marque la premiere incursion de Mistral dans l'IA physique, alors que sa valorisation approche 23 milliards de dollars.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push"
     },
     {
       "id": "n10",
-      "theme": "geopol",
-      "subtopic": "regulation",
-      "importance": 2,
-      "short_title": "Controles export IA US",
-      "title": "Washington etend ses controles a l'export sur l'IA",
-      "summary": "Le Departement du Commerce americain a confirme en juin que ses restrictions sur l'export de puces IA avancees s'appliquent desormais aux filiales de groupes chinois meme situees hors de Chine. Cette extension illustre le durcissement plus large des controles americains, qui couvrent desormais aussi certains modeles d'IA juges sensibles pour la securite nationale.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china"
-    },
-    {
-      "id": "n11",
-      "theme": "learn",
-      "subtopic": "education_ia",
-      "importance": 2,
-      "short_title": "Claude for Teachers",
-      "title": "Anthropic lance Claude for Teachers",
-      "summary": "Anthropic a lance Claude for Teachers, donnant aux enseignants du primaire et du secondaire verifies aux Etats-Unis un acces gratuit a des outils Claude premium et a des competences pedagogiques alignees sur les standards des 50 Etats. L'initiative s'inscrit dans la competition croissante entre labs IA pour s'implanter dans les salles de classe americaines.",
-      "source": "Chalkbeat",
-      "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/"
-    },
-    {
-      "id": "n12",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "UE ajuste Bale III/FRTB",
-      "title": "L'UE ajuste temporairement le cadre Bale III/FRTB",
-      "summary": "La Commission europeenne a adopte un acte delegue introduisant un multiplicateur temporaire qui neutralise l'impact en capital du nouveau cadre FRTB pour les banques europeennes jusqu'en 2029, avant son entree en vigueur pleine le 1er janvier 2027. La mesure vise a limiter la distorsion de competitivite face aux juridictions en retard sur l'implementation du risque de marche de Bale III.",
-      "source": "Commission europeenne",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
-    },
-    {
-      "id": "n13",
-      "theme": "climat",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "BCE: facteur climat",
-      "title": "La BCE ajoute un facteur climat a son cadre de collateral",
-      "summary": "Depuis le 15 juin, la Banque centrale europeenne applique un nouveau facteur climat dans son cadre de collateral, qui affecte le montant que les banques peuvent emprunter en apportant des obligations d'entreprises en garantie. Les incertitudes liees au changement climatique deviennent ainsi un critere explicite de valorisation du risque de collateral bancaire.",
-      "source": "Cleary Gottlieb",
-      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-07-01"
-    },
-    {
-      "id": "n14",
       "theme": "tech",
       "subtopic": "design",
       "importance": 2,
-      "short_title": "Figma Make + GPT-5.6",
-      "title": "Figma Make integre GPT-5.6",
-      "summary": "Figma a annonce le 9 juillet que Figma Make beneficie desormais du nouveau modele GPT-5.6 d'OpenAI des la generation d'une interface, ameliorant la qualite du premier rendu produit par l'outil de design generatif. L'integration illustre la vitesse a laquelle les outils de design et de vibe coding absorbent chaque nouvelle generation de modele frontier.",
+      "short_title": "Figma: Config 2026",
+      "title": "Figma etend son agent IA a tout le poste de travail design",
+      "summary": "Lors de Config 2026, Figma a devoile des outils de mouvement et de transformation 3D pilotes par son agent IA, un support de shaders, et des calques de code qui transforment n'importe quel element de design en composant interactif d'un clic ou d'un prompt. L'agent Figma etend egalement sa portee a FigJam et a Slides.",
       "source": "Figma",
-      "url": "https://www.figma.com/blog/product-updates/"
+      "url": "https://www.figma.com/blog/config-2026-recap/"
+    },
+    {
+      "id": "n11",
+      "theme": "sciences",
+      "subtopic": "materiaux",
+      "importance": 2,
+      "short_title": "IA et supraconducteurs",
+      "title": "Une IA accelere la recherche de supraconducteurs",
+      "summary": "Le consortium SuperC, mene par l'universite Aalto, a combine apprentissage automatique et physique quantique pour identifier deux supraconducteurs inconnus, YRu3B2 et LuRu3B2, dont les proprietes proviennent de bandes electroniques plates dans un reseau kagome. La methode permet de restreindre rapidement un espace de materiaux quasi infini et pourrait rapprocher la recherche d'un supraconducteur a temperature ambiante.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
+    },
+    {
+      "id": "n12",
+      "theme": "sciences",
+      "subtopic": "neurotech",
+      "importance": 2,
+      "short_title": "Ecrire par la pensee",
+      "title": "Brain2Qwerty v2: taper du texte par la pensee, sans chirurgie",
+      "summary": "Meta FAIR a devoile Brain2Qwerty v2, un systeme qui decode des phrases tapees directement a partir de signaux cerebraux captes par un casque de magnetoencephalographie non invasif, sans implant chirurgical. Entraine sur environ 22 000 phrases issues de neuf volontaires, il atteint 61% de precision moyenne par mot, jusqu'a 78% pour le meilleur participant, et Meta a mis en open source le code et les jeux de donnees.",
+      "source": "Meta AI",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/"
+    },
+    {
+      "id": "n13",
+      "theme": "sante",
+      "subtopic": "nutrition",
+      "importance": 2,
+      "short_title": "GLP-1: obesite en baisse",
+      "title": "Un Americain sur neuf sous GLP-1, l'obesite recule",
+      "summary": "Selon un sondage Gallup publie en juillet, environ 11% des Americains prennent desormais un medicament GLP-1 pour perdre du poids, une progression qui accompagne le recul du taux d'obesite aux Etats-Unis a 36,4% en 2026 apres un pic en 2022. Le mouvement est renforce par le nouveau programme Medicare GLP-1 Bridge, qui etend la prise en charge de ces traitements pour certains beneficiaires a partir de juillet.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/07/11-of-americans-now-take-glp-1-drugs-as-obesity-rate-declines-poll-finds/"
+    },
+    {
+      "id": "n14",
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
+      "importance": 2,
+      "short_title": "Tutorat IA personnalise",
+      "title": "Un tutorat IA personnalise ameliore les resultats scolaires",
+      "summary": "Une etude de l'universite de Pennsylvanie menee aupres de pres de 800 lyceens taiwanais apprenant Python a fait varier en temps reel la difficulte des exercices selon le niveau de chaque eleve. Le groupe beneficiant de cette personnalisation a obtenu de meilleurs resultats a l'examen final, un ecart equivalent a six a neuf mois de scolarite supplementaire.",
+      "source": "The Hechinger Report",
+      "url": "https://hechingerreport.org/proof-points-ai-tutor-python/"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "biotech",
+      "theme": "climat",
+      "subtopic": "marche_carbone",
       "importance": 2,
-      "short_title": "Bacteries anticancer",
-      "title": "Le code bacterien des medicaments anticancereux perce a jour",
-      "summary": "Des chercheurs de Warwick et Monash ont identifie des domaines d'ancrage moleculaires qui font office de connecteurs entre deux systemes enzymatiques bacteriens, l'un batissant le squelette du medicament, l'autre ajoutant des groupes chimiques variables. Ce mecanisme de mix-and-match, publie le 1er juillet dans Nature Communications, pourrait accelerer la conception de nouvelles variantes de medicaments comme le romidepsine, deja utilise contre certains cancers du sang.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm"
+      "short_title": "UE: reserve ETS2",
+      "title": "UE: accord sur la reserve de stabilite du marche ETS2",
+      "summary": "Le Conseil et le Parlement europeen ont trouve un accord provisoire renforcant la reserve de stabilite du marche pour ETS2, le nouveau marche carbone couvrant le batiment, le transport routier et d'autres secteurs, avant son lancement complet en 2028. L'accord prevoit des liberations de quotas plus precoces et plus progressives afin de lisser la volatilite des prix.",
+      "source": "Conseil de l'UE",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/11/ets2-market-stability-reserve-council-and-parliament-reach-provisional-agreement/"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Puce silicium ecrit l'ADN",
-      "title": "Une puce en silicium synthetise 64 sequences d'ADN en parallele",
-      "summary": "Une equipe de Harvard a mis au point une puce a semi-conducteurs qui synthetise simultanement 64 sequences d'ADN distinctes en pilotant des reactions enzymatiques locales par courant electrique, en remplacant les solvants chimiques classiques par une chimie en solution aqueuse. L'approche, publiee le 8 juillet, pourrait a terme rendre la fabrication d'ADN synthetique moins couteuse pour la therapie genique et les vaccins personnalises.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
+      "theme": "climat",
+      "subtopic": "financement_climat",
+      "importance": 1,
+      "short_title": "Sommet Hambourg durable",
+      "title": "Sommet de Hambourg: financer la transition dans le Sud",
+      "summary": "Plus de 1 600 responsables politiques et economiques se sont reunis pour la troisieme Conference de Hambourg sur le developpement durable. Les investisseurs et dirigeants des economies emergentes se sont montres moins preoccupes par les engagements climatiques que par l'acces au capital prive, la gestion du risque de change et la construction d'un pipeline d'infrastructures finançables.",
+      "source": "Council on Foreign Relations",
+      "url": "https://www.cfr.org/articles/five-takeaways-from-the-2026-hamburg-sustainability-conference"
     },
     {
       "id": "n17",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "geopol",
+      "subtopic": "regulation",
       "importance": 2,
-      "short_title": "Semaglutide et l'age bio",
-      "title": "Le semaglutide ralentirait le vieillissement biologique",
-      "summary": "Un essai randomise controle contre placebo mene par l'UC San Diego chez 84 patients montre que le semaglutide ralentit le rythme du vieillissement biologique de 9% sur l'horloge epigenetique DunedinPACE, avec des effets egalement observes sur des marqueurs lies a l'inflammation, au coeur, au rein et au foie. Les auteurs, publies dans Nature Communications, soulignent que ces resultats restent preliminaires et devront etre confirmes sur des populations plus larges.",
-      "source": "Nature Communications",
-      "url": "https://www.nature.com/articles/s41467-026-72861-3"
-    },
-    {
-      "id": "n18",
-      "theme": "sante",
-      "subtopic": "oncologie",
-      "importance": 2,
-      "short_title": "Immunotherapie cerveau",
-      "title": "Une immunotherapie cellulaire eradique des glioblastomes en preclinique",
-      "summary": "SL Science a presente au Congres mondial de pharmacologie clinique et fondamentale (Melbourne, 12-17 juillet) des resultats precliniques sur une immunotherapie par cellules T gamma-delta administree directement dans la tumeur, obtenant une eradication complete du glioblastome des le 26e jour au dosage le plus eleve teste. Le glioblastome reste l'une des tumeurs cerebrales les plus agressives et les plus difficiles a traiter.",
-      "source": "GlobeNewswire",
-      "url": "https://www.manilatimes.net/2026/07/17/tmt-newswire/globenewswire/sl-science-announces-successful-exhibition-of-breakthrough-brain-cancer-therapy-research-at-the-2026-world-congress-of-basic-and-clinical-pharmacology/2386561/amp"
+      "short_title": "UE retarde l'AI Act",
+      "title": "L'UE reporte les obligations IA a haut risque a 2027-2028",
+      "summary": "Le Conseil de l'UE a donne son feu vert final fin juin a un paquet de simplification de l'AI Act qui repousse les obligations pour les systemes a haut risque autonomes a decembre 2027, et a aout 2028 pour l'IA integree dans des produits reglementes. Les obligations de transparence prevues par l'article 50, comme la signalisation des deepfakes et des contenus generes, restent en revanche applicables des le 2 aout 2026 comme prevu.",
+      "source": "Gibson Dunn",
+      "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/"
     }
   ],
   "edges": [
     {
       "source": "n01",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "Les frappes et attaques de petroliers font chuter de plus de moitie le trafic dans un detroit qui achemine environ 20% du petrole mondial, ce qui pousse mecaniquement le Brent au-dessus de 90 dollars."
+    },
+    {
+      "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "L'attaque de navires et le blocus naval reduisent le trafic petrolier dans un detroit qui achemine environ 20% de l'offre mondiale, ce qui pousse mecaniquement les prix du Brent a la hausse."
+      "explanation": "Le blocus naval reinstaure et le controle militaire du detroit donnent a Trump le pretexte pour se presenter en garant du passage et en tirer un peage, avant qu'il ne recule sous pression."
     },
     {
       "source": "n02",
       "target": "n03",
-      "type": "cause",
-      "explanation": "La flambee du petrole alimente les anticipations d'inflation importee, ce qui renforce la probabilite qu'anticipe le marche d'une hausse de taux Fed lors de la reunion du 29 juillet."
+      "type": "tension",
+      "explanation": "Le recul de Trump sur le peage se veut un signal de desescalade diplomatique, mais le Brent reste a son plus haut niveau car le risque militaire physique sur le trafic maritime, lui, n'a pas diminue."
     },
     {
       "source": "n03",
       "target": "n04",
       "type": "tension",
-      "explanation": "Un marche de l'emploi qui ralentit nettement plaide pour une pause monetaire, alors que la remontee de l'inflation via le petrole pousse au contraire vers une hausse: la Fed est prise entre deux mandats contradictoires."
+      "explanation": "La flambee petroliere menace de faire remonter l'inflation importee juste apres que les chiffres de juin ont montre un net refroidissement, compliquant la decision de la Fed le 29 juillet."
     },
     {
-      "source": "n10",
-      "target": "n09",
+      "source": "n05",
+      "target": "n06",
       "type": "cause",
-      "explanation": "Le niveau des controles a l'export decide par Washington determine directement quels pays peuvent acceder a Claude Fable 5: leur assouplissement a permis la reouverture internationale du modele."
+      "explanation": "Les pratiques d'interpretabilite illustrees par la decouverte du J-lens comptent parmi les elements qui valent a Anthropic la meilleure note de l'indice FLI, faute d'avancees comparables chez ses concurrents."
+    },
+    {
+      "source": "n06",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Mistral echoue purement a l'evaluation de securite du FLI au moment meme ou le lab s'aventure dans un nouveau domaine a fort enjeu, la robotique physique."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "Le leadership d'Anthropic sur la securite alimente le recit que les investisseurs valorisent dans la perspective de son introduction en Bourse record."
+    },
+    {
+      "source": "n06",
+      "target": "n17",
+      "type": "tension",
+      "explanation": "Le FLI alerte sur le recul des engagements volontaires de securite des labs, au moment meme ou l'UE, de son cote, repousse ses propres obligations contraignantes pour les systemes a haut risque."
     },
     {
       "source": "n08",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "Alors que Google retarde Gemini 3.5 Pro et perd des chercheurs cles face a la concurrence, OpenAI accelere avec le lancement agressif de GPT-5.6, illustrant une divergence de rythme strategique entre labs frontier."
-    },
-    {
-      "source": "n07",
-      "target": "n14",
-      "type": "cause",
-      "explanation": "La disponibilite du nouveau modele GPT-5.6 permet a Figma d'ameliorer immediatement la qualite de generation de Figma Make, qui l'integre des sa sortie."
+      "target": "n10",
+      "type": "meme_sujet",
+      "explanation": "Les deux annonces, la meme semaine, illustrent la course a integrer des agents IA capables d'utiliser des outils dans les produits grand public et de design."
     },
     {
       "source": "n08",
       "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Les deux news couvrent le meme mouvement de recomposition des labs IA frontier cette semaine: fuite de talents vers Anthropic et OpenAI d'un cote, expansion d'acces des modeles Anthropic de l'autre."
+      "explanation": "Meta et Mistral elargissent tous deux leur perimetre au-dela du chat classique la meme semaine, l'un vers les agents multimodaux payants, l'autre vers la robotique physique."
+    },
+    {
+      "source": "n11",
+      "target": "n12",
+      "type": "meme_sujet",
+      "explanation": "Ces deux avancees publiees la meme semaine montrent comment l'IA accelere des decouvertes scientifiques fondamentales, en science des materiaux et en interfaces cerveau-machine."
+    },
+    {
+      "source": "n06",
+      "target": "n14",
+      "type": "tension",
+      "explanation": "Les alertes systemiques de l'indice FLI sur les risques des labs frontier contrastent avec ce benefice pedagogique concret et mesure d'un tutorat IA, illustrant l'ecart entre risques generaux et gains d'usage quotidien."
     },
     {
       "source": "n15",
       "target": "n16",
       "type": "meme_sujet",
-      "explanation": "Les deux decouvertes, publiees la meme semaine, portent sur des avancees en biologie synthetique et biotech permettant de mieux fabriquer ou diversifier des molecules therapeutiques."
-    },
-    {
-      "source": "n06",
-      "target": "n05",
-      "type": "tension",
-      "explanation": "Le nouveau Premier ministre britannique promet de recentrer l'action publique sur le cout de la vie interieur, en decalage avec les engagements de depenses de defense et de soutien a l'Ukraine pris par le Royaume-Uni au sommet de l'OTAN quelques jours plus tot."
-    },
-    {
-      "source": "n12",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "Ces deux textes illustrent la meme dynamique d'evolution du cadre prudentiel bancaire europeen au cours du meme mois, l'un sur le risque de marche, l'autre sur le risque climatique."
-    },
-    {
-      "source": "n09",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "Ces deux annonces d'Anthropic la meme semaine relevent de la meme strategie d'expansion d'acces a ses produits, aupres du grand public international d'un cote et des enseignants americains de l'autre."
+      "explanation": "Les deux evenements relevent du meme moment de politique climatique europeenne et internationale, l'un sur la conception du marche carbone, l'autre sur le financement de la transition dans le Sud."
     }
   ]
 }

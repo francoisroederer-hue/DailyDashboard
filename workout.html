@@ -75,6 +75,18 @@
   .retest .rt-body { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
   .retest .rt-body b { color: var(--ink); font-weight: 500; }
 
+  .constraint {
+    background: linear-gradient(120deg, rgba(232,200,137,0.10), transparent 70%);
+    border: 1px solid rgba(232,200,137,0.32); border-radius: 12px;
+    padding: 12px 15px; margin-bottom: 40px;
+  }
+  .constraint .c-tag {
+    font-family: 'Geist Mono', monospace; font-size: 9px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--accent); margin-bottom: 6px;
+  }
+  .constraint .c-body { font-size: 12.5px; line-height: 1.55; color: var(--ink-dim); }
+  .constraint .c-body b { color: var(--ink); font-weight: 500; }
+
   .split { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 48px; }
   @media (min-width: 680px) { .split { grid-template-columns: 1fr 1fr; align-items: start; } }
   .card { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 20px; }
@@ -122,45 +134,40 @@
 </header>
 
 <main>
-  <div class="page-kicker">Street · poids de corps + élastique · ~55 min · readiness Yellow (plancher charge) · lundi 20/07 · S3 bloc-2026-07-15 · TIRAGE HORIZONTAL (focus) · volume −30 % (ACWR 1,58)</div>
+  <div class="page-kicker">Street DÉGRADÉ · debout, élastique ancré à un arbre · ~40 min · readiness Yellow · vendredi 24/07 · bloc-2026-07-15 · TIRAGE HORIZONTAL (focus) · volume −30 %</div>
   <h1 class="page-title">Workout</h1>
   <p class="page-intro">
-    Lundi 20/07, midi — <b>S3 du bloc</b>. Ressenti du matin <b>13/15</b> (pas de courbature, réveil correct)&nbsp;: ça aurait donné Green.
-    Mais l'ACWR est <b>remonté à 1,58</b> au lieu de retomber comme projeté vendredi&nbsp;: la charge <b>plafonne la readiness à Yellow</b>. Volume <b>−30 %</b>, aucune progression d'échelon.
-    Le temps dispo passe dans <b>l'échauffement, les correctifs et les repos</b>, pas dans des séries en plus.
+    Vendredi 24/07, midi — séance de <b>repli</b>. Le spot est <b>fermé</b> (pas de barre&nbsp;: ni traction, ni dips, ni rowing australien) et le <b>sol est difficile</b> (pas de pompes, planche, hollow, nordic ni pont au sol).
+    Reste ce qu'on peut faire <b>debout, avec l'élastique accroché à un arbre</b>. Bonne nouvelle&nbsp;: le <b>focus du bloc, c'est le tirage horizontal</b>, et ça se fait <b>parfaitement à l'élastique</b>. On garde le fil.
   </p>
 
   <div class="goal">
     <span class="star">✦</span>
     <div>
-      <div class="g-kicker">Le fil de la séance — S3, focus tirage horizontal</div>
-      <div class="g-line">Une seule vraie cible aujourd'hui&nbsp;: le <b>rowing australien</b>, 4 séries propres @ RIR 2.</div>
-      <div class="g-sub">Correctifs Tier 1 d'abord (<b>épaule</b> RE arc indolore, <b>mollet</b> excentrique, <b>genou</b> TKE). Le <b>hinge est déjà servi</b> pour la semaine (5 séries le 17/07)&nbsp;: 1 série d'activation, pas plus. Push / squat / tractions&nbsp;: <b>gel</b>. Épaules <b>basses</b> sur tout tirage, coude en <b>prise neutre</b>.</div>
+      <div class="g-kicker">Le fil de la séance — focus tirage horizontal, en dégradé</div>
+      <div class="g-line">Une vraie cible&nbsp;: le <b>rowing élastique lourd</b>, 3 séries propres @ RIR 2.</div>
+      <div class="g-sub">Autour&nbsp;: correctif <b>épaule</b> (RE arc indolore) en ouverture, puis <b>genou</b> (spanish squat, réparation), <b>hinge</b> debout, <b>core</b> anti-rotation (pallof), et <b>mollet</b> en excentrique pour finir. Tout ancré à l'arbre ou en équilibre. Épaules <b>basses</b> sur tout tirage, coude en <b>prise neutre</b>.</div>
     </div>
   </div>
 
-  <!-- Cadrage S3 -->
-  <div class="section-label">Cadrage de la S3 — la projection de vendredi ne s'est pas réalisée</div>
-  <div class="retest" style="margin-bottom:48px;">
-    <div class="rt-tag">◆ S3 du bloc-2026-07-15 · ACWR 1,58 zone danger (FR-251) · rampe bornée (FR-403)</div>
-    <div class="rt-body">
-      Vendredi, la page annonçait <b>1,04 dimanche</b> puis « volume plein dès lundi ». <b>Ça n'est pas arrivé</b>&nbsp;: l'aigu 7&nbsp;j est à <b>2621 sRPE</b> contre un chronique 28&nbsp;j à <b>1656</b> → <b>ACWR 1,58</b>, toujours en zone danger.
-      Le vendredi 17/07 pèse à lui seul <b>~853 sRPE</b> (vélo A/R + courses de transport + séance).<br>
-      <b>Bug corrigé ce matin</b>&nbsp;: le 17/07 portait <b>deux</b> entrées renfo pour la même séance — une estimée montre (40 min) <b>et</b> une déclarée au feedback (60 min). La réconciliation comparait l'heure de saisie du feedback (23:11) à l'heure de départ de la montre (12:34) et concluait « séances distinctes ». Corrigé et testé&nbsp;: <b>1,60 → 1,58</b>. <b>Toujours danger</b> — la séance du jour ne change pas.
-      Conséquence appliquée&nbsp;: <b>rampe bornée</b> (ACWR 1,58 > 1,3) → <b>HOLD sur tous les échelons</b>, aucune progression aujourd'hui.
+  <!-- Contrainte du jour -->
+  <div class="constraint">
+    <div class="c-tag">◆ Contrainte matériel — spot fermé + sol difficile → séance 100 % debout / élastique</div>
+    <div class="c-body">
+      Deux patterns tombent faute de matériel&nbsp;: le <b>push</b> (pas de pompes sans sol propre) et le <b>tirage vertical</b> (pas de barre). Aucune perte réelle&nbsp;: les deux sont en <b>gel</b> ce bloc de toute façon. Le rowing australien (barre basse) est remplacé par le <b>rowing élastique</b> — même pattern, même focus, l'élastique fait le travail. Repère&nbsp;: <b>ne pas improviser</b> de mouvement neuf sur l'épaule ou le coude (ex. rotation interne résistée le 20/07 → douleur 2 zones)&nbsp;: on reste sur les exercices déjà consignés.
     </div>
   </div>
 
   <!-- La séance -->
-  <div class="section-label">La séance — ~55 min (S3, focus tirage horizontal)</div>
+  <div class="section-label">La séance — ~40 min (repli debout, focus tirage horizontal)</div>
   <div class="seance">
     <div class="step">
       <span class="num">1</span>
       <span class="txt">
-        <span class="role">Échauffement <span class="time">~6 min · prends le temps</span></span>
-        <span class="detail">Tu as du temps&nbsp;: c'est ici qu'il sert. Mobilité <b>thoracique</b> (elle prépare le tirage) + <b>chevilles</b>. <b>Hydrate-toi</b> (crampe mollet du 11/07). Trajet vers le parc&nbsp;: <b>marche ou vélo</b>, et si tu cours, <b>fractionne course/marche</b> — jamais de départ à froid (genou, adapt-2026-06-09-002).</span>
+        <span class="role">Échauffement <span class="time">~5 min · debout</span></span>
+        <span class="detail">Mobilité <b>thoracique</b> (elle prépare le tirage) + <b>chevilles</b>, debout, sans t'allonger. <b>Hydrate-toi</b> avant (crampe mollet du 11/07). Si tu es venu en courant, tu as déjà chaud&nbsp;: sinon quelques cercles de bras en amplitude moyenne <b>indolore</b> (rien d'overhead).</span>
         <ul>
-          <li><b>Mobilité T-spine</b> <span class="reps">1×8/côté</span> · <b>Mobilité chevilles</b> <span class="reps">1×10/cheville</span> · hydratation</li>
+          <li><b>Mobilité T-spine</b> debout <span class="reps">1×8/côté</span> · <b>Chevilles</b> <span class="reps">1×10/cheville</span> · hydratation</li>
         </ul>
       </span>
     </div>
@@ -168,7 +175,7 @@
       <span class="num">2</span>
       <span class="txt">
         <span class="role">Correctif — Tier 1 · épaule <span class="time">~4 min · sous-maximal</span></span>
-        <span class="detail">Rotation externe coiffe, <b>coude verrouillé au corps</b>, avant-bras qui pivote (pas d'élévation), <b>épaules basses</b>. Amplitude&nbsp;: jusqu'au bout <b>moins les 5 derniers degrés à droite</b> (le gauche est la référence). Reste <b>≤1/10</b> — on ne gratte pas les degrés terminaux. Si l'élastique tire dans le secteur douloureux, <b>rallonge-le ou rapproche-toi</b>.</span>
+        <span class="detail">Rotation externe coiffe à l'élastique ancré à l'arbre, <b>coude verrouillé au corps</b>, avant-bras qui pivote (pas d'élévation), <b>épaules basses</b>. Amplitude&nbsp;: jusqu'au bout <b>moins les 5 derniers degrés à droite</b> (le gauche est la référence). Reste <b>≤1/10</b> — on ne gratte pas les degrés terminaux. Si l'élastique tire dans le secteur douloureux, <b>rallonge-le ou rapproche-toi de l'arbre</b>.</span>
         <ul>
           <li><b>Rotation externe</b> coiffe élastique, arc indolore <span class="reps">3×12/côté</span> · repos 40 s</li>
         </ul>
@@ -177,65 +184,58 @@
     <div class="step">
       <span class="num">3</span>
       <span class="txt">
-        <span class="role">Correctif — Tier 1 · mollet + genou <span class="time">~6 min · activation</span></span>
-        <span class="detail">Excentrique mollet <b>descente 3 s</b> (mollet D 2/10, traitement de fond). TKE léger en entretien VMO. Ni l'un ni l'autre n'est une série de travail&nbsp;: sous-maximal, on ne va pas chercher la brûlure.</span>
+        <span class="role">Bloc 1 — Genou (réparation) <span class="time">isométrie · genou-safe</span></span>
+        <span class="detail">Spanish squat élastique&nbsp;: la boucle passée <b>derrière les genoux</b>, ancrée à l'arbre devant toi, <b>tibias reculés</b> (verticaux), tu t'assois en arrière contre la tension. Position tenue, genou <b>0/10</b> attendu. C'est de la réparation&nbsp;: ça remplace le squat chargé, borné par la chondropathie. Placé ici, ça sépare la RE du rowing (l'épaule respire).</span>
         <ul>
-          <li><b>Excentrique mollet</b> unipodal au sol, descente 3 s <span class="reps">3×12/jambe</span> · repos 40 s</li>
-          <li><b>TKE</b> élastique léger <span class="reps">2×15/jambe</span> · repos 30 s</li>
+          <li><b>Spanish squat</b> élastique, tibias reculés <span class="reps">3×30 s</span> · repos 45 s</li>
         </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Garde-fou g.1 — admis · réparation genou (genou_flexion_charge)</div>
+          <div class="rt-body">Départ prudent <b>spanish-court-30&nbsp;s</b> (1re fois validée le 13/07, genou 0/10). <b>HOLD</b> — pas de passage à 45&nbsp;s aujourd'hui (readiness Yellow). Stop si le genou parle.</div>
+        </div>
       </span>
     </div>
     <div class="step">
       <span class="num">4</span>
       <span class="txt">
-        <span class="role">Bloc 1 — Tirage horizontal (FOCUS) <span class="time">le cœur de la séance · RIR 2</span></span>
-        <span class="detail">Rowing <b>australien</b> — ondulation&nbsp;: vendredi c'était l'élastique, donc aujourd'hui la barre basse. Corps gréé, <b>non surélevé, genoux légèrement pliés</b> (échelon rowing-horizontal). <b>Épaules basses AVANT de tirer</b>, coudes tirés par l'arrière d'épaule, menton rentré, pas de à-coup. RIR 2 honnête&nbsp;: tu dois pouvoir en faire 2 de plus à la fin de chaque série.</span>
+        <span class="role">Bloc 2 — Tirage horizontal (FOCUS) <span class="time">le cœur de la séance · RIR 2</span></span>
+        <span class="detail">Rowing élastique <b>lourd</b>, ancré à l'arbre à hauteur de poitrine. <b>Repos complet après la RE</b> avant d'attaquer (enchaîné sans repos, l'épaule monte à 4-5/10). <b>Épaules basses AVANT de tirer</b>, coudes tirés par l'arrière d'épaule, menton rentré, pas d'à-coup. La tension dépend du point d'ancrage&nbsp;: cale l'effort <b>par la sensation RIR 2</b> (tu dois pouvoir en faire 2 de plus), pas par un nombre de reps fixe.</span>
         <ul>
-          <li><b>Rowing australien</b> <span class="reps">4×10 @ RIR 2</span> · repos 60 s</li>
+          <li><b>Rowing élastique lourd</b>, prise neutre <span class="reps">3×~12 @ RIR 2</span> · repos 60 s</li>
         </ul>
         <div class="retest">
-          <div class="rt-tag">◆ Garde-fou g.1 — admis modifié · coude_grip_traction (decisions-log:obs-2026-06-02-002)</div>
-          <div class="rt-body">Épicondylite active → <b>prise la plus neutre possible</b> (ou version assistée / pieds plus avancés pour alléger). Règle&nbsp;: <b>coude ≤3/10</b> et ça doit céder sous 24&nbsp;h. Si ça monte, redresse-toi (barre plus haute) plutôt que de serrer. <b>HOLD échelon</b> — rampe bornée par l'ACWR, pas de passage à pieds surélevés aujourd'hui.</div>
+          <div class="rt-tag">◆ Garde-fou g.1 — admis modifié · coude_grip_charge (decisions-log:obs-2026-06-02-002)</div>
+          <div class="rt-body">Épicondylite active → <b>prise neutre obligatoire</b>. Règle&nbsp;: <b>coude ≤3/10</b> et ça doit céder sous 24&nbsp;h. Si ça monte, éloigne-toi de l'arbre (moins de tension) plutôt que de serrer. <b>HOLD échelon</b> rowing-lourd (readiness Yellow, pas de progression aujourd'hui).</div>
         </div>
       </span>
     </div>
     <div class="step">
       <span class="num">5</span>
       <span class="txt">
-        <span class="role">Bloc 2 — Complément scapulaire <span class="time">léger · sous-maximal</span></span>
-        <span class="detail">Face pull élastique léger, <b>coudes à ~45° seulement</b> — jamais à l'horizontale (la nuque prend le relais, modalité actée le 16/07). <b>Repos complet après la RE</b>&nbsp;: enchaîné sans repos avec la rotation externe, l'épaule est montée à 4-5/10 (obs-2026-06-16-001).</span>
+        <span class="role">Bloc 3 — Hinge (maintenance) <span class="time">debout · avec repos</span></span>
+        <span class="detail">RDL unilatéral au poids de corps&nbsp;: en équilibre sur une jambe, bascule hanche, dos neutre, l'autre jambe part derrière. <b>Hinge = force</b>&nbsp;: repos entre les séries, <b>pas d'enchaîné</b> (erreur notée le 11/07). Debout, aucun appui au sol nécessaire.</span>
         <ul>
-          <li><b>Face pull léger</b> coudes 45°, épaules basses <span class="reps">2×12-15</span> · repos 40 s</li>
+          <li><b>RDL unilatéral</b> poids de corps <span class="reps">2×10/jambe</span> · repos 60 s</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">6</span>
       <span class="txt">
-        <span class="role">Bloc 3 — Core <span class="time">gainage · avec repos</span></span>
-        <span class="detail">Planche frontale (ondulation&nbsp;: vendredi c'était le hollow). <b>Rétroversion du bassin</b>, ne creuse pas le bas du dos. <b>Repos entre les séries</b>, pas d'enchaîné&nbsp;: gainage enchaîné sans repos → lombaire 3-4/10 (obs-2026-06-16-002).</span>
+        <span class="role">Bloc 4 — Core (anti-rotation) <span class="time">debout · ancré arbre</span></span>
+        <span class="detail">Pallof press&nbsp;: élastique ancré à l'arbre <b>sur le côté</b>, mains jointes devant le sternum, tu pousses les bras à l'horizontale et tu <b>résistes à la rotation</b>. Gainage debout — remplace la planche/hollow (sol). Mains <b>au niveau poitrine</b>, jamais overhead. Bassin en rétroversion.</span>
         <ul>
-          <li><b>Planche frontale</b> <span class="reps">3×40 s</span> · repos 45 s</li>
+          <li><b>Pallof press</b> élastique <span class="reps">3×10/côté</span> · repos 40 s</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">7</span>
       <span class="txt">
-        <span class="role">Bloc 4 — Hinge (activation seule) <span class="time">1 série · pas du volume</span></span>
-        <span class="detail">Pont fessier unilatéral, poussée talon, hanches hautes en fin. <b>Une seule série</b>&nbsp;: la dose hebdo de maintenance du hinge (4-6 séries/sem) a déjà été servie vendredi (5 séries). En rajouter, c'est de la surcharge sur un pattern qui n'est pas le focus.</span>
+        <span class="role">Finisher — mollet <span class="time">~4 min · sous-maximal</span></span>
+        <span class="detail">Excentrique mollet unipodal, debout, <b>descente 3 s</b> (mollet D 2/10, traitement de fond gastrocnémien). Contrôlé, pas de rebond&nbsp;: c'est le contrôle de la descente qui soigne. Étire le mollet D à la fin.</span>
         <ul>
-          <li><b>Pont fessier unilatéral</b> <span class="reps">1×10/jambe @ RIR 2</span> · repos 60 s</li>
-        </ul>
-      </span>
-    </div>
-    <div class="step">
-      <span class="num">8</span>
-      <span class="txt">
-        <span class="role">Retour au calme <span class="time">~5 min</span></span>
-        <span class="detail">Étirement quadriceps et chaîne postérieure, doux. Étire le <b>mollet D</b> avant le retour. Pas de finisher aujourd'hui&nbsp;: la charge est déjà haute.</span>
-        <ul>
-          <li><b>Étirement quadriceps</b> <span class="reps">2×30 s/côté</span> · chaîne postérieure · mollet D</li>
+          <li><b>Excentrique mollet</b> unipodal debout, descente 3 s <span class="reps">3×12/jambe</span> · repos 40 s · puis étirement</li>
         </ul>
       </span>
     </div>
@@ -260,35 +260,34 @@
     <div class="card watch">
       <h3>Ce que tu surveilles</h3>
       <ul>
-        <li><b>Coude D</b> (épicondylite)&nbsp;: rowing <b>≤3/10</b>, prise la plus neutre possible. Si ça monte&nbsp;: barre plus haute, pas de serrage.</li>
-        <li><b>Nuque / trapèzes</b>&nbsp;: sur tout tirage (rowing, face pull, RE) — <b>épaules basses d'abord</b>. Face pull&nbsp;: <b>coudes 45° max</b>.</li>
-        <li><b>Épaule D</b> (2/10)&nbsp;: rien d'overhead, RE en arc indolore (−5° terminaux à droite), <b>repos complet</b> entre RE et face pull.</li>
+        <li><b>Coude D</b> (épicondylite)&nbsp;: rowing <b>≤3/10</b>, prise neutre. Si ça monte&nbsp;: éloigne-toi de l'arbre, pas de serrage.</li>
+        <li><b>Épaule D</b> (2/10)&nbsp;: rien d'overhead, RE en arc indolore (−5° terminaux à droite), <b>repos complet</b> entre la RE et le rowing.</li>
+        <li><b>Nuque / trapèzes</b>&nbsp;: sur le rowing — <b>épaules basses d'abord</b>, ne hausse pas les épaules pour tirer.</li>
+        <li><b>Genou D</b> (0/10)&nbsp;: spanish squat = réparation, tibias reculés. Aucun impact aujourd'hui (spot fermé), tant mieux pour le genou.</li>
         <li><b>Mollet D</b> (2/10)&nbsp;: excentrique sous-maximal, descente 3 s. Hydrate avant, étire à la fin.</li>
-        <li><b>Bas du dos</b> sur la planche&nbsp;: rétroversion du bassin, repos entre les séries (lombaire 3-4/10 quand c'est enchaîné).</li>
-        <li><b>Charge</b>&nbsp;: ACWR <b>1,58</b> (danger). RIR 2 honnête, <b>pas d'all-out</b>, aucune progression d'échelon.</li>
-        <li><b>Alimentation</b>&nbsp;: alerte <b>sous-alimentation</b> active — protéines sous cible ≥3 j, dispo énergétique 24,3 kcal/kg MM (&lt;25). Mange correctement autour de la séance&nbsp;: c'est ça qui débloquera la charge, pas moins d'entraînement.</li>
+        <li><b>Charge</b>&nbsp;: ACWR <b>0,37</b> (sous-charge) — la semaine dernière est retombée. C'est la <b>readiness Yellow</b> qui borne à −30 %, pas la charge.</li>
+        <li><b>Alimentation</b>&nbsp;: alerte <b>sous-alimentation</b> active — protéines sous cible ≥3 j, dispo énergétique 21,4 kcal/kg MM (&lt;25). Mange correctement autour de la séance&nbsp;: réduis le déficit, garde le volume.</li>
       </ul>
     </div>
     <div class="card dont">
       <h3>Ce qu'on ne fait pas</h3>
       <ul>
-        <li><b>Push / squat / tractions</b> — patterns en <b>gel</b> ce bloc (allocation validée). Rien, même « pour finir ».</li>
-        <li><b>Du volume en plus parce qu'il y a du temps</b> — le temps va dans l'échauffement, les correctifs et les repos. Pas de séries bonus.</li>
-        <li><b>Progression d'échelon</b> — rampe bornée par l'ACWR (1,6 &gt; 1,3). HOLD partout, y compris sur le focus.</li>
-        <li><b>Hinge au-delà d'une série</b> — la dose hebdo de maintenance est déjà servie (5 séries le 17/07).</li>
-        <li><b>Face pull coudes à l'horizontale</b> — douleur nuque documentée. 45° max.</li>
-        <li><b>Départ à froid en courant</b> vers le parc — genou. Marche/vélo, ou course fractionnée après échauffement.</li>
-        <li><b>All-out / échec</b> — semaine déjà en zone danger.</li>
+        <li><b>Improviser un mouvement neuf</b> sur épaule/coude (ex. rotation interne résistée) — 20/07&nbsp;: douleur sur 2 zones. On reste sur le consigné.</li>
+        <li><b>Push / squat chargé / tractions</b> — patterns en <b>gel</b> ce bloc, et sans matériel de toute façon. Rien, même « pour finir ».</li>
+        <li><b>Chercher du sol</b> — pas de pompes, planche, hollow, nordic, pont. Le core se fait <b>debout</b> (pallof).</li>
+        <li><b>Progression d'échelon</b> — readiness Yellow. HOLD partout, y compris sur le focus.</li>
+        <li><b>Hinge enchaîné sans repos</b> — le hinge est de la force, il faut le repos (erreur du 11/07).</li>
+        <li><b>All-out / échec</b> — séance de repli, on reste propre à RIR 2.</li>
       </ul>
     </div>
   </div>
 
   <p class="footnote">
-    <b>État (20/07, 07:58)</b> — Genou D 0/10, épaule D 2/10, mollet D 2/10 (fond), coude D (épicondylite, Tyler Vert). Sommeil 6,5 h moy. 2 sem, 4/14 nuits &lt;6 h.<br>
-    <b>Readiness</b> — <b>Yellow</b>. Cœur objectif yellow&nbsp;; ressenti matinal <b>13/15</b> (fatigue 4, sommeil 4, courbatures 5) → override d'amélioration d'un cran, <b>annulé par le plancher charge</b> (ACWR zone danger). Drapeau&nbsp;: <code>charge_danger</code>.<br>
-    <b>Charge</b> — aigu 7 j <b>2621</b> sRPE / chronique 28 j <b>1656</b> → <b>ACWR 1,58</b> (danger), CTL 263. La projection du 17/07 (« 1,04 dimanche, volume plein lundi ») <b>ne s'est pas vérifiée</b>. <b>Double comptage renfo du 17/07 corrigé</b> (montre + feedback de la même séance)&nbsp;: <code>_same_session</code> lisait l'heure de saisie du feedback comme une heure de départ&nbsp;; réconciliation désormais appliquée à l'agrégation, quelle que soit la voie d'écriture (commit <code>f55b6ac</code>, 5 tests). Effet réel <b>1,60 → 1,58</b>, sans conséquence sur la séance. Volume −30 % (FR-251), rampe bornée (FR-403).<br>
-    <b>Contexte</b> — <b>S3 · S1/4 du bloc-2026-07-15</b> (15/07 → 12/08&nbsp;; focus tirage_horizontal, maintenance hinge, gel push/squat/tirage_vertical, décharge S4). Plancher de développement 7 j à <b>0 %</b> → la séance penche développement, servi par le focus tirage (T2). Ondulation FR-399&nbsp;: rowing australien (élastique fait le 17/07), planche (hollow fait le 17/07). Note&nbsp;: <code>plan-cycle.yaml</code> n'a pas été re-projeté après le 17/07 — <code>file_intentions[0]</code> propose encore le hinge, déjà consommé&nbsp;; arbitré par l'allocation (hinge = maintenance, MV atteint).<br>
-    <b>Source</b> — module corps-forme, moteur déterministe 7 étapes + plan de périodisation (plan-cycle.yaml)&nbsp;; garde-fou g.1 <code>verdict_exercice_trace</code> (rowing australien = <b>admis modifié</b>, tag <code>coude_grip_traction</code>, source <code>decisions-log:obs-2026-06-02-002</code>). CI actives&nbsp;: épaule fin d'amplitude, épaule overhead, coude grip charge, genou flexion charge, genou impact. DECISIONS-sport / périodisation&nbsp;; méthode-seances.md.<br>
+    <b>État (24/07)</b> — Genou D 0/10, épaule D 2/10, mollet D 2/10 (fond), coude D (épicondylite, Tyler Vert). Sommeil 6,5 h moy. 2 sem, 4/14 nuits &lt;6 h.<br>
+    <b>Readiness</b> — <b>Yellow</b>, en <b>mode dégradé</b>&nbsp;: cœur objectif yellow, mais <b>ressenti non saisi</b> (FR-858) → pas de HRV/FC de réveil pour l'affiner. À reconfirmer au ressenti&nbsp;; si tu te sens franchement Green, tu peux tenir une 4ᵉ série sur le focus, sinon on reste à −30 %.<br>
+    <b>Charge</b> — ACWR <b>0,37</b> (sous-charge), CTL 158,7, aigu hebdo <b>411</b> sRPE (vs ~1770 la semaine du 13/07). La zone danger du 20/07 est <b>passée</b>&nbsp;: l'aigu 7 j a chuté. Aujourd'hui la modération vient de la <b>readiness</b>, pas de la charge&nbsp;; <code>donnees_suffisantes</code> vrai. Volume −30 % (FR-253).<br>
+    <b>Contexte</b> — <b>bloc-2026-07-15</b> (15/07 → 12/08&nbsp;; focus tirage_horizontal, maintenance hinge, gel push/squat/tirage_vertical, décharge S4). Contrainte matériel du jour&nbsp;: spot fermé (pas de barre) + sol difficile → séance <b>100 % debout / élastique ancré à un arbre</b>. Patterns non couverts (équipement)&nbsp;: <b>push</b>, <b>tirage_vertical</b> — déjà en gel, aucune perte.<br>
+    <b>Source</b> — module corps-forme, moteur déterministe 7 étapes + plan de périodisation&nbsp;; garde-fou g.1 <code>verdict_exercice_trace</code>&nbsp;: rowing élastique = <b>admis modifié</b> (tag <code>coude_grip_charge</code>, source <code>decisions-log:obs-2026-06-02-002</code>), spanish squat &amp; RE coiffe = <b>admis</b> (réparation des zones qu'ils bornent). CI actives&nbsp;: épaule fin d'amplitude, épaule overhead, coude grip charge, genou flexion charge, genou impact, mollet impact. DECISIONS-sport / méthode-seances.md.<br>
     Page statique. Le suivi vit dans Jarvis (<b>/corps-forme</b>), pas ici.
   </p>
 </main>

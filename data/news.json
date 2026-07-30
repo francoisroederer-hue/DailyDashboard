@@ -1,203 +1,181 @@
 {
-  "generated_at": "2026-07-29T08:30:00Z",
+  "generated_at": "2026-07-30T08:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Missiles Iran interceptés",
-      "title": "L'Iran tire des missiles sur une base américaine en Jordanie",
-      "summary": "Le Corps des gardiens de la révolution a tiré plusieurs missiles balistiques dans la soirée du 28 juillet visant une base américaine en Jordanie, dans ce que le CENTCOM a qualifié de tentative d'attaque surprise. Toutes les munitions ont été interceptées, mais l'épisode met fin à plusieurs jours d'accalmie et relance l'incertitude sur la trêve engagée après le mémorandum de juin.",
-      "source": "Scripps News",
-      "url": "https://www.scrippsnews.com/us-news/iran-war/us-intercepts-iranian-surprise-attack-in-the-middle-east-centcom-says"
+      "short_title": "Trump menace l'Iran",
+      "title": "Trump menace l'Iran après des frappes américano-saoudiennes",
+      "summary": "Les Gardiens de la révolution iraniens ont tenté une attaque de missiles balistiques contre des forces américaines dans la région, interceptée, quelques heures après que les Etats-Unis et l'Arabie saoudite ont frappé conjointement des milices proxies iraniennes en Irak. Donald Trump a promis de frapper l'Iran «durement» si les attaques se poursuivent, et Washington a mené une nouvelle vague de frappes dans la nuit. Riyad, longtemps en retrait du conflit, se retrouve désormais directement engagé aux côtés des Etats-Unis.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-saudi-arabia-strike-iran-proxies-iraq-after-attacks-on-american-forces/"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Netanyahu à Washington",
-      "title": "Netanyahu rencontre Trump pour la première fois depuis la guerre contre l'Iran",
-      "summary": "Le Premier ministre israélien s'est entretenu près de deux heures à la Maison Blanche avec Donald Trump, quelques heures après l'attaque manquée contre une base américaine en Jordanie. Les deux dirigeants ont réaffirmé leur objectif d'empêcher l'Iran de se doter de l'arme nucléaire et évoqué un élargissement des accords d'Abraham incluant l'Arabie saoudite.",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-903925"
+      "short_title": "Brent remonte sur Iran",
+      "title": "Le Brent bondit de 7,9% après les nouvelles frappes en Iran",
+      "summary": "Le baril de Brent a grimpé de 7,9% pour clôturer à 90,74 dollars, et le WTI de 6,6% à 84,46 dollars, après l'annonce par Trump d'une riposte américaine contre l'Iran. Les marchés redoutent une fermeture prolongée du détroit d'Ormuz, un passage stratégique par lequel transite près de 20% du pétrole brut mondial.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Ukraine frappe Engels",
-      "title": "Nouvelle frappe de drones ukrainiens sur la base de bombardiers d'Engels",
-      "summary": "Dans la nuit du 25 juillet, les forces ukrainiennes ont de nouveau visé la base aérienne d'Engels-2, dans la région russe de Saratov, qui héberge les bombardiers stratégiques Tu-95 et Tu-160. C'est la deuxième frappe en neuf jours sur ce site après celle du 17 juillet qui avait détruit un Tu-95, confirmant la capacité de Kyiv à frapper en profondeur le parc aérien stratégique russe.",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/fire-reported-overnight-at-engels-air-base-home-of-russias-heavy-bombers/"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 3,
+      "short_title": "Fed: taux inchangés",
+      "title": "La Fed maintient ses taux, dissidence historique de trois gouverneurs",
+      "summary": "Le FOMC a voté à 9 contre 3 le maintien des taux entre 3,5% et 3,75%, les trois présidents régionaux dissidents (Cleveland, Minneapolis, Dallas) réclamant au contraire une hausse d'un quart de point face à une inflation supérieure à 2% depuis plus de cinq ans. C'est la première fois depuis 2016 que trois membres dissidents partagent une position unifiée sur la direction des taux. Le président Kevin Warsh a qualifié l'épisode de «bonne bagarre de famille».",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/fed-holds-rates-steady-three-officials-dissent-favoring-a-hike"
     },
     {
       "id": "n04",
-      "theme": "climat",
-      "subtopic": "france",
+      "theme": "finance",
+      "subtopic": "macro",
       "importance": 3,
-      "short_title": "Feux historiques France",
-      "title": "Des incendies inédits ravagent le sud-ouest de la France et l'Espagne",
-      "summary": "Plus de 98 000 hectares sont partis en fumée en France cette année, un record historique, avec un feu près de Bordeaux qui a généré son propre orage de feu (pyrocumulonimbus), un phénomène jamais observé jusqu'ici dans le pays. Plus de 300 000 personnes ont été évacuées en France et en Espagne, et le Premier ministre Lecornu attribue cette saison précoce et intense au changement climatique.",
-      "source": "TIME",
-      "url": "https://time.com/article/2026/07/27/france-spain-europe-wildfires-destruction-photos/"
+      "short_title": "Wall Street plonge",
+      "title": "Le Dow Jones connaît sa pire séance depuis avril 2025",
+      "summary": "Le Dow Jones a chuté de 2,19% à 51 594 points et le S&P 500 de 1,52%, les investisseurs craignant que la Fed ne soit en retard sur la lutte contre l'inflation après sa décision de laisser les taux inchangés. Le marché obligataire a signalé une perte de confiance dans la capacité de la banque centrale à maîtriser rapidement la situation.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent rebondit sur Iran",
-      "title": "Le Brent repart à la hausse après l'attaque iranienne avortée",
-      "summary": "Le baril de Brent, qui avait cédé 4,8% dans la journée du 28 juillet sur fond d'espoirs diplomatiques, a effacé une partie de sa baisse en toute fin de séance après l'annonce par le CENTCOM de l'interception de missiles iraniens. Goldman Sachs continue de viser 80 dollars d'ici la fin d'année si le détroit d'Ormuz rouvre pleinement, mais prévient que les tensions en mer Rouge restent un risque haussier.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html"
+      "subtopic": "semi_conducteurs",
+      "importance": 2,
+      "short_title": "Samsung: profit x250",
+      "title": "Samsung: le profit de la division puces bondit de plus de 250 fois",
+      "summary": "Samsung Electronics a publié un profit d'exploitation record de 89,2 milliards de wons (62 milliards de dollars) sur son activité mémoire, porté par la pénurie de puces IA et des marges exceptionnelles, largement au-dessus des attentes des analystes. L'action a bondi à Séoul, entraînant dans son sillage SK Hynix, alors que les valeurs semi-conductrices se remettaient du sell-off du début du mois.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "ai_infra",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Nvidia: 250Mds OpenAI",
-      "title": "Nvidia négocierait une garantie de 250 milliards de dollars pour OpenAI",
-      "summary": "Nvidia serait en discussions pour garantir jusqu'à 250 milliards de dollars de financement du data center géant qu'OpenAI prévoit de construire dans l'Ohio, sur un site d'enrichissement d'uranium désaffecté. L'annonce, qui s'ajoute à un possible financement séparé des puces pouvant atteindre 350 milliards, a fait chuter l'action Nvidia de près de 5% sur fond de craintes de bulle sur les dépenses d'infrastructure IA.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html"
+      "short_title": "Panne mondiale Claude",
+      "title": "Claude victime d'une panne mondiale de trois heures",
+      "summary": "Les services d'Anthropic ont connu une multiplication d'erreurs sur tous les modèles à partir de 19h49 UTC le 29 juillet, rendant claude.ai, l'API et Claude Code indisponibles pendant environ trois heures avec des erreurs «529 Overloaded». Anthropic a confirmé l'incident sans en détailler la cause ni fournir de délai de résolution, illustrant la dépendance croissante des développeurs à l'outil.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "UE assouplit FRTB",
-      "title": "Bruxelles ajuste temporairement les règles FRTB pour les banques européennes",
-      "summary": "La Commission européenne a adopté un acte délégué introduisant un multiplicateur transitoire pour compenser l'impact en capital de la Fundamental Review of the Trading Book sur les banques de l'UE. La mesure vise à préserver leur compétitivité face aux retards pris par les États-Unis dans la mise en œuvre de leur propre volet de Bâle III sur le risque de marché.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
+      "theme": "tech",
+      "subtopic": "securite_ia",
+      "importance": 3,
+      "short_title": "Claude casse HAWK-256",
+      "title": "Claude Mythos casse un candidat post-quantique et accélère une attaque AES",
+      "summary": "Le modèle de recherche Claude Mythos Preview a permis de dériver une attaque complète par récupération de clé contre HAWK-256, un schéma de signature post-quantique candidat, en exploitant une symétrie jusque-là inconnue de sa structure en réseau euclidien, et d'accélérer de 200 à 800 fois une attaque existante sur AES-128 à sept tours. HAWK n'est pas l'un des paramètres retenus par le NIST pour la standardisation et Anthropic souligne qu'aucun système en production n'est concerné, mais l'équipe HAWK a retiré son schéma du processus après confirmation de la faille.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "MCP devient stateless",
-      "title": "Anthropic déploie la spec MCP 2026-07-28, sans état",
-      "summary": "La cinquième version majeure du Model Context Protocol fait basculer le protocole d'un modèle bidirectionnel avec état vers un modèle requête-réponse sans état, permettant de déployer des serveurs MCP sur des infrastructures serverless et edge. La mise à jour formalise aussi les extensions Apps, Tasks et Server Cards et durcit l'autorisation via OAuth et OIDC, alors que le protocole dépasse les 400 millions de téléchargements SDK mensuels.",
-      "source": "Claude (Anthropic)",
-      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"
+      "theme": "sante",
+      "subtopic": "alzheimer",
+      "importance": 2,
+      "short_title": "Alzheimer: tau recule",
+      "title": "Biogen/Ionis: la thérapie anti-tau ralentit le déclin cognitif",
+      "summary": "L'essai de phase 2 CELIA a montré qu'une dose de 60 mg de diranersen, un oligonucléotide antisens ciblant la protéine tau, ralentit de 26% le déclin sur l'échelle CDR-SB après 18 mois chez des patients à un stade précoce d'Alzheimer, avec pour la première fois une élimination biomarqueur robuste de la protéine tau dans le cerveau en phase 2. Biogen prévoit désormais une phase 3 de confirmation sur cette population de 416 patients.",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/drug-development/aaic-2026-biogen-delivers-hope-validation-with-anti-tau-alzheimers-win"
     },
     {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Kimi K3: poids ouverts",
-      "title": "Moonshot AI publie Kimi K3, le plus grand modèle ouvert au monde",
-      "summary": "La start-up chinoise a mis en libre téléchargement les poids complets de Kimi K3, un modèle Mixture-of-Experts de 2,8 mille milliards de paramètres gérant texte, image et vidéo avec une fenêtre de contexte d'un million de tokens. Occupant environ 1,4 To grâce à une quantification MXFP4, ce lancement marque une nouvelle étape dans la course sino-américaine autour des modèles ouverts.",
-      "source": "Tech Startups",
-      "url": "https://techstartups.com/2026/07/27/moonshot-ai-releases-kimi-k3-open-weights-largest-free-ai-model-ever-at-2-8-trillion-parameters/"
+      "theme": "sciences",
+      "subtopic": "neurosciences",
+      "importance": 2,
+      "short_title": "Intestin et mémoire",
+      "title": "Le nerf vague relie repas nutritifs et formation de souvenirs",
+      "summary": "Une étude de l'USC publiée dans Nature Communications montre que des signaux transmis par le nerf vague depuis l'intestin après un repas riche en calories stimulent la libération d'acétylcholine dans l'hippocampe, renforçant la mémoire spatiale liée aux sources de nourriture. Chez le rat, une exposition chronique à une alimentation riche en sucres et graisses dès le plus jeune âge altère durablement cette communication intestin-cerveau.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Poids ouverts: clivage",
-      "title": "Nvidia, Microsoft et Meta défendent les modèles ouverts, Anthropic et OpenAI s'abstiennent",
-      "summary": "Une vingtaine d'entreprises emmenées par Nvidia, Microsoft et Meta ont signé une déclaration commune défendant les modèles open-weight face à la percée de Kimi K3 et d'autres modèles chinois. Anthropic et OpenAI n'ont pas signé, réaffirmant que la diffusion sans restriction de modèles frontières augmente les risques de sécurité et de mésusage.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/07/27/nvidia-anthropic-openai-open-weight-debate"
-    },
-    {
-      "id": "n11",
-      "theme": "tech",
-      "subtopic": "regulation_ia",
-      "importance": 2,
-      "short_title": "UE ouvre Android à l'IA",
-      "title": "Bruxelles oblige Google à ouvrir Android et Search aux IA concurrentes",
-      "summary": "La Commission européenne a adopté deux décisions contraignantes au titre du Digital Markets Act imposant à Google de donner aux assistants IA rivaux le même accès à Android que Gemini, et de partager ses données de recherche avec les moteurs et chatbots tiers. Le partage des données doit démarrer en janvier 2027 et l'interopérabilité Android en juillet 2027, sans amende à ce stade.",
-      "source": "Commission européenne (DMA)",
-      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en"
-    },
-    {
-      "id": "n12",
-      "theme": "tech",
-      "subtopic": "regulation_ia",
-      "importance": 2,
-      "short_title": "Sécurité IA: aucun A+",
-      "title": "L'index sécurité IA de l'été 2026 ne délivre aucune note au-dessus de C+",
-      "summary": "Le Future of Life Institute a noté neuf laboratoires d'IA frontière sur leurs pratiques de sécurité: Anthropic arrive en tête avec un C+, suivi d'OpenAI et Google DeepMind à C, tandis que xAI, DeepSeek et Mistral échouent. Le rapport pointe surtout un recul général des engagements de pause volontaire pris par les grands labs en cas de franchissement de seuils de risque.",
-      "source": "Future of Life Institute",
-      "url": "https://futureoflife.org/ai-safety-index-summer-2026/"
-    },
-    {
-      "id": "n13",
-      "theme": "sante",
-      "subtopic": "ia_sante",
-      "importance": 2,
-      "short_title": "ChatGPT Health lancé",
-      "title": "OpenAI ouvre ChatGPT Health à tous les utilisateurs américains",
-      "summary": "La fonctionnalité, qui permet de relier ses données Apple Health et ses dossiers médicaux hospitaliers pour obtenir des synthèses personnalisées, est désormais accessible à tous les utilisateurs connectés de plus de 18 ans aux États-Unis. Le lancement intervient au lendemain de la révélation d'une plainte accusant ChatGPT de ne pas avoir orienté un utilisateur vers un médecin malgré des symptômes graves.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
-    },
-    {
-      "id": "n14",
-      "theme": "sciences",
-      "subtopic": "quantique",
-      "importance": 2,
-      "short_title": "Magnons: mémoire x100",
-      "title": "Des chercheurs multiplient par 100 la durée de vie des magnons",
-      "summary": "Une équipe de l'université de Vienne a porté la durée de vie de ces ondes de spin à 18 microsecondes, contre une limite jusqu'ici jugée fondamentale, en utilisant un grenat d'yttrium-fer ultra-pur à basse température. La découverte ouvre la voie à un \"bus quantique\" capable de relier des centaines de qubits, une brique manquante pour des ordinateurs quantiques miniaturisés.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm"
-    },
-    {
-      "id": "n15",
-      "theme": "sciences",
-      "subtopic": "quantique",
-      "importance": 1,
-      "short_title": "Énigme quantique résolue",
-      "title": "Une équipe résout une question ouverte depuis 30 ans sur les preuves quantiques",
-      "summary": "Un article de 100 pages a tranché une question de longue date en théorie de la complexité quantique, portant sur la puissance des systèmes de preuves interactives quantiques. Les travaux ont reçu le prix du meilleur article au Symposium on Theory of Computing 2026, une référence en informatique théorique.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/"
-    },
-    {
-      "id": "n16",
       "theme": "learn",
       "subtopic": "ia_tutorat",
       "importance": 2,
-      "short_title": "IA-tuteur validée au RU",
-      "title": "Un essai contrôlé montre qu'un tuteur IA de DeepMind égale les tuteurs humains",
-      "summary": "Dans un essai randomisé mené avec Eedi sur 165 élèves de cinq collèges britanniques, le modèle pédagogique LearnLM de Google DeepMind a permis d'obtenir un taux de réussite de 66,2% sur des problèmes inédits contre 60,7% pour les élèves suivis uniquement par des tuteurs humains. Les tuteurs superviseurs ont validé 76,4% des messages générés par l'IA sans modification ou avec des retouches mineures, un signal encourageant avant un essai à plus grande échelle prévu cet été.",
-      "source": "Yahoo Finance / Eedi",
-      "url": "https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html"
+      "short_title": "Tuteur IA: accès limité",
+      "title": "Stanford: l'accès à un tuteur IA ne suffit pas à améliorer les résultats",
+      "summary": "Une étude Stanford montre que le simple fait de mettre un tuteur IA à disposition d'élèves n'entraîne pas de gains d'apprentissage significatifs en lecture: dans deux districts scolaires, seuls 61% et 53% des élèves l'ont utilisé malgré des créneaux dédiés, avec un temps d'usage hebdomadaire moyen de 2 à 5 minutes seulement. Les auteurs concluent que l'efficacité dépend d'une conception pédagogique solide et de stratégies d'engagement, pas uniquement de la disponibilité de l'outil.",
+      "source": "K-12 Dive",
+      "url": "https://www.k12dive.com/news/ai-tutor-access-alone-doesnt-equate-to-student-gains-study-says/823214/"
     },
     {
-      "id": "n17",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Figma défie Cursor",
-      "title": "Figma pousse Code Layers pour concurrencer les outils de vibe coding",
-      "summary": "Lors de sa conférence Config, Figma a présenté Code Layers, une fonctionnalité qui permet de cloner un dépôt GitHub sur le canevas de design et de synchroniser les modifications entre code et maquettes dans un même fichier multijoueur. L'accès anticipé s'ouvre en juillet et positionne frontalement Figma face à Cursor et aux outils agentiques comme v0, dans une bataille pour devenir le point d'entrée du développement assisté par IA.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/319041/20260625/figma-config-2026-code-layers-challenge-cursor-gpu-shaders-hit-paid-plans.htm"
-    },
-    {
-      "id": "n18",
+      "id": "n11",
       "theme": "climat",
       "subtopic": "transition_energetique",
       "importance": 2,
-      "short_title": "UE: électrification 2040",
-      "title": "Bruxelles fixe un objectif d'électrification de 46% pour 2040",
-      "summary": "Le plan dévoilé par le commissaire européen à l'énergie Dan Jørgensen vise à doubler la part de l'électricité dans la consommation énergétique du bloc, à 46% d'ici 2040, contre environ 23% aujourd'hui. Selon les estimations de la Commission, cette bascule permettrait de réduire de moitié la consommation de pétrole et des deux tiers celle de gaz, abaissant la facture d'importations fossiles d'environ 200 milliards d'euros.",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Eyes-2040-Electrification-Target-to-Slash-Oil-and-Gas-Dependence.html"
+      "short_title": "UE réforme son ETS",
+      "title": "Bruxelles propose une refonte du marché carbone européen pour 2031-2040",
+      "summary": "La Commission européenne a présenté le 17 juillet sa proposition de révision du système d'échange de quotas d'émission (ETS), pilier du marché carbone européen, avec un plafond d'émissions recalibré et une nouvelle Banque de décarbonation industrielle pour financer la transition. Le texte vise à aligner l'ETS sur l'objectif de réduction de 90% des émissions d'ici 2040 par rapport à 1990, avec un accord politique visé au premier trimestre 2027.",
+      "source": "International Carbon Action Partnership",
+      "url": "https://icapcarbonaction.com/en/news/eu-commission-publishes-eu-ets-review-proposal"
+    },
+    {
+      "id": "n12",
+      "theme": "geopol",
+      "subtopic": "geopolitique_ia",
+      "importance": 2,
+      "short_title": "USA-Chine: IA en Asie",
+      "title": "Washington cherche à empêcher Pékin de devenir le fournisseur IA de l'Asie",
+      "summary": "La stratégie américaine vise désormais explicitement à empêcher la Chine de devenir le principal fournisseur d'IA du reste de l'Asie, alors que les Etats-Unis gardent l'avantage sur les talents et le capital mais que la Chine progresse vite avec des modèles ouverts moins chers comme Kimi K3 de Moonshot, désormais considéré comme de niveau frontière. Des entreprises américaines comme Airbnb adoptent déjà des modèles chinois comme Qwen pour leur rapport coût-performance.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html"
+    },
+    {
+      "id": "n13",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 3,
+      "short_title": "Missiles russes sur Kyiv",
+      "title": "La Russie frappe Kyiv après un avertissement de Zelensky",
+      "summary": "La Russie a lancé des missiles balistiques sur Kyiv et d'autres villes ukrainiennes tôt le 30 juillet, quelques heures après que Volodymyr Zelensky eut averti Moscou préparer une «attaque massive». La veille, Zelensky avait rencontré Donald Trump à la Maison Blanche pour demander des systèmes de défense antiaérienne supplémentaires, alors que la guerre entre dans sa cinquième année.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/29/europe/ukraine-kyiv-missile-attack-latam-intl"
+    },
+    {
+      "id": "n14",
+      "theme": "sante",
+      "subtopic": "pediatrie",
+      "importance": 1,
+      "short_title": "Carie: fluorure d'argent",
+      "title": "Un essai clinique confirme l'efficacité du fluorure diamine d'argent contre les caries",
+      "summary": "Un essai de phase 3 mené par l'Université du Michigan sur 830 jeunes enfants, publié dans JAMA Pediatrics, montre qu'une application de fluorure diamine d'argent à 38% arrête la progression de plus de la moitié des caries traitées, sans perçage, piqûre ni sédation. Le traitement, appliqué en quelques secondes avec un applicateur à embout d'éponge, assombrit définitivement la zone traitée mais pourrait éviter à de nombreux jeunes enfants une intervention sous sédation.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm"
+    },
+    {
+      "id": "n15",
+      "theme": "climat",
+      "subtopic": "france",
+      "importance": 3,
+      "short_title": "Feux: 20 morts en Europe",
+      "title": "Les feux de forêt en Europe ont fait au moins 20 morts",
+      "summary": "La troisième vague de chaleur de l'été a provoqué des incendies ayant tué au moins 17 civils et trois pompiers en Espagne, au Portugal et en France, avec plus de 375 000 personnes évacuées. La France a franchi la barre des 115 000 hectares brûlés depuis le début de l'année, un record national, tandis que le feu d'Avila près de Madrid est devenu le plus grand jamais enregistré en Espagne.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires"
+    },
+    {
+      "id": "n16",
+      "theme": "tech",
+      "subtopic": "mlops",
+      "importance": 2,
+      "short_title": "Agents IA: la gouvernance",
+      "title": "Les agents IA arrivent en production, la gouvernance peine à suivre",
+      "summary": "Gartner projette que 40% des applications d'entreprise embarqueront des agents IA d'ici la fin de l'année, contre moins de 5% en 2025, tandis qu'Omdena souligne que la plupart des équipes savent lancer des prototypes d'agents mais échouent à les mettre en production faute d'observabilité, de gestion de la mémoire et de tests de fiabilité des outils suffisants. Microsoft a par ailleurs annoncé un investissement de 2,5 milliards de dollars dans du conseil humain dédié pour aider les entreprises à déployer ces systèmes.",
+      "source": "Technology Radar",
+      "url": "https://www.hectorpincheira.com/en/news/technological-radar-july-2026-ai-agents-go-into-production-and-governance-doesnt-keep-up/"
     }
   ],
   "edges": [
@@ -205,73 +183,55 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "L'attaque avortée sur la base jordanienne, survenue quelques heures avant l'entretien, a pesé sur l'agenda sécuritaire de la première rencontre Trump-Netanyahu depuis le début du conflit."
+      "explanation": "Les frappes américano-saoudiennes et la riposte iranienne font craindre une fermeture du détroit d'Ormuz, ce qui pousse mécaniquement le baril de Brent à la hausse."
     },
     {
-      "source": "n01",
-      "target": "n05",
-      "type": "cause",
-      "explanation": "L'annonce de l'interception de missiles iraniens a interrompu en toute fin de séance la détente sur le baril amorcée par les espoirs diplomatiques de la journée."
-    },
-    {
-      "source": "n01",
+      "source": "n02",
       "target": "n03",
+      "type": "cause",
+      "explanation": "La flambée du pétrole ravive les craintes inflationnistes, renforçant la position des trois gouverneurs dissidents qui réclamaient une hausse de taux plutôt qu'un statu quo."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La dissidence inédite au sein du FOMC nourrit la perception que la Fed est en retard sur l'inflation, ce qui déclenche la pire séance boursière depuis avril 2025."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "tension",
+      "explanation": "Alors que la peur macro fait plonger l'indice large, les valeurs liées à la demande de mémoire IA comme Samsung s'envolent, révélant un marché à deux vitesses entre crainte inflationniste et euphorie IA."
+    },
+    {
+      "source": "n01",
+      "target": "n13",
       "type": "meme_sujet",
-      "explanation": "Deux théâtres de guerre actifs, Moyen-Orient et Ukraine, connaissent une intensification militaire la même semaine malgré des efforts diplomatiques parallèles."
+      "explanation": "Moyen-Orient et Ukraine forment deux fronts de crise simultanés qui testent en parallèle la doctrine de fermeté affichée par Trump face à ses adversaires."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "La mise en libre accès du plus grand modèle ouvert au monde a précipité la prise de position publique de Nvidia et de ses alliés en faveur des poids ouverts."
+      "source": "n12",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Pendant que la Chine grignote l'avance américaine en Asie avec des modèles ouverts moins chers, Anthropic met en avant une percée scientifique de pointe pour réaffirmer la supériorité capacitaire des labs américains."
     },
     {
-      "source": "n06",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "L'exposition financière massive de Nvidia à OpenAI et à la demande de puces qu'elle alimente éclaire son intérêt commercial à défendre un écosystème de modèles ouverts qui élargit le marché des accélérateurs."
+      "source": "n16",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "Les deux news illustrent le même phénomène sous deux angles: les capacités des systèmes d'IA progressent plus vite que les dispositifs de gouvernance et de supervision censés les encadrer."
+    },
+    {
+      "source": "n15",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Les incendies record et la réforme du marché carbone couvrent le même sujet climatique sous deux angles complémentaires: l'impact concret de la chaleur extrême et la réponse réglementaire de long terme."
     },
     {
       "source": "n08",
       "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Publiées à un jour d'intervalle, ces deux annonces illustrent des courses parallèles chez les labs d'IA: l'une sur l'infrastructure d'outillage agentique, l'autre sur la taille et l'ouverture des modèles."
-    },
-    {
-      "source": "n12",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "L'indice de sécurité pointe un recul des engagements de pause des grands labs, au moment même où un modèle comme Kimi K3 se diffuse massivement hors de tout cadre de sécurité occidental."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Deux formes de pression réglementaire s'exercent la même semaine sur les géants de l'IA: l'une sur la concurrence via le DMA, l'autre sur la sécurité via l'indice du Future of Life Institute."
-    },
-    {
-      "source": "n13",
-      "target": "n12",
-      "type": "tension",
-      "explanation": "Le lancement précipité d'une fonctionnalité santé un jour après une plainte pour défaut d'alerte médicale illustre concrètement le recul des garde-fous que pointe l'indice de sécurité de l'été."
-    },
-    {
-      "source": "n04",
-      "target": "n18",
-      "type": "meme_sujet",
-      "explanation": "Les incendies inédits en France et le plan d'électrification européen incarnent les deux faces de l'été climatique du continent: l'urgence des impacts et la réponse structurelle de politique énergétique."
-    },
-    {
-      "source": "n17",
-      "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "Figma et Anthropic se disputent la même semaine le contrôle de la couche d'outillage du développement assisté par IA, l'un sur le canevas de design, l'autre sur le protocole d'agents."
-    },
-    {
-      "source": "n07",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "Deux dossiers distincts illustrent l'activisme réglementaire de Bruxelles cet été, entre assouplissement prudentiel pour les banques et durcissement concurrentiel imposé aux plateformes numériques."
+      "explanation": "Les deux études, parues la même semaine, éclairent les mécanismes de la mémoire sous deux angles opposés: sa dégradation dans Alzheimer et sa formation physiologique via l'axe intestin-cerveau."
     }
   ]
 }

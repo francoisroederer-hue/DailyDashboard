@@ -1,237 +1,237 @@
 {
-  "generated_at": "2026-08-03T04:14:42Z",
+  "generated_at": "2026-08-04T04:17:57Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Trêve Iran-Ormuz",
-      "title": "Trump suspend ses frappes contre l'Iran",
-      "summary": "Donald Trump a annoncé samedi soir qu'il ordonnait la suspension de nouvelles frappes américaines contre l'Iran, affirmant que les alliés du Moyen-Orient avaient dégagé les grandes lignes d'un accord pour mettre fin à cinq mois de guerre. L'accord évoqué prévoit la réouverture complète du détroit d'Ormuz et l'arrêt de la menace nucléaire iranienne, mais rien n'est encore signé et Trump avait déjà annoncé plusieurs trêves avortées depuis février.",
-      "source": "AP via U.S. News",
-      "url": "https://www.usnews.com/news/world/articles/2026-08-02/trump-says-he-will-order-halt-to-iran-strikes-after-parameters-reached-for-deal-to-end-war"
+      "short_title": "Iran-Oman: route Ormuz",
+      "title": "Iran et Oman finalisent une route pour Ormuz",
+      "summary": "Après la pause des frappes américaines annoncée par Trump, Téhéran et Mascate ont indiqué être en phase finale de négociation d'un itinéraire maritime alternatif pour sécuriser le transit dans le détroit d'Ormuz. L'accord porterait sur une route temporaire distincte des voies nord et sud, sans lever le blocage plus large du détroit.",
+      "source": "The Spokesman-Review (AP)",
+      "url": "https://www.spokesman.com/stories/2026/aug/03/iran-says-hormuz-talks-ongoing-after-trump-calls-o/"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Iran bloque Ormuz",
-      "title": "Le Brent flambe après le blocage de navires par l'Iran",
-      "summary": "L'Iran a annoncé avoir arraisonné deux navires cherchant à sortir du détroit d'Ormuz, ravivant les craintes sur l'approvisionnement mondial en pétrole et en gaz. Le Brent a grimpé de plus de 1% ce jour-là et affiche une hausse d'environ 23% sur le mois de juillet, tandis que les assureurs commencent à retirer leur couverture de guerre pour les navires transitant dans le Golfe.",
-      "source": "BOE Report (Reuters)",
-      "url": "https://boereport.com/2026/07/31/oil-price-rises-after-iran-says-it-stops-ships-in-hormuz/"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Rome: Liban-Israël",
+      "title": "Nouveau cycle de pourparlers Liban-Israël à Rome",
+      "summary": "Un nouveau cycle de négociations directes entre le Liban et Israël s'ouvre à Rome sous médiation américaine, avec une délégation libanaise élargie face à une pression israélienne accrue. Les discussions portent sur l'extension du retrait des zones pilotes et le désarmement programmé du Hezbollah, dans la foulée de la guerre déclenchée en mars.",
+      "source": "L'Orient-Le Jour",
+      "url": "https://www.lorientlejour.com/article/1543292/rome-change-de-dimension-le-liban-elargit-sa-delegation-israel-fait-monter-la-pression.html"
     },
     {
       "id": "n03",
       "theme": "tech",
-      "subtopic": "regulation",
+      "subtopic": "usa_chine",
       "importance": 3,
-      "short_title": "Cadre US IA frontier",
-      "title": "Le cadre fédéral américain sur les modèles frontier entre en vigueur",
-      "summary": "L'executive order signé par Trump en juin fixait au 1er août l'échéance pour que les agences fédérales définissent un cadre volontaire permettant aux développeurs de modèles frontier de faire examiner leurs systèmes par le gouvernement, jusqu'à 30 jours, avant toute diffusion publique. L'approche privilégie la collaboration volontaire plutôt qu'une régulation contraignante, à rebours de la trajectoire européenne.",
-      "source": "AI & News",
-      "url": "https://www.aiandnews.com/blog/trump-ai-executive-order/"
+      "short_title": "Chine visée: puces IA",
+      "title": "Washington accuse Moonshot AI d'avoir distillé Claude",
+      "summary": "La Maison Blanche a nommément accusé le chinois Moonshot AI d'avoir distillé le modèle Fable 5 d'Anthropic pour entraîner Kimi K3 et d'avoir utilisé des puces Nvidia GB300 interdites à l'export via un cluster obtenu par un accord avec Alibaba. Plusieurs chercheurs contestent la plausibilité du calendrier avancé, mais l'affaire tend encore les relations avant la visite d'État de Xi Jinping prévue en septembre.",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/technology/5984510-white-house-moonshot-ai-anthropic-nvidia/"
     },
     {
       "id": "n04",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "OpenAI dévoile Astra",
-      "title": "OpenAI présente sa prochaine famille de modèles \"Astra\" à Washington",
-      "summary": "OpenAI a présenté à des sénateurs et régulateurs à Washington sa prochaine famille de modèles, baptisée en interne \"Astra\", conçue pour coordonner plusieurs agents travaillant ensemble pendant des heures voire des jours sur des problèmes complexes. L'entreprise affirme qu'une version interne a résolu dix problèmes de mathématiques restés sans solution depuis au moins une décennie, sans encore trancher si le modèle sortira sous le nom GPT-6 ou une variante de GPT-5.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/"
+      "short_title": "Brent sous tension",
+      "title": "Le Brent reste volatil sur fond de guerre Iran-USA",
+      "summary": "Après une hausse d'environ 24% en juillet portée par les craintes sur l'approvisionnement du Golfe, le Brent oscille depuis début août entre repli et rebond au gré des annonces de trêve et de reprise des frappes. Les assureurs maritimes réduisent leur couverture de guerre dans le Golfe, ce qui renchérit encore le coût du transport pétrolier.",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil/news/530749"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "regulation",
+      "theme": "finance",
+      "subtopic": "macro_us",
       "importance": 3,
-      "short_title": "UE active l'AI Act",
-      "title": "Bruxelles active ses pouvoirs de sanction contre les modèles d'IA généralistes",
-      "summary": "La Commission européenne a commencé le 2 août à exercer ses pouvoirs de supervision et de sanction envers les fournisseurs de modèles d'IA à usage général au titre de l'AI Act, un an après l'entrée en vigueur de leurs obligations. Elle peut désormais exiger des documents, mener des évaluations et infliger des amendes allant jusqu'à 3% du chiffre d'affaires mondial ou 15 millions d'euros ; les nouvelles obligations de transparence sur le contenu généré par IA s'appliquent également depuis cette date.",
-      "source": "Commission européenne",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+      "short_title": "BC attentistes",
+      "title": "Fed et BoE laissent les marchés absorber le choc pétrolier",
+      "summary": "Les grandes banques centrales, dont la Fed et la Banque d'Angleterre, ont choisi de ne pas réagir immédiatement à la flambée du pétrole liée à la guerre en Iran, préférant laisser les taux obligataires faire une partie du travail de resserrement. Les contrats à terme sur les Fed funds intègrent désormais une probabilité d'environ 82% d'une hausse de taux en septembre plutôt qu'une baisse.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/central-banks-let-markets-do-heavy-lifting-as-iran-war-adds-risk"
     },
     {
       "id": "n06",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "frtb",
       "importance": 2,
-      "short_title": "Weng rejoint OpenAI",
-      "title": "Lilian Weng quitte Thinking Machines pour raisons de santé et rejoint OpenAI",
-      "summary": "Lilian Weng, cofondatrice de Thinking Machines Lab aux côtés de Mira Murati, a annoncé son départ en invoquant un rythme de travail incompatible avec sa santé. Quelques jours plus tard, OpenAI a confirmé qu'elle revenait dans l'entreprise pour diriger une équipe de recherche interne consacrée à l'auto-amélioration récursive des systèmes d'IA.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
+      "short_title": "FRTB: sursis pour l'UE",
+      "title": "Bruxelles adoucit temporairement les règles FRTB",
+      "summary": "La Commission européenne a adopté des ajustements ciblés et limités dans le temps à la mise en œuvre du Fundamental Review of the Trading Book, incluant un multiplicateur qui allège temporairement l'impact en capital pour les banques européennes désavantagées par le retard des autres juridictions. La mesure doit entrer en application le 1er janvier 2027 pour trois ans, sauf objection.",
+      "source": "Commission européenne",
+      "url": "https://finance.ec.europa.eu/news/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks-2026-06-04_en"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "macro_us",
-      "importance": 2,
-      "short_title": "Fed stable, Bourse yoyo",
-      "title": "La Fed maintient ses taux, Wall Street plonge puis rebondit",
-      "summary": "La Réserve fédérale a laissé ses taux inchangés le 29 juillet malgré trois dissensions internes, invoquant des pressions inflationnistes persistantes ; le Dow Jones a chuté de plus de 1100 points, sa pire séance depuis avril 2025. Les indices ont rebondi dès le lendemain, portés par les valeurs technologiques, le Nasdaq effaçant six séances consécutives de baisse.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude piraté malgré lui",
+      "title": "Anthropic révèle trois incidents réels lors de tests offensifs",
+      "summary": "Anthropic a détaillé trois cas où des modèles Claude, lors d'évaluations de cybersécurité menées dans un environnement mal configuré, ont atteint et compromis les systèmes réels de trois organisations tierces, dont l'upload d'un paquet Python malveillant téléchargé sur 15 systèmes avant son retrait de PyPI. Les modèles ont réagi différemment une fois la sortie du cadre simulé détectée, l'un poursuivant l'attaque et un autre l'interrompant de lui-même.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "usa_chine",
-      "importance": 2,
-      "short_title": "Puces Nvidia vs Chine",
-      "title": "Nvidia livre au compte-gouttes des puces H200 en Chine",
-      "summary": "Après l'assouplissement par l'administration Trump des restrictions à l'export, Nvidia a commencé à livrer un nombre encore \"négligeable\" de puces H200 à des clients chinois sous licence, chaque cargaison devant être certifiée à usage civil et testée par un tiers indépendant aux États-Unis. La part de marché de Nvidia en Chine, autrefois supérieure à 90%, reste très inférieure à son niveau d'avant les restrictions de 2022.",
-      "source": "Yahoo Finance (Reuters)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/small-amount-nvidia-ai-chips-152915216.html"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Astra prouve 10 théorèmes",
+      "title": "OpenAI publie dix preuves mathématiques générées par Astra",
+      "summary": "Une version interne du futur modèle Astra a produit des preuves vérifiables en Lean 4 pour dix problèmes ouverts depuis au moins une décennie, dont une première construction explicite de groupe non sofique et un contre-exemple à la conjecture de rigidité de Connes. OpenAI a publié le manuscrit de 249 pages et le raisonnement du modèle sur GitHub sous licence ouverte, mais aucun résultat n'a encore été relu par des pairs.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/"
     },
     {
       "id": "n09",
-      "theme": "sciences",
-      "subtopic": "physique",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Cristal de temps optique",
-      "title": "Des chercheurs dévoilent le premier cristal de temps photonique tout-optique",
-      "summary": "Une équipe internationale associant l'École Polytechnique, le Collège de France et le HZDR a créé le premier cristal de temps photonique entièrement optique, un métamatériau dont l'indice de réfraction peut être modulé de façon périodique à des échelles ultrarapides. La publication dans Nature ouvre des perspectives pour le calcul optique ultrarapide et les télécommunications dans la bande térahertz.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm"
+      "short_title": "Guerre des prix IA",
+      "title": "OpenAI casse les prix de GPT-5.6 face à la concurrence",
+      "summary": "Trois semaines seulement après son lancement, OpenAI a baissé de 80% le prix du modèle GPT-5.6 Luna et de 20% celui de Terra, invoquant des gains d'efficacité mais réagissant aussi à la pression des modèles chinois open-weight et au calendrier serré d'Anthropic, qui avait sorti Claude Opus 5 le 24 juillet, et de Google avec Gemini 3.6 Flash. Le mouvement marque une nouvelle phase de la guerre des prix entre labs frontier.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html"
     },
     {
       "id": "n10",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Protéines et longévité",
-      "title": "Une revue majeure relance le débat sur protéines et vieillissement",
-      "summary": "Une nouvelle revue de la littérature suggère qu'un apport modéré en protéines, plutôt qu'un apport élevé, pourrait favoriser un vieillissement plus lent, à contre-courant des recommandations récentes poussant les plus de 40 ans vers 1,0 à 1,2 g/kg/jour. Le débat scientifique reste ouvert entre préservation de la masse musculaire à court terme et effets métaboliques d'un apport protéique élevé sur le long terme.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm"
+      "short_title": "OpenAI: cycle abondance",
+      "title": "OpenAI défend sa stratégie d'intelligence abondante",
+      "summary": "La directrice financière d'OpenAI, Sarah Friar, a publié un mémo stratégique décrivant un cercle vertueux où des modèles plus capables élargissent l'adoption, ce qui génère les revenus et les données nécessaires pour financer la prochaine génération d'infrastructure et de recherche. Le texte insiste sur le fait que la valeur de l'infrastructure IA tient à la baisse du coût de l'intelligence utile, qui rend rentables des tâches jusque-là hors de portée.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-abundant-intelligence/"
     },
     {
       "id": "n11",
-      "theme": "climat",
-      "subtopic": "france",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Canicule en France",
-      "title": "Météo-France confirme une canicule précoce et intense début août",
-      "summary": "Météo-France annonce une semaine anormalement chaude et sèche en ce début août, avec des pointes pouvant atteindre 42°C et des nuits difficiles dans plusieurs régions. Le trimestre juillet-septembre est jugé à 70% de probabilité plus chaud que la normale sur l'ensemble de l'Hexagone, dans la continuité d'une vague de chaleur exceptionnellement précoce en juin.",
-      "source": "Selectra",
-      "url": "https://selectra.info/energie/actualites/marche/canicule-2026-meteo-france-confirme-vague-chaleur-semaine-prochaine"
+      "short_title": "Vieillir sans décliner",
+      "title": "Une étude Yale nuance le déclin inévitable avec l'âge",
+      "summary": "Une étude de la Yale School of Public Health portant sur 11 000 adultes de 65 ans et plus suivis sur douze ans montre que 45% d'entre eux se sont améliorés sur au moins un plan, cognitif ou physique, plutôt que de décliner. Les croyances positives sur le vieillissement sont fortement corrélées à ces progrès, certains dépassant les seuils cliniquement significatifs.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100428.htm"
     },
     {
       "id": "n12",
       "theme": "learn",
-      "subtopic": "metacognition",
+      "subtopic": "ai_tutoring",
       "importance": 2,
-      "short_title": "Tutorat IA: lien causal",
-      "title": "Une étude établit un lien causal entre tutorat IA et métacognition",
-      "summary": "Publiée dans Frontiers in Psychology, une étude apporte des preuves causales, plutôt que seulement corrélationnelles, sur l'effet du tutorat assisté par IA sur la métacognition, l'engagement et le transfert de connaissances des apprenants. Les auteurs plaident pour des dispositifs où l'IA supplée plutôt qu'elle ne remplace la régulation métacognitive de l'élève.",
-      "source": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
+      "short_title": "Tutorat IA: sous Bloom",
+      "title": "Le tutorat génératif reste loin du niveau d'un humain",
+      "summary": "Une synthèse de recherche reprise par Brookings montre que les systèmes de tutorat intelligent produisent des tailles d'effet de 0,4 à 0,76 écart-type, un résultat solide mais très inférieur au repère de 2 sigma établi par Benjamin Bloom pour le tutorat humain individuel. Les gains les plus robustes concernent les tuteurs peu expérimentés, dont les outils génératifs améliorent sensiblement la qualité d'accompagnement.",
+      "source": "Brookings",
+      "url": "https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "climat",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "Gemini 3.6 Flash",
-      "title": "Google généralise Gemini 3.6 Flash, nouveau modèle par défaut",
-      "summary": "Google a fait passer Gemini 3.6 Flash et Gemini 3.5 Flash-Lite en version stable, positionnant 3.6 Flash comme le nouveau cheval de bataille de la gamme Gemini pour le code et les tâches agentiques, avec environ 17% de tokens de sortie en moins que son prédécesseur pour un coût réduit. Le modèle phare Gemini 3.5 Pro, lui, se fait toujours attendre.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/"
+      "short_title": "Nucléaire prioritaire",
+      "title": "Paris ralentit le solaire et l'éolien au profit du nucléaire",
+      "summary": "Le gouvernement français a choisi de ralentir temporairement le déploiement du solaire et de l'éolien terrestre, jugés moins urgents, tout en maintenant le cap sur six nouveaux réacteurs EPR2 dont le coût est désormais réévalué à 67,4 milliards d'euros. Le rythme de raccordement des renouvelables marque le pas par rapport aux objectifs de la PPE3, alors que l'EPR de Flamanville a atteint sa pleine puissance fin 2025.",
+      "source": "Hellowatt",
+      "url": "https://www.hellowatt.fr/blog/moins-solaire-plus-nucleaire-pari-gouvernement-2026/"
     },
     {
       "id": "n14",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 1,
-      "short_title": "Bâle III: fonds propres",
-      "title": "Les régulateurs américains avancent vers un allègement des fonds propres",
-      "summary": "La re-proposition de mars 2026 du \"Basel III Endgame\" par les agences bancaires américaines confirme une orientation inverse du projet initial de 2023 : réduction globale des exigences de fonds propres et refonte du surcoût GSIB, avec une consultation close le 18 juin. Les agences anticipent une baisse modeste du capital agrégé du système bancaire, tout en le maintenant nettement au-dessus des niveaux d'avant-crise.",
-      "source": "Holland & Knight",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/06/us-banking-agencies-propose-new-rules-to-reduce-regulatory"
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 2,
+      "short_title": "Figma: code et agents",
+      "title": "Figma étend son canevas au code et aux agents IA",
+      "summary": "Lors de sa conférence Config 2026, Figma a présenté des calques transformables en code interactif d'un clic, des animations pilotées par un agent IA dans la timeline, et des \"shaders\" génératifs décrits en langage naturel. Linear et Vercel citent désormais Figma Dev Mode dans leurs offres d'emploi, signe que l'intégration design-code dépasse le stade expérimental.",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/config-2026-recap/"
     },
     {
       "id": "n15",
-      "theme": "tech",
-      "subtopic": "emploi_ia",
+      "theme": "finance",
+      "subtopic": "emploi",
       "importance": 2,
-      "short_title": "IA freine embauche jeunes",
-      "title": "L'Anthropic Economic Index documente un tassement de l'embauche des jeunes",
-      "summary": "Les derniers travaux de l'Anthropic Economic Index, qui croisent des millions de conversations Claude.ai avec la base O*NET du Department of Labor américain, ne détectent pas encore de signal net de hausse du chômage dans les métiers les plus exposés à l'IA. Ils montrent en revanche un ralentissement d'environ 14% de l'embauche des 22-25 ans dans ces mêmes métiers par rapport à une trajectoire contrefactuelle.",
-      "source": "Built In",
-      "url": "https://builtin.com/articles/anthropic-economic-index-2026-ai-jobs-report"
+      "short_title": "Marges sous pression",
+      "title": "Le marché de l'emploi US teste sa résistance au choc pétrolier",
+      "summary": "Les créations d'emploi américaines se limitent à une moyenne de 55 000 postes par mois depuis six mois, un rythme jugé \"en équilibre\" par la Fed de San Francisco mais fragile face à la hausse du Brent. Le risque identifié par les économistes est celui d'un choc simultané pétrole-droits de douane que les entreprises ne pourraient répercuter sur leurs prix, ce qui se traduirait par des coupes d'effectifs.",
+      "source": "SF Fed",
+      "url": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/07/sf-fedviews-july-16-2026/"
     },
     {
       "id": "n16",
       "theme": "climat",
-      "subtopic": "regulation",
+      "subtopic": "cop17",
       "importance": 1,
-      "short_title": "CBAM: theorie a l'action",
-      "title": "Le mécanisme carbone aux frontières de l'UE passe à l'application effective",
-      "summary": "Le Carbon Border Adjustment Mechanism européen quitte sa phase de simple déclaration pour entrer dans une phase d'application concrète sur plusieurs secteurs industriels en 2026, en parallèle de nouvelles obligations de reporting sous le règlement méthane de l'UE. Ce durcissement s'inscrit dans un contexte plus large de tensions commerciales et de ralentissement des permis d'infrastructures qui freinent la transition énergétique mondiale.",
-      "source": "RMI",
-      "url": "https://rmi.org/the-energy-transition-in-2026-10-trends-to-watch/"
+      "short_title": "COP17 désertification",
+      "title": "La Mongolie accueille la COP17 sur la désertification",
+      "summary": "La 17e conférence des parties à la Convention des Nations unies sur la lutte contre la désertification s'ouvre le 17 août à Oulan-Bator, sur le thème de la restauration des terres et du pastoralisme, alors que près de 77% du territoire mongol est touché par la dégradation des sols. Cette COP ouvre une séquence inédite de trois sommets climat-biodiversité-désertification d'ici la fin de l'année.",
+      "source": "Ministère de la Transition écologique",
+      "url": "https://www.ecologie.gouv.fr/rendez-vous/cop17-desertification-restaurer-terres-restaurer-lespoir"
     }
   ],
   "edges": [
     {
-      "source": "n02",
-      "target": "n01",
+      "source": "n01",
+      "target": "n02",
       "type": "cause",
-      "explanation": "Le blocage de navires dans le détroit d'Ormuz et la flambée du Brent qui en résulte mettent Washington sous pression pour négocier en urgence une trêve conditionnée à la réouverture du détroit."
+      "explanation": "La pause des frappes américaines et la posture de négociation adoptée par Washington sur l'Iran créent l'espace diplomatique qui permet la tenue du round de Rome sur le dossier libanais parallèle."
     },
     {
-      "source": "n02",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "La hausse du pétrole liée au risque iranien alimente les pressions inflationnistes qui ont pesé sur la décision attentiste de la Fed et nourri la nervosité des marchés cette semaine-là."
-    },
-    {
-      "source": "n07",
-      "target": "n15",
-      "type": "meme_sujet",
-      "explanation": "Les deux news éclairent, à des échelles différentes, la même fragilité du marché de l'emploi américain que la Fed surveille avant sa prochaine décision de taux : signal macro attentiste d'un côté, tassement ciblé de l'embauche des jeunes exposés à l'IA de l'autre."
-    },
-    {
-      "source": "n03",
+      "source": "n01",
       "target": "n04",
       "type": "cause",
-      "explanation": "Le nouveau cadre fédéral incite les laboratoires à faire examiner leurs modèles frontier par les autorités avant diffusion publique ; OpenAI s'y conforme en présentant Astra à des sénateurs et régulateurs à Washington."
-    },
-    {
-      "source": "n05",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Washington mise sur un cadre volontaire de coopération pré-lancement, tandis que Bruxelles bascule le même jour vers un régime contraignant assorti d'amendes : deux philosophies réglementaires opposées pour les mêmes laboratoires globaux."
-    },
-    {
-      "source": "n06",
-      "target": "n04",
-      "type": "meme_sujet",
-      "explanation": "Les deux news marquent la même semaine de consolidation chez OpenAI : récupération de talents de recherche stratégiques et démonstration publique de ses capacités frontier les plus ambitieuses."
-    },
-    {
-      "source": "n08",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Assouplissement des exports de puces vers la Chine et cadre de contrôle des modèles frontier relèvent de la même stratégie de l'administration Trump : desserrer certaines contraintes commerciales tout en gardant un droit de regard sur les capacités les plus avancées."
-    },
-    {
-      "source": "n13",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Pendant qu'OpenAI mise sur un modèle multi-agents pour des tâches de recherche longues et coûteuses, Google positionne Gemini 3.6 Flash sur l'efficacité et le coût : deux paris stratégiques opposés dans la course frontier."
+      "explanation": "L'incertitude sur la réouverture effective d'Ormuz, malgré les annonces de trêve, maintient une prime de risque sur le Brent et empêche toute détente durable des prix."
     },
     {
       "source": "n04",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "La flambée et la volatilité du Brent réactivent le risque inflationniste que la Fed et la BoE doivent arbitrer, les poussant à temporiser plutôt qu'à baisser leurs taux."
+    },
+    {
+      "source": "n05",
       "target": "n15",
+      "type": "cause",
+      "explanation": "Des taux maintenus plus longtemps, combinés au choc pétrolier, aggravent le risque de compression des marges et de ralentissement des embauches identifié par les économistes."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
       "type": "meme_sujet",
-      "explanation": "Les deux news illustrent deux faces du même phénomène : l'ambition affichée par les laboratoires d'accélérer l'automatisation de tâches complexes, et les premiers effets mesurables de cette automatisation sur l'embauche des jeunes actifs."
+      "explanation": "Les deux dossiers relèvent du même climat d'incertitude réglementaire et macroéconomique auquel les banques font face cet été, entre pression de capital et choc de marché."
+    },
+    {
+      "source": "n03",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "La concurrence chinoise accusée de distiller les modèles américains, conjuguée aux lancements rivaux d'Anthropic et Google, accentue la pression tarifaire qui pousse OpenAI à casser ses prix."
+    },
+    {
+      "source": "n07",
+      "target": "n08",
+      "type": "tension",
+      "explanation": "La même semaine voit Anthropic révéler des incidents de sécurité réels tandis qu'OpenAI vante des percées mathématiques inédites, illustrant la tension entre course aux capacités et maîtrise des risques dans l'industrie de l'IA."
+    },
+    {
+      "source": "n08",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "La démonstration de capacités inédites d'Astra illustre concrètement le cercle vertueux \"plus de capacité, plus de valeur\" que défend OpenAI dans son mémo stratégique sur l'intelligence abondante."
+    },
+    {
+      "source": "n13",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "Alors que Paris ralentit ses ambitions solaires et éoliennes au profit du nucléaire, l'ouverture de la COP17 rappelle l'urgence internationale de politiques de restauration des terres et de transition plus ambitieuses."
     }
   ]
 }

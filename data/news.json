@@ -1,266 +1,255 @@
 {
-  "generated_at": "2026-08-05T05:30:00Z",
+  "generated_at": "2026-08-06T05:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 3,
-      "short_title": "Ukraine frappe Saratov",
-      "title": "Kiev frappe une raffinerie et une base de bombardiers russes",
-      "summary": "Dans l'une de ses campagnes de drones les plus massives depuis le début de la guerre, l'Ukraine a visé la raffinerie de Saratov, qui traite environ 6 millions de tonnes de brut par an, ainsi que la base aérienne stratégique d'Engels-2 qui héberge les bombardiers russes Tu-95 et Tu-160. La défense antiaérienne russe affirme avoir intercepté 635 drones à voilure fixe répartis sur 16 régions, signe d'une intensification nette du conflit.",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-oil-refinery-airbase-reportedly-struck-by-ukrainian-forces/"
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Rome: 7e round Liban",
+      "title": "Septième round de pourparlers Liban-Israël à Rome",
+      "summary": "Les délégations libanaise et israélienne ont ouvert à Rome un septième cycle de négociations sous médiation américaine, centré sur le désarmement du Hezbollah, le retrait de l'armée israélienne du Liban-Sud et le tracé des frontières terrestres et maritimes. Le Hezbollah rejette toute reddition de ses armes, et Israël a repris des frappes sur le sud du pays pendant les discussions, illustrant la fragilité du processus.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Cargo touché près d'Ormuz",
-      "title": "Un cargo touché près d'Ormuz, les pourparlers en doute",
-      "summary": "Un navire vraquier a été frappé par un projectile non identifié au large d'Oman, dans le détroit d'Ormuz, forçant son équipage à l'évacuer avec un marin porté disparu. L'incident survient alors que Washington et Téhéran donnent des versions contradictoires sur l'existence de discussions directes, Trump qualifiant sa proposition de \"dernière chance\" pour l'Iran, qui dément tout pourparler autre qu'avec Oman sur la réouverture du détroit.",
-      "source": "KSAT (AP)",
-      "url": "https://www.ksat.com/news/world/2026/08/04/cargo-ship-reports-being-struck-in-strait-of-hormuz-as-us-iran-claims-about-talks-diverge/"
+      "short_title": "Iran ne négocie qu'Oman",
+      "title": "Téhéran limite ses discussions à Oman sur Ormuz",
+      "summary": "Le porte-parole de la diplomatie iranienne a réaffirmé que l'Iran ne négocie qu'avec Oman la réouverture du détroit d'Ormuz, fermé au trafic commercial depuis la reprise des combats début juillet, et accuse Washington d'avoir rompu ses engagements de cessez-le-feu. Donald Trump a de son côté qualifié la direction iranienne de profondément fourbe après que Téhéran a démenti toute reprise de pourparlers directs avec les États-Unis.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/04/world/live-news/iran-war-trump"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "asie",
+      "subtopic": "afrique",
       "importance": 2,
-      "short_title": "Chine à Scarborough",
-      "title": "Pékin masse navires et bombardiers à Scarborough",
-      "summary": "Un groupe amphibie chinois et au moins deux bombardiers H-6K ont mené des exercices près du récif de Scarborough, à une centaine de milles nautiques de Luzon, le week-end du 1er-2 août. Ce déploiement fait suite au dépôt par Manille d'une carte nautique auprès des Nations unies, ravivant la tension territoriale en mer de Chine méridionale.",
-      "source": "Rio Times",
-      "url": "https://www.riotimesonline.com/asia-intelligence-brief-2026-08-04/"
+      "short_title": "Tigray: combats repris",
+      "title": "Les combats reprennent dans le Tigré éthiopien",
+      "summary": "Des affrontements ont éclaté début août dans l'ouest du Tigré entre les forces éthiopiennes et des unités liées au TPLF, dans ce qui constitue l'escalade la plus grave depuis la fin de la guerre civile en 2022. Des centaines de civils ont fui vers le Soudan, et plusieurs observateurs redoutent une guerre par procuration impliquant des factions soudanaises rivales, fragilisant l'accord de paix de Pretoria.",
+      "source": "Amnesty International",
+      "url": "https://www.amnesty.org/en/latest/news/2026/08/ethiopia-tigray-residents-at-renewed-risk-of-human-rights-violations-as-violence-returns-to-the-region/"
     },
     {
       "id": "n04",
       "theme": "finance",
       "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent sous 80$",
-      "title": "Le Brent repasse sous 80 dollars puis se reprend",
-      "summary": "Le baril de Brent a chuté de plus de 4% pour repasser sous 80 dollars, porté par l'espoir d'un accord élargissant la réouverture du détroit d'Ormuz, avant de regagner une partie du terrain perdu dès le lendemain. Les versions contradictoires de Washington et Téhéran sur l'état des négociations, combinées à l'attaque du cargo, entretiennent une volatilité inhabituelle sur le marché pétrolier.",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/08/04/brent-falls-below-80-amid-conflicting-claims-on-us-iran-talks/"
+      "importance": 2,
+      "short_title": "Pétrole toujours nerveux",
+      "title": "Le pétrole reste tiraillé par l'incertitude sur Ormuz",
+      "summary": "Le Brent évolue autour de 79 dollars et le WTI près de 75, les espoirs d'un accord rouvrant partiellement le détroit d'Ormuz compensant une hausse surprise des stocks de brut américains. Le marché reste nerveux tant que le statut du détroit, par lequel transitait environ un cinquième du pétrole mondial, n'est pas clarifié.",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil/news/540343"
     },
     {
       "id": "n05",
       "theme": "finance",
       "subtopic": "macro_us",
-      "importance": 2,
-      "short_title": "Fed: taux jugés adéquats",
-      "title": "La Fed de Philadelphie juge le niveau des taux suffisant",
-      "summary": "La présidente de la Fed de Philadelphie, Anna Paulson, a estimé que le niveau actuel des taux directeurs, entre 3,5% et 3,75%, suffit à ramener l'inflation vers la cible de 2%, défendant son vote de la semaine passée en faveur du statu quo. Le comité reste toutefois divisé 9 contre 3, les dissidents jugeant la politique pas assez restrictive plutôt que trop stricte.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html"
+      "importance": 3,
+      "short_title": "Fed: Cook prête à agir",
+      "title": "La gouverneure Cook (Fed) se dit prête à remonter les taux",
+      "summary": "Lisa Cook a averti que la Réserve fédérale pourrait relever ses taux si la désinflation ne se confirme pas rapidement, citant les tarifs douaniers, les prix du pétrole et les dépenses liées à l'IA comme les trois principaux moteurs de l'inflation actuelle. Elle juge la marge de manœuvre de plus en plus étroite après un dépassement prolongé de la cible de 2%, un dérapage qui serait selon elle bien plus difficile à corriger plus tard.",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm"
     },
     {
       "id": "n06",
       "theme": "finance",
       "subtopic": "big_tech_capex",
-      "importance": 3,
-      "short_title": "Meta: capex IA au record",
-      "title": "Meta voit ses marges comprimées par l'investissement IA",
-      "summary": "Meta a publié un chiffre d'affaires trimestriel en hausse de 28% à 60,8 milliards de dollars, mais un bénéfice par action inférieur aux attentes, sa marge opérationnelle reculant à 31% contre 38% un an plus tôt sous l'effet de dépenses d'investissement doublées à 31,1 milliards de dollars. Le groupe explore en parallèle un possible lancement d'activité de cloud computing, une piste ravivée par des discussions avec Anthropic pour un contrat de location de capacité de calcul pouvant atteindre 10 milliards de dollars.",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/company-news/meta-q2-2026-slides-revenue-surges-28-as-ai-spending-pressures-margins-93CH-4821943"
+      "importance": 2,
+      "short_title": "Alphabet sous pression",
+      "title": "Washington envisagerait des remèdes structurels contre Alphabet",
+      "summary": "Des informations de presse suggèrent que les régulateurs américains étudient des mesures structurelles plus dures à l'encontre d'Alphabet, dans la continuité des décisions antitrust déjà rendues contre le groupe. S'ajoutent des inquiétudes sur la marge liée aux investissements massifs en infrastructure IA et sur le ralentissement des budgets publicitaires des entreprises, un cocktail qui pèse sur le titre.",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/news/market-movers/262078737-market-movers-googl-20260805"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "regulation",
-      "importance": 3,
-      "short_title": "AI Act: obligations UE",
-      "title": "Les obligations à haut risque de l'AI Act entrent en vigueur",
-      "summary": "Depuis le 2 août 2026, les fournisseurs et déployeurs de systèmes d'IA à haut risque (recrutement, scoring de crédit, identification biométrique, éducation) doivent respecter les obligations substantielles du règlement européen sur l'IA, ainsi que les règles de transparence de l'article 50 sur les contenus générés et les deepfakes. Les amendes peuvent atteindre 15 millions d'euros ou 3% du chiffre d'affaires mondial, même si les systèmes générant du contenu synthétique bénéficient d'un sursis de quatre mois.",
-      "source": "Cooley",
-      "url": "https://www.cooley.com/news/insight/2026/2026-08-03-eu-ai-act-transparency-obligations-take-effect-2-august-2026"
+      "theme": "finance",
+      "subtopic": "macro_us",
+      "importance": 2,
+      "short_title": "Nasdaq recule, Google -4%",
+      "title": "Le Nasdaq recule, Google chute de plus de 4%",
+      "summary": "Wall Street a terminé en baisse, le Nasdaq reculant sous l'effet d'une chute de plus de 4% du titre Alphabet, pénalisé par la perspective d'un durcissement réglementaire. JPMorgan a par ailleurs averti que le rallye porté par l'intelligence artificielle figure parmi les plus puissants depuis quarante ans, ce qui accroît selon la banque le risque d'un retournement brutal si la confiance venait à se retourner.",
+      "source": "InvestingLive",
+      "url": "https://investinglive.com/stocks/at-the-close-nasdaq-sags-as-google-falls-more-than-4/"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic recrute Cuéllar",
-      "title": "Anthropic se dote d'un premier chef des affaires mondiales",
-      "summary": "Anthropic a nommé l'ancien juge de la Cour suprême de Californie Mariano-Florentino (Tino) Cuéllar au poste nouvellement créé de Chief Global Affairs Officer, chargé de la politique et des relations gouvernementales dans les pays où l'entreprise s'étend. Il quitte à cette occasion le Long Term Benefit Trust d'Anthropic, dans un contexte de tensions persistantes avec l'administration Trump sur la régulation de l'IA.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/tino-cuellar"
+      "theme": "finance",
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "France: PIB +0,2%",
+      "title": "La croissance française rebondit, mais l'emploi se dégrade",
+      "summary": "Selon l'Insee, le PIB français a progressé de 0,2% au deuxième trimestre 2026 après un recul au premier trimestre, portant la croissance acquise à mi-année autour de 1%. L'institut prévoit toutefois une hausse du taux de chômage de 7,9% à 8,4% d'ici la fin de l'année, l'économie ayant déjà détruit environ 22 000 emplois salariés privés depuis janvier, pour une inflation moyenne attendue à 2% sur l'année.",
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/emploi/chomage/rebond-de-croissance-chomage-et-inflation-en-legeres-hausses-quelles-sont-les-previsions-de-l-insee-pour-l-economie-francais-en-2026_7685989.html"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "vibe_coding",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Willison: agents à risque",
-      "title": "Simon Willison anticipe un incident de sécurité majeur",
-      "summary": "Dans un billet du 27 juillet, le développeur et commentateur Simon Willison écrit que 2026 sera l'année où les agents de code deviendront incontournables, mais qu'ils tournent aujourd'hui avec bien trop d'accès à nos systèmes. Il estime qu'un incident de sécurité marquant sera nécessaire pour que l'industrie s'attaque enfin sérieusement au sandboxing et à l'isolation du code non fiable.",
-      "source": "Simon Willison's Newsletter",
-      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/"
+      "short_title": "GPT-5.6 jusqu'à -80%",
+      "title": "OpenAI réduit jusqu'à 80% le prix de GPT-5.6",
+      "summary": "OpenAI a baissé de 80% le tarif de GPT-5.6 Luna et de 20% celui de Terra, des gains d'efficacité obtenus notamment en utilisant le modèle lui-même pour optimiser son infrastructure de service. La firme évoque une baisse de 20% des coûts de service et une hausse de plus de 15% de l'efficacité de génération de tokens, tout en laissant inchangé le prix du modèle le plus capable de la famille, Sol.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
     },
     {
       "id": "n10",
-      "theme": "learn",
-      "subtopic": "llm_agents",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Mollick: guide agents IA",
-      "title": "Ethan Mollick publie un guide sur le travail agentique",
-      "summary": "Le chercheur en management Ethan Mollick a mis à jour son guide sur l'IA agentique, désormais centré sur des systèmes capables d'accomplir l'équivalent de plusieurs heures de travail humain en une seule tâche. Il illustre le propos par sa propre expérience, où des agents ont pris en charge l'édition de son prochain livre, lui faisant gagner un temps considérable.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/07/31/ethan-mollick-writes-ai-agent-guide/"
+      "short_title": "Vibe coding en prod",
+      "title": "Les outils de vibe coding passent en production",
+      "summary": "v0 de Vercel, Cursor, Bolt.new et Lovable se sont différenciés en 2026 : v0 excelle pour un scaffolding d'interfaces qui part désormais directement en production, Cursor reste privilégié sur les bases de code existantes, tandis que Bolt et Lovable ciblent respectivement les prototypes et les non-développeurs. Le code généré nécessite encore, selon les équipes interrogées, une relecture humaine sur l'authentification et la validation des données avant mise en production.",
+      "source": "Medium",
+      "url": "https://justtalkingtech.medium.com/vibe-coding-in-2026-i-tried-cursor-replit-bolt-lovable-and-v0-heres-what-actually-ships-11d0b70cf1d5"
     },
     {
       "id": "n11",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Muscu: la dose optimale",
-      "title": "Harvard identifie la dose idéale de renforcement musculaire",
-      "summary": "Une étude portant sur 147 374 personnes suivies pendant trente ans dans trois grandes cohortes américaines montre que 90 à 120 minutes de renforcement musculaire par semaine sont associées à une baisse de 13% de la mortalité toutes causes, 19% pour les causes cardiovasculaires et 27% pour les causes neurologiques. Au-delà de 120 minutes hebdomadaires, aucun bénéfice supplémentaire n'a été observé, et le meilleur résultat combine ce volume de musculation à 150 minutes de cardio par semaine.",
-      "source": "Harvard T.H. Chan School of Public Health",
-      "url": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/"
-    },
-    {
-      "id": "n12",
-      "theme": "climat",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "USA: budget climat coupé",
-      "title": "Washington réduit son soutien fédéral au climat",
-      "summary": "Alors que la loi sur les infrastructures (IIJA) expire le 30 septembre 2026, les agences fédérales américaines sont sous pression pour engager leurs fonds restants, dans un contexte où l'administration Trump a déjà annulé 57,3 milliards de dollars de subventions et prêts, gelé des financements et réduit les crédits d'impôt pour les renouvelables. Plusieurs États tentent de compenser via des législations locales sur l'énergie propre et la protection des consommateurs.",
-      "source": "Center for American Progress",
-      "url": "https://www.americanprogress.org/article/state-climate-action-in-2026-how-states-are-delivering-real-benefits-through-climate-and-clean-energy-policy/"
-    },
-    {
-      "id": "n13",
       "theme": "climat",
       "subtopic": "energie",
       "importance": 2,
-      "short_title": "1,5°C hors de portée",
-      "title": "Un rapport acte l'abandon de facto de l'objectif de 1,5°C",
-      "summary": "Le Global Energy Outlook 2026 constate que dix ans après l'Accord de Paris, l'objectif de limiter le réchauffement à 1,5°C n'est plus considéré comme atteignable par la plupart des dirigeants mondiaux. La sécurité énergétique et l'accessibilité des prix sont désormais placées devant le climat dans l'ordre des priorités politiques, y compris dans des pays historiquement moteurs sur le sujet.",
-      "source": "Resources for the Future",
-      "url": "https://www.rff.org/publications/reports/global-energy-outlook-2026/"
+      "short_title": "Budgets verts en baisse",
+      "title": "L'AIE constate un recul des budgets publics pour l'énergie propre",
+      "summary": "Le rapport 2026 de l'AIE sur les politiques énergétiques relève une réduction d'environ un quart des dépenses publiques attendues pour les renouvelables et le nucléaire par rapport aux prévisions de 2024, avec la suppression de crédits d'impôt aux États-Unis et une baisse des subventions chinoises. Le stockage par batteries reste la technologie la plus dynamique, avec 108 GW ajoutés dans l'année, en hausse de 40%.",
+      "source": "IEA",
+      "url": "https://www.iea.org/reports/state-of-energy-policy-2026/executive-summary"
+    },
+    {
+      "id": "n12",
+      "theme": "sciences",
+      "subtopic": "climat",
+      "importance": 1,
+      "short_title": "Algues: 44M km² d'océan",
+      "title": "L'IA révèle une explosion des algues flottantes dans l'océan mondial",
+      "summary": "Une analyse par IA de 1,2 million d'images satellite, menée par l'université de South Florida et la NOAA, montre que les nappes d'algues flottantes couvrent désormais une surface cumulée de 44 millions de km², soit plus de quatre fois la superficie des États-Unis. Les chercheurs attribuent cette expansion à l'évolution des températures océaniques, des courants et des niveaux de nutriments, avec un risque de décomposition malodorante et de dégâts économiques sur les côtes.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042834.htm"
+    },
+    {
+      "id": "n13",
+      "theme": "sante",
+      "subtopic": "performance",
+      "importance": 2,
+      "short_title": "1x/semaine suffit",
+      "title": "Un entraînement hebdomadaire unique suffit contre l'obésité abdominale",
+      "summary": "Un essai randomisé mené par HKUMed sur 315 adultes présentant une obésité centrale montre que 75 minutes d'entraînement fractionné concentrées en une seule séance hebdomadaire réduisent la graisse viscérale et le tour de taille aussi efficacement que la même durée répartie sur trois séances. Publiée dans Nature Communications, l'étude offre une option réaliste pour les adultes qui ne peuvent pas multiplier les séances dans la semaine.",
+      "source": "Nature Communications",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm"
     },
     {
       "id": "n14",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "IA: la ruée sur Erdos",
-      "title": "L'IA fait tomber en série les problèmes d'Erdős",
-      "summary": "Après avoir produit en mai un contre-exemple à la conjecture de la distance unitaire posée par Paul Erdős en 1946, un modèle interne d'OpenAI a résolu début août trois nouveaux problèmes d'Erdős (146, 180 et 183) restés ouverts depuis des décennies. Quanta Magazine note que ces percées, qui suivent de près la publication par OpenAI de dix preuves générées par une version interne du modèle Astra, poussent les mathématiciens à repenser en profondeur leur manière de travailler.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+      "theme": "sante",
+      "subtopic": "nutrition_evidence_based",
+      "importance": 2,
+      "short_title": "Moins de protéines",
+      "title": "Une synthèse de 350 études relativise les besoins en protéines",
+      "summary": "Une revue portant sur plus de 350 études, publiée dans Cell Metabolism, suggère qu'un apport en protéines plus modéré que ce que prône la mode du high protein serait associé à un meilleur métabolisme, moins d'inflammation et moins de dommages cellulaires, notamment via l'hormone FGF21. Les auteurs, de l'université du Wisconsin-Madison, précisent que les apports élevés restent justifiés pour les sportifs actifs, mais pas nécessairement pour les adultes sédentaires.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "bio",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 1,
-      "short_title": "Méthane: microbe clé",
-      "title": "Un organite explique en partie les rots de méthane des vaches",
-      "summary": "Des chercheurs ont identifié dans les microbes du rumen bovin un organite baptisé hydrogénobody, qui alimenterait en hydrogène les méthanogènes voisins responsables de la production de méthane. Les vaches dont le microbiome est dominé par des isotriches, plus riches en hydrogénobodies, présentent des niveaux de méthane nettement plus élevés, ouvrant une piste ciblée pour réduire les émissions de l'élevage, responsable d'environ 15% des gaz à effet de serre mondiaux.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/"
+      "short_title": "DEAF1: muscle et âge",
+      "title": "Un gène clé explique pourquoi le sport rajeunit le muscle",
+      "summary": "Des chercheurs de Duke-NUS ont montré que l'exercice physique abaisse le niveau du gène DEAF1, qui augmente naturellement avec l'âge et perturbe la réparation musculaire. En rétablissant l'équilibre entre production et élimination des protéines dans les cellules musculaires, cette baisse expliquerait pourquoi l'activité physique régulière ralentit la sarcopénie plus efficacement que certaines pistes pharmacologiques testées jusqu'ici.",
+      "source": "PNAS / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623014026.htm"
     },
     {
       "id": "n16",
-      "theme": "finance",
-      "subtopic": "consulting",
-      "importance": 3,
-      "short_title": "Boom du conseil IA",
-      "title": "Le marché du conseil IA freelance triple en deux ans en France",
-      "summary": "Le nombre de missions freelance liées à l'intelligence artificielle a triplé entre 2024 et 2026, les profils spécialisés en IA affichant les plus fortes hausses de TJM du marché freelance, entre 750 et 1500 euros par jour selon les derniers barèmes Hays, Malt et Free-Work. Data, IA et cybersécurité restent les priorités de recrutement 2026, un mouvement que les nouvelles obligations de conformité de l'AI Act européen devraient encore renforcer.",
-      "source": "Ubiks",
-      "url": "https://www.ubiks.net/intelligence-artificielle-et-freelance-le-boom-de-2026/"
-    },
-    {
-      "id": "n17",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 2,
-      "short_title": "ACPR: risque NBFI",
-      "title": "L'ACPR cible l'interconnexion avec les non-banques en 2026",
-      "summary": "L'Autorité de contrôle prudentiel et de résolution a présenté son programme de travail pour 2026, qui met l'accent sur les risques liés à la montée en puissance des intermédiaires financiers non bancaires, notamment sur le crédit privé, et à leurs interconnexions croissantes avec le secteur bancaire. La coopération avec l'ANSSI et la Banque de France sur le risque cyber financier est également renforcée.",
-      "source": "ACPR - Banque de France",
-      "url": "https://acpr.banque-france.fr/fr/actualites/lautorite-de-controle-prudentiel-et-de-resolution-presente-son-programme-de-travail-pour-lannee-2026"
+      "theme": "sciences",
+      "subtopic": "physique",
+      "importance": 1,
+      "short_title": "Temps négatif mesuré",
+      "title": "Une expérience quantique confirme un temps de traversée négatif",
+      "summary": "En faisant passer des photons dans un nuage d'atomes de rubidium ultrafroids et en moyennant environ un million de mesures, des physiciens ont confirmé que les photons peuvent statistiquement passer un temps négatif dans un état excité avant de ressortir du nuage. Le résultat, qui ne viole pas la causalité, illustre les limites de l'intuition classique face aux effets de superposition quantique et pourrait avoir des applications en détection de lumière ultra-rapide.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
     }
   ],
   "edges": [
     {
-      "source": "n01",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "La même semaine voit deux fronts distincts de l'infrastructure énergétique mondiale ciblés par des frappes, l'un russe et l'autre dans le Golfe, alimentant simultanément les craintes sur l'approvisionnement."
-    },
-    {
-      "source": "n01",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "En mettant hors service une partie de la capacité de raffinage russe, la frappe sur Saratov ajoute une source d'incertitude sur l'offre de produits raffinés qui nourrit la nervosité du marché pétrolier."
-    },
-    {
       "source": "n02",
       "target": "n04",
       "type": "cause",
-      "explanation": "L'attaque du cargo près d'Ormuz, superposée aux versions contradictoires de Washington et Téhéran sur l'état des pourparlers, est le déclencheur immédiat des à-coups de prix sur le Brent."
+      "explanation": "Le maintien du blocage du détroit et l'absence d'accord avec Washington prolongent l'incertitude sur l'offre pétrolière, ce qui explique la nervosité persistante des cours du Brent et du WTI."
     },
     {
       "source": "n04",
       "target": "n05",
       "type": "cause",
-      "explanation": "La volatilité du Brent réactive le risque inflationniste que la Fed doit arbitrer, ce qui explique la position de Paulson selon laquelle le niveau actuel des taux intègre déjà une marge de sécurité suffisante."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "L'entrée en vigueur d'obligations contraignantes côté européen contraste avec la posture plus dérégulatrice de l'administration Trump, un double front qui pousse Anthropic à se doter d'un chef de la diplomatie pour le gérer."
-    },
-    {
-      "source": "n07",
-      "target": "n16",
-      "type": "cause",
-      "explanation": "Les nouvelles obligations de conformité imposées par l'AI Act aux systèmes à haut risque créent une demande de compétences spécialisées qui alimente directement la croissance du marché du conseil IA freelance."
+      "explanation": "La volatilité du pétrole réactive l'un des trois moteurs d'inflation cités par Lisa Cook, alimentant directement son message plus restrictif sur la trajectoire des taux."
     },
     {
       "source": "n06",
-      "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "La même semaine, Anthropic apparaît à la fois dépendante de la puissance de calcul d'un concurrent potentiel et en train de renforcer son capital politique, deux facettes de sa course à l'échelle commerciale."
+      "target": "n07",
+      "type": "cause",
+      "explanation": "La perspective de mesures structurelles contre Alphabet est le déclencheur direct de la chute de plus de 4% du titre Google, qui entraîne à son tour l'ensemble du Nasdaq à la baisse."
     },
     {
-      "source": "n08",
-      "target": "n09",
+      "source": "n05",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Le ton plus restrictif de la Fed et l'avertissement de JPMorgan sur la fragilité du rallye porté par l'IA se percutent le même jour, la prudence monétaire entrant en tension avec l'euphorie boursière autour de l'intelligence artificielle."
+    },
+    {
+      "source": "n01",
+      "target": "n02",
       "type": "meme_sujet",
-      "explanation": "Le renforcement de la fonction politique d'Anthropic et l'alerte de Willison sur les agents de code illustrent, chacun à leur niveau, les tensions de croissance d'une industrie qui scale plus vite que sa gouvernance."
+      "explanation": "Les mêmes jours voient deux processus de médiation américaine avancer en parallèle au Moyen-Orient, l'un sur le désarmement du Hezbollah, l'autre sur la réouverture du détroit d'Ormuz, tous deux fragiles."
+    },
+    {
+      "source": "n03",
+      "target": "n02",
+      "type": "meme_sujet",
+      "explanation": "Deux cessez-le-feu distincts, en Éthiopie et dans le Golfe, se fragilisent simultanément cette semaine, illustrant la difficulté à faire tenir des trêves négociées sous pression internationale."
+    },
+    {
+      "source": "n05",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Les États-Unis et la France affrontent la même semaine un dilemme inverse entre soutenir la croissance et contenir l'inflation, chacun avec sa propre marge de manœuvre budgétaire et monétaire."
     },
     {
       "source": "n09",
       "target": "n10",
+      "type": "meme_sujet",
+      "explanation": "La refonte tarifaire de GPT-5.6 et la maturité opérationnelle des outils de vibe coding traduisent le même mouvement de fond : rendre le travail généré par l'IA à la fois moins coûteux et plus directement déployable."
+    },
+    {
+      "source": "n11",
+      "target": "n04",
       "type": "tension",
-      "explanation": "L'inquiétude de Willison sur des agents dotés de bien trop d'accès non contrôlé contraste avec l'enthousiasme de Mollick pour des agents capables d'abattre des heures de travail humain sans supervision continue."
+      "explanation": "Le retrait budgétaire des gouvernements sur les renouvelables intervient alors même que les marchés pétroliers restent otages de la géopolitique du Golfe, deux paris énergétiques qui divergent au pire moment."
     },
     {
       "source": "n12",
-      "target": "n13",
+      "target": "n11",
       "type": "tension",
-      "explanation": "Le désengagement budgétaire américain, au moment même où la loi sur les infrastructures expire, illustre concrètement au niveau national le constat global du rapport selon lequel l'objectif de 1,5°C a été relégué au second plan."
+      "explanation": "Les nouveaux signaux d'un dérèglement océanique accéléré tombent au moment où les budgets publics consacrés à la transition énergétique reculent, un décalage entre l'urgence constatée et la réponse politique."
     },
     {
-      "source": "n17",
-      "target": "n07",
+      "source": "n13",
+      "target": "n14",
       "type": "meme_sujet",
-      "explanation": "L'ACPR resserre sa surveillance des risques d'interconnexion financière au moment même où l'UE muscle sa régulation des systèmes d'IA à haut risque, deux réponses réglementaires parallèles à des risques systémiques émergents."
+      "explanation": "Deux études publiées la même semaine reconsidèrent des dogmes de la santé métabolique, l'une sur la fréquence de l'exercice, l'autre sur les apports en protéines."
     },
     {
       "source": "n14",
-      "target": "n08",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "La même semaine où OpenAI enchaîne les preuves mathématiques inédites, Anthropic muscle sa gouvernance politique, illustrant la course en parallèle entre capacités techniques et maîtrise réglementaire chez les labs frontier."
+      "explanation": "La revue sur la restriction protéique et la découverte du gène DEAF1 pointent toutes deux vers des leviers biologiques plus fins que le simple volume d'exercice ou de protéines pour bien vieillir."
     }
   ]
 }

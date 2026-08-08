@@ -1,255 +1,265 @@
 {
-  "generated_at": "2026-08-07T04:20:00Z",
+  "generated_at": "2026-08-08T04:12:20Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "russie",
       "importance": 3,
-      "short_title": "Ormuz: accord Iran-Oman",
-      "title": "Iran et Oman s'accordent sur Ormuz",
-      "summary": "Téhéran a annoncé qu'un accord de principe avait été trouvé avec Oman sur la réouverture du détroit d'Ormuz, les deux pays ayant acté des coordonnées de routes de navigation. Le vice-ministre iranien des Affaires étrangères précise toutefois que cet accord ne rouvrira pas automatiquement le détroit, resté fermé au trafic commercial depuis la reprise des combats début juillet.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/iran-says-deal-with-oman-on-strait-of-hormuz-agreed-in-principle"
+      "short_title": "Sanctions Russie Sénat",
+      "title": "Le Sénat US adopte un large train de sanctions contre la Russie",
+      "summary": "Le Sénat américain a voté 86 voix contre 11 le Lindsey O. Graham Sanctioning Russia and Iran Act, ciblant Poutine, les oligarques et les entreprises soutenant l'effort de guerre russe. Le texte prévoit aussi des droits de douane punitifs contre la Chine et l'Inde, premiers acheteurs de pétrole et de gaz russes, avant de passer devant une Chambre en pause jusqu'à septembre.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/07/russia-sanctions-bill-lindsey-graham-senate.html"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "ukraine",
       "importance": 2,
-      "short_title": "Armateurs contre péages",
-      "title": "Les armateurs mondiaux rejettent les péages sur Ormuz",
-      "summary": "Huit associations mondiales d'armateurs ont averti l'ONU et l'Organisation maritime internationale que des péages obligatoires sur le détroit d'Ormuz créeraient un précédent dangereux susceptible de se répandre à d'autres détroits stratégiques. Une clause de la Lloyd's Market Association prévoit par ailleurs la résiliation automatique de l'assurance de tout navire ayant payé un tel péage, ce qui rend le projet quasiment inapplicable en l'état.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn"
+      "short_title": "Drones russes sur Kyiv",
+      "title": "La Russie intensifie ses frappes de drones, avance au sol",
+      "summary": "Moscou a lancé 147 drones de type Shahed dans la nuit du 7 août, dont 114 ont été interceptés par la défense antiaérienne ukrainienne. Les forces russes progressent aussi sur plusieurs fronts (Dobropolie, Zaporijjia, Kharkiv), alors que Kyiv dénonce le faible réapprovisionnement en missiles antiaériens de ses alliés cette année.",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/thread/81866"
     },
     {
       "id": "n03",
-      "theme": "geopol",
+      "theme": "finance",
       "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Pacte anti-Iran signé",
-      "title": "Arabie saoudite, Turquie et Pakistan signent un pacte de défense",
-      "summary": "Mohammed ben Salmane, Recep Tayyip Erdoğan et Shehbaz Sharif ont signé à Jeddah un accord trilatéral de défense prolongeant le pacte stratégique saoudo-pakistanais de septembre 2025, couvrant exercices militaires conjoints, transferts de technologie et partage de renseignement. Les analystes y voient une tentative des trois pays de bâtir une architecture de sécurité autonome face à la guerre entre les États-Unis et l'Iran.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation"
+      "importance": 2,
+      "short_title": "El Al double son profit",
+      "title": "El Al double son bénéfice trimestriel malgré la guerre avec l'Iran",
+      "summary": "La compagnie israélienne a doublé son bénéfice net au deuxième trimestre, à 132 millions de dollars, malgré une perte de 55 millions liée à l'opération Roaring Lion et une hausse de près de 70% de sa facture carburant. Sa part de trafic à Ben Gourion est passée de 39,6% à 50,2% en un an, les compagnies étrangères restant largement absentes du marché israélien.",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/el-al-profit-doubles-in-2026s-second-quarter-despite-fewer-flights-amid-iran-war/"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Brent bondit à 83$",
-      "title": "Le Brent grimpe à plus de 83 dollars malgré l'accord sur Ormuz",
-      "summary": "Le Brent est passé jeudi au-dessus de 83 dollars, en nette hausse, alors même que les négociations irano-omanaises progressent vers une réouverture du détroit d'Ormuz. Les marchés restent tirés vers le haut par l'incertitude sur les modalités exactes du transit, notamment le rejet par les armateurs du projet de péages.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-06-2026/"
+      "subtopic": "emploi",
+      "importance": 3,
+      "short_title": "Emploi US en baisse",
+      "title": "L'emploi américain recule en juillet, la Fed sous pression",
+      "summary": "Les Etats-Unis ont perdu 23 000 emplois en juillet contre un consensus de +83 000, avec des révisions à la baisse de 146 000 sur les mois précédents. Cette surprise négative complique fortement la prochaine décision de taux de la Réserve fédérale, prévue le 16 septembre.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/eriksherman/2026/08/07/july-jobs-loss-fed-interest-rate-expectations/"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "macro_us",
+      "subtopic": "taux",
       "importance": 2,
-      "short_title": "ADP: emploi US déçoit",
-      "title": "L'emploi privé américain ralentit nettement en juillet",
-      "summary": "Le secteur privé américain n'a créé que 44 000 emplois en juillet selon ADP, très en dessous des 75 000 attendus par le consensus et du chiffre de juin révisé à 95 000, plus bas niveau de créations depuis janvier. Les services ont porté l'essentiel des gains tandis que les loisirs, le commerce et les ressources naturelles ont détruit des emplois, un signal de refroidissement du marché du travail.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html"
+      "short_title": "Treasuries en hausse",
+      "title": "Les bons du Trésor s'apprécient, les paris sur une pause de la Fed montent",
+      "summary": "Les rendements des Treasuries à deux ans ont chuté de près de neuf points de base après la publication des chiffres de l'emploi de juillet. Les marchés donnent désormais une probabilité de 56% à un statu quo de la Fed en septembre, les anticipations de hausse de taux s'effaçant.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/us-treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "macro_us",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Or au plus haut",
-      "title": "L'or dépasse 4 300 dollars sur des paris de baisse des taux",
-      "summary": "L'or a franchi 4 300 dollars l'once, son plus haut niveau depuis la mi-juin, porté par le ralentissement de l'emploi privé américain qui réduit les anticipations de hausse des taux de la Fed en septembre. Le mouvement illustre un changement de logique : l'once profite désormais moins de la prime géopolitique que du desserrement anticipé de la politique monétaire américaine.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-6-2026-gold-prices-surge-as-hormuz-inches-closer-to-reopening-130743281.html"
+      "short_title": "Pétrole en détente",
+      "title": "Le Brent et le WTI se replient après l'accord Iran-USA sur Ormuz",
+      "summary": "Le Brent est retombé autour de 82 dollars et le WTI près de 77 dollars début août, après la signature en juin d'un mémorandum Etats-Unis/Iran visant à rouvrir pleinement le détroit d'Ormuz. Les prévisionnistes tablent désormais sur un Brent moyen de 74 dollars au troisième trimestre, sous l'effet d'une accumulation des stocks mondiaux.",
+      "source": "Forbes Advisor",
+      "url": "https://www.forbes.com/advisor/investing/oil-prices-today/"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "macro_us",
-      "importance": 2,
-      "short_title": "Wall Street recule",
-      "title": "Le S&P 500 recule sous son record, la tech pénalisée",
-      "summary": "Le S&P 500 a cédé 0,2% jeudi, juste sous le record atteint mardi, les investisseurs ayant fait tourner leurs portefeuilles vers les valeurs défensives — santé, consommation courante et énergie — au détriment de la tech. Plus de quatre entreprises du S&P 500 sur cinq ayant publié leurs résultats ont dépassé les attentes, mais plusieurs valeurs technologiques ont chuté après des publications jugées insuffisantes au vu de leurs valorisations.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026"
+      "subtopic": "risk_management",
+      "importance": 3,
+      "short_title": "Stress test géopol BCE",
+      "title": "La BCE publie les résultats de son stress test géopolitique inversé",
+      "summary": "110 banques de la zone euro ont dû construire des scénarios de risque géopolitique capables de faire perdre 300 points de base de ratio CET1 à leurs fonds propres. La BCE relève des incohérences dans la façon dont certains établissements traduisent ces chocs en impacts de capital et de liquidité, avec des hypothèses jugées parfois trop optimistes sur la cession d'actifs en conditions de marché dégradées.",
+      "source": "ECB Banking Supervision",
+      "url": "https://www.bankingsupervision.europa.eu/press/pr/date/2026/html/ssm.pr260731~93964644b0.en.html"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "EBA: frontière FRTB",
-      "title": "L'EBA assouplit temporairement la frontière FRTB",
-      "summary": "L'Autorité bancaire européenne a publié une lettre de tolérance et des clarifications techniques sur la frontière entre portefeuille de négociation et portefeuille bancaire prévue par le règlement FRTB, recommandant aux superviseurs nationaux de ne pas prioriser les actions d'enforcement sur ce point tant que l'acte délégué de la Commission n'est pas entré en vigueur. Elle a aussi précisé ses attentes sur l'application du cadre à compter du 1er janvier 2027, un enjeu direct pour le calcul des exigences de fonds propres au titre du risque de marché et des XVA.",
-      "source": "European Banking Authority",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk"
+      "short_title": "DeepMind change de tête",
+      "title": "Demis Hassabis quitte la direction opérationnelle de Google DeepMind",
+      "summary": "Sundar Pichai a annoncé que Demis Hassabis devient président de Google DeepMind et chief scientist d'Alphabet, tout en continuant à diriger Isomorphic Labs. Koray Kavukcuoglu, jusqu'ici CTO de DeepMind, devient SVP et reprendra la supervision directe de Gemini et de la recherche frontier, tandis que Jeff Dean quitte Google le 6 août pour fonder la startup Discovery Loop.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Mistral: Shieldstral",
-      "title": "Mistral publie Shieldstral, un classifieur de sécurité ouvert",
-      "summary": "Mistral AI a mis en open source Shieldstral, un modèle de 3 milliards de paramètres qui évalue textes et images par rapport à des politiques de modération écrites en langage naturel au moment de l'inférence, plutôt que selon des catégories de nuisance figées à l'entraînement. Disponible sous licence Apache 2.0, il couvre 12 langues, tourne sur un seul GPU de 16 Go et s'inscrit dans l'Open Secure AI Alliance lancée avec Nvidia et d'autres partenaires.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/shieldstral/"
+      "short_title": "Anthropic: puces maison",
+      "title": "Anthropic confirme monter une équipe de conception de puces IA",
+      "summary": "Anthropic a confirmé le 5 août constituer en interne une équipe de conception de puces dédiées à Claude, avec des salaires annoncés jusqu'à 485 000 dollars, en réponse à la tension sur les capacités de calcul. L'entreprise garde par ailleurs une stratégie multi-fournisseurs (AWS, Google, Nvidia, AMD) et n'a précisé ni calendrier ni site de fabrication pour cette première puce maison.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "design",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Figma: code layers",
-      "title": "Figma transforme le design en dossiers de code exécutable",
-      "summary": "Lors de sa conférence Config 2026, Figma a présenté les \"code layers\", qui transforment n'importe quel calque de design en composant de code interactif d'un clic ou d'un prompt, ainsi qu'un agent capable de référencer d'autres fichiers Figma et de chercher sur le web pour importer des données en direct sans quitter l'outil. La firme installe ainsi le code comme une simple proposition modifiable plutôt qu'un aboutissement figé, brouillant la frontière entre design et développement.",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/config-2026-recap/"
+      "short_title": "Meta lance Muse Code",
+      "title": "Meta dévoile Muse Code, son premier agent de codage IA",
+      "summary": "Mark Zuckerberg a annoncé la sortie en bêta de Muse Code, un agent capable d'écrire et de valider du code, positionnant directement Meta face à Claude Code et Codex. L'annonce s'accompagne de la mise à jour Muse Spark 1.2, un modèle à fenêtre de contexte d'un million de tokens entraîné sur des dépôts de code entiers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic"
     },
     {
       "id": "n11",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 3,
-      "short_title": "Feux XXL Espagne/France",
-      "title": "Des feux historiques ravagent l'Espagne et la France",
-      "summary": "Les incendies de l'été 2026 ont brûlé environ 150 000 hectares en Espagne et un record national de 115 000 hectares en France, dont 42 000 hectares pour le seul feu de Gironde, l'un des plus vastes du pays depuis la Seconde Guerre mondiale. Les deux pays ont activé le mécanisme européen de protection civile, qui a mobilisé avions, hélicoptères et centaines de pompiers venus de plusieurs États membres pour l'une des plus grandes opérations d'évacuation jamais menées en Europe.",
-      "source": "Commission européenne (protection civile)",
-      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-sends-planes-and-firefighters-wildfires-ravage-france-and-spain-2026-07-27_en"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Standard Agent Plugins",
+      "title": "OpenAI, AWS, Cursor, GitHub et Vercel unifient le format des agents IA",
+      "summary": "Le 6 août, ce consortium a lancé Agent Plugins, un standard ouvert qui empaquette ensemble Agent Skills et configuration MCP dans un même format installable sur Codex, ChatGPT, Cursor, GitHub Copilot, Kiro et VS Code. La gouvernance interdit à un seul éditeur de détenir la majorité des sièges du comité, dans un secteur jusqu'ici fragmenté entre formats concurrents.",
+      "source": "TheNextWeb",
+      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp"
     },
     {
       "id": "n12",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "tech",
+      "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "Étude: canicule et feux",
-      "title": "Le changement climatique a multiplié le risque de méga-feux",
-      "summary": "Une analyse rapide de World Weather Attribution montre que le changement climatique d'origine humaine a rendu les conditions chaudes et sèches à l'origine du gigantesque incendie espagnol environ 20 fois plus probables, et a doublé les risques de conditions extrêmes pour les feux en France. L'étude pointe la combinaison inédite de chaleur, sécheresse des sols et vent comme moteur de cette vague de feux hors normes.",
-      "source": "World Weather Attribution / Fortune",
-      "url": "https://fortune.com/2026/07/31/spain-wildfires-climate-change-20-times-likely/"
+      "short_title": "IA et énigmes d'Erdős",
+      "title": "Des modèles d'IA résolvent des conjectures d'Erdős vieilles de décennies",
+      "summary": "Un modèle interne d'OpenAI a produit un contre-exemple à la conjecture du \"unit distance\" formulée par Paul Erdős en 1946, saluée par le médaillé Fields Timothy Gowers comme digne d'une publication sans réserve. Des mathématiciens ont ensuite réutilisé ces techniques pour réfuter une variante de la conjecture \"sum-product\", relançant le débat sur le rôle de l'IA en recherche mathématique de pointe.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "oceans",
-      "importance": 1,
-      "short_title": "Courant Atlantique revu",
-      "title": "Des sédiments marins bousculent la théorie sur l'AMOC",
-      "summary": "L'analyse de sédiments marins vieux de 3,4 millions d'années montre que lors d'une période froide, l'arrêt quasi total de l'apport d'eau chaude et salée de l'océan Indien vers l'Atlantique ne s'est pas traduit par un affaiblissement de la circulation méridienne de retournement atlantique, certaines de ses branches s'étant au contraire renforcées. Le résultat nuance les modèles qui prédisent un effondrement direct de cette circulation en réponse au réchauffement climatique actuel.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082454.htm"
+      "theme": "climat",
+      "subtopic": "chine",
+      "importance": 2,
+      "short_title": "Plan climat chinois",
+      "title": "Pékin publie son plan climat quinquennal 2026-2030",
+      "summary": "Le ministère chinois de l'Écologie et 18 autres administrations ont dévoilé fin juillet un plan visant à étendre l'influence du marché carbone chinois via des normes internationales et l'organisation d'une conférence dédiée. Pékin propose aussi des amendements au cadre net-zéro de l'Organisation maritime internationale, avec des incitations aux carburants verts.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/china-briefing-6-august-2026-five-year-climate-plan-overcapacity-report-severe-heatwave"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "biologie",
-      "importance": 1,
-      "short_title": "Cellules kamikazes",
-      "title": "Des cellules immunitaires kamikazes découvertes chez les planaires",
-      "summary": "Des chercheurs de Stanford ont identifié chez les vers plats planaires un nouveau type de cellule immunitaire, baptisé ruptoblaste, capable de tuer des dizaines de cellules cibles en quelques minutes en explosant et en libérant des agents toxiques localisés. En laboratoire, ce mécanisme a détruit des bactéries E. coli ainsi que des cellules humaines et murines sans endommager les tissus environnants, ouvrant des pistes pour des traitements ciblés contre les infections ou le cancer.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm"
+      "theme": "climat",
+      "subtopic": "chine",
+      "importance": 2,
+      "short_title": "US bannit onduleurs CN",
+      "title": "Washington interdit les nouveaux onduleurs solaires chinois",
+      "summary": "La FCC a ajouté début août les onduleurs de puissance étrangers, majoritairement chinois, à sa liste noire pour raisons de cybersécurité, bloquant toute nouvelle autorisation d'équipement. La mesure n'affecte pas les modèles déjà homologués et intervient alors qu'une étude du Department of Energy datant de janvier n'avait trouvé aucune preuve de matériel malveillant sur les onduleurs testés.",
+      "source": "pv magazine",
+      "url": "https://www.pv-magazine.com/2026/07/29/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "cognition",
+      "theme": "sciences",
+      "subtopic": "quantique",
       "importance": 1,
-      "short_title": "Posture influence choix",
-      "title": "Se tenir droit améliore l'humeur et la prise de risque",
-      "summary": "Une étude de l'université McGill montre que des participants dont la posture avait été redressée à leur insu ont déclaré davantage de fierté et pris des risques plus payants dans un jeu économique, comparé à des participants avachis. La plupart n'avaient pas conscience que leur posture avait été modifiée, ce qui écarte un simple effet d'attente et suggère que l'ergonomie du poste de travail influence bien plus que le seul confort physique.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034624.htm"
+      "short_title": "Puces quantiques silicium",
+      "title": "Deux démonstrations font progresser le calcul quantique sur silicium",
+      "summary": "Des chercheurs ont présenté un processeur à cinq qubits où un spin électronique mobile navigue entre quatre qubits fixes pour créer des interactions programmables, une piste clé vers la scalabilité. HRL Laboratories a de son côté publié dans Nature un processeur quantique doté d'une puce de contrôle intégrée capable de faire tourner seule la correction d'erreurs, remplaçant des racks entiers d'électronique externe.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02124-0"
     },
     {
       "id": "n16",
-      "theme": "learn",
-      "subtopic": "metacognition",
+      "theme": "climat",
+      "subtopic": "ocean",
       "importance": 1,
-      "short_title": "Neurones de persévérance",
-      "title": "Des neurones identifiés comme moteur de la persévérance",
-      "summary": "Des chercheurs de l'université de Nagoya ont montré chez le rat qu'un groupe de neurones à orexine reste actif, voire s'intensifie, lorsque l'effort nécessaire pour obtenir une récompense augmente ou que la récompense attendue tarde à venir. La suppression optogénétique de leur activité réduit la motivation et allonge le temps nécessaire pour achever des tâches exigeantes, ouvrant des pistes sur les mécanismes cérébraux du décrochage motivationnel.",
+      "short_title": "Boom d'algues océaniques",
+      "title": "L'IA révèle une explosion mondiale des algues flottantes",
+      "summary": "La NOAA et l'université de South Florida ont croisé l'IA avec 1,2 million d'images satellite pour produire la première cartographie mondiale des algues flottantes, couvrant une surface cumulée de 44 millions de km². Les chercheurs attribuent cette expansion à l'évolution des températures, courants et niveaux de nutriments océaniques, avec des risques pour les habitats marins et les littoraux.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042834.htm"
+    },
+    {
+      "id": "n17",
+      "theme": "learn",
+      "subtopic": "ai_tutoring",
+      "importance": 2,
+      "short_title": "IA et métacognition",
+      "title": "Une revue pointe les effets ambigus de l'IA sur l'apprentissage",
+      "summary": "Une synthèse bibliométrique de 135 études (2005-2025) montre que les systèmes de tutorat intelligent améliorent la métacognition quand ils encouragent la réflexion sur son propre apprentissage. Mais le recours à des chatbots généralistes pour externaliser les tâches cognitives risque de créer une \"paresse métacognitive\" freinant l'acquisition durable de compétences.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
+    },
+    {
+      "id": "n18",
+      "theme": "sante",
+      "subtopic": "kettlebell",
+      "importance": 1,
+      "short_title": "Kettlebell et VO2max",
+      "title": "Une revue confirme les bénéfices cardio du kettlebell",
+      "summary": "Une revue de 2026 sur l'impact des exercices au kettlebell relève des séances de swings classées \"difficiles\" selon les standards ACSM, avec une consommation d'oxygène atteignant environ 65% du VO2max. Les auteurs concluent que ce type d'entraînement complet du corps peut suffire à améliorer la capacité aérobie, en plus de la force, comparé à des méthodes plus conventionnelles.",
+      "source": "IJRTI",
+      "url": "https://www.ijrti.org/papers/IJRTI2603048.pdf"
     }
   ],
   "edges": [
     {
-      "source": "n01",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "L'accord irano-omanais prévoit un système de redevances de transit, ce qui déclenche directement la fronde des associations mondiales d'armateurs."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Alors que la voie diplomatique progresse avec Oman, l'Arabie saoudite, la Turquie et le Pakistan choisissent ce moment pour sceller un pacte militaire explicitement destiné à contenir l'Iran, signe que la région ne mise pas sur l'accord seul pour garantir sa sécurité."
-    },
-    {
       "source": "n02",
-      "target": "n04",
+      "target": "n01",
       "type": "cause",
-      "explanation": "Le rejet du projet de péages par les armateurs et l'incertitude sur les modalités réelles de réouverture maintiennent une prime de risque sur le baril malgré l'annonce d'un accord de principe."
+      "explanation": "L'escalade continue des frappes russes et l'absence de percée diplomatique ont fini par faire adopter au Sénat, à une majorité écrasante, un texte de sanctions bloqué depuis des mois."
+    },
+    {
+      "source": "n01",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "La menace de droits de douane sur les principaux acheteurs de pétrole russe (Chine, Inde) crée un risque haussier sur le brut, juste au moment où les prix se détendaient grâce à la réouverture d'Ormuz."
     },
     {
       "source": "n04",
-      "target": "n07",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La remontée du pétrole renchérit les coûts pour les secteurs consommateurs d'énergie et nourrit les craintes inflationnistes, contribuant à la rotation défensive qui pèse sur les indices."
-    },
-    {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "Le net ralentissement des créations d'emplois privés réduit la probabilité d'une hausse des taux de la Fed en septembre, ce qui abaisse le coût d'opportunité de détenir de l'or et alimente son rallye."
-    },
-    {
-      "source": "n05",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "La mauvaise nouvelle sur l'emploi joue en sens inverse sur les marchés actions : mauvaise pour la croissance anticipée, mais rassurante sur la trajectoire des taux, ce qui explique la prudence plutôt que la panique sur les indices."
+      "explanation": "La perte surprise d'emplois en juillet et les fortes révisions à la baisse ont réduit les anticipations de hausse de taux, provoquant l'achat de bons du Trésor et la baisse de leurs rendements."
     },
     {
       "source": "n06",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Le même jour, l'or et le pétrole montent tous deux mais pour des raisons opposées — anticipation de taux plus bas pour l'un, prime de risque géopolitique persistante pour l'autre — signe que les marchés lisent la situation au Moyen-Orient de façon contradictoire."
+      "target": "n03",
+      "type": "meme_sujet",
+      "explanation": "Les deux news découlent du même reflux des tensions Iran-Israël: détente du brut sur les marchés d'un côté, position dominante et rentable d'El Al à Ben Gourion de l'autre."
     },
     {
-      "source": "n09",
-      "target": "n10",
+      "source": "n02",
+      "target": "n07",
       "type": "meme_sujet",
-      "explanation": "Le classifieur de sécurité ouvert de Mistral et les nouveaux calques de code de Figma illustrent le même virage 2026 : les outils IA ne se contentent plus de générer, ils s'intègrent directement dans les pipelines de production et de conformité."
+      "explanation": "L'incertitude géopolitique persistante illustrée par la guerre en Ukraine est exactement le type de choc que la BCE demande aux banques de la zone euro de modéliser dans leurs scénarios de stress."
     },
     {
       "source": "n09",
       "target": "n08",
+      "type": "tension",
+      "explanation": "Face à la même pression concurrentielle de la course à l'IA, Anthropic mise sur l'intégration verticale via des puces maison quand Google réorganise sa gouvernance et sa chaîne de décision."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
       "type": "meme_sujet",
-      "explanation": "Le même jour, un laboratoire d'IA et un régulateur bancaire européen choisissent d'inscrire leurs garde-fous directement dans l'infrastructure technique et les règles plutôt que dans un contrôle au cas par cas, deux réponses similaires à la même exigence de gouvernance à grande échelle."
+      "explanation": "Le lancement de l'agent de codage de Meta et l'accord multi-éditeurs sur un standard commun d'agents surviennent la même semaine, signe d'une consolidation rapide de l'écosystème des outils de codage IA."
     },
     {
       "source": "n12",
-      "target": "n11",
-      "type": "cause",
-      "explanation": "L'analyse d'attribution montre que le réchauffement climatique a rendu les conditions de chaleur et de sécheresse à l'origine de cette vague d'incendies des dizaines de fois plus probables, expliquant l'ampleur inédite des feux espagnols et français."
+      "target": "n17",
+      "type": "tension",
+      "explanation": "L'IA qui aide des mathématiciens de pointe à résoudre des problèmes ouverts illustre une augmentation experte, à l'opposé du risque de \"paresse métacognitive\" que la même externalisation cognitive fait courir aux apprenants."
     },
     {
       "source": "n13",
       "target": "n14",
-      "type": "meme_sujet",
-      "explanation": "Deux découvertes publiées la même semaine renouvellent la compréhension de mécanismes biologiques fondamentaux, l'une sur la résilience d'un courant océanique majeur, l'autre sur un type de cellule immunitaire jusque-là inconnu."
+      "type": "tension",
+      "explanation": "Le plan climat chinois cherche à étendre l'influence de Pékin sur les normes et le marché carbone mondiaux, pendant que Washington verrouille sa chaîne d'approvisionnement en excluant les onduleurs chinois."
     },
     {
-      "source": "n15",
-      "target": "n16",
+      "source": "n01",
+      "target": "n14",
       "type": "meme_sujet",
-      "explanation": "Deux études de neurosciences parues la même semaine éclairent des ressorts cérébraux discrets du comportement quotidien : l'une sur l'effet de la posture sur la confiance et la prise de risque, l'autre sur les neurones qui soutiennent l'effort face à une récompense qui se dérobe."
+      "explanation": "Les droits de douane visant les acheteurs de pétrole russe et l'interdiction des onduleurs chinois s'inscrivent dans la même semaine de durcissement économique américain vis-à-vis de la Chine."
     }
   ]
 }

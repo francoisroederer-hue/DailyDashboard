@@ -1,192 +1,170 @@
 {
-  "generated_at": "2026-08-11T04:13:30Z",
+  "generated_at": "2026-08-12T05:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz: impasse Iran",
-      "title": "Iran pose des conditions à la réouverture du détroit d'Ormuz",
-      "summary": "Téhéran a publié un projet d'accord jugé trop restrictif par Washington, exigeant la levée de sanctions et des réparations de guerre avant toute réouverture normale du détroit. Les négociations avec Oman se poursuivent mais achoppent sur ces conditions politiques.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz"
+      "short_title": "Ormuz: Iran ne cède pas",
+      "title": "L'Iran maintient ses conditions strictes sur Ormuz",
+      "summary": "Le ministre iranien des Affaires étrangères Abbas Araghchi a confirmé qu'aucune négociation directe n'est en cours avec Washington, Téhéran exigeant un changement de comportement américain avant toute réouverture normale du détroit. Les discussions techniques avec Oman sur la gestion du trafic progressent en parallèle, mais Téhéran précise qu'elles n'impliquent pas la réouverture du détroit.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Pétrole en hausse",
-      "title": "Le pétrole grimpe sur l'incertitude autour du détroit d'Ormuz",
-      "summary": "Le Brent est remonté vers 87-88 dollars le baril après une semaine de forte volatilité, les traders réévaluant les chances d'un accord complet sur la réouverture du détroit. Ce regain d'incertitude géopolitique relance les craintes inflationnistes sur les marchés.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
+      "short_title": "Brut au-dessus de 83$",
+      "title": "Le brut américain dépasse 83 dollars sur l'impasse à Ormuz",
+      "summary": "Le WTI a franchi les 83 dollars le baril alors que l'Iran répète vouloir maintenir le détroit fermé jusqu'à un changement de posture américaine. Les marchés pétroliers restent sur les nerfs, l'absence de tout canal de négociation directe entre Washington et Téhéran alimentant les craintes d'un blocage prolongé de 20% des flux mondiaux de brut.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
     },
     {
       "id": "n03",
       "theme": "finance",
       "subtopic": "macro",
       "importance": 3,
-      "short_title": "Fed tiraillée sur taux",
-      "title": "La Fed tiraillée entre inflation et prudence",
-      "summary": "Plusieurs responsables de la Fed, dont Beth Hammack et Neel Kashkari, plaident pour une hausse de taux rapide face à une inflation remontée à 3,7%, en partie tirée par le choc pétrolier. La banque centrale reste toutefois divisée sur l'opportunité d'agir avant que la hausse de l'énergie ne se propage au reste de l'économie.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates"
+      "short_title": "Wall St recule avant CPI",
+      "title": "Wall Street recule avant l'indice CPI, Alphabet plombe le Nasdaq",
+      "summary": "Le Dow et le S&P 500 ont cédé environ 0,3% et le Nasdaq 0,6% mardi, les investisseurs réduisant leur exposition aux valeurs technologiques à forte croissance avant la publication du CPI de juillet le lendemain. Le titre Alphabet a particulièrement pesé sur l'indice, dans le sillage des inquiétudes persistantes sur la réorganisation de Google DeepMind et le retard de Gemini.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "UE assouplit le FRTB",
-      "title": "Bruxelles adopte des ajustements temporaires au FRTB",
-      "summary": "La Commission européenne a adopté un multiplicateur temporaire pour alléger l'impact en capital du FRTB sur les banques européennes, applicable pour trois ans à partir de janvier 2027. La mesure vise à préserver la compétitivité des banques de l'UE face aux juridictions ayant pris du retard dans leur propre mise en œuvre de Bâle III.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/publications/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks_en"
+      "short_title": "CPI de juillet attendu",
+      "title": "Le CPI de juillet, test clé pour la Fed avant septembre",
+      "summary": "Le consensus attend une inflation totale en hausse de 0,1% sur le mois et une baisse du glissement annuel à 3,4%, tandis que Pantheon Macroeconomics anticipe une accélération des prix des biens liée aux hausses de prix d'Apple sur son matériel. Le rapport, publié ce mercredi, doit trancher si le ralentissement du marché du travail suffit à maintenir la Fed en pause ou si les pressions inflationnistes justifient encore une hausse.",
+      "source": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/preview-us-cpi-due-wednesday-12th-august-2026-at-1330bst0830edt"
     },
     {
       "id": "n05",
-      "theme": "finance",
-      "subtopic": "ccr_xva",
-      "importance": 2,
-      "short_title": "Écart FRTB/XVA UE-US",
-      "title": "XVA: les banques européennes en avance sur le FRTB",
-      "summary": "Selon une analyse de Risk.net, la moitié des banques européennes ont déjà intégré les règles de capital FRTB dans leur pricing XVA, alors que les banques américaines et le reste du monde accusent un net retard faute de clarté réglementaire. Cet écart complique l'harmonisation mondiale des pratiques de valorisation et de gestion du risque de contrepartie.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "DeepMind: nouveau chef IA",
+      "title": "Google nomme Kavukcuoglu à la tête de la recherche IA après le séisme DeepMind",
+      "summary": "Après le départ le même jour de Demis Hassabis de la direction opérationnelle (devenu président de DeepMind et chef scientifique d'Alphabet) et de plusieurs figures fondatrices vers la startup Discovery Loop, Google a promu Koray Kavukcuoglu vice-président senior chargé de la recherche IA et du développement de Gemini. Les modèles Gemini 3.5 Pro et 3.6 Flash accusent des retards répétés, alimentant les inquiétudes sur la capacité de Google à rivaliser avec Anthropic et OpenAI.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/google-deepmind-shakeup-hassabis-jeff-dean-vinyals-discovery-loop"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 3,
-      "short_title": "Drone piégé à Leipzig",
-      "title": "Un drone explosif lié à la Russie découvert à Leipzig",
-      "summary": "Un drone chargé d'explosifs a été découvert près d'un avion ukrainien à l'aéroport de Leipzig/Halle, plaque tournante logistique de l'aide occidentale à l'Ukraine, et les services de renseignement américains l'attribuent à la Russie. L'incident, qui n'a pas explosé, a entraîné la fermeture temporaire des pistes et relance les inquiétudes sur la guerre hybride russe en Europe.",
-      "source": "HSToday",
-      "url": "https://www.hstoday.us/subject-matter-areas/unmanned-vehicles/u-s-intelligence-links-russia-to-explosive-drone-found-at-german-airport/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Astra résout 10 problèmes",
+      "title": "Un modèle non publié d'OpenAI résout dix problèmes mathématiques ouverts",
+      "summary": "Astra, le prochain modèle d'OpenAI encore non publié, a produit des preuves formelles vérifiables en Lean 4 pour dix problèmes ouverts depuis au moins une décennie en mathématiques et informatique théorique, dont une construction de groupe non sofique inédite. Les preuves, publiées sur GitHub sous licence libre avec un taux d'erreur nul détecté par le vérificateur Lean, ont été jugées publiables en l'état par le médaillé Fields Timothy Gowers.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups"
     },
     {
       "id": "n07",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Armes turques vers Kiev",
-      "title": "La Turquie transfère 300 millions de dollars d'armes à l'Ukraine",
-      "summary": "Le département d'État américain a notifié au Congrès un projet turc de transfert de près de 300 millions de dollars d'armements américains à l'Ukraine, dont 70 missiles ATACMS et 12 lance-roquettes M270, le plus important transfert de ce type réalisé par la Turquie. La livraison pourrait débuter fin août après la période d'examen parlementaire.",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-buys-70-atacms-missiles-other-us-weapons-from-turkey-in-major-defense-package/"
+      "short_title": "Figma x Anthropic",
+      "title": "Figma lance des calques de code et un partenariat avec Anthropic",
+      "summary": "Figma a introduit des 'code layers', des calques transformables en composants de code interactifs par simple prompt, ainsi qu'un partenariat 'Code to Canvas' avec Anthropic reliant génération de design et génération de code. L'outil Figma Make permet aussi d'annoter directement une zone du canvas pour guider l'édition visuelle par IA, brouillant encore la frontière entre design et développement.",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/config-2026-recap/"
     },
     {
       "id": "n08",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Gaza: trêve fragile",
-      "title": "Gaza: la trêve reste fragile malgré le cessez-le-feu",
-      "summary": "Un rapport de l'ONU fait état de 300 enfants tués en 300 jours malgré le cessez-le-feu conclu en octobre 2025, portant le bilan global à plus de 1200 morts depuis l'accord. Les opérations militaires israéliennes se poursuivent près de la 'ligne jaune', entretenant l'instabilité humanitaire dans la bande.",
-      "source": "UN News",
-      "url": "https://news.un.org/en/story/2026/08/1168088"
+      "subtopic": "ukraine",
+      "importance": 3,
+      "short_title": "Ukraine: frappes russes",
+      "title": "Des frappes russes utilisant des missiles nord-coréens tuent 12 personnes",
+      "summary": "Des frappes russes nocturnes ont tué au moins 12 personnes et fait de nombreux blessés dans plusieurs régions ukrainiennes, Kiev accusant Moscou d'avoir employé des missiles Zircon et Iskander-M/KN-23 ainsi que 120 drones d'attaque. Volodymyr Zelensky a averti que la Russie se prépare à une nouvelle escalade plutôt qu'à la paix, citant l'arrivée d'équipements nord-coréens et une production de missiles dépassant les objectifs annuels de Moscou.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
     },
     {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Claude Code: mode auto",
-      "title": "Anthropic fait du mode auto le réglage par défaut de Claude Code",
-      "summary": "Anthropic va faire du mode automatique de Claude Code, où un classifieur interne valide la plupart des actions sans demander de permission, le réglage par défaut pour les offres Pro, Max et Team à partir du 14 août. L'entreprise supprime au passage le surcoût en tokens que ce classifieur générait jusqu'ici.",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/08/10/anthropic-claude-code-auto-mode/"
+      "theme": "geopol",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Sanctions Russie-Iran",
+      "title": "La Chambre US avance sur un vaste texte de sanctions anti-russes",
+      "summary": "Une coalition bipartisane menée par Michael McCaul et Steny Hoyer a présenté à la Chambre des représentants le 'Lindsey O. Graham Sanctioning Russia and Iran Act', qui vise les banques russes, la flotte fantôme et les acheteurs de pétrole et gaz russes, après une adoption au Sénat par 86 voix contre 11. Le texte étend aussi les sanctions sur les secteurs énergétique et militaire iraniens.",
+      "source": "RFE/RL",
+      "url": "https://www.rferl.org/a/33826098.html"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "OpenAI ouvre l'IA cyber",
-      "title": "OpenAI ouvre ses modèles cyber à des partenaires triés sur le volet",
-      "summary": "OpenAI élargit son programme Daybreak avec un accès à deux niveaux: Daybreak Blue pour des modèles généralistes comme GPT-5.6 Sol destinés à la défense quotidienne, et Daybreak Red réservé, après vérification stricte, au nouveau GPT-5.6-Cyber pour la recherche de vulnérabilités. Des partenaires comme Accenture, IBM, CrowdStrike ou Cisco pourront intégrer ces modèles à leurs services de sécurité.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "Basel III US retardé",
+      "title": "Bâle III américain: une nouvelle proposition repoussée à 2027",
+      "summary": "La vice-présidente chargée de la supervision à la Fed, Michelle Bowman, a indiqué qu'une nouvelle version de la règle Basel III Endgame n'arrivera que début 2027, en tenant compte des accords internationaux. La reproposition de mars 2026 avait déjà renversé la trajectoire initiale de 2023, offrant un allègement net d'environ 87,7 milliards de dollars de capital aux plus grandes banques américaines au lieu de la hausse de 19% initialement prévue.",
+      "source": "Bloomberg Professional Services",
+      "url": "https://www.bloomberg.com/professional/insights/financial-services/fed-remarks-points-to-capital-neutral-basel-iii-endgame-in-2026/"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI vise une IPO",
-      "title": "OpenAI se rapproche d'une entrée en Bourse",
-      "summary": "Après un dépôt confidentiel de S-1 auprès de la SEC en juin, OpenAI devrait rendre son prospectus public à la mi- ou fin août, dévoilant pour la première fois ses revenus détaillés et sa rentabilité, avant une cotation visée en septembre. La société génère environ 2 milliards de dollars de revenus mensuels mais reste largement déficitaire, pour une valorisation privée de 852 milliards de dollars.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-confidentially-files-ipo-sec-223341186.html"
+      "theme": "finance",
+      "subtopic": "financement_ia",
+      "importance": 3,
+      "short_title": "Nvidia lève 500Mds$",
+      "title": "Nvidia mobilise 500 milliards de dollars via Wall Street pour financer l'IA",
+      "summary": "Nvidia a signé des protocoles d'accord avec six géants financiers (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) pour lever plus de 500 milliards de dollars de financement destiné à ses clients construisant des centres de données IA. Jensen Huang a présenté les puces IA comme une nouvelle 'classe d'actifs investissable', une thèse contestée par certains observateurs qui rappellent la dépréciation rapide des semi-conducteurs face aux nouvelles générations.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
     },
     {
       "id": "n12",
-      "theme": "learn",
-      "subtopic": "metacognition",
+      "theme": "sciences",
+      "subtopic": "geophysique",
       "importance": 2,
-      "short_title": "IA et métacognition",
-      "title": "IA en éducation: le risque de 'paresse métacognitive'",
-      "summary": "Une revue de littérature souligne que l'usage de chatbots généralistes pour les devoirs peut créer une 'paresse métacognitive' qui nuit à l'acquisition de compétences, alors que les systèmes tutoriels bien conçus, encourageant la réflexion sur son propre apprentissage, montrent des effets positifs constants. Un mode hybride émerge, où la régulation métacognitive se construit conjointement entre l'apprenant et l'IA plutôt que d'être déléguée entièrement.",
-      "source": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
+      "short_title": "Neutrinos du manteau",
+      "title": "Un réseau mondial de détecteurs de neutrinos sonde le manteau terrestre",
+      "summary": "Une constellation internationale de détecteurs, dont l'expérience JUNO en Chine qui doit livrer ses premières détections de géoneutrinos cette année, offre une vue inédite des éléments radioactifs qui alimentent le moteur thermique de la tectonique des plaques. Seules quelques centaines de géoneutrinos ont été détectées en plusieurs décennies de recherche, rendant chaque nouvelle mesure précieuse pour comprendre la structure profonde du manteau.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Muscu et longévité",
-      "title": "Le 'sweet spot' du renforcement musculaire pour la longévité",
-      "summary": "Une étude de Harvard portant sur 147374 personnes suivies jusqu'à 30 ans montre que 90 à 120 minutes de renforcement musculaire par semaine réduisent la mortalité toutes causes de 13%, sans bénéfice supplémentaire au-delà de ce volume. Combiné à 150 minutes d'endurance hebdomadaire, ce dosage offre la meilleure protection cardiovasculaire et neurologique observée dans la cohorte.",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/strength-training-longevity-sweet-spot-harvard-30-year-study-2026-475633"
+      "short_title": "Roumanie: crise énergie",
+      "title": "La Roumanie rationne l'électricité industrielle face à la sécheresse",
+      "summary": "Bucarest a placé le secteur énergétique en état d'alerte pour tout le mois d'août et impose des réductions de consommation à plus de 80 grandes entreprises, la sécheresse ayant fait chuter le niveau du Danube et contraint la centrale nucléaire de Cernavodă à arrêter l'un de ses deux réacteurs. La centrale fournit habituellement un cinquième de l'électricité roumaine, et le pays sollicite désormais un appui de l'Ukraine voisine pour les pics de consommation.",
+      "source": "Balkan Insight",
+      "url": "https://balkaninsight.com/2026/08/04/romania-cuts-industrial-output-to-ease-power-shortage/bi/"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "chine",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Plan climat chinois",
-      "title": "La Chine publie son plan climat quinquennal 2026-2030",
-      "summary": "Le ministère chinois de l'Écologie et de l'Environnement, avec 18 autres administrations, a publié fin juillet un plan quinquennal dédié à l'action climatique. Le texte intervient alors que les émissions mondiales de gaz à effet de serre ont atteint un nouveau record en 2025, malgré des investissements record dans la transition énergétique.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/china-briefing-6-august-2026-five-year-climate-plan-overcapacity-report-severe-heatwave"
+      "short_title": "Moins de protéines?",
+      "title": "Réduire l'apport en protéines pourrait aussi favoriser un vieillissement sain",
+      "summary": "Une étude relaie des données selon lesquelles une réduction modérée de l'apport protéique, plutôt que son augmentation systématique prônée par une partie de la littérature sur la longévité, remodèle favorablement le métabolisme chez certains profils. Ce résultat nuance le consensus dominant chez les défenseurs de la musculation et de la préservation de la masse maigre après 40 ans, qui recommandent généralement un apport élevé.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-07-protein-intake-healthy-aging-reshaping.html"
     },
     {
       "id": "n15",
-      "theme": "climat",
-      "subtopic": "usa",
+      "theme": "geopol",
+      "subtopic": "asie",
       "importance": 2,
-      "short_title": "US bannit onduleurs",
-      "title": "Washington interdit les onduleurs solaires chinois",
-      "summary": "La FCC a ajouté les onduleurs solaires étrangers, majoritairement fabriqués en Chine, à sa liste d'équipements interdits, invoquant un risque de sabotage à distance via leur connectivité sans fil sur un réseau électrique qui en dépend pour 46 gigawatts. La mesure ne vise pour l'instant que les nouveaux modèles mais devrait perturber une filière solaire très dépendante des composants chinois.",
-      "source": "PV Tech",
-      "url": "https://www.pv-tech.org/us-government-bans-foreign-produced-inverters/"
-    },
-    {
-      "id": "n16",
-      "theme": "sciences",
-      "subtopic": "genetique",
-      "importance": 2,
-      "short_title": "ADN: ancêtres fantômes",
-      "title": "Deux lignées humaines 'fantômes' identifiées dans l'ADN moderne",
-      "summary": "Des chercheurs de Berkeley ont mis au point une technique qui repère, dans le génome de centaines d'humains actuels, les traces de deux lignées hominines inconnues: l'une ayant divergé il y a 800000 ans et croisée en Afrique il y a plus de 50000 ans, l'autre remontant à 1,8 million d'années et transmise via les Denisoviens. Cette découverte, publiée dans Science, complexifie encore l'arbre généalogique de l'espèce humaine.",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/archaeology/human-evolution/scientists-discover-2-new-ghost-lineages-that-contributed-dna-to-modern-humans"
-    },
-    {
-      "id": "n17",
-      "theme": "sciences",
-      "subtopic": "oceans",
-      "importance": 2,
-      "short_title": "Océans en manque d'O2",
-      "title": "La désoxygénation des océans franchit une limite planétaire",
-      "summary": "Une synthèse dirigée par Scripps Institution of Oceanography, publiée dans Limnology and Oceanography, alerte sur une désoxygénation rapide des océans, lacs et rivières qui interagit avec huit autres limites planétaires et pourrait devenir irréversible. Les auteurs soulignent que cette perte d'oxygène affaiblit les mécanismes naturels de régulation du climat, avec des conséquences en cascade sur la biodiversité aquatique.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm"
+      "short_title": "Japon inquiet: Taïwan",
+      "title": "Le Livre blanc de la défense japonais pointe la menace sur Taïwan",
+      "summary": "Le nouveau Livre blanc de la défense du Japon désigne la sécurité du détroit de Taïwan comme une préoccupation majeure, relevant que les incursions aériennes chinoises autour de l'île sont passées d'environ 970 en 2021 à plus de 3700 l'an dernier. Tokyo y voit une normalisation progressive de la présence militaire chinoise dans la région, dans un contexte de crise diplomatique sino-japonaise ouverte depuis novembre 2025.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/05/2003861956"
     }
   ],
   "edges": [
@@ -194,61 +172,67 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "Les tensions non résolues sur Ormuz alimentent directement la remontée des cours du Brent, les traders anticipant un risque prolongé sur l'approvisionnement."
+      "explanation": "L'absence de tout canal de négociation directe entre Washington et Téhéran maintient la prime de risque sur le brut, le marché intégrant un blocage prolongé du détroit."
     },
     {
       "source": "n02",
       "target": "n03",
       "type": "cause",
-      "explanation": "La flambée du pétrole nourrit les craintes d'inflation importée, poussant plusieurs gouverneurs de la Fed à réclamer une hausse de taux préventive."
+      "explanation": "La remontée du pétrole nourrit les craintes inflationnistes qui poussent les investisseurs à réduire leur exposition aux valeurs de croissance avant le CPI, contribuant au repli de Wall Street."
     },
     {
-      "source": "n04",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Les deux news couvrent le même chantier réglementaire du FRTB, vu sous l'angle de l'allègement politique côté UE et de son application opérationnelle dans le pricing XVA."
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La prudence des marchés avant la publication du CPI de mercredi est directement motivée par l'incertitude sur la trajectoire de la Fed que ce rapport doit éclairer."
+    },
+    {
+      "source": "n05",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "Les inquiétudes sur la réorganisation de DeepMind et le retard de Gemini pèsent spécifiquement sur le titre Alphabet, qui tire le Nasdaq vers le bas ce jour-là."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "Le même jour, Google traverse une crise de leadership et des retards de modèles pendant qu'OpenAI démontre une avancée scientifique spectaculaire, illustrant l'écart d'exécution qui se creuse entre labs frontières."
     },
     {
       "source": "n06",
       "target": "n07",
-      "type": "tension",
-      "explanation": "Le sabotage attribué à la Russie contre un hub logistique clé de l'aide à l'Ukraine et l'annonce d'un nouveau transfert d'armes occidentales illustrent l'escalade parallèle entre soutien militaire à Kiev et guerre hybride russe en Europe."
+      "type": "meme_sujet",
+      "explanation": "Les deux annonces illustrent la même dynamique du jour: les labs IA et leurs partenaires logiciels démontrent des capacités génératives de plus en plus autonomes, en maths pour l'un, en design/code pour l'autre."
+    },
+    {
+      "source": "n08",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "L'escalade des frappes russes utilisant des équipements nord-coréens, dénoncée par Zelensky, renforce l'argumentaire bipartisan qui a permis l'adoption rapide du texte de sanctions à la Chambre."
     },
     {
       "source": "n01",
-      "target": "n08",
+      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Ormuz et Gaza sont deux fronts distincts d'une même poussée d'instabilité au Moyen-Orient qui pèse simultanément sur les marchés et la diplomatie américaine."
-    },
-    {
-      "source": "n09",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "Le même jour, Anthropic réduit la supervision humaine sur les actions de son agent de code tandis qu'OpenAI resserre au contraire l'accès à ses modèles les plus puissants en cybersécurité: deux philosophies opposées de gestion du risque frontière."
+      "explanation": "Le même texte de loi américain vise simultanément le contournement des sanctions russes et le secteur énergétique iranien, reliant les deux fronts géopolitiques du jour à un seul instrument législatif."
     },
     {
       "source": "n10",
       "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "L'ouverture contrôlée des modèles cyber et la préparation d'une IPO reflètent la même bascule d'OpenAI vers une phase de monétisation et de mise à l'échelle commerciale de sa technologie."
+      "type": "tension",
+      "explanation": "Pendant que les régulateurs bancaires américains repoussent un cadre de capital plus strict, Wall Street s'engage massivement à financer la dette de l'infrastructure IA, deux signaux d'un appétit au risque financier grandissant sur des actifs difficiles à valoriser dans la durée."
     },
     {
-      "source": "n09",
-      "target": "n12",
+      "source": "n05",
+      "target": "n11",
       "type": "tension",
-      "explanation": "L'automatisation croissante des actions d'agents IA comme Claude Code fait écho au débat sur la 'paresse métacognitive': dans les deux cas, déléguer davantage à l'IA questionne ce que l'humain garde sous contrôle et ce qu'il perd en compétence."
+      "explanation": "Le doute sur l'exécution de Google DeepMind contraste avec la confiance affichée par Nvidia et Wall Street, qui parient 500 milliards de dollars sur la poursuite de la course à l'infrastructure IA malgré ces turbulences chez l'un des labs leaders."
     },
     {
-      "source": "n14",
-      "target": "n15",
+      "source": "n13",
+      "target": "n02",
       "type": "tension",
-      "explanation": "La Chine formalise sa trajectoire climatique quinquennale au moment même où les États-Unis restreignent l'accès à sa technologie d'onduleurs solaires pour motifs de sécurité, deux approches divergentes de la course à la transition énergétique."
-    },
-    {
-      "source": "n02",
-      "target": "n14",
-      "type": "tension",
-      "explanation": "La flambée pétrolière liée à Ormuz souligne la dépendance persistante aux fossiles au moment même où la Chine formalise sa trajectoire de décarbonation, une tension structurelle entre sécurité énergétique de court terme et transition de long terme."
+      "explanation": "La sécheresse qui prive la Roumanie d'hydroélectricité et de capacité nucléaire illustre, en miroir du choc pétrolier lié à Ormuz, la vulnérabilité simultanée de l'Europe aux approvisionnements fossiles et aux aléas climatiques sur sa propre production."
     }
   ]
 }

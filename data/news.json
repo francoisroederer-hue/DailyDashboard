@@ -1,170 +1,203 @@
 {
-  "generated_at": "2026-08-12T05:30:00Z",
+  "generated_at": "2026-08-13T05:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Ormuz: Iran ne cède pas",
-      "title": "L'Iran maintient ses conditions strictes sur Ormuz",
-      "summary": "Le ministre iranien des Affaires étrangères Abbas Araghchi a confirmé qu'aucune négociation directe n'est en cours avec Washington, Téhéran exigeant un changement de comportement américain avant toute réouverture normale du détroit. Les discussions techniques avec Oman sur la gestion du trafic progressent en parallèle, mais Téhéran précise qu'elles n'impliquent pas la réouverture du détroit.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/iran-sets-steep-demands-reopening-hormuz-hopes-oman-deal-break-impasse-rcna591553"
+      "short_title": "Trump exige réparations",
+      "title": "Trump exige des réparations de l'Iran",
+      "summary": "Donald Trump a demandé à ses négociateurs d'obtenir de l'Iran le paiement de réparations pour les Américains tués ou blessés dans des attaques attribuées à Téhéran depuis des décennies, y compris l'attentat du USS Cole en 2000. Cette contre-exigence, en réponse aux propres demandes de réparations et de levée du blocus formulées par Téhéran, éloigne encore un peu plus la perspective d'un accord sur la réouverture du détroit d'Ormuz.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brut au-dessus de 83$",
-      "title": "Le brut américain dépasse 83 dollars sur l'impasse à Ormuz",
-      "summary": "Le WTI a franchi les 83 dollars le baril alors que l'Iran répète vouloir maintenir le détroit fermé jusqu'à un changement de posture américaine. Les marchés pétroliers restent sur les nerfs, l'absence de tout canal de négociation directe entre Washington et Téhéran alimentant les craintes d'un blocage prolongé de 20% des flux mondiaux de brut.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+      "short_title": "Brut et taux remontent",
+      "title": "Le pétrole et les rendements obligataires grimpent",
+      "summary": "Les prix du pétrole et les rendements des bons du Trésor américain ont progressé après l'échange de contre-exigences de réparations entre Washington et Téhéran, signe que l'impasse sur la réouverture du détroit d'Ormuz pourrait durer. Le baril de Brent avait déjà bondi de plus de 5% quelques jours plus tôt sur les craintes d'une perturbation prolongée du trafic maritime.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/business/2026/08/11/oil-prices-and-us-bond-yields-rise-as-trump-and-iran-trade-reparations-demands"
     },
     {
       "id": "n03",
       "theme": "finance",
       "subtopic": "macro",
       "importance": 3,
-      "short_title": "Wall St recule avant CPI",
-      "title": "Wall Street recule avant l'indice CPI, Alphabet plombe le Nasdaq",
-      "summary": "Le Dow et le S&P 500 ont cédé environ 0,3% et le Nasdaq 0,6% mardi, les investisseurs réduisant leur exposition aux valeurs technologiques à forte croissance avant la publication du CPI de juillet le lendemain. Le titre Alphabet a particulièrement pesé sur l'indice, dans le sillage des inquiétudes persistantes sur la réorganisation de Google DeepMind et le retard de Gemini.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+      "short_title": "CPI juillet: 3,4%",
+      "title": "L'inflation américaine ralentit à 3,4% en juillet",
+      "summary": "L'indice des prix à la consommation a progressé de 0,1% en juillet, ramenant le glissement annuel à 3,4% et l'inflation sous-jacente à 2,5%, tous deux en repli par rapport à juin. Les marchés ont réduit la probabilité d'une hausse de taux en septembre, les traders arbitrant désormais surtout entre une baisse de 25 et 50 points de base, sous réserve des données d'emploi et d'inflation encore à venir avant la décision de la Fed.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "CPI de juillet attendu",
-      "title": "Le CPI de juillet, test clé pour la Fed avant septembre",
-      "summary": "Le consensus attend une inflation totale en hausse de 0,1% sur le mois et une baisse du glissement annuel à 3,4%, tandis que Pantheon Macroeconomics anticipe une accélération des prix des biens liée aux hausses de prix d'Apple sur son matériel. Le rapport, publié ce mercredi, doit trancher si le ralentissement du marché du travail suffit à maintenir la Fed en pause ou si les pressions inflationnistes justifient encore une hausse.",
-      "source": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/preview-us-cpi-due-wednesday-12th-august-2026-at-1330bst0830edt"
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 3,
+      "short_title": "Drones sur Novorossiysk",
+      "title": "Des drones ukrainiens frappent la flotte russe en mer Noire",
+      "summary": "Une attaque combinant drones à réaction Palianytsia, missiles Neptune et systèmes maritimes sans pilote a endommagé quatre navires de guerre russes dans le port de Novorossiysk, dernier sanctuaire de la flotte russe de la mer Noire, selon Zelensky. Les frappes ont aussi touché un radar S-300 et des infrastructures portuaires, tandis que des incendies se propageaient au terminal pétrolier de Sheskharis et au terminal céréalier voisin.",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-4-russian-warships-damaged-in-strike-on-black-sea-fleet-port-in-novorossiysk/"
     },
     {
       "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "DeepMind: nouveau chef IA",
-      "title": "Google nomme Kavukcuoglu à la tête de la recherche IA après le séisme DeepMind",
-      "summary": "Après le départ le même jour de Demis Hassabis de la direction opérationnelle (devenu président de DeepMind et chef scientifique d'Alphabet) et de plusieurs figures fondatrices vers la startup Discovery Loop, Google a promu Koray Kavukcuoglu vice-président senior chargé de la recherche IA et du développement de Gemini. Les modèles Gemini 3.5 Pro et 3.6 Flash accusent des retards répétés, alimentant les inquiétudes sur la capacité de Google à rivaliser avec Anthropic et OpenAI.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/google-deepmind-shakeup-hassabis-jeff-dean-vinyals-discovery-loop"
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Missiles russes: Ukraine",
+      "title": "Nouvelle salve de missiles et drones russes sur l'Ukraine",
+      "summary": "L'armée de l'air ukrainienne a rapporté une attaque nocturne combinant un missile balistique Iskander-M, un missile antiradar Kh-31P, des missiles Kh-35 et 138 drones Shahed visant notamment les régions d'Odessa et de Soumy, dont 112 ont été interceptés. Volodymyr Zelensky a affirmé que Poutine ne veut pas arrêter la guerre mais qu'il y sera contraint, évoquant un plan conjoint avec les alliés de l'Ukraine pour mettre fin au conflit.",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-allies-have-plan-to-make-putin-stop-war-zelensky-says/"
     },
     {
       "id": "n06",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Astra résout 10 problèmes",
-      "title": "Un modèle non publié d'OpenAI résout dix problèmes mathématiques ouverts",
-      "summary": "Astra, le prochain modèle d'OpenAI encore non publié, a produit des preuves formelles vérifiables en Lean 4 pour dix problèmes ouverts depuis au moins une décennie en mathématiques et informatique théorique, dont une construction de groupe non sofique inédite. Les preuves, publiées sur GitHub sous licence libre avec un taux d'erreur nul détecté par le vérificateur Lean, ont été jugées publiables en l'état par le médaillé Fields Timothy Gowers.",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups"
+      "importance": 3,
+      "short_title": "OpenAI: GPT-5.6-Cyber",
+      "title": "OpenAI lance un modèle IA dédié à la cybersécurité",
+      "summary": "OpenAI a dévoilé GPT-5.6-Cyber, un modèle entraîné pour des tâches de sécurité offensive et défensive comme la recherche de failles zero-day ou la construction de chaînes d'exploitation, avec un taux de refus nettement abaissé pour ces usages à double tranchant. L'accès est restreint à des partenaires de confiance via deux nouveaux paliers du programme Daybreak, Blue pour la défense et Red pour les modèles offensifs, afin de limiter les risques de détournement.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
     },
     {
       "id": "n07",
       "theme": "tech",
-      "subtopic": "design",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Figma x Anthropic",
-      "title": "Figma lance des calques de code et un partenariat avec Anthropic",
-      "summary": "Figma a introduit des 'code layers', des calques transformables en composants de code interactifs par simple prompt, ainsi qu'un partenariat 'Code to Canvas' avec Anthropic reliant génération de design et génération de code. L'outil Figma Make permet aussi d'annoter directement une zone du canvas pour guider l'édition visuelle par IA, brouillant encore la frontière entre design et développement.",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/config-2026-recap/"
+      "short_title": "ChatGPT teste la pub",
+      "title": "OpenAI étend son test publicitaire dans ChatGPT",
+      "summary": "Après un premier test aux États-Unis, OpenAI a étendu l'affichage de publicités sous les réponses de ChatGPT au Royaume-Uni, au Mexique, au Brésil, au Japon et en Corée du Sud, pour les utilisateurs des offres gratuite et Go. Les publicités, clairement identifiées et exclues des sujets sensibles comme la santé ou la politique, visent à financer les coûts élevés du développement de l'IA alors que ChatGPT dépasse le milliard d'utilisateurs hebdomadaires.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt/"
     },
     {
       "id": "n08",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Ukraine: frappes russes",
-      "title": "Des frappes russes utilisant des missiles nord-coréens tuent 12 personnes",
-      "summary": "Des frappes russes nocturnes ont tué au moins 12 personnes et fait de nombreux blessés dans plusieurs régions ukrainiennes, Kiev accusant Moscou d'avoir employé des missiles Zircon et Iskander-M/KN-23 ainsi que 120 drones d'attaque. Volodymyr Zelensky a averti que la Russie se prépare à une nouvelle escalade plutôt qu'à la paix, citant l'arrivée d'équipements nord-coréens et une production de missiles dépassant les objectifs annuels de Moscou.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
+      "short_title": "Claude Code passe en auto",
+      "title": "Claude Code adopte l'approbation automatique par défaut",
+      "summary": "Anthropic bascule le mode de permission par défaut de Claude Code sur 'auto' pour les offres Pro, Max et Team à partir du 14 août, remplaçant les validations manuelles de chaque commande par un classificateur qui filtre les appels d'outils jugés risqués. Dans une étude interne, ce classificateur a détecté 89% des commandes dangereuses délibérées contre 13,6% pour des relecteurs humains, mais les propres résultats d'Anthropic montrent qu'il a manqué 17% des cas réels où Claude a agi au-delà de ce que l'utilisateur avait autorisé.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/10/claude-code-puts-auto-mode-in-the-drivers-seat/5285326"
     },
     {
       "id": "n09",
-      "theme": "geopol",
-      "subtopic": "usa",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Sanctions Russie-Iran",
-      "title": "La Chambre US avance sur un vaste texte de sanctions anti-russes",
-      "summary": "Une coalition bipartisane menée par Michael McCaul et Steny Hoyer a présenté à la Chambre des représentants le 'Lindsey O. Graham Sanctioning Russia and Iran Act', qui vise les banques russes, la flotte fantôme et les acheteurs de pétrole et gaz russes, après une adoption au Sénat par 86 voix contre 11. Le texte étend aussi les sanctions sur les secteurs énergétique et militaire iraniens.",
-      "source": "RFE/RL",
-      "url": "https://www.rferl.org/a/33826098.html"
+      "short_title": "Claude Code pour l'État",
+      "title": "Claude Code et Cowork arrivent en bêta pour les administrations",
+      "summary": "Anthropic ouvre en bêta publique Claude Code et Claude Cowork au sein de Claude for Government Desktop, hébergé dans un environnement autorisé FedRAMP High. Les agences fédérales peuvent déléguer revues de dossiers, notes et présentations à Cowork tandis que Claude Code sert à moderniser leurs systèmes logiciels, avec journaux d'audit infalsifiables pour les équipes de sécurité.",
+      "source": "Claude by Anthropic",
+      "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government"
     },
     {
       "id": "n10",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Basel III US retardé",
-      "title": "Bâle III américain: une nouvelle proposition repoussée à 2027",
-      "summary": "La vice-présidente chargée de la supervision à la Fed, Michelle Bowman, a indiqué qu'une nouvelle version de la règle Basel III Endgame n'arrivera que début 2027, en tenant compte des accords internationaux. La reproposition de mars 2026 avait déjà renversé la trajectoire initiale de 2023, offrant un allègement net d'environ 87,7 milliards de dollars de capital aux plus grandes banques américaines au lieu de la hausse de 19% initialement prévue.",
-      "source": "Bloomberg Professional Services",
-      "url": "https://www.bloomberg.com/professional/insights/financial-services/fed-remarks-points-to-capital-neutral-basel-iii-endgame-in-2026/"
+      "short_title": "Mistral héberge GLM-5.2",
+      "title": "Mistral commence à héberger des modèles tiers, dont GLM-5.2",
+      "summary": "Mistral AI a annoncé l'hébergement sur sa plateforme de modèles ouverts tiers, en commençant par GLM-5.2 du laboratoire chinois Z.ai, optimisé pour le codage à long contexte et les workflows agentiques. Ce virage vers l'infrastructure neutre s'inscrit dans la stratégie de souveraineté européenne de Mistral, qui prévoit aussi de bâtir un gigawatt de capacité de calcul d'ici 2030 avec un consortium d'entreprises européennes.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now"
     },
     {
       "id": "n11",
-      "theme": "finance",
-      "subtopic": "financement_ia",
-      "importance": 3,
-      "short_title": "Nvidia lève 500Mds$",
-      "title": "Nvidia mobilise 500 milliards de dollars via Wall Street pour financer l'IA",
-      "summary": "Nvidia a signé des protocoles d'accord avec six géants financiers (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) pour lever plus de 500 milliards de dollars de financement destiné à ses clients construisant des centres de données IA. Jensen Huang a présenté les puces IA comme une nouvelle 'classe d'actifs investissable', une thèse contestée par certains observateurs qui rappellent la dépréciation rapide des semi-conducteurs face aux nouvelles générations.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "v0 passe en production",
+      "title": "Vercel v0 s'impose en génération de code de production",
+      "summary": "Les équipes utilisant v0 de Vercel déploient désormais couramment des interfaces générées par IA directement en production avec une revue allégée, signe de la maturation rapide des outils de 'vibe coding' face à Lovable, Bolt, Replit Agent ou Cursor. L'outil permet d'importer des dépôts GitHub existants et de générer en agentique une stack complète, interface, logique backend, base de données et intégrations API, à partir d'un seul prompt.",
+      "source": "makeanapplike.com",
+      "url": "https://makeanapplike.com/news/launches/vercel-v0-production-ready-2026"
     },
     {
       "id": "n12",
-      "theme": "sciences",
-      "subtopic": "geophysique",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Neutrinos du manteau",
-      "title": "Un réseau mondial de détecteurs de neutrinos sonde le manteau terrestre",
-      "summary": "Une constellation internationale de détecteurs, dont l'expérience JUNO en Chine qui doit livrer ses premières détections de géoneutrinos cette année, offre une vue inédite des éléments radioactifs qui alimentent le moteur thermique de la tectonique des plaques. Seules quelques centaines de géoneutrinos ont été détectées en plusieurs décennies de recherche, rendant chaque nouvelle mesure précieuse pour comprendre la structure profonde du manteau.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
+      "short_title": "ACPR alerte sur le crédit",
+      "title": "L'ACPR pointe les risques du crédit non bancaire",
+      "summary": "Dans son programme de travail 2026, l'Autorité de contrôle prudentiel et de résolution identifie l'interconnexion croissante entre banques et intermédiaires financiers non bancaires, notamment sur le crédit privé, comme un risque systémique prioritaire à surveiller. Des valorisations de marché jugées élevées et la montée en puissance rapide de ces acteurs peu régulés renforcent la vigilance du superviseur français.",
+      "source": "ACPR - Banque de France",
+      "url": "https://acpr.banque-france.fr/en/press-release/autorite-de-controle-prudentiel-et-de-resolution-prudential-supervision-and-resolution-authority"
     },
     {
       "id": "n13",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "sciences",
+      "subtopic": "neurosciences",
       "importance": 2,
-      "short_title": "Roumanie: crise énergie",
-      "title": "La Roumanie rationne l'électricité industrielle face à la sécheresse",
-      "summary": "Bucarest a placé le secteur énergétique en état d'alerte pour tout le mois d'août et impose des réductions de consommation à plus de 80 grandes entreprises, la sécheresse ayant fait chuter le niveau du Danube et contraint la centrale nucléaire de Cernavodă à arrêter l'un de ses deux réacteurs. La centrale fournit habituellement un cinquième de l'électricité roumaine, et le pays sollicite désormais un appui de l'Ukraine voisine pour les pics de consommation.",
-      "source": "Balkan Insight",
-      "url": "https://balkaninsight.com/2026/08/04/romania-cuts-industrial-output-to-ease-power-shortage/bi/"
+      "short_title": "Langage et raisonnement",
+      "title": "Le cerveau sépare langage et raisonnement logique",
+      "summary": "Des chercheurs du McGovern Institute du MIT montrent que même des patients aux capacités de langage sévèrement altérées après un AVC résolvent aussi bien des énigmes logiques que des sujets sains, avec une région cérébrale du langage quasiment silencieuse pendant ces tâches de raisonnement. L'étude, publiée dans PNAS, suggère que langage et logique reposent sur des réseaux cérébraux distincts plutôt que le premier ne serve de substrat à la seconde.",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/separating-logic-and-language-0708"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Moins de protéines?",
-      "title": "Réduire l'apport en protéines pourrait aussi favoriser un vieillissement sain",
-      "summary": "Une étude relaie des données selon lesquelles une réduction modérée de l'apport protéique, plutôt que son augmentation systématique prônée par une partie de la littérature sur la longévité, remodèle favorablement le métabolisme chez certains profils. Ce résultat nuance le consensus dominant chez les défenseurs de la musculation et de la préservation de la masse maigre après 40 ans, qui recommandent généralement un apport élevé.",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-07-protein-intake-healthy-aging-reshaping.html"
+      "theme": "sciences",
+      "subtopic": "neurosciences",
+      "importance": 1,
+      "short_title": "Le cerveau se répare",
+      "title": "Le cerveau adulte se répare mieux que prévu",
+      "summary": "Des chercheurs de l'Université de Zurich ont identifié chez la souris des astrocytes 'régénératifs' qui réagissent aux tissus cérébraux endommagés en fabriquant de nouveaux noyaux acheminés vers la zone lésée pour reconstruire le réseau cellulaire perdu. Cette capacité de réparation, observée par imagerie en temps réel sur plusieurs semaines, ouvre des pistes thérapeutiques pour améliorer la récupération après certaines lésions ou maladies neurodégénératives.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm"
     },
     {
       "id": "n15",
-      "theme": "geopol",
-      "subtopic": "asie",
+      "theme": "climat",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Japon inquiet: Taïwan",
-      "title": "Le Livre blanc de la défense japonais pointe la menace sur Taïwan",
-      "summary": "Le nouveau Livre blanc de la défense du Japon désigne la sécurité du détroit de Taïwan comme une préoccupation majeure, relevant que les incursions aériennes chinoises autour de l'île sont passées d'environ 970 en 2021 à plus de 3700 l'an dernier. Tokyo y voit une normalisation progressive de la présence militaire chinoise dans la région, dans un contexte de crise diplomatique sino-japonaise ouverte depuis novembre 2025.",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/05/2003861956"
+      "short_title": "Europe: chaleur record",
+      "title": "L'Europe se réchauffe deux fois plus vite, aux conséquences mortelles",
+      "summary": "L'Organisation météorologique mondiale et Copernicus confirment que l'Europe se réchauffe à plus du double du rythme mondial, la seule vague de chaleur de juin ayant causé plus de 25 000 décès selon Copernicus. Au Royaume-Uni, une sécheresse sévère après le juillet le plus sec jamais enregistré place le pays sur la trajectoire de sa pire récolte céréalière historique, avec environ 2 milliards d'euros de pertes agricoles pour l'Europe.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/26/europe-heat-wave-record-2026-climate-warming-speed/"
+    },
+    {
+      "id": "n16",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Muscu et longévité",
+      "title": "90 à 120 minutes de renforcement musculaire par semaine, l'optimum",
+      "summary": "Une étude ayant suivi 147 374 personnes pendant 30 ans, publiée dans le British Journal of Sports Medicine, associe 90 à 120 minutes de musculation hebdomadaire à une réduction de 13% de la mortalité toutes causes, 19% pour les décès cardiovasculaires et 27% pour les décès neurologiques. Le bénéfice plafonne au-delà de deux heures par semaine, ce qui conforte les recommandations d'une dose modérée mais régulière plutôt que des volumes d'entraînement très élevés.",
+      "source": "Harvard T.H. Chan School of Public Health",
+      "url": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/"
+    },
+    {
+      "id": "n17",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Gènes du vieillissement",
+      "title": "Un réseau de gènes du vieillissement pour recycler des médicaments",
+      "summary": "Des chercheurs de Northeastern montrent que les gènes liés au vieillissement s'organisent en un réseau associé aux grands mécanismes du vieillissement cellulaire, permettant d'identifier des médicaments déjà existants susceptibles de ralentir, ou à l'inverse d'accélérer, ce processus. L'approche ouvre une voie de repositionnement thérapeutique moins coûteuse que le développement de nouvelles molécules anti-âge.",
+      "source": "Northeastern Global News",
+      "url": "https://news.northeastern.edu/2026/06/26/longevity-research-drugs/"
+    },
+    {
+      "id": "n18",
+      "theme": "learn",
+      "subtopic": "education_ia",
+      "importance": 2,
+      "short_title": "IA et sur-dépendance",
+      "title": "L'OCDE alerte sur la dépendance aux chatbots IA en classe",
+      "summary": "Le rapport OCDE Digital Education Outlook 2026 montre que les étudiants ayant accès à un chatbot IA généraliste produisent de meilleurs travaux, mais que cet avantage disparaît, voire s'inverse, lors d'examens sans accès à l'outil. Le rapport interroge la capacité des élèves à réellement internaliser les apprentissages lorsque l'IA prend en charge une partie du travail cognitif à leur place.",
+      "source": "OCDE",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html"
     }
   ],
   "edges": [
@@ -172,67 +205,61 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "L'absence de tout canal de négociation directe entre Washington et Téhéran maintient la prime de risque sur le brut, le marché intégrant un blocage prolongé du détroit."
+      "explanation": "La contre-exigence de réparations formulée par Trump en réponse aux demandes iraniennes éloigne la perspective d'un accord sur Ormuz, ce qui pousse le pétrole et les rendements obligataires à la hausse."
     },
     {
       "source": "n02",
       "target": "n03",
-      "type": "cause",
-      "explanation": "La remontée du pétrole nourrit les craintes inflationnistes qui poussent les investisseurs à réduire leur exposition aux valeurs de croissance avant le CPI, contribuant au repli de Wall Street."
+      "type": "tension",
+      "explanation": "La remontée du pétrole ravive le risque inflationniste au moment même où le CPI de juillet confirme un ralentissement des prix, envoyant des signaux opposés à la Fed avant sa réunion de septembre."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Les deux frappes surviennent dans la même fenêtre de 24 à 48 heures et illustrent l'escalade mutuelle du conflit, Kiev frappant en profondeur la flotte russe pendant que Moscou poursuit ses bombardements sur les villes ukrainiennes."
     },
     {
       "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "La prudence des marchés avant la publication du CPI de mercredi est directement motivée par l'incertitude sur la trajectoire de la Fed que ce rapport doit éclairer."
-    },
-    {
-      "source": "n05",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "Les inquiétudes sur la réorganisation de DeepMind et le retard de Gemini pèsent spécifiquement sur le titre Alphabet, qui tire le Nasdaq vers le bas ce jour-là."
-    },
-    {
-      "source": "n05",
-      "target": "n06",
+      "target": "n12",
       "type": "tension",
-      "explanation": "Le même jour, Google traverse une crise de leadership et des retards de modèles pendant qu'OpenAI démontre une avancée scientifique spectaculaire, illustrant l'écart d'exécution qui se creuse entre labs frontières."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Les deux annonces illustrent la même dynamique du jour: les labs IA et leurs partenaires logiciels démontrent des capacités génératives de plus en plus autonomes, en maths pour l'un, en design/code pour l'autre."
+      "explanation": "Alors que la Fed semble pouvoir se permettre une posture accommodante grâce au ralentissement de l'inflation, le superviseur bancaire français met en garde contre l'essor mal maîtrisé du crédit non bancaire, rappelant que la stabilité financière reste fragile malgré des indicateurs macro rassurants."
     },
     {
       "source": "n08",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "Le même mois, Anthropic allège la surveillance humaine par défaut de son agent de codage tandis qu'OpenAI restreint étroitement l'accès à son modèle de cybersécurité le plus permissif, deux paris opposés sur le niveau d'autonomie à accorder à des IA capables d'actions à haut risque."
+    },
+    {
+      "source": "n06",
       "target": "n09",
-      "type": "cause",
-      "explanation": "L'escalade des frappes russes utilisant des équipements nord-coréens, dénoncée par Zelensky, renforce l'argumentaire bipartisan qui a permis l'adoption rapide du texte de sanctions à la Chambre."
+      "type": "meme_sujet",
+      "explanation": "Les deux annonces montrent les labs IA courtiser des marchés institutionnels sensibles à la confiance, OpenAI via un programme cybersécurité réservé à des partenaires vérifiés, Anthropic via une offre gouvernementale certifiée FedRAMP High."
     },
     {
       "source": "n01",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Le même texte de loi américain vise simultanément le contournement des sanctions russes et le secteur énergétique iranien, reliant les deux fronts géopolitiques du jour à un seul instrument législatif."
-    },
-    {
-      "source": "n10",
-      "target": "n11",
+      "target": "n15",
       "type": "tension",
-      "explanation": "Pendant que les régulateurs bancaires américains repoussent un cadre de capital plus strict, Wall Street s'engage massivement à financer la dette de l'infrastructure IA, deux signaux d'un appétit au risque financier grandissant sur des actifs difficiles à valoriser dans la durée."
-    },
-    {
-      "source": "n05",
-      "target": "n11",
-      "type": "tension",
-      "explanation": "Le doute sur l'exécution de Google DeepMind contraste avec la confiance affichée par Nvidia et Wall Street, qui parient 500 milliards de dollars sur la poursuite de la course à l'infrastructure IA malgré ces turbulences chez l'un des labs leaders."
+      "explanation": "Pendant que l'impasse Trump-Iran fait planer un choc énergétique géopolitique sur le Moyen-Orient, l'Europe affronte sa propre vulnérabilité énergétique d'origine climatique, entre canicules et sécheresse, deux menaces distinctes sur la sécurité d'approvisionnement du continent."
     },
     {
       "source": "n13",
-      "target": "n02",
+      "target": "n14",
+      "type": "meme_sujet",
+      "explanation": "Publiées la même semaine, ces deux découvertes en neurosciences éclairent sous des angles différents l'organisation et la plasticité du cerveau, l'une sur la séparation des circuits cognitifs, l'autre sur ses capacités de régénération."
+    },
+    {
+      "source": "n16",
+      "target": "n17",
+      "type": "meme_sujet",
+      "explanation": "Ces deux résultats de recherche sur la longévité, l'un comportemental sur la dose d'exercice, l'autre moléculaire sur le repositionnement de médicaments, convergent vers une approche fondée sur les preuves plutôt que sur des recettes anti-âge non validées."
+    },
+    {
+      "source": "n18",
+      "target": "n08",
       "type": "tension",
-      "explanation": "La sécheresse qui prive la Roumanie d'hydroélectricité et de capacité nucléaire illustre, en miroir du choc pétrolier lié à Ormuz, la vulnérabilité simultanée de l'Europe aux approvisionnements fossiles et aux aléas climatiques sur sa propre production."
+      "explanation": "L'OCDE documente comment l'usage de chatbots IA améliore la performance apparente des élèves mais fragilise leurs acquis une fois l'outil retiré, une question de sur-dépendance cognitive qui se pose aussi pour les développeurs à mesure que Claude Code prend en charge davantage de décisions par défaut."
     }
   ]
 }

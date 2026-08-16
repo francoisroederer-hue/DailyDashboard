@@ -1,254 +1,237 @@
 {
-  "generated_at": "2026-08-15T09:15:00Z",
+  "generated_at": "2026-08-16T09:15:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Isolement éco d'Iran",
-      "title": "Bessent menace Téhéran d'isolement économique inédit",
-      "summary": "Le secrétaire au Trésor américain Scott Bessent a promis un isolement économique de l'Iran \"comme le monde n'en a jamais vu\", de nouvelles mesures devant être dévoilées la semaine prochaine. Le secrétaire à la Défense Pete Hegseth a confirmé que le blocus naval des ports iraniens pourrait se poursuivre indéfiniment, la marine américaine faisant tourner ses navires sur zone.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/14/us-trump-iran-hormuz-hegseth-bessent-tariffs-trade.html"
+      "short_title": "Trump revendique Ormuz",
+      "title": "Trump veut annexer le détroit d'Ormuz",
+      "summary": "Lors d'un déplacement à Garden City, Donald Trump a affirmé qu'il déclarera « bientôt » le détroit d'Ormuz territoire américain, une fois l'Iran « vaincu ». La déclaration intervient alors que Washington maintient un blocus naval empêchant la libre circulation dans ce couloir stratégique du transport pétrolier mondial.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Porte-avions US relayé",
-      "title": "L'USS George Washington remplace l'USS Lincoln",
-      "summary": "Le Pentagone envoie le porte-avions USS George Washington au Moyen-Orient pour relever l'USS Abraham Lincoln, déployé depuis plus de 250 jours sans escale. Ce redéploiement confirme qu'aucune désescalade militaire n'est prévue à court terme, malgré des inquiétudes croissantes sur le moral des équipages.",
-      "source": "FDD Overnight Brief",
-      "url": "https://www.fdd.org/overnight-brief/august-14-2026/"
+      "short_title": "Iran rejette Trump",
+      "title": "Téhéran qualifie la revendication US de « délires »",
+      "summary": "L'Iran a répondu que le détroit d'Ormuz ne sera ouvert et fermé que sur ordre de Téhéran, tant que Washington n'acceptera pas sa défaite et cessera de « s'adonner à des illusions ». Le régime maintient ses conditions : levée des sanctions et réparations de guerre avant toute réouverture.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent au-dessus de 88$",
-      "title": "Le Brent grimpe à plus de 88 dollars",
-      "summary": "Le baril de Brent a bondi de 1,8% à environ 88,6 dollars, les marchés intégrant la persistance du risque sur le détroit d'Ormuz alors que les négociations Iran-Oman pour sa réouverture restent bloquées. Les rebelles houthis ont par ailleurs visé la raffinerie saoudienne de Jizan, entretenant la prime de risque sur le brut.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Escalade Houthis Taïz",
+      "title": "Flambée de violence à Taïz au Yémen",
+      "summary": "Les forces gouvernementales yéménites et les Houthis se sont livrés à trois jours d'affrontements intenses dans la province de Taïz, faisant plus de 27 morts côté houthi selon les forces alignées sur le gouvernement. Les rebelles affirment avoir simultanément frappé une installation pétrolière saoudienne, ravivant les craintes d'un retour à la guerre ouverte au Yémen.",
+      "source": "Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20260814-over-27-houthis-killed-19-injured-in-taiz-strikes-over-3-days-yemens-govt-aligned-forces/"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 3,
-      "short_title": "UE ajuste le FRTB",
-      "title": "Bruxelles allège temporairement le FRTB",
-      "summary": "La Commission européenne a adopté un acte délégué instaurant un multiplicateur temporaire qui neutralise une partie de la charge en capital du FRTB pour les banques européennes entre 2027 et 2029, afin de compenser le retard d'application du cadre de risque de marché de Bâle III aux Etats-Unis et au Royaume-Uni. La mesure vise à limiter les distorsions de compétitivité pour les banques de l'UE sur les marchés de capitaux mondiaux.",
-      "source": "Commission européenne (DG FISMA)",
-      "url": "https://finance.ec.europa.eu/publications/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks_en"
+      "theme": "geopol",
+      "subtopic": "japon",
+      "importance": 2,
+      "short_title": "Poutine visite Kouriles",
+      "title": "Poutine se rend dans les îles Kouriles disputées",
+      "summary": "Vladimir Poutine a effectué sa première visite en tant que président sur l'île d'Iturup, dans l'archipel des Kouriles revendiqué par le Japon depuis 1945. La Première ministre japonaise Sanae Takaichi a jugé la visite « absolument inacceptable », durcissant encore les relations bilatérales.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "france",
-      "importance": 1,
-      "short_title": "CAC 40 recule",
-      "title": "Le CAC 40 casse sa série de records",
-      "summary": "L'indice parisien a reculé d'environ 0,25% autour de 8 652 points, mettant fin à une série de clôtures record: la remontée du pétrole liée aux tensions sur l'Iran a contrebalancé le reflux de l'inflation. Dassault Systèmes et Safran ont pesé sur l'indice, tandis que les valeurs défensives ont limité la baisse.",
-      "source": "Yahoo Finance",
-      "url": "https://fr.finance.yahoo.com/actualites/cac-40-bourse-partag%C3%A9e-entre-093821231.html"
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent sous tension",
+      "title": "Le pétrole reste sous tension durable",
+      "summary": "Le Brent progresse encore, porté par l'absence persistante d'accord sur la réouverture du détroit d'Ormuz malgré des négociations Iran-Oman évoquées comme proches d'aboutir depuis des semaines. Les flux via Ormuz restent effondrés à environ 4,9 millions de barils/jour au T2, contre 21,6 millions avant le conflit, alimentant la plus grande disruption énergétique jamais enregistrée.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Trêve en mer Noire",
-      "title": "Kyiv propose une trêve limitée en mer Noire",
-      "summary": "L'Ukraine a transmis, via un intermédiaire, une offre de cessez-le-feu limitée aux frappes sur les cibles civiles en mer Noire, une zone cruciale pour les exportations mondiales de céréales, mais Moscou n'a pas encore répondu. Le chef de la diplomatie russe Sergueï Lavrov a par ailleurs exclu toute trêve plus large sur le conflit.",
-      "source": "Reuters (via Ukranews)",
-      "url": "https://ukranews.com/en/news/1168649-ukraine-proposes-ceasefire-in-black-sea-to-russia-reuters"
+      "theme": "finance",
+      "subtopic": "france",
+      "importance": 1,
+      "short_title": "CAC 40 recule 4e fois",
+      "title": "La Bourse de Paris recule pour la 4e séance",
+      "summary": "Le CAC 40 a cédé 0,2% à 8 636 points vendredi, portant sa perte hebdomadaire à 0,6%, plombé par la remontée des rendements obligataires et la volatilité du pétrole. Dassault Systèmes et Capgemini ont toutefois progressé, portés par l'appétit pour les valeurs technologiques.",
+      "source": "Boursorama",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-en-repli-quatre-jours-de-suite-b228923b3ec39a417cd4d3f19761766e"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic-Riot 9Md$",
-      "title": "Anthropic signe 9,1 Md$ avec Riot Platforms",
-      "summary": "Anthropic a conclu un contrat de calcul de 9,1 milliards de dollars sur 20 ans avec le mineur de bitcoin Riot Platforms, louant 191 mégawatts sur son site texan de Rockdale pour sécuriser une capacité électrique rare. L'accord, qui pourrait atteindre 16,1 milliards avec extensions, s'ajoute au contrat de 19 Md$ signé en juillet avec TeraWulf, alors qu'Anthropic prépare une possible entrée en Bourse à l'automne.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html"
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Zone euro +0,4% PIB",
+      "title": "Eurostat confirme la croissance du T2",
+      "summary": "Eurostat a confirmé une croissance du PIB de la zone euro de 0,4% au deuxième trimestre 2026, portant la hausse en rythme annuel à 1,0%. L'emploi a progressé de 0,1% sur la période, signe d'une économie qui résiste malgré les tensions géopolitiques et énergétiques.",
+      "source": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-14082026-ap"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "GPT-5.6-Cyber lancé",
-      "title": "OpenAI étend Daybreak avec GPT-5.6-Cyber",
-      "summary": "OpenAI a élargi son initiative de cybersécurité Daybreak avec GPT-5.6-Cyber, un modèle dédié à la recherche de vulnérabilités et aux tests d'intrusion autorisés, qui complète 95% des tâches de cybersécurité avancées contre 1,5 à 2% pour les modèles grand public. Le modèle a déjà permis de découvrir deux failles inédites dans le moteur JavaScript V8 de Chrome.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks"
+      "short_title": "IPO Anthropic 2000Md$",
+      "title": "Anthropic vise 2 000 milliards $ en IPO",
+      "summary": "Les investisseurs d'Anthropic visent une valorisation de 2 000, voire jusqu'à 3 000 milliards de dollars, pour une entrée en Bourse envisagée dès octobre. Le pari suppose une croissance de revenus annualisés de plus de 800%, alors que l'entreprise reste à un niveau de rentabilité encore très faible.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/14/anthropic-valuation-ipo-amazon-trillion-openai/"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "ChatGPT illimité gratuit",
-      "title": "OpenAI supprime les limites de chat gratuites",
-      "summary": "OpenAI a retiré les limites de messages textuels pour les utilisateurs gratuits de ChatGPT, qui vient de franchir le milliard d'utilisateurs hebdomadaires. Le nouveau modèle GPT-5.6 Luna devient le modèle par défaut des offres Free et Go, en remplacement de GPT-5.5.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+      "importance": 3,
+      "short_title": "Watermarks Claude UE",
+      "title": "Anthropic détaille le filigrane de Claude",
+      "summary": "Anthropic a précisé le fonctionnement de son système de filigrane invisible, appliqué sans option de désactivation à tous les textes générés par Claude depuis le 2 août, sur l'ensemble des plateformes (API, Claude Code, AWS, Google Cloud, Microsoft Foundry). La mesure répond à l'article 50 de l'AI Act européen, qui impose la traçabilité du contenu généré par IA sous peine d'amendes pouvant atteindre 15 millions d'euros.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/anishasircar/2026/08/13/claude-will-now-leave-a-watermark-on-everything-it-writes-what-does-that-mean/"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Google: départs en série",
-      "title": "Hassabis quitte la direction de DeepMind",
-      "summary": "Demis Hassabis cède la direction opérationnelle de Google DeepMind pour devenir président et chief scientist d'Alphabet, tandis que Jeff Dean quitte le groupe après 27 ans pour cofonder la start-up Discovery Loop avec trois autres cadres IA de Google. Ce remaniement survient alors que Google cherche à rattraper OpenAI et Anthropic après plusieurs lancements de modèles retardés.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html"
+      "subtopic": "design",
+      "importance": 2,
+      "short_title": "Figma agent skills",
+      "title": "Figma lance des « agent skills » pour designers",
+      "summary": "Figma a mis à disposition plus de 50 compétences d'agents IA dans sa Community, couvrant la recherche utilisateur, les systèmes de design et le handoff vers le développement. L'initiative prolonge Figma Make, lancé fin juillet, qui permet déjà de transformer des maquettes en code interactif d'un simple prompt.",
+      "source": "Figma",
+      "url": "https://www.figma.com/release-notes/"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Mistral ouvre à GLM-5.2",
-      "title": "Mistral héberge le modèle chinois GLM-5.2",
-      "summary": "Mistral AI généralise ses \"Regional Endpoints\" permettant de choisir si l'inférence s'exécute en Europe ou aux Etats-Unis, lance un niveau \"Priority\" avec garantie de disponibilité, et ouvre sa plateforme à des modèles tiers en commençant par GLM-5.2 du chinois Z.ai. Ce pivot vers l'hébergement de modèles concurrents nuance le discours de souveraineté européenne porté jusqu'ici par la start-up française.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/"
+      "short_title": "Escaliers coeur -39%",
+      "title": "Monter les escaliers réduit la mortalité cardiaque",
+      "summary": "Une méta-analyse portant sur plus de 480 000 personnes suivies pendant 14 ans montre que la pratique régulière des escaliers réduit de 39% le risque de décès cardiovasculaire et de 24% la mortalité toutes causes. L'effet optimal serait atteint dès 6 étages, soit environ 60 à 70 marches par jour.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Grok 4.6 dans Cursor",
-      "title": "xAI lance Grok 4.6, intégré à Cursor",
-      "summary": "xAI a officiellement lancé Grok 4.6, doté d'une fenêtre de contexte de 500 000 tokens, avec une intégration immédiate dans Cursor, Grok Build, l'API xAI, OpenRouter et Cloudflare. Le modèle était brièvement apparu par erreur dans Cursor la veille de son lancement officiel.",
-      "source": "Cursor Blog",
-      "url": "https://cursor.com/blog/grok-4-6"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Valine et longévité",
+      "title": "La restriction de valine allonge la vie des souris",
+      "summary": "Une étude publiée dans Nature Aging montre qu'une réduction de 67% de l'apport en valine, un acide aminé ramifié, augmente de 23% la durée de vie médiane des souris mâles et améliore la santé métabolique des deux sexes. Les chercheurs identifient un mécanisme lié à l'amélioration de la respiration mitochondriale dans le foie.",
+      "source": "Nature Aging",
+      "url": "https://www.nature.com/articles/s43587-026-01169-0"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "Adoption IA: x3 en France",
-      "title": "L'adoption de l'IA triple en France",
-      "summary": "Selon l'Insee, la part des entreprises françaises de 10 salariés ou plus utilisant au moins une technologie d'IA est passée de 6% en 2023 à 18% en 2025, un taux qui atteint 58% chez les entreprises de 250 salariés et plus. Ces entreprises utilisatrices concentrent déjà 66% du chiffre d'affaires du champ étudié, contre 49% un an plus tôt.",
-      "source": "Insee",
-      "url": "https://www.insee.fr/fr/statistiques/9025878"
+      "theme": "sciences",
+      "subtopic": null,
+      "importance": 1,
+      "short_title": "Bactéries vs uranium",
+      "title": "Des bactéries pour piéger l'uranium toxique",
+      "summary": "Des chercheurs allemands et espagnols ont montré que des micro-organismes indigènes d'une ancienne mine d'uranium, stimulés au glycérol, parviennent à piéger environ 95% de l'uranium dissous en 130 jours en le transformant en un composé solide inhabituellement stable. La technique ouvre une piste de bioremédiation peu coûteuse pour les sites miniers contaminés.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "nutrition_evidence_based",
+      "theme": "learn",
+      "subtopic": null,
       "importance": 2,
-      "short_title": "Alcool et longévité",
-      "title": "Une étude suédoise de 30 ans sur l'alcool",
-      "summary": "Le suivi sur trois décennies de 973 ouvriers de Volvo à Göteborg montre que les consommateurs d'alcool ont globalement vécu plus longtemps que les abstinents, mais que les buveurs de bière ont un risque d'infarctus environ 70% plus élevé. Les auteurs soulignent qu'il s'agit d'une association observationnelle, qui ne démontre ni effet protecteur ni effet nocif direct de l'alcool.",
-      "source": "ma-clinique.fr (Scandinavian Journal of Primary Health Care)",
-      "url": "https://ma-clinique.fr/une-etude-de-30-ans-a-decouvert-un-lien-surprenant-entre-lalcool-la-survie-et-le-risque-de-crise-cardiaque"
+      "short_title": "IA et métacognition",
+      "title": "L'IA a un effet ambivalent sur l'apprentissage",
+      "summary": "Une revue de recherche parue dans Frontiers in Psychology conclut que l'usage de l'IA en contexte éducatif n'a pas d'effet uniforme sur la métacognition : elle peut renforcer la réflexion en explicitant les processus cognitifs, mais aussi favoriser une délégation excessive qui nuit à l'engagement des apprenants. Un mode hybride émerge, où les processus métacognitifs sont co-construits entre l'élève et le système IA.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "physique_quantique",
+      "theme": "climat",
+      "subtopic": "energie",
       "importance": 1,
-      "short_title": "Intrication via le soleil",
-      "title": "De la lumière solaire pour l'intrication quantique",
-      "summary": "Des chercheurs d'Ottawa et de l'institut Max Planck ont généré des paires de photons intriqués directement à partir de lumière solaire concentrée, avec une fidélité de 94%, remettant en cause l'idée que seuls des lasers permettent ce phénomène. L'approche pourrait déboucher sur des sources de lumière quantique moins gourmandes en énergie pour les satellites et les communications quantiques.",
-      "source": "ScienceDaily (Optica)",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
+      "short_title": "Éolien Dieppe-Tréport",
+      "title": "Le parc éolien de Dieppe-Le Tréport bientôt en service",
+      "summary": "Le développeur EMDT a confirmé la mise en service du parc éolien offshore de Dieppe-Le Tréport d'ici la fin de l'année, après l'installation de la première éolienne en juin. Ses 62 turbines de 8 MW doivent produire environ 2 000 GWh par an, soit la consommation électrique d'environ deux tiers de la population de Seine-Maritime.",
+      "source": "Le Journal de l'Axe Seine",
+      "url": "https://www.lejournaldelaxeseine.fr/emdt-confirme-la-mise-en-service-du-parc-offshore-de-dieppe-le-treport-en-fin-dannee"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "france",
-      "importance": 3,
-      "short_title": "Canicule: jusqu'à 15Md€",
-      "title": "La canicule pourrait coûter 15 Md€ à la France",
-      "summary": "Le ministère de la Transition écologique estime entre 10 et 15 milliards d'euros le coût direct et indirect des vagues de chaleur et de la sécheresse de l'été 2026, soit jusqu'à 0,5 point de PIB, avec 50 départements touchés par des restrictions d'eau. L'Insee a toutefois précisé ne pas être à l'origine de ce chiffrage, qualifié en interne de simple extrapolation à partir des étés précédents.",
-      "source": "lenergeek.com",
-      "url": "https://lenergeek.com/2026/08/13/canicule-france-face-facture-10-15-milliards-euros/"
-    },
-    {
-      "id": "n17",
-      "theme": "finance",
-      "subtopic": "ai_labs",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Alphabet chute en Bourse",
-      "title": "L'action Alphabet décroche après le remaniement",
-      "summary": "Le titre Alphabet a chuté d'environ 4 à 5% après l'annonce du départ de Jeff Dean et du retrait de Demis Hassabis de la direction opérationnelle de DeepMind, les investisseurs s'inquiétant d'une fuite de talents clés en pleine course à l'IA frontier. Alphabet reste toutefois investisseur fondateur de Discovery Loop, la nouvelle start-up de Dean.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/"
+      "short_title": "Zelensky propose la paix",
+      "title": "Kiev transmet de nouvelles propositions de paix",
+      "summary": "Volodymyr Zelensky a annoncé avoir transmis aux Etats-Unis de nouvelles propositions pour mettre fin à la guerre avec la Russie, plus de quatre ans après le début du conflit. Les négociateurs américains Steve Witkoff et Jared Kushner, qui se sont rendus à Moscou en janvier, ne se sont pas encore déplacés à Kiev, et les divergences sur les concessions territoriales et les garanties de sécurité restent entières.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia"
     }
   ],
   "edges": [
     {
-      "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Les deux news illustrent la même posture américaine de pression maximale sur l'Iran, sur le volet militaire naval et sur le volet économique."
+      "source": "n01",
+      "target": "n02",
+      "type": "tension",
+      "explanation": "Trump justifie sa revendication territoriale par la défaite militaire qu'il prête à l'Iran, tandis que Téhéran conteste frontalement cette lecture et durcit ses conditions de sortie de crise."
     },
     {
       "source": "n01",
-      "target": "n03",
+      "target": "n05",
       "type": "cause",
-      "explanation": "Les annonces de blocus indéfini et de nouvelles sanctions renforcent la prime de risque géopolitique sur le pétrole, poussant le Brent à la hausse."
+      "explanation": "Tant que la revendication américaine sur Ormuz reste un point de blocage, le blocus naval se prolonge et empêche la normalisation du trafic pétrolier dans le détroit, entretenant la prime de risque sur le brut."
     },
     {
       "source": "n03",
       "target": "n05",
       "type": "cause",
-      "explanation": "La remontée du Brent pèse sur le sentiment de marché et contribue à interrompre la série de records du CAC 40."
+      "explanation": "L'attaque houthie revendiquée contre une installation pétrolière saoudienne ajoute une menace directe sur l'offre régionale, en plus du blocage d'Ormuz."
     },
     {
-      "source": "n09",
-      "target": "n10",
+      "source": "n05",
+      "target": "n06",
       "type": "cause",
-      "explanation": "La percée d'usage de ChatGPT (1 md d'utilisateurs, offre gratuite illimitée) accentue la pression concurrentielle sur Google, qui accélère son remaniement pour rattraper OpenAI et Anthropic."
+      "explanation": "La remontée du pétrole et des rendements obligataires qu'elle entretient pèse sur les indices actions européens, dont le CAC 40."
     },
     {
-      "source": "n10",
-      "target": "n17",
-      "type": "cause",
-      "explanation": "L'annonce du départ de Jeff Dean et du retrait de Hassabis inquiète les investisseurs sur la capacité de Google à retenir ses talents IA clés, provoquant la chute du titre Alphabet."
+      "source": "n02",
+      "target": "n03",
+      "type": "meme_sujet",
+      "explanation": "Les deux foyers de tension, distincts mais simultanés, dessinent un embrasement généralisé du Moyen-Orient cette mi-août, entre le dossier Ormuz et la guerre civile yéménite."
     },
     {
-      "source": "n10",
+      "source": "n06",
       "target": "n07",
       "type": "meme_sujet",
-      "explanation": "Les deux news traduisent la même recomposition du paysage des labs IA frontier mi-août: fuite de talents et changement de gouvernance chez Google, fuite en avant capitalistique chez Anthropic."
+      "explanation": "Publiés le même jour, ces deux indicateurs dessinent le tableau contrasté d'une zone euro en croissance modeste mais dont les marchés actions restent sous pression."
     },
     {
       "source": "n08",
       "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Même semaine, même entreprise: deux annonces qui illustrent la stratégie à deux vitesses d'OpenAI, entre grand public gratuit et illimité et modèles spécialisés pour la cybersécurité."
+      "explanation": "La même semaine, Anthropic est scrutée à la fois par les investisseurs qui la valorisent comme un futur mastodonte coté et par les régulateurs européens qui lui imposent une traçabilité stricte de ses contenus."
+    },
+    {
+      "source": "n04",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "La visite symbolique de Poutine aux Kouriles, qui affiche une fermeté territoriale intraitable, contredit en creux le récit d'un Kremlin ouvert à des concessions dans les pourparlers sur l'Ukraine."
     },
     {
       "source": "n11",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "Mistral ouvre sa plateforme à un modèle chinois concurrent au nom de la flexibilité commerciale, quand Anthropic mise à l'inverse sur le contrôle total de sa pile propriétaire via des méga-contrats d'infrastructure: deux stratégies opposées face à la course au calcul."
-    },
-    {
-      "source": "n11",
-      "target": "n13",
-      "type": "cause",
-      "explanation": "L'élargissement de l'offre commerciale de Mistral (endpoints régionaux, nouveaux niveaux de service) contribue à l'accélération de l'adoption de l'IA mesurée par l'Insee dans les entreprises françaises."
-    },
-    {
-      "source": "n16",
-      "target": "n05",
-      "type": "tension",
-      "explanation": "Le chiffrage à 10-15 Md€ de dégâts liés à la canicule contraste avec la sérénité du CAC 40, dont les multinationales sont peu exposées à la conjoncture domestique française."
+      "target": "n12",
+      "type": "meme_sujet",
+      "explanation": "Publiées à quelques jours d'intervalle, ces deux études illustrent deux approches complémentaires de la recherche en longévité : l'activité physique quotidienne et la restriction nutritionnelle ciblée."
     }
   ]
 }

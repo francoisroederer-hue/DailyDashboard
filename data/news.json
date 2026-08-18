@@ -1,260 +1,288 @@
 {
-  "generated_at": "2026-08-17T09:15:00Z",
+  "generated_at": "2026-08-18T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Stocks pétrole s'épuisent",
-      "title": "L'AIE alerte sur l'épuisement des stocks pétroliers",
-      "summary": "L'Agence internationale de l'énergie souligne l'urgence croissante de rouvrir le détroit d'Ormuz, alors que le monde puise à un rythme soutenu dans ses réserves stratégiques de pétrole depuis le début du blocus fin février. La route alternative par le sud d'Oman reste la plus dangereuse, avec 16 attaques de projectiles sur 18 recensées par l'UKMTO depuis début juillet.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/13/world/live-news/iran-war-trump"
+      "short_title": "Deadline Iran-US expire",
+      "title": "Le délai de 60 jours Iran-US expire sans accord",
+      "summary": "Le délai de 60 jours fixé en juin pour un accord entre Washington et Téhéran sur le nucléaire iranien et la fin du conflit a expiré lundi sans successeur. Téhéran affirme que ce délai a « perdu sa pertinence » après des violations américaines du protocole d'accord, tandis que Washington évoque un canal discret avec les Gardiens de la révolution. Aucune avancée n'a été enregistrée sur la réouverture du détroit d'Ormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Fret maritime perturbé",
-      "title": "Nouvelles perturbations du fret au Moyen-Orient",
-      "summary": "De nouveaux incidents affectent les routes maritimes du Golfe, aggravant l'incertitude pour les compagnies de transport plus de cinq mois après le début du blocus américain autour de l'Iran. Les assureurs maritimes réévaluent en continu leurs primes de risque sur ce corridor stratégique du commerce pétrolier mondial.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/15/world/live-news/iran-war-trump"
+      "importance": 3,
+      "short_title": "Tanker ADNOC visé Ormuz",
+      "title": "Nouveau pétrolier ADNOC visé dans le détroit d'Ormuz",
+      "summary": "Les Emirats arabes unis accusent l'Iran d'avoir visé un nouveau pétrolier d'ADNOC par missile dans le détroit d'Ormuz, portant à quinze le nombre de navires du groupe attaqués depuis le début du conflit américano-israélien contre l'Iran. Abou Dhabi qualifie ces frappes de piraterie et exige la réouverture inconditionnelle du détroit. Le trafic maritime dans la zone reste réduit à environ 5% de son niveau d'avant-guerre.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz"
     },
     {
       "id": "n03",
       "theme": "geopol",
       "subtopic": "europe",
       "importance": 2,
-      "short_title": "Kiev prépare la pression",
-      "title": "Kiev élabore un plan de pression avant la visite US",
-      "summary": "Volodymyr Zelensky affirme que Kiev et ses partenaires ont élaboré un nouveau plan pour faire pression sur Vladimir Poutine, avant une visite attendue des émissaires américains Steve Witkoff et Jared Kushner. Les pourparlers de paix restent gelés depuis le déclenchement de la guerre américano-israélienne contre l'Iran fin février.",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraines-new-plan-to-pressure-russia-remains-a-mystery-to-washington/"
+      "short_title": "Russie vise la Moldova",
+      "title": "Enquête: la Russie cible la Moldova pour fragiliser l'UE",
+      "summary": "Une enquête du New York Times basée sur des documents des services occidentaux révèle que Vladimir Poutine a fixé pour 2026 l'objectif de « faire s'effondrer l'OTAN et l'UE de l'intérieur », en ciblant la Moldova comme second objectif après l'Ukraine. Plus de 150 000 Moldaves auraient été recrutés dans un réseau financé par l'oligarque Ilan Shor pour mener des opérations de déstabilisation. Des camps d'entraînement en Serbie et en Bosnie formaient des recrues aux drones et à la désinformation.",
+      "source": "Meduza (synthèse NYT)",
+      "url": "https://meduza.io/en/feature/2026/08/15/why-moldova-is-second-on-putin-s-list-what-the-new-york-times-learned-the-kremlin-s-plan-to-collapse-nato-and-the-eu-from-within"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Fed maintient ses taux",
-      "title": "La Fed maintient ses taux sous la pression du pétrole",
-      "summary": "Sous la présidence de Kevin Warsh, la Fed a laissé ses taux inchangés entre 3,50% et 3,75%, malgré trois dissidents réclamant une hausse, du jamais-vu dans ce sens depuis 2016. L'inflation de gros a dépassé 6% en mai, conséquence directe du choc énergétique provoqué par la guerre en Iran, ce qui complique tout retour à une politique accommodante.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/economy/fed-meeting-interest-rate-decision-kevin-warsh-rcna589536"
+      "short_title": "Brent proche de 88$",
+      "title": "Le Brent se maintient proche de 88 dollars",
+      "summary": "Le baril de Brent se maintient autour de 88 dollars alors que l'expiration du protocole d'accord américano-iranien lundi n'a provoqué qu'une réaction de marché limitée, les opérateurs ayant déjà intégré la persistance du blocage du détroit d'Ormuz. Le trafic maritime dans le détroit reste très réduit, entretenant une prime de risque géopolitique durable sur les cours.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/324747/20260817/hormuz-deal-collapses-nasdaq-holds-near-record-oil-equation-remains-unresolved.htm"
     },
     {
       "id": "n05",
       "theme": "finance",
       "subtopic": "usa",
       "importance": 2,
-      "short_title": "Emploi US en repli",
-      "title": "L'emploi américain recule en juillet",
-      "summary": "Les employeurs américains ont supprimé 23 000 emplois en juillet et les deux mois précédents ont été révisés à la baisse de 103 000 postes supplémentaires, selon le Bureau of Labor Statistics. Le taux de chômage s'établit à 4,1%, les loisirs, le commerce de détail et l'emploi public reculant, tandis que la construction et la santé résistent.",
-      "source": "Bureau of Labor Statistics",
-      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+      "short_title": "Baisse Fed s'éloigne",
+      "title": "Les anticipations de baisse de taux Fed reculent",
+      "summary": "Les rendements des bons du Trésor américain reculent après des ventes au détail plus faibles que prévu et une chute de la confiance des consommateurs, ramenant à environ 30% la probabilité anticipée d'une baisse des taux de la Fed en septembre. Les marchés actions restent globalement stables en attendant les minutes de la dernière réunion du FOMC et une série de résultats trimestriels.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-august-17-2026/"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "UE assouplit le FRTB",
-      "title": "Bruxelles ajuste le calendrier du FRTB",
-      "summary": "La Commission européenne a adopté un acte délégué introduisant un multiplicateur temporaire et des allègements opérationnels sur le Fundamental Review of the Trading Book, applicable de janvier 2027 à janvier 2030. L'objectif affiché est de préserver la compétitivité des banques européennes face aux Etats-Unis et au Royaume-Uni, également en retard sur la mise en œuvre de Bâle III.",
-      "source": "Commission européenne",
-      "url": "https://finance.ec.europa.eu/news/eu-temporarily-amends-prudential-rules-banks-market-risk-2026-06-08_en"
+      "short_title": "Semaine résultats retail",
+      "title": "Walmart, Target, Home Depot: semaine test pour le consommateur",
+      "summary": "Walmart, Target, Home Depot et Lowe's publient cette semaine leurs résultats trimestriels dans un climat de ventes au détail atones et de confiance des ménages en baisse. Ces publications sont scrutées comme un indicateur clé de la résistance du consommateur américain face à la remontée de l'inflation énergétique et au ralentissement du marché de l'emploi.",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262110009-weekly-preview-fed-walmart-target-home-depot-earnings-us-consumer-tradingkey"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Hassabis quitte la DG",
-      "title": "Demis Hassabis cède la direction de DeepMind",
-      "summary": "Demis Hassabis abandonne la direction opérationnelle de Google DeepMind pour devenir président du laboratoire et chef scientifique d'Alphabet, cédant la gestion quotidienne à Koray Kavukcuoglu. Ce remaniement intervient après une vague de départs marquants : Noam Shazeer vers OpenAI, John Jumper vers Anthropic, et Jeff Dean qui quitte Google après 27 ans.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/10/how-stalled-models-missed-deadlines-and-staff-burnout-lead-to-the-unraveling-of-googles-deepmind/"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "FRTB reporté à 2027",
+      "title": "Bruxelles confirme le report des exigences FRTB à 2027",
+      "summary": "La Commission européenne confirme que les exigences de fonds propres FRTB liées au risque de marché ne deviendront contraignantes pour les banques qu'au 1er janvier 2027, après un nouveau report d'un an décidé mi-2025. Un multiplicateur transitoire est prévu pour amortir l'impact en capital sur les établissements les plus pénalisés par la nouvelle méthodologie.",
+      "source": "France Épargne",
+      "url": "https://www.france-epargne.fr/news/bruxelles-finalise-le-dernier-volet-de-bale-iii-sur-le-risque-de-marche-des-banques"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "OpenAI lance Daybreak",
-      "title": "OpenAI étend son offre de cyberdéfense IA",
-      "summary": "OpenAI a présenté GPT-5.6-Cyber ainsi que deux nouveaux niveaux d'accès, Daybreak Blue et Daybreak Red, donnant aux équipes de défense agréées des modèles frontières pour la recherche de vulnérabilités, la revue de code et la réponse à incident. L'annonce répond à la multiplication des attaques assistées par IA observée depuis le début de l'année.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "UE durcit pétrole russe",
+      "title": "L'UE gèle le plafond du pétrole russe et élargit les sanctions",
+      "summary": "Le 21e paquet de sanctions de l'UE contre la Russie, entré en vigueur fin juillet, gèle le plafond du prix du pétrole russe à 44 dollars le baril jusqu'en juillet 2027 et ajoute 41 navires supplémentaires à la liste noire de la flotte fantôme. Le texte élargit aussi les critères de sanction aux navires ravitailleurs, complétant un dispositif qui aurait déjà réduit de près de 80% les revenus pétroliers et gaziers russes.",
+      "source": "Conseil de l'UE",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Claude for Teachers",
-      "title": "Anthropic lance Claude for Teachers",
-      "summary": "Anthropic a dévoilé une version de Claude dédiée aux enseignants, intégrant les standards académiques des 50 Etats américains pour aider à concevoir des plans de cours et personnaliser le matériel pédagogique. Le lancement place Anthropic aux côtés d'OpenAI et Google dans la course à l'équipement IA des salles de classe.",
-      "source": "News Channel 3-12",
-      "url": "https://keyt.com/stacker-ai/2026/08/11/anthropic-unveils-claude-for-teachers-joining-openai-and-google-in-race-to-dominate-classroom-ai/"
+      "importance": 3,
+      "short_title": "OpenAI GPT-5.6 Ultrafast",
+      "title": "OpenAI dévoile Ultrafast, GPT-5.6 Sol à 14x la vitesse",
+      "summary": "OpenAI et Cerebras Systems dévoilent Ultrafast, un nouveau palier de service faisant tourner GPT-5.6 Sol à environ 750 tokens par seconde, soit jusqu'à 14 fois la vitesse du mode standard. L'accès reste limité à un petit groupe d'entreprises dans le code, la recherche financière, la voix et l'e-commerce, sans prix ni date de disponibilité générale annoncés.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Mistral rachète Emmi AI",
-      "title": "Mistral rachète la start-up autrichienne Emmi AI",
-      "summary": "Mistral AI a annoncé le rachat d'Emmi AI pour renforcer son offre d'IA industrielle, en intégrant des modèles fondés sur la physique à sa plateforme et en ouvrant un bureau à Linz. L'opération accompagne le lancement de Vibe, son agent unifié capable de gérer des tâches longues de codage et de recherche.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/ai-now-summit-2026/"
+      "short_title": "Anthropic nomme Cuéllar",
+      "title": "Anthropic nomme son premier Chief Global Affairs Officer",
+      "summary": "Anthropic a nommé Mariano-Florentino « Tino » Cuéllar, ancien juge de la Cour suprême de Californie, au poste inédit de Chief Global Affairs Officer. Il pilotera les relations avec les gouvernements et la stratégie politique internationale de l'entreprise, dans un contexte de tensions croissantes avec l'administration Trump sur la régulation de l'IA.",
+      "source": "The Harvard Crimson",
+      "url": "https://www.thecrimson.com/article/2026/8/4/cuellar-anthropic-global-affairs/"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "design",
-      "importance": 1,
-      "short_title": "Figma: calques en code",
-      "title": "Figma transforme les calques en composants de code",
-      "summary": "Lors de sa conférence Config 2026, Figma a présenté les « code layers », qui permettent de transformer n'importe quel calque de design en composant de code interactif d'un simple clic ou d'un prompt. L'éditeur veut faire du handoff entre designers et développeurs une conversation continue plutôt qu'un transfert figé.",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/config-2026-recap/"
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Claude filigrane textes",
+      "title": "Anthropic ajoute un filigrane aux textes de Claude",
+      "summary": "Anthropic annonce l'ajout d'un filigrane invisible et lisible par machine dans les textes générés par ses futurs modèles Claude, afin de se conformer à l'article 50 de l'AI Act européen. La mesure s'appliquera dans le monde entier et sur tous les canaux d'accès à Claude, y compris via AWS, Google Cloud et Microsoft Foundry, sans impact annoncé sur la qualité ou la vitesse.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
     },
     {
       "id": "n12",
-      "theme": "sante",
-      "subtopic": "kettlebell",
-      "importance": 1,
-      "short_title": "Kettlebell: étude ACE",
-      "title": "Une étude confirme les bénéfices du kettlebell",
-      "summary": "Une étude commanditée par l'American Council on Exercise et menée par l'Université du Wisconsin montre que huit semaines d'entraînement au kettlebell, à raison de deux séances hebdomadaires, améliorent significativement le VO2max, la force de préhension, l'équilibre dynamique et la puissance explosive des membres inférieurs. Les gains dépassent ceux d'un entraînement classique sur plusieurs dimensions à la fois.",
-      "source": "ACE Fitness",
-      "url": "https://www.acefitness.org/certifiednewsarticle/3172/ace-sponsored-research-study-kettlebells-kick-butt/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "DeepMind change de tête",
+      "title": "Google DeepMind réorganise sa direction",
+      "summary": "Google DeepMind engage une refonte de sa direction: Demis Hassabis quitte la direction opérationnelle pour devenir président et se concentrer sur la sécurité et la gouvernance de l'IA, tandis que Koray Kavukcuoglu prend la tête des opérations quotidiennes et du développement de Gemini. Ce remaniement intervient alors que Google cherche à combler son retard perçu face à OpenAI et Anthropic sur les modèles de pointe.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "physique_quantique",
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 1,
+      "short_title": "Figma Weave via MCP",
+      "title": "Figma ouvre ses outils Weave via MCP",
+      "summary": "Figma ouvre l'accès à ses outils Weave via son serveur MCP, permettant de les exécuter directement depuis ChatGPT, Claude ou Cursor sans changer d'application. L'agent identifie l'outil demandé, l'exécute et renvoie le résultat dans la conversation, en conservant le contexte (prompts, images, guidelines de marque).",
+      "source": "Figma",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "id": "n14",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Intrication via le soleil",
-      "title": "De la lumière du soleil produit de l'intrication quantique",
-      "summary": "Des physiciens d'Ottawa et de l'institut Max Planck ont généré des photons intriqués directement à partir de lumière solaire concentrée, avec une fidélité proche de 94% et une violation confirmée de l'inégalité de Bell. Cette méthode pourrait remplacer les lasers dans les futurs satellites quantiques, réduisant le besoin d'alimentation embarquée lourde.",
+      "short_title": "Valine allonge la vie",
+      "title": "Restreindre la valine allonge la vie des souris mâles",
+      "summary": "Une étude publiée dans Nature Aging montre que la restriction alimentaire en valine, un acide aminé, allonge de 23% la durée de vie médiane des souris mâles tout en améliorant les marqueurs de santé des deux sexes. Les chercheurs identifient une activité mitochondriale hépatique accrue comme piste mécanistique principale, sans que le mécanisme complet soit encore élucidé.",
+      "source": "Lifespan.io",
+      "url": "https://lifespan.io/valine-restriction-increases-male-mouse-lifespan-by-23/"
+    },
+    {
+      "id": "n15",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "AGGF1 régule tension",
+      "title": "La protéine AGGF1 identifiée contre l'hypertension liée à l'âge",
+      "summary": "Des chercheurs montrent dans Aging Cell que la baisse de la protéine endothéliale AGGF1 avec l'âge contribue à l'élévation de la pression artérielle chez la souris, via un nouvel axe de signalisation impliquant SESN2. Restaurer l'expression d'AGGF1 corrige l'hypertension liée à l'âge, ouvrant une piste thérapeutique ciblée.",
+      "source": "Aging Cell (Wiley)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/acel.70652"
+    },
+    {
+      "id": "n16",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Thymuline vs inflammation",
+      "title": "La thymuline, régulateur clé de l'inflammation liée à l'âge",
+      "summary": "Des chercheurs de la Keck School of Medicine identifient la thymuline, une hormone produite par le thymus, comme régulateur clé de l'inflammation chronique liée à l'âge. Chez des souris âgées, restaurer les niveaux de thymuline réduit l'inflammation, améliore la survie et renforce l'efficacité de l'immunothérapie anti-cancer.",
+      "source": "Lifespan.io",
+      "url": "https://lifespan.io/the-thymus-hormone-thymulin-reduces-inflammaging-in-mice/"
+    },
+    {
+      "id": "n17",
+      "theme": "sciences",
+      "subtopic": "neurosciences",
+      "importance": 2,
+      "short_title": "Molécule anti-Alzheimer",
+      "title": "Un composé expérimental bloque les amas toxiques d'Alzheimer",
+      "summary": "Une équipe de l'ETH Zurich a mis au point un composé expérimental qui empêche la formation d'amas protéiques toxiques dans le cerveau de souris modèles d'Alzheimer, prolongeant la survie des neurones et réduisant l'accumulation de bêta-amyloïde. Les animaux traités ont montré un ralentissement net de la dégénérescence neuronale associée à la démence.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm"
+    },
+    {
+      "id": "n18",
+      "theme": "sciences",
+      "subtopic": "quantique",
+      "importance": 1,
+      "short_title": "Intrication via soleil",
+      "title": "Des photons intriqués générés pour la première fois par le soleil",
+      "summary": "Des physiciens de l'institut Max Planck et de l'université d'Ottawa ont généré pour la première fois des paires de photons intriqués directement à partir de la lumière du soleil, avec une fidélité proche de 94%, comparable aux sources laser. Cette avancée pourrait permettre à des satellites de produire des clés de chiffrement quantique en exploitant la lumière solaire déjà disponible dans l'espace.",
       "source": "ScienceDaily",
       "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
     },
     {
-      "id": "n14",
-      "theme": "sciences",
-      "subtopic": "geophysique",
-      "importance": 1,
-      "short_title": "Neutrinos cartographient",
-      "title": "Un réseau mondial de détecteurs de neutrinos",
-      "summary": "Une nouvelle génération de détecteurs de neutrinos géophysiques, comme SNO+ au Canada et JUNO en Chine, offre une vision inédite des éléments radioactifs qui alimentent la chaleur interne de la Terre. Cette cartographie éclaire le moteur thermique des plaques tectoniques, un paramètre encore mal quantifié en géophysique.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
-    },
-    {
-      "id": "n15",
-      "theme": "learn",
-      "subtopic": null,
-      "importance": 2,
-      "short_title": "Tutorat IA plus efficace",
-      "title": "Un essai randomisé confirme l'efficacité du tutorat IA",
-      "summary": "Une étude contrôlée randomisée publiée dans Scientific Reports montre que des étudiants apprennent significativement plus, et en moins de temps, avec un tutorat IA structuré qu'avec l'apprentissage actif classique en amphithéâtre. L'OCDE souligne toutefois que ces gains dépendent d'une conception pédagogique rigoureuse et d'un rôle de supervision maintenu pour l'enseignant.",
-      "source": "Nature Scientific Reports",
-      "url": "https://www.nature.com/articles/s41598-025-97652-6"
-    },
-    {
-      "id": "n16",
+      "id": "n19",
       "theme": "climat",
-      "subtopic": "usa",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "USA: minerais critiques",
-      "title": "Washington engage 3 milliards $ sur les minerais critiques",
-      "summary": "L'administration Trump a annoncé plus de 3 milliards de dollars de prêts et d'investissements pour sécuriser les chaînes d'approvisionnement américaines en minerais critiques, batteries et aimants, dont un prêt de 1,4 milliard à Sila Nanotechnologies et 150 millions à Niron Magnetics pour des aimants sans terres rares. Le Département de l'Energie ajoute 100 millions de dollars pour doubler le nombre de diplômés dans les filières minières.",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/"
-    },
-    {
-      "id": "n17",
-      "theme": "climat",
-      "subtopic": "chine",
-      "importance": 1,
-      "short_title": "Chine: industrie verte",
-      "title": "La Chine publie son plan quinquennal climat",
-      "summary": "Le ministère chinois de l'Ecologie et de l'Environnement, avec 18 autres administrations, a publié un plan quinquennal 2026-2030 fixant pour la première fois un système d'objectifs complet couvrant le CO2, les autres gaz à effet de serre et les marchés carbone. Le même document reconnaît que 30 GW de nouvelles capacités charbon sont entrées en service au premier semestre 2026, illustrant la tension entre ambitions climatiques et sécurité énergétique.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/china-briefing-6-august-2026-five-year-climate-plan-overcapacity-report-severe-heatwave"
+      "short_title": "Stockage batteries US",
+      "title": "Le stockage par batteries approche 52 GW aux Etats-Unis",
+      "summary": "La capacité de stockage par batteries aux Etats-Unis atteint près de 52 GW mi-2026, après une croissance annuelle moyenne de 70% sur trois ans, selon l'EIA. Les opérateurs prévoient d'ajouter encore 54 GW d'ici 2028, portés par le déploiement rapide du solaire à grande échelle et l'arbitrage sur les prix de gros de l'électricité.",
+      "source": "EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67925"
     }
   ],
   "edges": [
     {
-      "source": "n01",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Ces deux articles décrivent deux facettes de la même crise maritime au Moyen-Orient : l'épuisement des stocks stratégiques d'un côté, la multiplication des incidents sur les routes de contournement de l'autre."
+      "source": "n02",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Chaque nouvelle frappe sur un pétrolier dans le détroit d'Ormuz réactive la prime de risque géopolitique intégrée dans le cours du Brent, empêchant les prix de refluer malgré une production mondiale stable."
     },
     {
       "source": "n01",
-      "target": "n04",
+      "target": "n02",
       "type": "cause",
-      "explanation": "La raréfaction de l'offre pétrolière mondiale, faute de réouverture d'Ormuz, alimente l'inflation de gros américaine et prive la Fed de la marge nécessaire pour assouplir sa politique monétaire."
+      "explanation": "L'expiration du protocole d'accord sans successeur retire toute pression diplomatique immédiate sur Téhéran, laissant le champ libre à la poursuite des attaques contre les navires transitant par le détroit."
     },
     {
       "source": "n04",
       "target": "n05",
-      "type": "tension",
-      "explanation": "La Fed maintient des taux élevés pour contenir l'inflation liée au pétrole, alors même que l'emploi américain montre déjà des signes de faiblesse, un arbitrage que trois dissidents jugent trop prudent en sens inverse."
+      "type": "cause",
+      "explanation": "Le maintien du baril proche de 88 dollars alimente les craintes d'inflation importée par l'énergie, ce qui refroidit les anticipations de baisse des taux malgré des indicateurs de consommation en berne."
     },
     {
-      "source": "n01",
-      "target": "n03",
+      "source": "n05",
+      "target": "n06",
       "type": "cause",
-      "explanation": "La mobilisation diplomatique et énergétique autour de la guerre en Iran depuis fin février a détourné l'attention de Washington du dossier ukrainien, gelant les pourparlers de paix jusqu'à cette relance en août."
+      "explanation": "Le refroidissement des anticipations de baisse de taux et la faiblesse des ventes au détail transforment les résultats trimestriels des grands distributeurs en test décisif de la résistance réelle du consommateur américain."
+    },
+    {
+      "source": "n02",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Les deux news traduisent, sous des angles opposés, la même dynamique de resserrement de l'offre énergétique mondiale: attaques iraniennes d'un côté, sanctions européennes visant le pétrole russe de l'autre."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "cause",
-      "explanation": "L'exode de talents de DeepMind, dont le co-responsable de Gemini parti chez OpenAI, coïncide avec l'accélération des lancements produits de ce dernier, ici sur la cyberdéfense."
-    },
-    {
-      "source": "n07",
-      "target": "n09",
-      "type": "cause",
-      "explanation": "Le départ du co-inventeur d'AlphaFold vers Anthropic s'inscrit dans le même mouvement de recomposition des forces entre labs, alors qu'Anthropic multiplie en parallèle ses lancements produits vers de nouveaux publics."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "La même semaine, OpenAI et Anthropic lancent chacun une offre verticale spécialisée, signe d'une compétition qui se déplace désormais vers des marchés de niche plutôt que le seul modèle généraliste."
+      "explanation": "Deux décisions réglementaires européennes distinctes touchent simultanément le secteur financier: l'une reporte les exigences de capital sur le risque de marché, l'autre resserre l'étau sur les flux pétroliers russes."
     },
     {
       "source": "n09",
       "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Anthropic et Mistral publient la même semaine des annonces de diversification verticale, l'une vers l'éducation, l'autre vers l'ingénierie industrielle, illustrant la course des labs à sortir du seul chatbot généraliste."
-    },
-    {
-      "source": "n13",
-      "target": "n14",
-      "type": "meme_sujet",
-      "explanation": "Ces deux résultats de physique fondamentale, publiés la même semaine, reposent tous deux sur des dispositifs de détection ou de génération inédits qui repoussent les limites instrumentales de leur domaine."
-    },
-    {
-      "source": "n16",
-      "target": "n17",
       "type": "tension",
-      "explanation": "Washington et Pékin renforcent au même moment leur stratégie industrielle sur les matières premières et l'énergie, mais avec des logiques opposées : sécuriser une chaîne d'approvisionnement de défense d'un côté, piloter une décarbonation industrielle de l'autre tout en continuant d'ouvrir des centrales à charbon."
+      "explanation": "Les deux labs affichent des priorités stratégiques divergentes au même moment: OpenAI mise sur la vitesse d'inférence brute pour séduire les entreprises, tandis qu'Anthropic investit dans les relations institutionnelles et gouvernementales."
     },
     {
-      "source": "n06",
-      "target": "n04",
+      "source": "n10",
+      "target": "n12",
       "type": "meme_sujet",
-      "explanation": "Régulateurs bancaires européens et banque centrale américaine ajustent au même moment leurs cadres respectifs pour absorber la même volatilité de marché née du choc énergétique iranien."
+      "explanation": "Anthropic et Google DeepMind traversent simultanément des recompositions de leur direction, révélatrices de la maturation organisationnelle de la course à l'IA de frontière."
+    },
+    {
+      "source": "n11",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Ces deux annonces illustrent comment la réglementation européenne façonne désormais les pratiques mondiales, que ce soit le filigrane des textes générés par IA ou le commerce du pétrole russe."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "Ces deux études publiées la même semaine ciblent des leviers moléculaires distincts, mitochondrial et vasculaire, mais convergent vers la même quête de mécanismes réversibles du vieillissement."
+    },
+    {
+      "source": "n15",
+      "target": "n16",
+      "type": "meme_sujet",
+      "explanation": "Les deux recherches identifient des cibles biologiques précises, hormonale et vasculaire, pour ralentir des processus de vieillissement jusqu'ici jugés diffus et difficiles à traiter."
+    },
+    {
+      "source": "n04",
+      "target": "n19",
+      "type": "tension",
+      "explanation": "Le choc pétrolier lié au blocus d'Ormuz illustre la fragilité persistante de la dépendance aux hydrocarbures, alors que la croissance du stockage par batteries incarne la trajectoire inverse vers une résilience énergétique décarbonée."
     }
   ]
 }

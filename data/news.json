@@ -1,254 +1,249 @@
 {
-  "generated_at": "2026-08-19T09:00:00Z",
+  "generated_at": "2026-08-20T09:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Trump: étrangler l'Iran",
-      "title": "Washington bascule vers l'asphyxie économique de l'Iran",
-      "summary": "Après plus de cinq mois de guerre et une pénurie de munitions, l'administration Trump délaisse l'option de nouvelles frappes militaires au profit d'un tour de vis économique baptisé « Operation Economic Fury »: sanctions renforcées et blocus naval maintenu pour priver Téhéran des devises nécessaires à payer son appareil répressif. Le secrétaire au Trésor Scott Bessent présente ce volet financier comme l'équivalent d'une campagne de bombardement.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html"
+      "short_title": "Iran: D-Day éco",
+      "title": "Trump déclare un « D-Day économique » contre l'Iran",
+      "summary": "Après l'expiration sans accord d'une fenêtre de négociation de 60 jours, Donald Trump annonce une campagne de sanctions qu'il présente comme la plus dure jamais menée contre un pays, visant tout État ou entité aidant Téhéran à contourner l'embargo (contrebande pétrolière, sociétés écrans, registres maritimes). Il appelle les alliés des États-Unis à s'aligner pour isoler économiquement l'Iran.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/trump-declares-economic-d-day-on-iran-warns-those-helping-tehran-will-pa-126082000100_1.html"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent au-dessus de 90$",
-      "title": "Le Brent franchit les 90 dollars",
-      "summary": "Le pétrole a encore progressé lundi, le Brent s'installant au-dessus de 90 dollars le baril alors que le trafic dans le détroit d'Ormuz reste très inférieur à la normale (six navires transités lundi contre une moyenne de onze sur dix jours). Le maintien du blocus naval américain, sans perspective de négociation, prolonge la prime de risque sur les cours.",
-      "source": "Reuters / Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "UAE coupe l'Iran",
+      "title": "Les Émirats arabes unis suspendent leurs échanges avec l'Iran",
+      "summary": "Abu Dhabi suspend l'ensemble de ses transactions commerciales et financières avec l'Iran après le tir de deux missiles balistiques vers son territoire, dont un intercepté en eaux territoriales émiraties. Téhéran dément avoir visé le pays, mais l'incident ravive une rivalité régionale déjà exacerbée par la guerre en cours.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Emploi US juillet faible",
-      "title": "Le rapport sur l'emploi américain de juillet confirme le ralentissement",
-      "summary": "Les créations d'emplois non agricoles ont reculé de 23 000 en juillet et les chiffres de mai et juin ont été révisés en forte baisse (respectivement -66 000 et -37 000), tandis que le taux de chômage reste stable à 4,1%. Ce ralentissement continu du marché du travail complique l'arbitrage de la Fed entre soutien à l'activité et risque inflationniste lié à l'énergie.",
-      "source": "Bureau of Labor Statistics",
-      "url": "https://www.bls.gov/news.release/empsit.htm"
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent > 92$",
+      "title": "Le Brent dépasse 92 dollars, au plus haut depuis des semaines",
+      "summary": "Le pétrole enchaîne une quatrième séance de hausse, porté par les craintes d'une nouvelle perturbation du trafic dans le détroit d'Ormuz après l'escalade des sanctions américaines contre l'Iran et la suspension des échanges par les Émirats. Le WTI se rapproche de 86 dollars le baril.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-19-2026/"
     },
     {
       "id": "n04",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "800 drones sur Moscou",
-      "title": "Kyiv lance une salve de près de 800 drones sur Moscou",
-      "summary": "L'Ukraine a mené l'une de ses plus importantes attaques de drones contre la Russie depuis le début de l'invasion, deux jours seulement après une salve similaire. Cette intensification s'inscrit dans un duel croissant de frappes à longue portée entre les deux belligérants, alors que les canaux diplomatiques restent au point mort.",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/aug/18/ukraine-aims-drone-attack-moscow-russian-missiles-kill-10-ukrainian/"
+      "theme": "finance",
+      "subtopic": "banques_centrales",
+      "importance": 3,
+      "short_title": "FOMC: vote fracturé",
+      "title": "Les minutes de la Fed révèlent un vote à 9 contre 3",
+      "summary": "Publiées le 19 août, les minutes de la réunion des 28-29 juillet montrent trois présidents de Fed régionale (Cleveland, Minneapolis, Dallas) ayant voté en faveur d'une hausse de taux, un niveau de dissension inédit depuis des années. Le document évoque aussi une proposition du président Warsh de réduire de huit à six le nombre de réunions annuelles du FOMC.",
+      "source": "Quartz",
+      "url": "https://qz.com/fed-fomc-minutes-july-2026-rate-hike-dissent-081926"
     },
     {
       "id": "n05",
-      "theme": "geopol",
-      "subtopic": "europe",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "Missiles russes Kharkiv",
-      "title": "Un tir de missile russe tue 10 civils dans un village de Kharkiv",
-      "summary": "Une frappe de missile russe a démoli des habitations dans un village de la région de Kharkiv, tuant au moins 10 personnes et en blessant huit autres. Cet épisode illustre l'intensité des bombardements réciproques en cours cette semaine, sans avancée sur un cessez-le-feu.",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/aug/18/ukraine-aims-drone-attack-moscow-russian-missiles-kill-10-ukrainian/"
+      "short_title": "EBA allège reporting",
+      "title": "L'ACPR et l'EBA avancent sur la simplification prudentielle",
+      "summary": "L'Autorité bancaire européenne poursuit sa consultation visant à alléger la charge de reporting réglementaire des banques tout en préservant l'information nécessaire à la supervision. En parallèle, l'ACPR consolide la mise en œuvre de DORA, avec un régime de notification des incidents cyber majeurs sous quatre heures désormais pleinement opérationnel.",
+      "source": "ACPR - Banque de France",
+      "url": "https://acpr.banque-france.fr/en/press-release/autorite-de-controle-prudentiel-et-de-resolution-prudential-supervision-and-resolution-authority"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "usa",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Tarifs 50% US-Canada",
-      "title": "Trump active des surtaxes de 50% sur des produits canadiens",
-      "summary": "Les Etats-Unis appliquent à partir d'aujourd'hui, via la Section 338, des droits de douane de 50% sur environ 20 milliards de dollars d'importations canadiennes (alcool, produits laitiers, véhicules), les négociations ayant échoué avant l'échéance. Ottawa juge insuffisantes les concessions proposées par Washington, ouvrant une nouvelle phase de tension commerciale nord-américaine.",
-      "source": "Holland & Knight",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/07/50-percent-opening-bid-canadian-imports-subject-to-section-338-tariffs"
+      "short_title": "ChatGPT Ads Europe",
+      "title": "OpenAI déploie la publicité ChatGPT dans 31 pays européens",
+      "summary": "À partir du 24 août, les utilisateurs gratuits et « Go » de ChatGPT verront apparaître des publicités dans 31 pays européens (Allemagne, France, Espagne, Italie...), les abonnements Plus, Pro et Enterprise restant sans publicité. OpenAI justifie ce choix par la nécessité de financer un accès gratuit à grande échelle, alors que ChatGPT vient de franchir le milliard d'utilisateurs actifs.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe/"
     },
     {
       "id": "n07",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "tech",
+      "subtopic": "regulation",
       "importance": 2,
-      "short_title": "Pacte défense Mecque",
-      "title": "Arabie saoudite, Turquie et Pakistan signent un pacte de défense mutuelle",
-      "summary": "Erdogan, le prince héritier saoudien et le premier ministre pakistanais ont signé à La Mecque un accord de défense mutuelle inspiré de l'article 5 de l'OTAN, prévoyant qu'une attaque contre l'un des trois pays soit traitée comme une attaque contre tous. Ce pacte, qui combine environ 1,4 million de militaires actifs et 124 milliards de dollars de budgets de défense cumulés, traduit une recomposition rapide des alliances régionales.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact"
+      "short_title": "AI Act pleins pouvoirs",
+      "title": "Les pouvoirs de sanction de l'AI Act sont pleinement actifs",
+      "summary": "Depuis le 2 août, l'AI Office européen et les autorités nationales peuvent enquêter et sanctionner les manquements à l'AI Act, avec des amendes pouvant atteindre 7% du chiffre d'affaires mondial. Les obligations de transparence de l'article 50 imposent désormais à tout agent conversationnel opérant dans l'UE de signaler explicitement qu'il s'agit d'une IA.",
+      "source": "Wilson Sonsini",
+      "url": "https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic bat OpenAI",
-      "title": "Anthropic dépasse OpenAI en chiffre d'affaires trimestriel",
-      "summary": "Le chiffre d'affaires trimestriel d'Anthropic a dépassé pour la première fois celui d'OpenAI (11,6 milliards de dollars contre 6,7 milliards), porté par le succès de Claude Code, avec l'amorce d'une profitabilité opérationnelle. OpenAI voit de son côté la croissance de ChatGPT ralentir, un renversement net du rapport de force entre les deux labs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+      "importance": 2,
+      "short_title": "DeepMind remaniement",
+      "title": "Demis Hassabis cède la direction opérationnelle de DeepMind",
+      "summary": "Google a annoncé début août que Demis Hassabis devient Chair et Chief Scientist d'Alphabet, cédant la gestion quotidienne de DeepMind, dont le développement de Gemini, à Koray Kavukcuoglu, promu Senior Vice President. Ce remaniement survient alors que la compétition entre labs IA s'intensifie sur le rythme de sortie des modèles.",
+      "source": "TIME",
+      "url": "https://time.com/article/2026/08/06/google-deepmind-ai-demis-hassabis/"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic hausse risque",
-      "title": "Anthropic relève son niveau de risque et révèle un modèle interne non publié",
-      "summary": "Le second rapport de risque public d'Anthropic relève le niveau de risque de désalignement catastrophique de « très faible » à « faible », en raison d'une incertitude accrue plutôt que d'un échec de test précis. Le rapport révèle aussi l'existence de « Model 2 », un modèle interne plus capable que Mythos 5 mais qu'Anthropic ne prévoit pas de déployer publiquement, faute d'avoir fait passer la suite complète d'évaluations prédéploiement.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/aug-2026-risk-report"
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Mistral souveraineté",
+      "title": "Mistral AI renforce son offre d'IA souveraine en Europe",
+      "summary": "Mistral annonce des points d'inférence régionaux permettant aux clients de choisir si leurs traitements IA s'exécutent en Europe ou aux États-Unis, un « Priority Tier » garanti et une coalition d'entreprises européennes visant 200 mégawatts d'infrastructure de calcul d'ici 2027. L'annonce coïncide avec l'entrée en vigueur des pouvoirs de sanction de l'AI Act.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "ChatGPT pour ados",
-      "title": "OpenAI lance ChatGPT for Teens avec contrôles parentaux",
-      "summary": "OpenAI introduit une version dédiée aux 13-17 ans, avec des restrictions renforcées sur les sujets sensibles (automutilation, contenus romantiques ou sexuels), un mode Study et des contrôles parentaux. Les utilisateurs déclarant moins de 18 ans, ou détectés comme tels par le système de prédiction d'âge, y sont automatiquement basculés.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+      "theme": "sante",
+      "subtopic": "oncologie",
+      "importance": 3,
+      "short_title": "Vaccin ARNm anticancer",
+      "title": "Merck et Moderna avancent sur un vaccin ARNm anticancer",
+      "summary": "Le vaccin personnalisé contre le mélanome développé par Merck et Moderna montre des résultats encourageants pour prévenir les récidives, ouvrant la voie à une nouvelle classe de traitements que les chercheurs espèrent étendre à d'autres tumeurs. L'approche cible individuellement les mutations propres à chaque patient plutôt qu'un antigène générique.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-08-19/analysis-moderna-merck-breakthrough-could-usher-in-wave-of-cancer-vaccines"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "Panne mondiale GitHub",
-      "title": "GitHub tombe en panne pendant près de huit heures",
-      "summary": "Une panne majeure a touché GitHub pendant près de huit heures (Actions, Webhooks, Issues, Pull Requests, Copilot, authentification SAML/OIDC), avec des taux d'erreur atteignant 50% sur certains services. L'incident a à lui seul consommé la quasi-totalité du budget annuel d'indisponibilité toléré pour GitHub Actions.",
-      "source": "GeekWire",
-      "url": "https://www.geekwire.com/2026/github-outage-disrupts-developers-worldwide-in-latest-setback-for-microsoft-coding-platform/"
+      "short_title": "ADN nanoparticules Ag",
+      "title": "Des nanoparticules d'argent améliorent l'édition d'ADN",
+      "summary": "Une équipe japonaise de l'université de Nagoya a mis au point une méthode de découpe de l'ADN à base de nanoparticules d'argent, générant des extrémités cohésives plus longues et multipliant par deux à cinq l'efficacité d'assemblage par rapport aux enzymes de restriction classiques. Cette avancée pourrait simplifier la construction de séquences d'ADN longues pour les thérapies géniques et vaccins.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "Cursor lance Origin",
-      "title": "Cursor lance Origin, une alternative à GitHub pensée pour les agents",
-      "summary": "Cursor déploie en bêta payante Origin, une plateforme d'hébergement de code conçue pour les agents IA (dépôts, pull requests, synchronisation bidirectionnelle avec GitHub qui reste la source de vérité). Le lancement, survenu le jour même de la panne GitHub, a mis en avant l'idée d'une infrastructure de code « agent-first » moins dépendante d'une plateforme unique.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"
+      "short_title": "Bactéries anti-cancer",
+      "title": "Des bactéries probiotiques modifiées ciblent le cancer du pancréas",
+      "summary": "Une souche modifiée de Bifidobacterium longum, baptisée BifidoSumIL-2, s'accumule sélectivement dans les tumeurs pancréatiques et y délivre une thérapie immunostimulante en activant les lymphocytes T tueurs. Sur modèles animaux, l'effet est renforcé lorsqu'il est combiné à la chimiothérapie, la radiothérapie ou l'immunothérapie.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044830.htm"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "europe",
+      "theme": "climat",
+      "subtopic": "chine",
       "importance": 2,
-      "short_title": "Mistral: calcul souverain",
-      "title": "Mistral construit une offre de calcul souverain européen",
-      "summary": "Mistral annonce des points d'inférence régionaux (Europe ou Etats-Unis au choix du client), un niveau « Priority Tier » garanti par contrat, et une coalition d'entreprises européennes s'engageant sur des contrats pluriannuels pour financer 200 mégawatts de calcul d'ici 2027 et un gigawatt d'ici 2030. Le laboratoire commence aussi à héberger des modèles tiers, dont GLM-5.2 du chinois Z.ai.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/"
+      "short_title": "Chine plan vert",
+      "title": "La Chine publie son plan quinquennal pour l'industrie verte",
+      "summary": "Pékin détaille un plan quinquennal visant à accélérer la transformation bas-carbone de son secteur industriel et à renforcer la compétitivité de ses filières d'énergie propre. Un rapport parallèle souligne toutefois que 30 gigawatts de nouvelles capacités charbon ont été mis en service au premier semestre 2026, illustrant la tension entre ambitions climatiques et sécurité énergétique.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/china-briefing-6-august-2026-five-year-climate-plan-overcapacity-report-severe-heatwave"
     },
     {
       "id": "n14",
       "theme": "climat",
       "subtopic": "usa",
       "importance": 2,
-      "short_title": "2Mds$ minerais critiques",
-      "title": "Washington engage plus de 2 milliards de dollars dans les minerais critiques",
-      "summary": "L'administration Trump annonce plus de 2 milliards de dollars de prêts et investissements pour des batteries au silicium (Sila Nanotechnologies), du scandium (Sunrise Energy Metals), des aimants sans terres rares (Niron Magnetics) et de la bauxite stratégique, afin de relocaliser ces chaînes d'approvisionnement critiques pour la défense face à la Chine. 180 millions de dollars supplémentaires sont fléchés vers la formation de techniciens miniers.",
+      "short_title": "USA minerais critiques",
+      "title": "Washington engage plus de 2 milliards de dollars sur les minerais critiques",
+      "summary": "L'administration Trump annonce plus de 2 milliards de dollars de prêts et prises de participation pour des entreprises de batteries, aimants et minerais critiques, dont 1,4 milliard pour le fabricant de batteries silicium Sila Nanotechnologies, afin de relocaliser aux États-Unis des chaînes d'approvisionnement jugées stratégiques pour la défense. 180 millions supplémentaires financent la formation de la main-d'œuvre minière.",
       "source": "The White House",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "physique",
-      "importance": 1,
-      "short_title": "Nouvelle théorie fluides",
-      "title": "Des physiciens reformulent la théorie des fluides à partir des interactions microscopiques",
-      "summary": "Quanta Magazine détaille comment des physiciens ont reconstruit la théorie des fluides « par le bas », en partant des interactions moléculaires plutôt que des équations continues classiques. Cette approche offre une base mathématique plus rigoureuse pour décrire la turbulence, avec des implications potentielles pour l'affinage des modèles climatiques et aérodynamiques.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
+      "importance": 2,
+      "short_title": "Tutorat IA ambivalent",
+      "title": "Le tutorat par IA a un effet ambivalent sur l'apprentissage",
+      "summary": "Une synthèse de recherches montre que l'IA peut renforcer la métacognition en explicitant les processus de raisonnement et en personnalisant le feedback, mais qu'elle favorise aussi un « délestage cognitif » qui réduit l'engagement des apprenants dans leur autorégulation. Un mode hybride, où élève et IA co-construisent la réflexion, apparaît comme la piste la plus prometteuse.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "quantique",
+      "theme": "finance",
+      "subtopic": "banques_centrales",
       "importance": 2,
-      "short_title": "D-Wave: porte 2 qubits",
-      "title": "D-Wave publie dans Nature une porte à deux qubits à haute fidélité",
-      "summary": "D-Wave publie dans Nature une porte d'intrication à deux qubits pour ses qubits supraconducteurs « dual-rail », atteignant environ 99,9% de fidélité avec des temps de porte d'environ 500 nanosecondes grâce à une détection d'erreur au niveau matériel. C'est le premier résultat en calcul quantique à portes publié sous la marque D-Wave depuis son rachat de Quantum Circuits Inc., une étape vers des machines tolérantes aux fautes.",
-      "source": "The Next Platform",
-      "url": "https://www.nextplatform.com/compute/2026/08/07/d-wave-intros-two-qubit-error-correcting-gate-for-its-dual-rail-quantum-architecture/5285007"
-    },
-    {
-      "id": "n17",
-      "theme": "sante",
-      "subtopic": "obesite",
-      "importance": 2,
-      "short_title": "Pilule GLP-1 orale",
-      "title": "Une pilule GLP-1 orale affiche 12% de perte de poids en 36 semaines",
-      "summary": "Un essai de phase II publié dans Nature Medicine montre que l'aleniglipron, une petite molécule GLP-1 administrée par voie orale, entraîne jusqu'à 12% de perte de poids en 36 semaines. Contrairement au sémaglutide injectable, cette approche orale pourrait simplifier l'accès au traitement de l'obésité si les résultats se confirment en phase III.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm"
+      "short_title": "Or consolidation",
+      "title": "L'or stagne autour de 4 400$ avant les catalyseurs de la Fed",
+      "summary": "Le cours de l'or oscille entre 4 314 et 4 441 dollars l'once, dans l'attente du symposium de Jackson Hole fin août. Le marché n'anticipe plus qu'environ 35% de probabilité d'une hausse des taux en septembre, ce qui limite la remontée du dollar et maintient le métal précieux dans une phase de consolidation.",
+      "source": "Forex.com",
+      "url": "https://www.forex.com/en-us/news-and-analysis/gold-analysis-xauusd-remains-neutral-ahead-of-fed-minutes/"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n02",
+      "target": "n03",
       "type": "cause",
-      "explanation": "Le maintien du blocus naval américain sans perspective de négociation prolonge la prime de risque sur le pétrole et pousse le Brent au-dessus de 90 dollars."
+      "explanation": "Les sanctions promises contre les circuits de contournement de l'Iran (contrebande pétrolière, registres maritimes) font craindre une contraction de l'offre, ce qui tire le Brent à la hausse."
     },
     {
       "source": "n02",
       "target": "n03",
-      "type": "tension",
-      "explanation": "Le pétrole cher alimente les craintes d'inflation importée pendant que l'emploi américain ralentit, plaçant la Fed devant un arbitrage délicat entre soutien à l'activité et maîtrise des prix."
+      "type": "cause",
+      "explanation": "La suspension des échanges par les Émirats après l'incident des missiles ajoute aux craintes de perturbation du trafic dans le Golfe déjà intégrées dans le prix du pétrole."
+    },
+    {
+      "source": "n03",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "La flambée du Brent nourrit le risque inflationniste que la Fed doit arbitrer, contribuant à l'incertitude sur les taux qui maintient l'or dans sa bande de consolidation."
     },
     {
       "source": "n04",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Les deux frappes relèvent de la même escalade de la semaine, Kyiv et Moscou intensifiant en parallèle leurs bombardements à longue portée."
-    },
-    {
-      "source": "n06",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Les nouvelles surtaxes sur le Canada renchérissent des biens importés et menacent l'emploi manufacturier américain, aggravant la tendance déjà négative révélée par le rapport de juillet."
+      "target": "n16",
+      "type": "cause",
+      "explanation": "Le vote fracturé et le ton hawkish des minutes du FOMC entretiennent l'incertitude sur la trajectoire des taux, ce qui empêche l'or de sortir de sa fourchette de prix."
     },
     {
       "source": "n01",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Le blocage militaire autour de l'Iran et la signature du pacte de défense saoudo-turco-pakistanais traduisent une même recomposition accélérée des équilibres de sécurité au Moyen-Orient."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Anthropic affiche la même semaine un succès commercial spectaculaire et un relèvement volontaire de son niveau de risque interne, deux signaux contradictoires sur la trajectoire de l'entreprise."
-    },
-    {
-      "source": "n08",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Anthropic et OpenAI déploient au même moment des stratégies de croissance différentes: monétisation entreprise et coding pour l'un, extension vers un nouveau public adolescent pour l'autre."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
+      "target": "n14",
       "type": "cause",
-      "explanation": "La panne mondiale de GitHub a exposé la dépendance du secteur à une plateforme unique, une faille que Cursor a exploitée en lançant Origin le jour même comme alternative agent-first."
-    },
-    {
-      "source": "n12",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "Cursor et Mistral cherchent au même moment à réduire la dépendance du secteur IA aux infrastructures dominantes, l'un sur l'hébergement de code, l'autre sur le calcul souverain européen."
+      "explanation": "L'escalade des sanctions et la volatilité pétrolière au Moyen-Orient renforcent l'urgence stratégique américaine de sécuriser des chaînes d'approvisionnement alternatives, hors dépendance aux hydrocarbures."
     },
     {
       "source": "n06",
-      "target": "n14",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Le déploiement publicitaire de ChatGPT en Europe intervient au moment même où les obligations de transparence de l'AI Act deviennent contraignantes pour les agents conversationnels, créant une friction entre modèle économique publicitaire et exigences de conformité."
+    },
+    {
+      "source": "n09",
+      "target": "n07",
       "type": "meme_sujet",
-      "explanation": "Les surtaxes douanières et l'investissement dans les minerais critiques relèvent de la même politique de réindustrialisation et de réduction des dépendances extérieures menée par l'administration Trump ce mois-ci."
+      "explanation": "La stratégie de souveraineté régionale de Mistral et l'entrée en vigueur des pouvoirs de sanction de l'AI Act relèvent de la même vague de pression réglementaire européenne sur les labs IA."
+    },
+    {
+      "source": "n08",
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "Les deux news illustrent le repositionnement stratégique des labs IA frontier cet été: remaniement de direction chez DeepMind, nouvelle stratégie de monétisation chez OpenAI, sur fond de concurrence accrue."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Ces deux avancées d'août 2026 élargissent la boîte à outils d'ingénierie génétique qui sous-tend les traitements anticancéreux de nouvelle génération."
+    },
+    {
+      "source": "n10",
+      "target": "n12",
+      "type": "meme_sujet",
+      "explanation": "Vaccin personnalisé et bactéries modifiées représentent deux approches parallèles de l'immunothérapie de précision contre le cancer publiées le même mois."
+    },
+    {
+      "source": "n13",
+      "target": "n14",
+      "type": "tension",
+      "explanation": "Chine et États-Unis mènent des stratégies industrielles rivales pour contrôler les chaînes d'approvisionnement des minerais critiques et de l'énergie propre, chacun misant sur un mix différent d'investissement public et de production domestique."
     }
   ]
 }

@@ -1,231 +1,248 @@
 {
-  "generated_at": "2026-08-22T10:00:00Z",
+  "generated_at": "2026-08-23T10:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Tensions Hormuz",
-      "title": "Attaques répétées sur les tankers dans le détroit d'Ormuz",
-      "summary": "Des attaques répétées contre des navires marchands dans le détroit d'Ormuz font douter d'une réouverture normale du trafic pétrolier, plus de six mois après le début de la guerre USA-Israël-Iran. Les négociations restent incertaines et l'EIA n'anticipe pas un retour à une production proche des niveaux d'avant-conflit avant début 2027.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening"
+      "short_title": "UAE suspend Iran",
+      "title": "Les Emirats suspendent leur commerce avec l'Iran",
+      "summary": "Les Emirats arabes unis, deuxième partenaire commercial de l'Iran derrière la Chine, ont suspendu le 19 août tous leurs échanges commerciaux et financiers avec Téhéran après avoir affirmé avoir essuyé de nouveaux tirs de missiles. L'Iran dément avoir tiré, mais la mesure marque un net durcissement après une reprise partielle des échanges fin juin.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/08/19/iran-united-arab-emirates-trade-august-19-2026/d3c57f1e-9bbc-11f1-9cc4-2dc9b46e2d5c_story.html"
     },
     {
       "id": "n02",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent proche de $90",
-      "title": "Le Brent grimpe près de 90 dollars le baril",
-      "summary": "Le Brent a franchi 89,5 dollars le baril, en hausse d'environ 24% depuis le début du conflit fin février. Les marchés perdent progressivement confiance dans un accord de désescalade au détroit d'Ormuz, entretenant une prime de risque durable sur l'énergie mondiale.",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Sanctions US Hezbollah",
+      "title": "Washington vise le Hezbollah de nouvelles sanctions",
+      "summary": "Les Etats-Unis ont annoncé le 21 août de nouvelles sanctions ciblant le Hezbollah et ses liens avec le régime iranien, tandis que Donald Trump a jugé que Téhéran n'était pas encore prêt à conclure le \"bon accord\" pour mettre fin à la guerre. Washington affirme aussi préparer ses sanctions \"les plus dures jamais imposées\" contre l'Iran.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "ukraine",
+      "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Frappe sur Kryvyi Rih",
-      "title": "Frappe russe meurtrière sur un centre commercial",
-      "summary": "Une double frappe de drones russes sur un centre commercial de Kryvyi Rih, ville natale de Zelensky, a fait au moins 15 morts et 130 blessés le 21 août. La seconde vague a visé la zone au moment où les secours intervenaient, ce que Kyiv qualifie d'acte terroriste délibéré.",
+      "short_title": "UE menace Israel E1",
+      "title": "L'UE prépare des sanctions contre Israël sur le projet E1",
+      "summary": "Après la publication le 18 août d'un appel d'offres pour 1234 logements dans la zone E1 de Cisjordanie, la Commission européenne prépare un paquet de sanctions incluant l'étiquetage obligatoire des produits israéliens, une réduction de la coopération académique et la suspension de certains liens diplomatiques et sécuritaires. Ursula von der Leyen a jugé la décision israélienne \"inacceptable\".",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/european-powers-rebuke-israel-over-west-bank-e1-settlement-plan"
+    },
+    {
+      "id": "n04",
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Russie ouverte a idees",
+      "title": "Moscou dit être ouvert à de \"nouvelles idées\" sur l'Ukraine",
+      "summary": "Le vice-ministre russe des Affaires étrangères Sergueï Riabkov a déclaré le 21 août que Moscou était prêt à examiner de nouvelles propositions pour mettre fin à la guerre, à condition qu'elles correspondent aux objectifs de Vladimir Poutine. Ces objectifs incluent toujours la cession du Donbass par Kyiv, sa démilitarisation et l'abandon de toute adhésion à l'OTAN.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine"
+      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals"
+    },
+    {
+      "id": "n05",
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Frappes pres Moldavie",
+      "title": "La Russie frappe pour la 2e nuit un poste-frontière moldave",
+      "summary": "Des drones russes ont visé dans la nuit du 20 au 21 août le poste-frontière international de Tabaki, entre l'Ukraine et la Moldavie, endommageant les bâtiments et forçant sa fermeture, moins de 24 heures après une frappe similaire sur un autre poste-frontière voisin. Le ministre ukrainien des Affaires étrangères Andrii Sybiha a averti que la Russie teste de façon croissante la souveraineté des pays voisins de l'OTAN.",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/82811"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "tresor_us",
-      "importance": 3,
-      "short_title": "Buyback Tresor US",
-      "title": "Le Trésor américain double ses rachats de dette longue",
-      "summary": "Face à la flambée des taux longs, le secrétaire au Trésor Scott Bessent a annoncé le doublement de la taille des opérations de rachat de dette longue, de 2 à 4 milliards de dollars par opération, pour tenter de stabiliser un marché obligataire sous tension depuis fin juin.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html"
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Ukraine vise raffineries",
+      "title": "L'Ukraine intensifie ses frappes sur le pétrole russe",
+      "summary": "Des armes à longue portée ukrainiennes ont touché dans la nuit du 21 août la raffinerie Loukoil de Perm, selon Volodymyr Zelensky, après plus d'une trentaine de frappes sur des infrastructures pétrolières russes en un mois. Le raffinage russe est tombé en juillet à son plus bas niveau depuis plus de vingt ans, autour de 3,6 millions de barils par jour.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/ukraine-strikes-major-oil-refinery-deep-inside-russia"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "tresor_us",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Taux US rebondissent",
-      "title": "Les rendements du Trésor américain effacent la baisse",
-      "summary": "Les rendements obligataires américains, qui avaient brièvement reculé après l'annonce de Bessent, sont repartis à la hausse dès le lendemain. Le 30 ans avait atteint 5,34% mardi, son plus haut niveau depuis 2007, sous l'effet des inquiétudes sur l'inflation et la dette publique.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html"
+      "short_title": "Brent pres de 94$",
+      "title": "Le Brent se maintient près de 94 dollars le baril",
+      "summary": "Le Brent évoluait vendredi entre 92,8 et 94,8 dollars le baril, enchaînant une deuxième semaine consécutive de hausse d'environ 6%. La prime de risque reste alimentée à la fois par l'impasse persistante des négociations avec l'Iran et par les perturbations infligées à l'appareil pétrolier russe par les frappes ukrainiennes.",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-21-2026/"
     },
     {
       "id": "n08",
       "theme": "finance",
-      "subtopic": "banques_centrales",
+      "subtopic": "marches",
       "importance": 2,
-      "short_title": "Jackson Hole imminent",
-      "title": "Premier grand discours de Warsh à Jackson Hole",
-      "summary": "Le symposium de Jackson Hole se tient du 27 au 29 août, avec le tout premier discours de Kevin Warsh en tant que président de la Fed le 28. Il a indiqué vouloir traiter des questions structurelles de long terme plutôt que de guider la politique monétaire à court terme, alors que la Fed ne pré-signale plus ses décisions.",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/5199dcdf-716b-4f74-81f1-60f5a3b95518"
+      "short_title": "Wall Street rebondit",
+      "title": "Wall Street rebondit après le décrochage des taux longs",
+      "summary": "Le S&P 500 et le Nasdaq ont progressé de 0,43% vendredi 21 août, et le Dow Jones de près de 1%, portés par les valeurs financières et le secteur des matières premières après une semaine marquée par la remontée des rendements du Trésor. Les valeurs liées aux cryptomonnaies ont particulièrement bondi, Robinhood gagnant près de 14% et Coinbase 8%.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html"
     },
     {
       "id": "n09",
       "theme": "finance",
-      "subtopic": "france",
+      "subtopic": "crypto",
       "importance": 2,
-      "short_title": "Chomage France a 8,3%",
-      "title": "Le chômage grimpe à 8,3% en France",
-      "summary": "Le taux de chômage a atteint 8,3% de la population active au deuxième trimestre 2026, son plus haut niveau depuis 2020, avec près de 2,7 millions de personnes sans emploi. La hausse touche toutes les classes d'âge, notamment les jeunes (21,6%).",
-      "source": "Echos Plus / INSEE",
-      "url": "https://echosplus.com/2026/08/11/chomage-en-france-le-taux-grimpe-a-83-au-plus-haut-depuis-2020/"
+      "short_title": "Bitcoin passe 75000$",
+      "title": "Le bitcoin franchit 75 000 dollars",
+      "summary": "Le bitcoin a dépassé 75 000 dollars le 21 août, porté par le doublement des rachats de dette longue du Trésor américain et par la relance de Donald Trump en faveur du CLARITY Act sur la régulation des cryptoactifs, provoquant plus de 1,25 milliard de dollars de liquidations de positions vendeuses. Standard Chartered anticipe désormais un bitcoin à 100 000 dollars d'ici la fin de l'année.",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/325065/20260820/bitcoin-tops-69000-treasury-buybacks-sec-rules-white-house-summit-converge.htm"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Claude filigrane textes",
-      "title": "Anthropic filigrane les sorties de Claude",
-      "summary": "Depuis le 2 août, Claude intègre un filigrane invisible dans ses textes et des métadonnées de provenance C2PA dans ses fichiers, sans option de désactivation, en application de l'article 50 de l'AI Act européen. La mesure s'applique désormais mondialement, pas seulement aux utilisateurs européens.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792"
+      "importance": 3,
+      "short_title": "Anthropic IPO record",
+      "title": "Anthropic viserait une IPO aussi grande que celle de SpaceX",
+      "summary": "Selon Bloomberg, Anthropic pourrait déposer son dossier d'introduction en bourse dès fin août, avec un objectif de taille égalant ou dépassant le record établi par SpaceX. Le revenu annualisé de l'entreprise aurait atteint environ 65 milliards de dollars fin juillet, porté par l'explosion des dépenses des entreprises en agents IA, et Citigroup rejoindrait les banques chargées de la cotation.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Astra resout 10 pbs",
-      "title": "Astra d'OpenAI résout dix problèmes mathématiques ouverts",
-      "summary": "OpenAI affirme qu'Astra, son prochain modèle pas encore public, a généré des solutions à dix problèmes non résolus depuis dix ans ou plus en mathématiques et informatique théorique, dont la conjecture de rigidité de Connes. Les preuves formalisées en Lean 4 sont publiées en open source, mais aucun résultat n'a encore été relu par des pairs.",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/"
+      "short_title": "OpenAI supprime securite",
+      "title": "OpenAI dissout sa 3e équipe de sécurité en deux ans",
+      "summary": "OpenAI a dissous son équipe Preparedness, chargée d'évaluer les risques catastrophiques des modèles frontières (piratage, menaces biologiques), en répartissant ses missions entre équipes existantes dans le cadre d'un \"processus de rationalisation\" avant son introduction en bourse. Le COO Brad Lightcap, la responsable éthique Chloé Bakalar et le chef de la sécurité Johannes Heidecke ont tous quitté l'entreprise récemment.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/"
     },
     {
       "id": "n12",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Exode chez DeepMind",
-      "title": "Hassabis recule, Jeff Dean quitte Google",
-      "summary": "Demis Hassabis cède la direction opérationnelle de Google DeepMind pour devenir chairman et chief scientist d'Alphabet, tandis que le chief scientist Jeff Dean quitte le groupe après 27 ans avec trois autres cadres pour fonder Discovery Loop, une startup dédiée à l'automatisation de la recherche scientifique.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html"
+      "importance": 2,
+      "short_title": "Gemini 3.7 Flash sorti",
+      "title": "Google DeepMind lance Gemini 3.7 Flash",
+      "summary": "Google DeepMind a publié le 13 août Gemini 3.7 Flash, décrit comme son modèle le plus performant pour le code et les agents, à moitié prix de la version précédente (0,75$/million de tokens en entrée). Le modèle arrive seulement 23 jours après Gemini 3.6 Flash, une cadence de sortie inédite qui illustre l'intensification de la course entre labs.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/"
     },
     {
       "id": "n13",
       "theme": "tech",
-      "subtopic": "regulation_ia",
-      "importance": 3,
-      "short_title": "AI Act: pouvoirs actifs",
-      "title": "L'UE active ses pouvoirs de contrôle sur les modèles d'IA",
-      "summary": "Depuis le 2 août, la Commission européenne peut exiger l'accès aux modèles d'IA à usage général, imposer des mesures correctives et, dans les cas les plus graves, restreindre ou retirer un modèle du marché européen, avec des amendes pouvant atteindre 15 millions d'euros ou 3% du chiffre d'affaires mondial.",
-      "source": "Help Net Security",
-      "url": "https://www.helpnetsecurity.com/2026/08/04/eu-ai-act-enforcement-ai-models/"
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Cursor + Figma via MCP",
+      "title": "Cursor s'intègre à Figma via le protocole MCP",
+      "summary": "Cursor a annoncé une intégration directe avec les nouvelles fonctions MCP/Schema de Figma, permettant de générer du code de production à partir des systèmes de composants Figma sans changer d'outil. Figma ouvre par ailleurs ses outils Weave via MCP à ChatGPT et Claude, renforçant l'interopérabilité entre design et agents de code.",
+      "source": "OpenTools AI",
+      "url": "https://opentools.ai/news/revolutionizing-design-cursors-ai-powered-figma-integration-ushering-a-new-era-in-design-to-code-workflows"
     },
     {
       "id": "n14",
-      "theme": "tech",
-      "subtopic": "europe",
+      "theme": "learn",
+      "subtopic": "ia_education",
       "importance": 2,
-      "short_title": "Mistral: IA souveraine",
-      "title": "Mistral accélère sa stratégie d'IA souveraine",
-      "summary": "Alors que Bruxelles active ses pouvoirs de contrôle sur les modèles d'IA, Mistral renforce son positionnement de fournisseur souverain européen : nouveau centre de données dédié à l'inférence aux Ulis, agent unifié Vibe pour le développement, et expansion vers l'IA industrielle.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai"
+      "short_title": "IA tutrice: repetition",
+      "title": "Un tuteur IA plus efficace quand il impose la répétition",
+      "summary": "Une étude portant sur plus de 6000 collégiens du Tennessee, diffusée le 17 août par le NBER, montre que les élèves progressent légèrement plus en mathématiques quand le tuteur IA les oblige à corriger leurs erreurs puis à réussir trois fois de suite le même exercice avant de continuer. Le gain vient moins de l'IA elle-même que de la discipline de maîtrise qu'elle impose, un point clé pour concevoir des outils de tutorat efficaces.",
+      "source": "The Hechinger Report",
+      "url": "https://hechingerreport.org/proof-points-ai-mastery-learning/"
     },
     {
       "id": "n15",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI vise une IPO",
-      "title": "OpenAI se prépare à une entrée en bourse",
-      "summary": "Après le dépôt confidentiel d'un S-1 auprès de la SEC en juin, OpenAI, qui génère environ 2 milliards de dollars de revenus mensuels mais reste largement déficitaire, se dirige vers un dépôt public fin août pour une cotation visée en septembre, avec une valorisation qui pourrait dépasser 1000 milliards de dollars.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 3,
+      "short_title": "Obesite + vit.D: risque",
+      "title": "Obésité abdominale et carence en vitamine D: risque doublé",
+      "summary": "Une étude portant sur 5520 adultes de plus de 50 ans, suivis pendant six ans et publiée dans Diabetes, Obesity and Metabolism, montre que la combinaison obésité abdominale et carence en vitamine D est associée à un risque de mortalité supérieur de 123% par rapport aux personnes sans ces deux facteurs. Le tour de taille excessif réduirait la vitamine D circulante, dont le déficit aggraverait à son tour l'inflammation chronique liée à l'excès de graisse.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm"
     },
     {
       "id": "n16",
       "theme": "sciences",
-      "subtopic": "quantique",
+      "subtopic": "neurosciences",
       "importance": 2,
-      "short_title": "D-Wave: porte quantique",
-      "title": "D-Wave publie une avancée en correction d'erreur quantique",
-      "summary": "D-Wave a publié dans Nature une porte à deux qubits pour son architecture \"dual-rail\", atteignant environ 99,9% de fidélité en 500 nanosecondes. La détection d'erreurs au niveau matériel pourrait réduire d'un facteur dix le surcoût en qubits physiques nécessaire au calcul quantique tolérant aux fautes.",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/08/05/d-wave-hardware-breakthrough-quantum-error-correction-fault-tolerant-computing/"
+      "short_title": "Neurones du sommeil",
+      "title": "Des neurones identifiés comme moteurs de l'envie de dormir",
+      "summary": "Publiée le 19 août dans Nature, une étude de cartographie cérébrale chez la souris identifie des populations neuronales activées par l'éveil prolongé, notamment dans l'aire préoptique et le raphé médian, qui déclenchent activement la pression de sommeil. Activer ces neurones induit un sommeil de récupération, tandis que les inhiber supprime la propension accrue à dormir normalement observée après une privation.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10928-3"
     },
     {
       "id": "n17",
       "theme": "climat",
       "subtopic": "transition_energetique",
-      "importance": 2,
-      "short_title": "Climat: 2300 Md investis",
-      "title": "Investissement mondial record dans la transition énergétique",
-      "summary": "BloombergNEF chiffre à 2300 milliards de dollars l'investissement mondial dans la transition énergétique en 2025, en hausse de 8% sur un an, tiré par les véhicules électriques et les réseaux. Les dépenses restent toutefois environ deux fois et demie inférieures au rythme jugé nécessaire pour respecter une trajectoire à 1,5°C.",
-      "source": "BloombergNEF",
-      "url": "https://about.bnef.com/insights/clean-energy/bloombergnef-finds-global-energy-transition-investment-reached-record-2-3-trillion-in-2025-up-8-from-2024/"
-    },
-    {
-      "id": "n18",
-      "theme": "sante",
-      "subtopic": "nutrition",
-      "importance": 2,
-      "short_title": "Pilule GLP-1 prometteuse",
-      "title": "Une pilule GLP-1 orale montre 12% de perte de poids",
-      "summary": "Un essai clinique publié début août rapporte jusqu'à 12% de perte de poids en 36 semaines avec un agoniste GLP-1 oral en petite molécule, une alternative potentiellement moins coûteuse et plus simple à produire que les injectables actuels. Les données de sécurité à long terme restent toutefois limitées.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm"
+      "importance": 1,
+      "short_title": "Illinois: reseau elec",
+      "title": "L'Illinois adopte une loi pour un réseau électrique abordable",
+      "summary": "Le gouverneur de l'Illinois JB Pritzker a signé le Clean and Reliable Grid Affordability Act, censé faire économiser 13,4 milliards de dollars aux consommateurs sur vingt ans en encadrant la hausse des coûts de l'électricité et en engageant l'Etat sur 3 gigawatts de nouveau stockage par batteries d'ici 2030. La loi illustre la bascule d'une partie de la politique climatique américaine vers l'échelon des Etats.",
+      "source": "Center for American Progress",
+      "url": "https://www.americanprogress.org/article/state-climate-action-in-2026-how-states-are-delivering-real-benefits-through-climate-and-clean-energy-policy/"
     }
   ],
   "edges": [
     {
+      "source": "n02",
+      "target": "n01",
+      "type": "meme_sujet",
+      "explanation": "Washington et Abou Dabi mènent la même semaine deux volets d'une même campagne de pression économique et diplomatique visant l'Iran et son allié le Hezbollah."
+    },
+    {
       "source": "n01",
       "target": "n02",
-      "type": "cause",
-      "explanation": "La persistance des attaques dans le détroit d'Ormuz alimente directement la prime de risque intégrée dans le prix du Brent, qui s'approche des 90 dollars."
+      "type": "meme_sujet",
+      "explanation": "La suspension du commerce émirati avec l'Iran s'inscrit dans la même dynamique de durcissement que les nouvelles sanctions américaines annoncées le même jour, chacune alimentant l'isolement économique de Téhéran."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "tension",
+      "explanation": "La déclaration d'ouverture diplomatique de Moscou sur l'Ukraine est immédiatement contredite par une deuxième frappe consécutive contre un poste-frontière moldave, illustrant le décalage entre le discours et les actes."
     },
     {
       "source": "n02",
       "target": "n07",
       "type": "cause",
-      "explanation": "La remontée du pétrole ravive les craintes d'inflation importée, ce qui contribue à faire rebondir les rendements obligataires américains malgré l'intervention du Trésor."
+      "explanation": "L'annonce des sanctions américaines les plus dures jamais imposées à l'Iran, sans perspective d'accord, prolonge la prime de risque géopolitique qui maintient le Brent proche de 94 dollars."
     },
     {
       "source": "n06",
       "target": "n07",
-      "type": "tension",
-      "explanation": "Le doublement des rachats de dette par Bessent visait à faire baisser les taux longs, mais les rendements ont regagné le terrain perdu dès le lendemain, signe que l'intervention n'a pas suffi à convaincre le marché."
+      "type": "cause",
+      "explanation": "Les frappes ukrainiennes répétées sur les raffineries et infrastructures pétrolières russes réduisent l'offre mondiale disponible et s'ajoutent à la tension iranienne pour soutenir les prix du Brent."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "La volatilité persistante des taux longs place le premier discours de Warsh à Jackson Hole sous haute surveillance, les marchés y cherchant des indices sur la trajectoire de la politique monétaire."
+      "type": "tension",
+      "explanation": "La prime de risque sur le pétrole reste élevée au moment même où les actions et les cryptoactifs rebondissent fortement, signe d'une divergence entre l'appétit pour le risque sur les marchés financiers et la prudence qui persiste sur les matières premières énergétiques."
     },
     {
-      "source": "n13",
+      "source": "n08",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "Le même doublement des rachats de dette du Trésor et la relance du CLARITY Act qui ont soutenu les actions vendredi ont aussi déclenché la vague de liquidations de positions vendeuses qui a propulsé le bitcoin au-dessus de 75 000 dollars."
+    },
+    {
+      "source": "n11",
       "target": "n10",
-      "type": "cause",
-      "explanation": "L'entrée en vigueur des pouvoirs de contrôle de la Commission européenne le 2 août a directement précédé et motivé le déploiement mondial du filigranage des textes de Claude par Anthropic."
-    },
-    {
-      "source": "n13",
-      "target": "n14",
-      "type": "cause",
-      "explanation": "L'activation des pouvoirs d'enforcement de l'AI Act pousse Mistral à accélérer sa stratégie de conformité et de souveraineté européenne, avec infrastructure et modèles pensés pour le marché réglementaire local."
+      "type": "tension",
+      "explanation": "OpenAI réduit sa surveillance des risques de sécurité au nom de la rationalisation avant son introduction en bourse, tandis qu'Anthropic mise au contraire sur une image de sécurité pour porter une IPO potentiellement encore plus grande: deux stratégies opposées face au même rendez-vous boursier."
     },
     {
       "source": "n12",
       "target": "n11",
-      "type": "tension",
-      "explanation": "Alors que Google DeepMind perd une partie de ses figures scientifiques historiques au profit d'un pari sur l'automatisation de la recherche, OpenAI revendique au même moment une percée mathématique majeure : deux visions concurrentes de la course à la recherche IA."
-    },
-    {
-      "source": "n11",
-      "target": "n15",
-      "type": "cause",
-      "explanation": "La démonstration de capacités de recherche mathématique inédites par Astra renforce le narratif technique d'OpenAI au moment où l'entreprise prépare son entrée en bourse."
+      "type": "meme_sujet",
+      "explanation": "La sortie éclair de Gemini 3.7 Flash et la restructuration interne d'OpenAI relèvent du même mouvement de fond: une compétition entre labs d'IA qui s'accélère au point de bousculer aussi bien les cycles produits que les fonctions de sécurité."
     }
   ]
 }

@@ -1,248 +1,249 @@
 {
-  "generated_at": "2026-08-23T10:00:00Z",
+  "generated_at": "2026-08-24T04:12:47Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "UAE suspend Iran",
-      "title": "Les Emirats suspendent leur commerce avec l'Iran",
-      "summary": "Les Emirats arabes unis, deuxième partenaire commercial de l'Iran derrière la Chine, ont suspendu le 19 août tous leurs échanges commerciaux et financiers avec Téhéran après avoir affirmé avoir essuyé de nouveaux tirs de missiles. L'Iran dément avoir tiré, mais la mesure marque un net durcissement après une reprise partielle des échanges fin juin.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/08/19/iran-united-arab-emirates-trade-august-19-2026/d3c57f1e-9bbc-11f1-9cc4-2dc9b46e2d5c_story.html"
+      "short_title": "Hormuz reste bloqué",
+      "title": "L'Iran maintient le détroit d'Ormuz fermé",
+      "summary": "Depuis le début du conflit en février 2026, l'Iran restreint fortement le trafic dans le détroit d'Ormuz, par lequel transitait environ 20% du pétrole mondial. Téhéran conditionne toute réouverture complète à des concessions américaines, prolongeant l'incertitude sur les approvisionnements.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "asie",
       "importance": 2,
-      "short_title": "Sanctions US Hezbollah",
-      "title": "Washington vise le Hezbollah de nouvelles sanctions",
-      "summary": "Les Etats-Unis ont annoncé le 21 août de nouvelles sanctions ciblant le Hezbollah et ses liens avec le régime iranien, tandis que Donald Trump a jugé que Téhéran n'était pas encore prêt à conclure le \"bon accord\" pour mettre fin à la guerre. Washington affirme aussi préparer ses sanctions \"les plus dures jamais imposées\" contre l'Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support"
+      "short_title": "Route arctique chinoise",
+      "title": "La Chine lance une ligne maritime régulière par l'Arctique",
+      "summary": "L'armateur chinois Sea Legend a transformé son voyage inaugural par la route maritime du Nord en une liaison hebdomadaire régulière entre Ningbo et Felixstowe, divisant par deux le temps de trajet vers l'Europe. Cette accélération du \"Ice Silk Road\" vise explicitement à contourner les points d'étranglement du Moyen-Orient rendus incertains par la crise du détroit d'Ormuz.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/strait-of-hormuz-iran-war-china-trade-route-ice-silk-road/"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "UE menace Israel E1",
-      "title": "L'UE prépare des sanctions contre Israël sur le projet E1",
-      "summary": "Après la publication le 18 août d'un appel d'offres pour 1234 logements dans la zone E1 de Cisjordanie, la Commission européenne prépare un paquet de sanctions incluant l'étiquetage obligatoire des produits israéliens, une réduction de la coopération académique et la suspension de certains liens diplomatiques et sécuritaires. Ursula von der Leyen a jugé la décision israélienne \"inacceptable\".",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/european-powers-rebuke-israel-over-west-bank-e1-settlement-plan"
+      "short_title": "Brent au plus haut",
+      "title": "Le Brent grimpe à son plus haut niveau depuis juillet",
+      "summary": "Le baril de Brent est remonté vers 94 dollars, un pic de plusieurs semaines, porté par les craintes persistantes sur les exportations via le détroit d'Ormuz. Les investisseurs restent nerveux face à un conflit Iran-Israël qui n'a toujours pas trouvé d'issue durable.",
+      "source": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40435706/oil-prices-steady-as-investors-assess-us-iran-war-outlook"
     },
     {
       "id": "n04",
-      "theme": "geopol",
-      "subtopic": "ukraine",
-      "importance": 2,
-      "short_title": "Russie ouverte a idees",
-      "title": "Moscou dit être ouvert à de \"nouvelles idées\" sur l'Ukraine",
-      "summary": "Le vice-ministre russe des Affaires étrangères Sergueï Riabkov a déclaré le 21 août que Moscou était prêt à examiner de nouvelles propositions pour mettre fin à la guerre, à condition qu'elles correspondent aux objectifs de Vladimir Poutine. Ces objectifs incluent toujours la cession du Donbass par Kyiv, sa démilitarisation et l'abandon de toute adhésion à l'OTAN.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "UE taxe les pétroliers",
+      "title": "Six pays de l'UE réclament une taxe sur les superprofits pétroliers",
+      "summary": "L'Allemagne, l'Italie, l'Autriche, la Pologne, le Portugal et l'Espagne ont adressé une lettre commune à l'Irlande pour inscrire une taxe européenne sur les surprofits pétroliers à l'ordre du jour de l'Ecofin de septembre à Dublin. Les ministres pointent des marges de raffinage supérieures à la hausse du brut, alimentées par la guerre au Moyen-Orient.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/08/23/six-eu-countries-push-for-windfall-tax-on-oil-companies-amid-surging-war-profits"
     },
     {
       "id": "n05",
       "theme": "geopol",
       "subtopic": "ukraine",
-      "importance": 2,
-      "short_title": "Frappes pres Moldavie",
-      "title": "La Russie frappe pour la 2e nuit un poste-frontière moldave",
-      "summary": "Des drones russes ont visé dans la nuit du 20 au 21 août le poste-frontière international de Tabaki, entre l'Ukraine et la Moldavie, endommageant les bâtiments et forçant sa fermeture, moins de 24 heures après une frappe similaire sur un autre poste-frontière voisin. Le ministre ukrainien des Affaires étrangères Andrii Sybiha a averti que la Russie teste de façon croissante la souveraineté des pays voisins de l'OTAN.",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/82811"
+      "importance": 3,
+      "short_title": "Frappe russe sur Kyiv",
+      "title": "Nouvelles frappes russes meurtrières sur l'Ukraine",
+      "summary": "La Russie a mené de nouvelles frappes sur Kyiv et Zaporijjia, faisant des morts et des blessés parmi les civils. Zelensky et Poutine se sont mutuellement accusés, alors que les attaques aériennes russes s'intensifient sur les villes ukrainiennes depuis plusieurs jours.",
+      "source": "France 24",
+      "url": "https://www.france24.com/fr/europe/20260822-guerre-ukraine-deux-morts-apr%C3%A8s-frappes-russes-kiev-zaporijjia-zelensky-poutine"
     },
     {
       "id": "n06",
       "theme": "geopol",
       "subtopic": "ukraine",
       "importance": 2,
-      "short_title": "Ukraine vise raffineries",
-      "title": "L'Ukraine intensifie ses frappes sur le pétrole russe",
-      "summary": "Des armes à longue portée ukrainiennes ont touché dans la nuit du 21 août la raffinerie Loukoil de Perm, selon Volodymyr Zelensky, après plus d'une trentaine de frappes sur des infrastructures pétrolières russes en un mois. Le raffinage russe est tombé en juillet à son plus bas niveau depuis plus de vingt ans, autour de 3,6 millions de barils par jour.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/ukraine-strikes-major-oil-refinery-deep-inside-russia"
+      "short_title": "Macron: missiles Kyiv",
+      "title": "Macron promet de nouveaux missiles intercepteurs à l'Ukraine",
+      "summary": "Au lendemain des frappes meurtrières, Emmanuel Macron a annoncé l'envoi de nouveaux missiles intercepteurs pour renforcer la défense antiaérienne ukrainienne. Il a appelé les autres alliés à intensifier leur soutien, l'Ukraine manquant d'intercepteurs face aux tirs quasi quotidiens de missiles et drones russes.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/08/22/france-to-give-new-interceptor-missiles-to-ukraine-macron-says"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "energie",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Brent pres de 94$",
-      "title": "Le Brent se maintient près de 94 dollars le baril",
-      "summary": "Le Brent évoluait vendredi entre 92,8 et 94,8 dollars le baril, enchaînant une deuxième semaine consécutive de hausse d'environ 6%. La prime de risque reste alimentée à la fois par l'impasse persistante des négociations avec l'Iran et par les perturbations infligées à l'appareil pétrolier russe par les frappes ukrainiennes.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-21-2026/"
+      "short_title": "Warsh à Jackson Hole",
+      "title": "Premier discours de Kevin Warsh à Jackson Hole en tant que patron de la Fed",
+      "summary": "Le symposium de Jackson Hole se tient du 27 au 29 août, avec pour temps fort le discours d'ouverture de Kevin Warsh, nouveau président de la Fed, vendredi. Les marchés y voient un arbitre potentiel sur la trajectoire des taux, dans un contexte d'inflation encore supérieure à 3% et de rendements obligataires à long terme en hausse.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair"
     },
     {
       "id": "n08",
       "theme": "finance",
-      "subtopic": "marches",
+      "subtopic": "emploi",
       "importance": 2,
-      "short_title": "Wall Street rebondit",
-      "title": "Wall Street rebondit après le décrochage des taux longs",
-      "summary": "Le S&P 500 et le Nasdaq ont progressé de 0,43% vendredi 21 août, et le Dow Jones de près de 1%, portés par les valeurs financières et le secteur des matières premières après une semaine marquée par la remontée des rendements du Trésor. Les valeurs liées aux cryptomonnaies ont particulièrement bondi, Robinhood gagnant près de 14% et Coinbase 8%.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html"
+      "short_title": "Chômage France 8,3%",
+      "title": "Le taux de chômage français atteint 8,3% au T2 2026",
+      "summary": "Selon l'Insee, le taux de chômage a progressé de 0,2 point au deuxième trimestre 2026, à 8,3% de la population active, son plus haut niveau depuis 2020. C'est le sixième trimestre consécutif de hausse, ce qui complique l'objectif de plein emploi et pèse sur le climat pour les indépendants et consultants.",
+      "source": "Insee",
+      "url": "https://www.insee.fr/fr/statistiques/9032359"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "crypto",
-      "importance": 2,
-      "short_title": "Bitcoin passe 75000$",
-      "title": "Le bitcoin franchit 75 000 dollars",
-      "summary": "Le bitcoin a dépassé 75 000 dollars le 21 août, porté par le doublement des rachats de dette longue du Trésor américain et par la relance de Donald Trump en faveur du CLARITY Act sur la régulation des cryptoactifs, provoquant plus de 1,25 milliard de dollars de liquidations de positions vendeuses. Standard Chartered anticipe désormais un bitcoin à 100 000 dollars d'ici la fin de l'année.",
-      "source": "TechTimes",
-      "url": "https://www.techtimes.com/articles/325065/20260820/bitcoin-tops-69000-treasury-buybacks-sec-rules-white-house-summit-converge.htm"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic vise IPO XXL",
+      "title": "Anthropic viserait une IPO aussi grosse que celle de SpaceX",
+      "summary": "Anthropic pourrait déposer son dossier d'introduction en bourse dès la fin août, avec l'ambition d'égaler ou dépasser le record de 86 milliards de dollars levé par SpaceX. La banque Citigroup rejoindrait Morgan Stanley, Goldman Sachs et JPMorgan parmi les conseillers de l'opération.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic IPO record",
-      "title": "Anthropic viserait une IPO aussi grande que celle de SpaceX",
-      "summary": "Selon Bloomberg, Anthropic pourrait déposer son dossier d'introduction en bourse dès fin août, avec un objectif de taille égalant ou dépassant le record établi par SpaceX. Le revenu annualisé de l'entreprise aurait atteint environ 65 milliards de dollars fin juillet, porté par l'explosion des dépenses des entreprises en agents IA, et Citigroup rejoindrait les banques chargées de la cotation.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size"
+      "importance": 2,
+      "short_title": "OpenAI baisse ses prix",
+      "title": "OpenAI réduit le prix de son API GPT-5.6 Sol",
+      "summary": "OpenAI a abaissé de 20% le prix des entrées et d'un tiers celui des sorties de GPT-5.6 Sol sur son API, une baisse garantie jusqu'au 21 novembre. Ce geste tarifaire intervient alors que la concurrence s'intensifie face à Anthropic et aux modèles chinois.",
+      "source": "Winbuzzer",
+      "url": "https://winbuzzer.com/2026/08/23/openai-cuts-gpt-5-6-sol-api-prices-by-up-to-33-percent-through-november-21-xcxwbn/"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "OpenAI supprime securite",
-      "title": "OpenAI dissout sa 3e équipe de sécurité en deux ans",
-      "summary": "OpenAI a dissous son équipe Preparedness, chargée d'évaluer les risques catastrophiques des modèles frontières (piratage, menaces biologiques), en répartissant ses missions entre équipes existantes dans le cadre d'un \"processus de rationalisation\" avant son introduction en bourse. Le COO Brad Lightcap, la responsable éthique Chloé Bakalar et le chef de la sécurité Johannes Heidecke ont tous quitté l'entreprise récemment.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/"
+      "short_title": "Meta ouvre Muse Glimmer",
+      "title": "Meta publie Muse Glimmer, son premier modèle ouvert depuis Llama 4",
+      "summary": "Meta a mis en licence Apache 2.0 Muse Glimmer, un modèle multimodal de 30 milliards de paramètres optimisé pour des agents tournant en local sur un simple GPU grand public. C'est la première publication en poids ouverts issue de la Superintelligence Labs restructurée, sans les limitations d'usage qui encadraient Llama.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now"
     },
     {
       "id": "n12",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Gemini 3.7 Flash sorti",
-      "title": "Google DeepMind lance Gemini 3.7 Flash",
-      "summary": "Google DeepMind a publié le 13 août Gemini 3.7 Flash, décrit comme son modèle le plus performant pour le code et les agents, à moitié prix de la version précédente (0,75$/million de tokens en entrée). Le modèle arrive seulement 23 jours après Gemini 3.6 Flash, une cadence de sortie inédite qui illustre l'intensification de la course entre labs.",
-      "source": "MarkTechPost",
-      "url": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/"
+      "short_title": "Cursor lance Origin",
+      "title": "Cursor dévoile Origin, sa plateforme d'hébergement de code",
+      "summary": "Cursor a ouvert en bêta Origin, une plateforme d'hébergement de dépôts intégrée à l'éditeur, avec synchronisation bidirectionnelle vers GitHub et un agent capable de pousser du code directement. Le lancement a coïncidé, par hasard, avec une panne mondiale majeure de GitHub, ce qui a braqué les projecteurs sur cette alternative.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"
     },
     {
       "id": "n13",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Cursor + Figma via MCP",
-      "title": "Cursor s'intègre à Figma via le protocole MCP",
-      "summary": "Cursor a annoncé une intégration directe avec les nouvelles fonctions MCP/Schema de Figma, permettant de générer du code de production à partir des systèmes de composants Figma sans changer d'outil. Figma ouvre par ailleurs ses outils Weave via MCP à ChatGPT et Claude, renforçant l'interopérabilité entre design et agents de code.",
-      "source": "OpenTools AI",
-      "url": "https://opentools.ai/news/revolutionizing-design-cursors-ai-powered-figma-integration-ushering-a-new-era-in-design-to-code-workflows"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Vitamine D et cognition",
+      "title": "La vitamine D à haute dose associée à de meilleures performances cognitives",
+      "summary": "Une étude d'Emory portant sur des seniors souffrant de troubles du sommeil et de déficit cognitif léger montre qu'une supplémentation d'au moins 5000 UI de vitamine D par jour est associée à un score supérieur de 13% au test cognitif MoCA. Les auteurs restent prudents, l'échantillon étant restreint, mais y voient une piste de prévention à creuser.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm"
     },
     {
       "id": "n14",
-      "theme": "learn",
-      "subtopic": "ia_education",
-      "importance": 2,
-      "short_title": "IA tutrice: repetition",
-      "title": "Un tuteur IA plus efficace quand il impose la répétition",
-      "summary": "Une étude portant sur plus de 6000 collégiens du Tennessee, diffusée le 17 août par le NBER, montre que les élèves progressent légèrement plus en mathématiques quand le tuteur IA les oblige à corriger leurs erreurs puis à réussir trois fois de suite le même exercice avant de continuer. Le gain vient moins de l'IA elle-même que de la discipline de maîtrise qu'elle impose, un point clé pour concevoir des outils de tutorat efficaces.",
-      "source": "The Hechinger Report",
-      "url": "https://hechingerreport.org/proof-points-ai-mastery-learning/"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Langues et cerveau jeune",
+      "title": "Parler plusieurs langues ralentirait le vieillissement cérébral",
+      "summary": "Une étude menée dans le Pays basque espagnol sur des locuteurs d'une à quatre langues montre, via une estimation de l'âge cérébral par IA, un cerveau apparemment jusqu'à 13 ans plus jeune chez les quadrilingues que chez les monolingues. L'effet est progressif avec le nombre de langues parlées et la précocité de leur apprentissage.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Obesite + vit.D: risque",
-      "title": "Obésité abdominale et carence en vitamine D: risque doublé",
-      "summary": "Une étude portant sur 5520 adultes de plus de 50 ans, suivis pendant six ans et publiée dans Diabetes, Obesity and Metabolism, montre que la combinaison obésité abdominale et carence en vitamine D est associée à un risque de mortalité supérieur de 123% par rapport aux personnes sans ces deux facteurs. Le tour de taille excessif réduirait la vitamine D circulante, dont le déficit aggraverait à son tour l'inflammation chronique liée à l'excès de graisse.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm"
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Solaire sauve le réseau",
+      "title": "Le solaire a stabilisé le réseau électrique européen pendant la canicule",
+      "summary": "Selon une analyse d'Ember, les vagues de chaleur de juin-juillet 2026 ont mis à mal le nucléaire, le gaz et l'hydroélectricité, contraints par le manque d'eau de refroidissement, pendant que la production solaire progressait jusqu'à 17% et absorbait la hausse de la demande de climatisation. Le solaire est ainsi devenu un facteur clé de résilience du réseau en pleine canicule.",
+      "source": "Ember",
+      "url": "https://ember-energy.org/latest-insights/solar-helps-europes-grid-withstand-extreme-heat/"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "neurosciences",
-      "importance": 2,
-      "short_title": "Neurones du sommeil",
-      "title": "Des neurones identifiés comme moteurs de l'envie de dormir",
-      "summary": "Publiée le 19 août dans Nature, une étude de cartographie cérébrale chez la souris identifie des populations neuronales activées par l'éveil prolongé, notamment dans l'aire préoptique et le raphé médian, qui déclenchent activement la pression de sommeil. Activer ces neurones induit un sommeil de récupération, tandis que les inhiber supprime la propension accrue à dormir normalement observée après une privation.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10928-3"
-    },
-    {
-      "id": "n17",
-      "theme": "climat",
-      "subtopic": "transition_energetique",
+      "theme": "sante",
+      "subtopic": "sport",
       "importance": 1,
-      "short_title": "Illinois: reseau elec",
-      "title": "L'Illinois adopte une loi pour un réseau électrique abordable",
-      "summary": "Le gouverneur de l'Illinois JB Pritzker a signé le Clean and Reliable Grid Affordability Act, censé faire économiser 13,4 milliards de dollars aux consommateurs sur vingt ans en encadrant la hausse des coûts de l'électricité et en engageant l'Etat sur 3 gigawatts de nouveau stockage par batteries d'ici 2030. La loi illustre la bascule d'une partie de la politique climatique américaine vers l'échelon des Etats.",
-      "source": "Center for American Progress",
-      "url": "https://www.americanprogress.org/article/state-climate-action-in-2026-how-states-are-delivering-real-benefits-through-climate-and-clean-energy-policy/"
+      "short_title": "Drogues et risque AVC",
+      "title": "Cannabis, cocaïne et amphétamines liés à un risque accru d'AVC",
+      "summary": "Une méta-analyse portant sur plus de 100 millions de personnes confirme un lien entre usage récréatif de drogues et risque d'AVC, particulièrement marqué chez les moins de 55 ans: +174% pour les amphétamines et +97% pour la cocaïne dans cette tranche d'âge. Aucun lien significatif n'a en revanche été trouvé avec les opioïdes.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015215.htm"
     }
   ],
   "edges": [
     {
-      "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Washington et Abou Dabi mènent la même semaine deux volets d'une même campagne de pression économique et diplomatique visant l'Iran et son allié le Hezbollah."
+      "source": "n01",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "Le blocage prolongé d'Ormuz prive le marché d'environ un cinquième du pétrole mondial transitant habituellement par ce détroit, ce qui pousse mécaniquement le Brent vers ses plus hauts niveaux depuis juillet."
     },
     {
       "source": "n01",
       "target": "n02",
+      "type": "cause",
+      "explanation": "Face à l'incertitude persistante sur Ormuz, la Chine accélère sa route arctique alternative pour sécuriser ses échanges avec l'Europe sans dépendre des points d'étranglement du Moyen-Orient."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Les marges de raffinage et les profits des majors pétrolières, gonflés par la flambée du Brent, alimentent directement la demande de six Etats membres pour une taxe européenne sur les superprofits."
+    },
+    {
+      "source": "n03",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "La flambée du pétrole entretient des pressions inflationnistes qui compliquent le premier grand discours de politique monétaire de Kevin Warsh, désormais scruté pour ses implications sur les taux."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "Les frappes meurtrières sur des villes ukrainiennes poussent Macron à accélérer la livraison de missiles intercepteurs pour combler le déficit de défense antiaérienne de Kyiv."
+    },
+    {
+      "source": "n09",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "Anthropic mise sur une introduction en bourse géante adossée à des modèles propriétaires, quand Meta choisit à l'inverse de distribuer gratuitement les poids de son modèle: deux paris opposés sur le modèle économique de l'IA."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
       "type": "meme_sujet",
-      "explanation": "La suspension du commerce émirati avec l'Iran s'inscrit dans la même dynamique de durcissement que les nouvelles sanctions américaines annoncées le même jour, chacune alimentant l'isolement économique de Téhéran."
+      "explanation": "Baisse de prix chez OpenAI et ouverture des poids chez Meta sont deux réponses concurrentes à la même bataille pour capter les développeurs dans une IA de plus en plus commoditisée."
     },
     {
-      "source": "n04",
-      "target": "n05",
-      "type": "tension",
-      "explanation": "La déclaration d'ouverture diplomatique de Moscou sur l'Ukraine est immédiatement contredite par une deuxième frappe consécutive contre un poste-frontière moldave, illustrant le décalage entre le discours et les actes."
-    },
-    {
-      "source": "n02",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "L'annonce des sanctions américaines les plus dures jamais imposées à l'Iran, sans perspective d'accord, prolonge la prime de risque géopolitique qui maintient le Brent proche de 94 dollars."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "Les frappes ukrainiennes répétées sur les raffineries et infrastructures pétrolières russes réduisent l'offre mondiale disponible et s'ajoutent à la tension iranienne pour soutenir les prix du Brent."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "La prime de risque sur le pétrole reste élevée au moment même où les actions et les cryptoactifs rebondissent fortement, signe d'une divergence entre l'appétit pour le risque sur les marchés financiers et la prudence qui persiste sur les matières premières énergétiques."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "cause",
-      "explanation": "Le même doublement des rachats de dette du Trésor et la relance du CLARITY Act qui ont soutenu les actions vendredi ont aussi déclenché la vague de liquidations de positions vendeuses qui a propulsé le bitcoin au-dessus de 75 000 dollars."
-    },
-    {
-      "source": "n11",
+      "source": "n09",
       "target": "n10",
       "type": "tension",
-      "explanation": "OpenAI réduit sa surveillance des risques de sécurité au nom de la rationalisation avant son introduction en bourse, tandis qu'Anthropic mise au contraire sur une image de sécurité pour porter une IPO potentiellement encore plus grande: deux stratégies opposées face au même rendez-vous boursier."
+      "explanation": "L'ambition d'Anthropic de lever des dizaines de milliards suppose un pouvoir de fixation des prix durable, alors même qu'OpenAI est contraint de brader son API sous la pression concurrentielle."
     },
     {
       "source": "n12",
       "target": "n11",
       "type": "meme_sujet",
-      "explanation": "La sortie éclair de Gemini 3.7 Flash et la restructuration interne d'OpenAI relèvent du même mouvement de fond: une compétition entre labs d'IA qui s'accélère au point de bousculer aussi bien les cycles produits que les fonctions de sécurité."
+      "explanation": "L'hébergement de code piloté par agent chez Cursor et le modèle ouvert taillé pour les agents chez Meta traduisent tous deux le même basculement vers des agents autonomes exécutés au plus près du développeur."
+    },
+    {
+      "source": "n13",
+      "target": "n14",
+      "type": "meme_sujet",
+      "explanation": "Ces deux études publiées la même semaine identifient, par des voies différentes (supplémentation, plurilinguisme), des facteurs modifiables associés à un vieillissement cognitif plus lent."
+    },
+    {
+      "source": "n03",
+      "target": "n15",
+      "type": "tension",
+      "explanation": "Le même été voit les pétroliers engranger des superprofits liés au choc d'Ormuz pendant que le solaire, et non le nucléaire ou le gaz, assure la stabilité du réseau électrique européen durant la canicule: deux trajectoires opposées pour les énergies fossiles et renouvelables."
     }
   ]
 }

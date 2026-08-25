@@ -1,249 +1,293 @@
 {
-  "generated_at": "2026-08-24T04:12:47Z",
+  "generated_at": "2026-08-25T04:09:55Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Hormuz reste bloqué",
-      "title": "L'Iran maintient le détroit d'Ormuz fermé",
-      "summary": "Depuis le début du conflit en février 2026, l'Iran restreint fortement le trafic dans le détroit d'Ormuz, par lequel transitait environ 20% du pétrole mondial. Téhéran conditionne toute réouverture complète à des concessions américaines, prolongeant l'incertitude sur les approvisionnements.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html"
+      "short_title": "Sanctions US vs Iran",
+      "title": "Washington déploie ses sanctions les plus dures contre l'Iran",
+      "summary": "Le secrétaire au Trésor Scott Bessent a dévoilé le 24 août l'opération \"Economic Outcast\", décrite comme la campagne de sanctions la plus dure jamais imposée à l'Iran, incluant des mesures visant les partenaires commerciaux comme la Chine. L'objectif affiché est de faire s'effondrer le régime iranien en coupant ses revenus pétroliers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "asie",
-      "importance": 2,
-      "short_title": "Route arctique chinoise",
-      "title": "La Chine lance une ligne maritime régulière par l'Arctique",
-      "summary": "L'armateur chinois Sea Legend a transformé son voyage inaugural par la route maritime du Nord en une liaison hebdomadaire régulière entre Ningbo et Felixstowe, divisant par deux le temps de trajet vers l'Europe. Cette accélération du \"Ice Silk Road\" vise explicitement à contourner les points d'étranglement du Moyen-Orient rendus incertains par la crise du détroit d'Ormuz.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/19/strait-of-hormuz-iran-war-china-trade-route-ice-silk-road/"
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Iran menace Hormuz",
+      "title": "L'Iran menace de bloquer le détroit d'Ormuz",
+      "summary": "En réponse à l'annonce des sanctions américaines, des responsables iraniens ont averti que les navires soutenant les mesures de Washington pourraient être considérés comme complices d'un acte de guerre, évoquant des saisies de pétroliers sur les routes alternatives au détroit. Environ 20% du pétrole mondial transite par ce point de passage stratégique.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent au plus haut",
-      "title": "Le Brent grimpe à son plus haut niveau depuis juillet",
-      "summary": "Le baril de Brent est remonté vers 94 dollars, un pic de plusieurs semaines, porté par les craintes persistantes sur les exportations via le détroit d'Ormuz. Les investisseurs restent nerveux face à un conflit Iran-Israël qui n'a toujours pas trouvé d'issue durable.",
-      "source": "Business Recorder",
-      "url": "https://www.brecorder.com/news/40435706/oil-prices-steady-as-investors-assess-us-iran-war-outlook"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Gaza: frappes continuent",
+      "title": "Des frappes israéliennes continuent malgré la trêve à Gaza",
+      "summary": "Malgré le cessez-le-feu négocié en octobre 2025, des frappes israéliennes ont encore tué des Palestiniens à Gaza le 24 août, dont un abri de fortune touché près de l'hôpital Al-Aqsa. Plus de 1 280 Palestiniens sont morts depuis l'annonce de la trêve, alimentant les doutes sur sa tenue.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "UE taxe les pétroliers",
-      "title": "Six pays de l'UE réclament une taxe sur les superprofits pétroliers",
-      "summary": "L'Allemagne, l'Italie, l'Autriche, la Pologne, le Portugal et l'Espagne ont adressé une lettre commune à l'Irlande pour inscrire une taxe européenne sur les surprofits pétroliers à l'ordre du jour de l'Ecofin de septembre à Dublin. Les ministres pointent des marges de raffinage supérieures à la hausse du brut, alimentées par la guerre au Moyen-Orient.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/08/23/six-eu-countries-push-for-windfall-tax-on-oil-companies-amid-surging-war-profits"
+      "theme": "geopol",
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "Budget 2027 sous tension",
+      "title": "Le budget 2027 français menacé par l'instabilité politique",
+      "summary": "Le Premier ministre Sébastien Lecornu doit faire adopter un budget 2027 face à une Assemblée nationale fragmentée, où LFI brandit la menace de censure. À l'approche de la présidentielle de 2027, la fenêtre de compromis politique se réduit fortement.",
+      "source": "LCP - Assemblée nationale",
+      "url": "https://lcp.fr/actualites/budget-2027-comment-le-gouvernement-veut-eviter-une-impasse-a-l-automne-436869"
     },
     {
       "id": "n05",
-      "theme": "geopol",
-      "subtopic": "ukraine",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Frappe russe sur Kyiv",
-      "title": "Nouvelles frappes russes meurtrières sur l'Ukraine",
-      "summary": "La Russie a mené de nouvelles frappes sur Kyiv et Zaporijjia, faisant des morts et des blessés parmi les civils. Zelensky et Poutine se sont mutuellement accusés, alors que les attaques aériennes russes s'intensifient sur les villes ukrainiennes depuis plusieurs jours.",
-      "source": "France 24",
-      "url": "https://www.france24.com/fr/europe/20260822-guerre-ukraine-deux-morts-apr%C3%A8s-frappes-russes-kiev-zaporijjia-zelensky-poutine"
+      "short_title": "Brut recule sur sanctions",
+      "title": "Le pétrole recule malgré les sanctions sur l'Iran",
+      "summary": "Le WTI a reculé de 1,6% à 85,65$ et le Brent de 1,4% à 93,09$ lundi, les marchés ayant déjà largement anticipé l'annonce des sanctions américaines. L'absence de mesures immédiates sur les exportations physiques a limité la réaction haussière attendue.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "ukraine",
-      "importance": 2,
-      "short_title": "Macron: missiles Kyiv",
-      "title": "Macron promet de nouveaux missiles intercepteurs à l'Ukraine",
-      "summary": "Au lendemain des frappes meurtrières, Emmanuel Macron a annoncé l'envoi de nouveaux missiles intercepteurs pour renforcer la défense antiaérienne ukrainienne. Il a appelé les autres alliés à intensifier leur soutien, l'Ukraine manquant d'intercepteurs face aux tirs quasi quotidiens de missiles et drones russes.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/08/22/france-to-give-new-interceptor-missiles-to-ukraine-macron-says"
+      "theme": "finance",
+      "subtopic": "macro",
+      "importance": 3,
+      "short_title": "Taux mondiaux au sommet",
+      "title": "Les rendements obligataires mondiaux au plus haut depuis des années",
+      "summary": "Les taux à 10 ans ont grimpé à 2,94% au Japon (plus haut en 30 ans), au-dessus de 3,25% en Allemagne (plus haut depuis 2011) et à 4,10% en France (plus haut depuis 2009), portés par les craintes d'inflation liées au conflit iranien et par l'inquiétude sur la soutenabilité des dettes publiques.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "macro",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "Warsh à Jackson Hole",
-      "title": "Premier discours de Kevin Warsh à Jackson Hole en tant que patron de la Fed",
-      "summary": "Le symposium de Jackson Hole se tient du 27 au 29 août, avec pour temps fort le discours d'ouverture de Kevin Warsh, nouveau président de la Fed, vendredi. Les marchés y voient un arbitre potentiel sur la trajectoire des taux, dans un contexte d'inflation encore supérieure à 3% et de rendements obligataires à long terme en hausse.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair"
+      "short_title": "OAT 30 ans au plus haut",
+      "title": "L'OAT française à 30 ans au plus haut depuis 2008",
+      "summary": "Le rendement de l'OAT à 30 ans a atteint son plus haut niveau depuis 2008, les investisseurs exigeant une prime de risque supplémentaire face aux incertitudes budgétaires et à l'approche de la présidentielle 2027. Le 10 ans français a lui aussi touché 4,10%, un niveau plus vu depuis 2009.",
+      "source": "Athens Times",
+      "url": "https://athens-times.com/sovereign-bonds-borrowing-costs-rise-across-major-economies/"
     },
     {
       "id": "n08",
       "theme": "finance",
-      "subtopic": "emploi",
+      "subtopic": "frtb",
       "importance": 2,
-      "short_title": "Chômage France 8,3%",
-      "title": "Le taux de chômage français atteint 8,3% au T2 2026",
-      "summary": "Selon l'Insee, le taux de chômage a progressé de 0,2 point au deuxième trimestre 2026, à 8,3% de la population active, son plus haut niveau depuis 2020. C'est le sixième trimestre consécutif de hausse, ce qui complique l'objectif de plein emploi et pèse sur le climat pour les indépendants et consultants.",
-      "source": "Insee",
-      "url": "https://www.insee.fr/fr/statistiques/9032359"
+      "short_title": "FRTB reporté à 2027",
+      "title": "La Commission européenne reporte FRTB à janvier 2027",
+      "summary": "Après un premier report, la Commission propose un second délai d'un an pour l'entrée en vigueur des exigences FRTB dans l'UE, afin de s'aligner sur le calendrier des autres juridictions et préserver la compétitivité des banques européennes actives à l'international.",
+      "source": "Moody's",
+      "url": "https://www.moodys.com/web/en/us/insights/regulatory-news/eu-authorities-set-out-regulatory-priorities-for-2026.html"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic vise IPO XXL",
-      "title": "Anthropic viserait une IPO aussi grosse que celle de SpaceX",
-      "summary": "Anthropic pourrait déposer son dossier d'introduction en bourse dès la fin août, avec l'ambition d'égaler ou dépasser le record de 86 milliards de dollars levé par SpaceX. La banque Citigroup rejoindrait Morgan Stanley, Goldman Sachs et JPMorgan parmi les conseillers de l'opération.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size"
+      "importance": 2,
+      "short_title": "Panne chez Anthropic",
+      "title": "Nouvelle panne majeure pour Claude",
+      "summary": "Claude a subi le 24 août une nouvelle vague d'erreurs élevées touchant le chat, l'API et Claude Code, dans ce qui devient un schéma récurrent de perturbations pour Anthropic (incidents notables les 5, 12, 13, 16, 18 et 20 août). La cause a été identifiée environ 20 minutes après le début de l'incident.",
+      "source": "Cybersecurity News",
+      "url": "https://cybersecuritynews.com/claude-ai-suffers-outage/"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "OpenAI baisse ses prix",
-      "title": "OpenAI réduit le prix de son API GPT-5.6 Sol",
-      "summary": "OpenAI a abaissé de 20% le prix des entrées et d'un tiers celui des sorties de GPT-5.6 Sol sur son API, une baisse garantie jusqu'au 21 novembre. Ce geste tarifaire intervient alors que la concurrence s'intensifie face à Anthropic et aux modèles chinois.",
-      "source": "Winbuzzer",
-      "url": "https://winbuzzer.com/2026/08/23/openai-cuts-gpt-5-6-sol-api-prices-by-up-to-33-percent-through-november-21-xcxwbn/"
+      "short_title": "OpenAI mise sur l'agent",
+      "title": "OpenAI veut un agent IA pour chaque tâche numérique",
+      "summary": "OpenAI développe des agents capables de contrôler directement la messagerie, Slack, le téléphone et des apps comme Notion ou Figma, selon un reportage sur l'équipe produit de l'app desktop. La question posée par la presse : jusqu'où les utilisateurs sont-ils prêts à déléguer le contrôle de leur vie numérique ?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Meta ouvre Muse Glimmer",
-      "title": "Meta publie Muse Glimmer, son premier modèle ouvert depuis Llama 4",
-      "summary": "Meta a mis en licence Apache 2.0 Muse Glimmer, un modèle multimodal de 30 milliards de paramètres optimisé pour des agents tournant en local sur un simple GPU grand public. C'est la première publication en poids ouverts issue de la Superintelligence Labs restructurée, sans les limitations d'usage qui encadraient Llama.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now"
+      "importance": 2,
+      "short_title": "Gemini Omni débarque",
+      "title": "Google lance Gemini Omni, création multimodale unifiée",
+      "summary": "Google DeepMind a présenté Gemini Omni, une famille de modèles permettant de générer et éditer images, vidéos et sons à partir de n'importe quelle combinaison d'entrées. La première version disponible, Gemini Omni Flash, simplifie l'édition vidéo au niveau d'une simple conversation.",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/models/"
     },
     {
       "id": "n12",
       "theme": "tech",
-      "subtopic": "vibe_coding",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Cursor lance Origin",
-      "title": "Cursor dévoile Origin, sa plateforme d'hébergement de code",
-      "summary": "Cursor a ouvert en bêta Origin, une plateforme d'hébergement de dépôts intégrée à l'éditeur, avec synchronisation bidirectionnelle vers GitHub et un agent capable de pousser du code directement. Le lancement a coïncidé, par hasard, avec une panne mondiale majeure de GitHub, ce qui a braqué les projecteurs sur cette alternative.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race"
+      "short_title": "Meta ouvre Muse Glimmer",
+      "title": "Meta publie Muse Glimmer en open weight",
+      "summary": "Meta Superintelligence Labs a publié le 10 août Muse Glimmer, un modèle multimodal dense de 30 milliards de paramètres sous licence Apache 2.0, optimisé pour tourner localement sur un simple GPU grand public grâce à une quantification proche de 4 bits. Le choix confirme le pivot de Meta vers l'open source face à la fermeture croissante d'OpenAI et Google.",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Vitamine D et cognition",
-      "title": "La vitamine D à haute dose associée à de meilleures performances cognitives",
-      "summary": "Une étude d'Emory portant sur des seniors souffrant de troubles du sommeil et de déficit cognitif léger montre qu'une supplémentation d'au moins 5000 UI de vitamine D par jour est associée à un score supérieur de 13% au test cognitif MoCA. Les auteurs restent prudents, l'échantillon étant restreint, mais y voient une piste de prévention à creuser.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm"
+      "short_title": "Figma défie Cursor",
+      "title": "Figma pousse ses Code Layers face à Cursor",
+      "summary": "Lors de sa conférence Config 2026, Figma a présenté des Code Layers permettant de mêler design et code sur un même canevas, se positionnant directement face aux environnements de codage IA comme Cursor, valorisé 60 milliards de dollars. Le pari : que le point d'entrée du vibe coding reste l'outil de design plutôt que l'éditeur de code.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/319041/20260625/figma-config-2026-code-layers-challenge-cursor-gpu-shaders-hit-paid-plans.htm"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Langues et cerveau jeune",
-      "title": "Parler plusieurs langues ralentirait le vieillissement cérébral",
-      "summary": "Une étude menée dans le Pays basque espagnol sur des locuteurs d'une à quatre langues montre, via une estimation de l'âge cérébral par IA, un cerveau apparemment jusqu'à 13 ans plus jeune chez les quadrilingues que chez les monolingues. L'effet est progressif avec le nombre de langues parlées et la précocité de leur apprentissage.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm"
+      "theme": "tech",
+      "subtopic": "regulation",
+      "importance": 2,
+      "short_title": "Anthropic filigrane l'IA",
+      "title": "Anthropic intègre un filigrane dans les contenus Claude",
+      "summary": "Depuis le 2 août, tous les contenus générés par les produits Claude embarquent un marquage lisible par machine, une mesure prise pour se conformer à l'AI Act européen. Anthropic devient ainsi l'un des premiers grands labs à appliquer une traçabilité systématique de ses sorties.",
+      "source": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs/"
     },
     {
       "id": "n15",
-      "theme": "climat",
-      "subtopic": "europe",
+      "theme": "learn",
+      "subtopic": "metacognition",
       "importance": 2,
-      "short_title": "Solaire sauve le réseau",
-      "title": "Le solaire a stabilisé le réseau électrique européen pendant la canicule",
-      "summary": "Selon une analyse d'Ember, les vagues de chaleur de juin-juillet 2026 ont mis à mal le nucléaire, le gaz et l'hydroélectricité, contraints par le manque d'eau de refroidissement, pendant que la production solaire progressait jusqu'à 17% et absorbait la hausse de la demande de climatisation. Le solaire est ainsi devenu un facteur clé de résilience du réseau en pleine canicule.",
-      "source": "Ember",
-      "url": "https://ember-energy.org/latest-insights/solar-helps-europes-grid-withstand-extreme-heat/"
+      "short_title": "IA et métacognition",
+      "title": "L'IA en classe : bénéfice ou piège pour l'esprit critique ?",
+      "summary": "Une revue de littérature publiée dans Frontiers montre que l'usage de l'IA générative en éducation peut renforcer la métacognition si des dispositifs pédagogiques encouragent la vérification et l'abstraction, mais qu'un usage non encadré favorise la paresse métacognitive et un désengagement cognitif.",
+      "source": "Frontiers in Education",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1918374/abstract"
     },
     {
       "id": "n16",
       "theme": "sante",
-      "subtopic": "sport",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Mieux vieillir, dit Yale",
+      "title": "Une étude Yale nuance le déclin inévitable avec l'âge",
+      "summary": "Une étude de la Yale School of Public Health ayant suivi près de 4 000 adultes de 19 à 94 ans pendant trois ans montre que 45% des personnes de 65 ans et plus ont vu au moins une dimension de leur santé s'améliorer, dont 32% sur le plan cognitif et 28% sur le plan physique.",
+      "source": "Yale School of Public Health",
+      "url": "https://www.success.com/longevity-research-2026-new-findings"
+    },
+    {
+      "id": "n17",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 1,
-      "short_title": "Drogues et risque AVC",
-      "title": "Cannabis, cocaïne et amphétamines liés à un risque accru d'AVC",
-      "summary": "Une méta-analyse portant sur plus de 100 millions de personnes confirme un lien entre usage récréatif de drogues et risque d'AVC, particulièrement marqué chez les moins de 55 ans: +174% pour les amphétamines et +97% pour la cocaïne dans cette tranche d'âge. Aucun lien significatif n'a en revanche été trouvé avec les opioïdes.",
+      "short_title": "Healthspan avant tout",
+      "title": "La recherche sur la longévité mise sur le healthspan",
+      "summary": "Les chercheurs délaissent progressivement la quête d'un remède au vieillissement au profit de la préservation active : maintenir la masse musculaire et les connexions neuronales le plus longtemps possible. Ce changement de focus redéfinit aussi les attentes du grand public vis-à-vis des contenus bien-être.",
+      "source": "NutraIngredients",
+      "url": "https://www.nutraingredients.com/Article/2026/08/24/healthspan-and-longevity-experts-to-highlight-new-science-rd-and-regulations/"
+    },
+    {
+      "id": "n18",
+      "theme": "climat",
+      "subtopic": "chine",
+      "importance": 2,
+      "short_title": "Chine verrouille le vert",
+      "title": "La Chine impose des quotas contraignants d'énergies vertes",
+      "summary": "La NDRC chinoise va fixer des objectifs contraignants de consommation d'énergies renouvelables non électriques, tandis que la NEA élargit les plateformes d'échange de certificats verts et que le ministère des Finances ajuste la fiscalité des véhicules électriques.",
+      "source": "China Energy Transformation Program",
+      "url": "https://www.cet.energy/2026/08/10/china-energy-policy-newsletter-august-2026/"
+    },
+    {
+      "id": "n19",
+      "theme": "sciences",
+      "subtopic": "bio",
+      "importance": 2,
+      "short_title": "L'IA débusque un gène",
+      "title": "Un modèle IA identifie la signature d'un interrupteur génétique",
+      "summary": "Des chercheurs ont entraîné un modèle sur environ 500 000 séquences d'ADN pour repérer la signature de l'initiateur, un interrupteur clé qui active la transcription des gènes. Le modèle l'a identifié dans environ 60% des gènes humains, ouvrant la voie à un meilleur ciblage thérapeutique.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015215.htm"
+      "url": "https://www.sciencedaily.com/news/plants_animals/biotechnology/"
+    },
+    {
+      "id": "n20",
+      "theme": "sciences",
+      "subtopic": "bio",
+      "importance": 2,
+      "short_title": "Probiotique anti-glucose",
+      "title": "Des probiotiques modifiés régulent la glycémie",
+      "summary": "Des probiotiques génétiquement modifiés, dotés d'un circuit synthétique sensible au glucose, colonisent transitoirement l'intestin et sécrètent des facteurs thérapeutiques lorsque la glycémie augmente. La preuve de concept fonctionne chez la souris et le primate, ouvrant la voie à un contrôle oral du diabète.",
+      "source": "Nature Biotechnology",
+      "url": "https://www.nature.com/nbt/research-articles"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n03",
+      "target": "n02",
       "type": "cause",
-      "explanation": "Le blocage prolongé d'Ormuz prive le marché d'environ un cinquième du pétrole mondial transitant habituellement par ce détroit, ce qui pousse mécaniquement le Brent vers ses plus hauts niveaux depuis juillet."
+      "explanation": "L'annonce des sanctions américaines pousse Téhéran à menacer de bloquer le détroit d'Ormuz en représailles."
     },
     {
       "source": "n01",
-      "target": "n02",
+      "target": "n05",
       "type": "cause",
-      "explanation": "Face à l'incertitude persistante sur Ormuz, la Chine accélère sa route arctique alternative pour sécuriser ses échanges avec l'Europe sans dépendre des points d'étranglement du Moyen-Orient."
+      "explanation": "Les marchés ayant largement anticipé l'ampleur des sanctions, leur confirmation officielle déclenche une prise de bénéfices sur le pétrole plutôt qu'un nouveau choc haussier."
     },
     {
-      "source": "n03",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Les marges de raffinage et les profits des majors pétrolières, gonflés par la flambée du Brent, alimentent directement la demande de six Etats membres pour une taxe européenne sur les superprofits."
-    },
-    {
-      "source": "n03",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "La flambée du pétrole entretient des pressions inflationnistes qui compliquent le premier grand discours de politique monétaire de Kevin Warsh, désormais scruté pour ses implications sur les taux."
-    },
-    {
-      "source": "n05",
+      "source": "n02",
       "target": "n06",
       "type": "cause",
-      "explanation": "Les frappes meurtrières sur des villes ukrainiennes poussent Macron à accélérer la livraison de missiles intercepteurs pour combler le déficit de défense antiaérienne de Kyiv."
+      "explanation": "La menace iranienne sur une route empruntée par 20% du pétrole mondial ravive les craintes d'inflation qui alimentent la remontée des taux souverains."
     },
     {
-      "source": "n09",
-      "target": "n11",
-      "type": "tension",
-      "explanation": "Anthropic mise sur une introduction en bourse géante adossée à des modèles propriétaires, quand Meta choisit à l'inverse de distribuer gratuitement les poids de son modèle: deux paris opposés sur le modèle économique de l'IA."
+      "source": "n04",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "L'incertitude sur l'adoption du budget 2027 et le risque de censure poussent les investisseurs à exiger une prime de risque plus élevée sur la dette française."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "La flambée de l'OAT française à 30 ans est la déclinaison locale du mouvement mondial de vente sur les obligations souveraines."
+    },
+    {
+      "source": "n01",
+      "target": "n03",
+      "type": "meme_sujet",
+      "explanation": "Les deux news illustrent l'escalade simultanée sur les deux fronts de la confrontation Israël/Iran-USA au Moyen-Orient."
     },
     {
       "source": "n10",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "Baisse de prix chez OpenAI et ouverture des poids chez Meta sont deux réponses concurrentes à la même bataille pour capter les développeurs dans une IA de plus en plus commoditisée."
-    },
-    {
-      "source": "n09",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "L'ambition d'Anthropic de lever des dizaines de milliards suppose un pouvoir de fixation des prix durable, alors même qu'OpenAI est contraint de brader son API sous la pression concurrentielle."
-    },
-    {
-      "source": "n12",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "L'hébergement de code piloté par agent chez Cursor et le modèle ouvert taillé pour les agents chez Meta traduisent tous deux le même basculement vers des agents autonomes exécutés au plus près du développeur."
-    },
-    {
-      "source": "n13",
       "target": "n14",
-      "type": "meme_sujet",
-      "explanation": "Ces deux études publiées la même semaine identifient, par des voies différentes (supplémentation, plurilinguisme), des facteurs modifiables associés à un vieillissement cognitif plus lent."
+      "type": "tension",
+      "explanation": "OpenAI mise sur des agents disposant d'un accès large aux outils numériques des utilisateurs, quand Anthropic répond par plus de traçabilité et de contrôle — deux paris opposés sur la confiance envers l'IA autonome."
     },
     {
-      "source": "n03",
+      "source": "n11",
+      "target": "n12",
+      "type": "meme_sujet",
+      "explanation": "Google et Meta dégainent presque simultanément de nouveaux modèles multimodaux, mais avec des stratégies opposées : accès fermé haut de gamme contre poids ouverts optimisés pour tourner en local."
+    },
+    {
+      "source": "n10",
       "target": "n15",
       "type": "tension",
-      "explanation": "Le même été voit les pétroliers engranger des superprofits liés au choc d'Ormuz pendant que le solaire, et non le nucléaire ou le gaz, assure la stabilité du réseau électrique européen durant la canicule: deux trajectoires opposées pour les énergies fossiles et renouvelables."
+      "explanation": "La généralisation d'agents IA qui exécutent les tâches à la place de l'utilisateur est exactement le scénario de délégation que les chercheurs en éducation associent à une perte de métacognition."
+    },
+    {
+      "source": "n19",
+      "target": "n20",
+      "type": "meme_sujet",
+      "explanation": "Les deux avancées illustrent comment l'IA et l'ingénierie de précision accélèrent la biotech, que ce soit pour décoder le génome ou concevoir des thérapies vivantes."
+    },
+    {
+      "source": "n06",
+      "target": "n08",
+      "type": "tension",
+      "explanation": "Alors que la volatilité des marchés obligataires démontre le risque de marché en temps réel, les régulateurs européens choisissent de repousser d'un an les règles FRTB censées mieux le capturer."
     }
   ]
 }

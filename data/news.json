@@ -1,293 +1,265 @@
 {
-  "generated_at": "2026-08-25T04:09:55Z",
+  "generated_at": "2026-08-26T08:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Sanctions US vs Iran",
-      "title": "Washington déploie ses sanctions les plus dures contre l'Iran",
-      "summary": "Le secrétaire au Trésor Scott Bessent a dévoilé le 24 août l'opération \"Economic Outcast\", décrite comme la campagne de sanctions la plus dure jamais imposée à l'Iran, incluant des mesures visant les partenaires commerciaux comme la Chine. L'objectif affiché est de faire s'effondrer le régime iranien en coupant ses revenus pétroliers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know"
+      "importance": 2,
+      "short_title": "Pakistan médiation Iran",
+      "title": "Le chef d'état-major pakistanais négocie une désescalade à Téhéran",
+      "summary": "Le général Asim Munir a rencontré le président iranien Pezeshkian et le ministre des Affaires étrangères Araghchi les 24-25 août, portant une offre de levée progressive des sanctions en échange d'une désescalade, dans le cadre du mémorandum d'Islamabad. Pakistan se positionne en médiateur clé entre Washington et Téhéran après des mois de guerre larvée.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/pakistan-army-chief-ends-tehran-visit-us-iran-mediation-push"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran menace Hormuz",
-      "title": "L'Iran menace de bloquer le détroit d'Ormuz",
-      "summary": "En réponse à l'annonce des sanctions américaines, des responsables iraniens ont averti que les navires soutenant les mesures de Washington pourraient être considérés comme complices d'un acte de guerre, évoquant des saisies de pétroliers sur les routes alternatives au détroit. Environ 20% du pétrole mondial transite par ce point de passage stratégique.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+      "short_title": "Sanctions Iran écrémées",
+      "title": "Bessent annonce un \"D-Day économique\" contre l'Iran mais épargne le pire",
+      "summary": "Le secrétaire au Trésor Scott Bessent a dévoilé le 24 août nouvelles sanctions ciblant cryptoactifs, technologie et transport maritime iraniens, avec la menace de délais impartis aux pays qui commercent encore avec Téhéran. Mais Washington a repoussé la mesure la plus lourde, celle visant directement une institution financière majeure, ce que les marchés ont interprété comme un signe de retenue.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/08/24/bessent-unveil-economic-d-day-sanctions-against-iran/"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Gaza: frappes continuent",
-      "title": "Des frappes israéliennes continuent malgré la trêve à Gaza",
-      "summary": "Malgré le cessez-le-feu négocié en octobre 2025, des frappes israéliennes ont encore tué des Palestiniens à Gaza le 24 août, dont un abri de fortune touché près de l'hôpital Al-Aqsa. Plus de 1 280 Palestiniens sont morts depuis l'annonce de la trêve, alimentant les doutes sur sa tenue.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list"
+      "short_title": "UK partage tech missile",
+      "title": "Le Royaume-Uni transmet à l'Ukraine des données classifiées sur le missile SCALP",
+      "summary": "En visite à Kyiv pour la fête de l'indépendance ukrainienne, le Premier ministre Andy Burnham a annoncé que le groupe MBDA fournirait les spécifications des composants britanniques du missile SCALP pour permettre à l'Ukraine de les assembler elle-même. Des experts soulignent que cette aide ne produira pas de missiles opérationnels avant plusieurs mois, loin des besoins urgents de défense antimissile de l'hiver.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
     },
     {
       "id": "n04",
-      "theme": "geopol",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "Budget 2027 sous tension",
-      "title": "Le budget 2027 français menacé par l'instabilité politique",
-      "summary": "Le Premier ministre Sébastien Lecornu doit faire adopter un budget 2027 face à une Assemblée nationale fragmentée, où LFI brandit la menace de censure. À l'approche de la présidentielle de 2027, la fenêtre de compromis politique se réduit fortement.",
-      "source": "LCP - Assemblée nationale",
-      "url": "https://lcp.fr/actualites/budget-2027-comment-le-gouvernement-veut-eviter-une-impasse-a-l-automne-436869"
-    },
-    {
-      "id": "n05",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brut recule sur sanctions",
-      "title": "Le pétrole recule malgré les sanctions sur l'Iran",
-      "summary": "Le WTI a reculé de 1,6% à 85,65$ et le Brent de 1,4% à 93,09$ lundi, les marchés ayant déjà largement anticipé l'annonce des sanctions américaines. L'absence de mesures immédiates sur les exportations physiques a limité la réaction haussière attendue.",
+      "short_title": "Brent chute de 3%",
+      "title": "Le Brent recule sous 90 dollars sur des espoirs de désescalade",
+      "summary": "Le baril de Brent a perdu environ 3% le 25 août pour retomber près de 89,5 dollars, prolongeant une baisse entamée la veille, à mesure que les marchés intègrent une possible sortie de crise entre Washington et Téhéran. Les traders restent toutefois prudents : la réouverture complète du détroit d'Ormuz n'est pas encore actée.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html"
     },
     {
+      "id": "n05",
+      "theme": "finance",
+      "subtopic": "banques_centrales",
+      "importance": 3,
+      "short_title": "Fed: Warsh à Jackson Hole",
+      "title": "Jackson Hole: premier discours du président Warsh très attendu",
+      "summary": "Le symposium de Kansas City se tient du 27 au 29 août sur le thème de l'innovation financière et des paiements ; Kevin Warsh y prononcera vendredi son premier discours en tant que président de la Fed. Les marchés, qui donnent environ une chance sur trois à une hausse de taux en septembre, guettent ce discours comme possible élément décisif pour la trajectoire monétaire.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/325228/20260821/jackson-hole-2026-what-watch-when-warsh-steps-podium-friday.htm"
+    },
+    {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "macro",
-      "importance": 3,
-      "short_title": "Taux mondiaux au sommet",
-      "title": "Les rendements obligataires mondiaux au plus haut depuis des années",
-      "summary": "Les taux à 10 ans ont grimpé à 2,94% au Japon (plus haut en 30 ans), au-dessus de 3,25% en Allemagne (plus haut depuis 2011) et à 4,10% en France (plus haut depuis 2009), portés par les craintes d'inflation liées au conflit iranien et par l'inquiétude sur la soutenabilité des dettes publiques.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html"
+      "subtopic": "banques_centrales",
+      "importance": 2,
+      "short_title": "BCE: minutes et Schnabel",
+      "title": "La BCE publie le compte-rendu de juillet en parallèle de Jackson Hole",
+      "summary": "La Banque centrale européenne publie jeudi 27 août le compte-rendu de sa réunion de politique monétaire des 23-24 juillet, tandis que la membre du directoire Isabel Schnabel participe le lendemain au panel de Jackson Hole consacré à l'innovation financière. Cette coïncidence de calendrier place Fed et BCE sous le même projecteur cette semaine.",
+      "source": "Capital Street FX",
+      "url": "https://www.capitalstreetfx.com/market-analysis/ecb-accounts-jackson-hole-and-key-european-data-22-08-2026/"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "OAT 30 ans au plus haut",
-      "title": "L'OAT française à 30 ans au plus haut depuis 2008",
-      "summary": "Le rendement de l'OAT à 30 ans a atteint son plus haut niveau depuis 2008, les investisseurs exigeant une prime de risque supplémentaire face aux incertitudes budgétaires et à l'approche de la présidentielle 2027. Le 10 ans français a lui aussi touché 4,10%, un niveau plus vu depuis 2009.",
-      "source": "Athens Times",
-      "url": "https://athens-times.com/sovereign-bonds-borrowing-costs-rise-across-major-economies/"
+      "subtopic": "frtb",
+      "importance": 3,
+      "short_title": "UE assouplit Bâle III",
+      "title": "Bruxelles ajuste temporairement les règles de risque de marché de Bâle III",
+      "summary": "La Commission européenne a adopté un acte délégué introduisant un multiplicateur temporaire pour amortir l'impact en capital du FRTB sur les banques européennes défavorisées face à leurs concurrentes internationales. Le calendrier d'application du FRTB reste fixé au 1er janvier 2027, mais ce filet de sécurité vise à préserver la compétitivité du secteur bancaire européen le temps de la transition.",
+      "source": "Commission européenne",
+      "url": "https://finance.ec.europa.eu/publications/commission-adopts-temporary-adjustments-basel-iii-market-risk-rules-safeguard-eu-banks_en"
     },
     {
       "id": "n08",
       "theme": "finance",
-      "subtopic": "frtb",
+      "subtopic": "regulation_bancaire",
       "importance": 2,
-      "short_title": "FRTB reporté à 2027",
-      "title": "La Commission européenne reporte FRTB à janvier 2027",
-      "summary": "Après un premier report, la Commission propose un second délai d'un an pour l'entrée en vigueur des exigences FRTB dans l'UE, afin de s'aligner sur le calendrier des autres juridictions et préserver la compétitivité des banques européennes actives à l'international.",
-      "source": "Moody's",
-      "url": "https://www.moodys.com/web/en/us/insights/regulatory-news/eu-authorities-set-out-regulatory-priorities-for-2026.html"
+      "short_title": "ACPR durcit supervision",
+      "title": "L'ACPR muscle son programme de contrôle pour 2026",
+      "summary": "Dans son rapport annuel, l'Autorité de contrôle prudentiel et de résolution confirme la résilience du secteur bancaire et assurantiel français tout en annonçant une supervision plus intrusive : 213 missions de contrôle prévues en 2026 contre 185 en 2025. Les établissements devront se préparer à des inspections plus transversales, notamment sur les dispositifs de gestion des risques.",
+      "source": "Skadden",
+      "url": "https://www.skadden.com/insights/publications/2026/07/acpr-publishes-its-2025-annual-report"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Panne chez Anthropic",
-      "title": "Nouvelle panne majeure pour Claude",
-      "summary": "Claude a subi le 24 août une nouvelle vague d'erreurs élevées touchant le chat, l'API et Claude Code, dans ce qui devient un schéma récurrent de perturbations pour Anthropic (incidents notables les 5, 12, 13, 16, 18 et 20 août). La cause a été identifiée environ 20 minutes après le début de l'incident.",
-      "source": "Cybersecurity News",
-      "url": "https://cybersecuritynews.com/claude-ai-suffers-outage/"
+      "short_title": "OpenAI limite Codex 5h",
+      "title": "OpenAI rétablit le plafond horaire sur Codex et ChatGPT Work",
+      "summary": "À partir du 25 août, OpenAI réintroduit une limite de 5 heures d'usage continu pour Codex et ChatGPT Work sur les abonnements Plus, six semaines après l'avoir suspendue. La direction technique justifie ce choix par la nécessité de lisser la charge sur ses capacités de calcul, tout en épargnant les offres Pro à 100-200 dollars par mois.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI mise sur l'agent",
-      "title": "OpenAI veut un agent IA pour chaque tâche numérique",
-      "summary": "OpenAI développe des agents capables de contrôler directement la messagerie, Slack, le téléphone et des apps comme Notion ou Figma, selon un reportage sur l'équipe produit de l'app desktop. La question posée par la presse : jusqu'où les utilisateurs sont-ils prêts à déléguer le contrôle de leur vie numérique ?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/"
+      "importance": 3,
+      "short_title": "Claude Security: Mythos5",
+      "title": "Anthropic déploie Claude Mythos 5 dans son offre de cyberdéfense",
+      "summary": "Anthropic a annoncé le 21 août que Mythos 5, son modèle le plus capable en cybersécurité et jusque-là réservé à des défenseurs vérifiés, alimente désormais des scans de vulnérabilités pour les clients entreprise de Claude Security, avec correctifs suggérés et validation humaine obligatoire. L'entreprise lance en parallèle un fonds de 35 millions de dollars pour la défense open-source et élargit son programme de vérification cyber, tout en maintenant Mythos 5 hors d'accès public direct.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/anthropic-mythos-claude-security/"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Gemini Omni débarque",
-      "title": "Google lance Gemini Omni, création multimodale unifiée",
-      "summary": "Google DeepMind a présenté Gemini Omni, une famille de modèles permettant de générer et éditer images, vidéos et sons à partir de n'importe quelle combinaison d'entrées. La première version disponible, Gemini Omni Flash, simplifie l'édition vidéo au niveau d'une simple conversation.",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/models/"
+      "short_title": "Gemini 3.7 Flash lancé",
+      "title": "Google déploie Gemini 3.7 Flash pendant que le modèle phare patiente",
+      "summary": "Google a lancé le 13 août Gemini 3.7 Flash, présenté comme son modèle \"workhorse\" le plus intelligent pour le code et les agents, avec un tarif d'appel divisé par deux par rapport à la version précédente. Ce lancement rapide intervient alors que le modèle plus puissant Gemini 3.5 Pro accumule les retards, signe d'une cadence d'itération agressive sur les modèles secondaires.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed"
     },
     {
       "id": "n12",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Meta ouvre Muse Glimmer",
-      "title": "Meta publie Muse Glimmer en open weight",
-      "summary": "Meta Superintelligence Labs a publié le 10 août Muse Glimmer, un modèle multimodal dense de 30 milliards de paramètres sous licence Apache 2.0, optimisé pour tourner localement sur un simple GPU grand public grâce à une quantification proche de 4 bits. Le choix confirme le pivot de Meta vers l'open source face à la fermeture croissante d'OpenAI et Google.",
-      "source": "Meta Newsroom",
-      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/"
+      "short_title": "Cursor Origin + Vercel",
+      "title": "Cursor connecte son hébergement de code à Vercel en un flux continu",
+      "summary": "Après le lancement en bêta d'Origin, son propre hébergeur de dépôts Git, Cursor a ajouté une intégration directe avec Vercel : chaque pull request génère un déploiement de prévisualisation, et la fusion pousse automatiquement en production. L'éditeur consolide ainsi une chaîne complète du code à la mise en ligne sans quitter son environnement agentique.",
+      "source": "Cursor",
+      "url": "https://cursor.com/changelog/origin-code-hosting"
     },
     {
       "id": "n13",
       "theme": "tech",
-      "subtopic": "design",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Figma défie Cursor",
-      "title": "Figma pousse ses Code Layers face à Cursor",
-      "summary": "Lors de sa conférence Config 2026, Figma a présenté des Code Layers permettant de mêler design et code sur un même canevas, se positionnant directement face aux environnements de codage IA comme Cursor, valorisé 60 milliards de dollars. Le pari : que le point d'entrée du vibe coding reste l'outil de design plutôt que l'éditeur de code.",
-      "source": "Tech Times",
-      "url": "https://www.techtimes.com/articles/319041/20260625/figma-config-2026-code-layers-challenge-cursor-gpu-shaders-hit-paid-plans.htm"
+      "short_title": "Linear: agents + Opus5",
+      "title": "Linear étend ses sessions de code et rend Claude Opus 5 sélectionnable",
+      "summary": "Linear a ajouté la possibilité de choisir Claude Opus 5 dans les paramètres de ses \"coding sessions\", qui permettent de lancer un agent de développement directement depuis une tâche, un commentaire ou un fil Slack. L'outil vise les workflows récurrents plutôt que les prompts ponctuels, avec revue de code et retours possibles depuis l'application mobile.",
+      "source": "Linear",
+      "url": "https://linear.app/changelog/2026-06-11-coding-sessions"
     },
     {
       "id": "n14",
-      "theme": "tech",
-      "subtopic": "regulation",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Anthropic filigrane l'IA",
-      "title": "Anthropic intègre un filigrane dans les contenus Claude",
-      "summary": "Depuis le 2 août, tous les contenus générés par les produits Claude embarquent un marquage lisible par machine, une mesure prise pour se conformer à l'AI Act européen. Anthropic devient ainsi l'un des premiers grands labs à appliquer une traçabilité systématique de ses sorties.",
-      "source": "Artificial Lawyer",
-      "url": "https://www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs/"
+      "short_title": "Attia lâché post-Epstein",
+      "title": "Peter Attia perd ses partenariats après son apparition dans les dossiers Epstein",
+      "summary": "Quelques jours après avoir rejoint CBS News comme contributeur santé, le médecin spécialiste de la longévité Peter Attia a vu son nom apparaître plus de 1 700 fois dans la dernière publication des dossiers Epstein, entraînant son départ de CBS ainsi que la rupture de ses partenariats avec AG1 et la marque de barres protéinées David. L'épisode relance le débat sur la fiabilité des figures d'influence en santé et longévité, indépendamment de la qualité de leur contenu scientifique.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/health/health-news/peter-attia-backlash-epstein-files-rcna257236"
     },
     {
       "id": "n15",
-      "theme": "learn",
-      "subtopic": "metacognition",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "IA et métacognition",
-      "title": "L'IA en classe : bénéfice ou piège pour l'esprit critique ?",
-      "summary": "Une revue de littérature publiée dans Frontiers montre que l'usage de l'IA générative en éducation peut renforcer la métacognition si des dispositifs pédagogiques encouragent la vérification et l'abstraction, mais qu'un usage non encadré favorise la paresse métacognitive et un désengagement cognitif.",
-      "source": "Frontiers in Education",
-      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1918374/abstract"
+      "short_title": "Cellules NK vs tumeurs",
+      "title": "Des cellules NK \"suralimentées\" percent la défense des tumeurs solides",
+      "summary": "Des chercheurs ont mis au point des cellules tueuses naturelles (NK) modifiées pour détecter les sous-produits métaboliques sécrétés par les cellules cancéreuses, ce qui leur permet de migrer vers les tumeurs solides et de s'y maintenir pour continuer à les attaquer de l'intérieur. Contrairement aux cellules NK classiques qui peinent à pénétrer ces tumeurs, cette approche ouvre une piste crédible face à un obstacle qui limite aussi les thérapies CAR-T.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm"
     },
     {
       "id": "n16",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "sciences",
+      "subtopic": "materiaux",
       "importance": 2,
-      "short_title": "Mieux vieillir, dit Yale",
-      "title": "Une étude Yale nuance le déclin inévitable avec l'âge",
-      "summary": "Une étude de la Yale School of Public Health ayant suivi près de 4 000 adultes de 19 à 94 ans pendant trois ans montre que 45% des personnes de 65 ans et plus ont vu au moins une dimension de leur santé s'améliorer, dont 32% sur le plan cognitif et 28% sur le plan physique.",
-      "source": "Yale School of Public Health",
-      "url": "https://www.success.com/longevity-research-2026-new-findings"
+      "short_title": "Acier anti-corrosion H2",
+      "title": "Un acier inoxydable pourrait diviser par 40 le coût de l'hydrogène vert",
+      "summary": "Une équipe de l'Université de Hong Kong dirigée par Mingxin Huang a mis au point un acier inoxydable (SS-H2) capable de résister à des conditions de corrosion sévères jusque-là réservées au titane, via un mécanisme de passivation au manganèse que la science des matériaux peine encore à expliquer. Des brevets ont déjà été déposés et une production pilote a démarré en Chine, ce qui pourrait rendre l'électrolyse à partir d'eau de mer nettement plus abordable.",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/112373-stainless-steel-breakthrough-could-slash-cost-green-hydrogen.html"
     },
     {
       "id": "n17",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Healthspan avant tout",
-      "title": "La recherche sur la longévité mise sur le healthspan",
-      "summary": "Les chercheurs délaissent progressivement la quête d'un remède au vieillissement au profit de la préservation active : maintenir la masse musculaire et les connexions neuronales le plus longtemps possible. Ce changement de focus redéfinit aussi les attentes du grand public vis-à-vis des contenus bien-être.",
-      "source": "NutraIngredients",
-      "url": "https://www.nutraingredients.com/Article/2026/08/24/healthspan-and-longevity-experts-to-highlight-new-science-rd-and-regulations/"
+      "theme": "climat",
+      "subtopic": "asie",
+      "importance": 2,
+      "short_title": "Feux Indonésie: brume",
+      "title": "Les feux de forêt indonésiens enveloppent la Malaisie de fumée",
+      "summary": "Des incendies de forêts et de tourbières intensifiés par un épisode El Niño et une saison sèche prolongée ravagent Kalimantan et Sumatra, avec plus de 1 400 foyers actifs détectés par satellite rien qu'en Sumatra du Sud. La fumée transfrontalière a atteint des niveaux \"très malsains\" en Malaisie, provoquant des fermetures d'écoles, tandis que 72 personnes ont été arrêtées pour des mises à feu volontaires.",
+      "source": "Associated Press / Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/24/indonesia-kalimantan-sumatra-peatland-forest-fires/6b00ebb8-9fa3-11f1-8606-1d40ad00172e_story.html"
     },
     {
       "id": "n18",
       "theme": "climat",
-      "subtopic": "chine",
+      "subtopic": "regulation",
       "importance": 2,
-      "short_title": "Chine verrouille le vert",
-      "title": "La Chine impose des quotas contraignants d'énergies vertes",
-      "summary": "La NDRC chinoise va fixer des objectifs contraignants de consommation d'énergies renouvelables non électriques, tandis que la NEA élargit les plateformes d'échange de certificats verts et que le ministère des Finances ajuste la fiscalité des véhicules électriques.",
-      "source": "China Energy Transformation Program",
-      "url": "https://www.cet.energy/2026/08/10/china-energy-policy-newsletter-august-2026/"
-    },
-    {
-      "id": "n19",
-      "theme": "sciences",
-      "subtopic": "bio",
-      "importance": 2,
-      "short_title": "L'IA débusque un gène",
-      "title": "Un modèle IA identifie la signature d'un interrupteur génétique",
-      "summary": "Des chercheurs ont entraîné un modèle sur environ 500 000 séquences d'ADN pour repérer la signature de l'initiateur, un interrupteur clé qui active la transcription des gènes. Le modèle l'a identifié dans environ 60% des gènes humains, ouvrant la voie à un meilleur ciblage thérapeutique.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/plants_animals/biotechnology/"
-    },
-    {
-      "id": "n20",
-      "theme": "sciences",
-      "subtopic": "bio",
-      "importance": 2,
-      "short_title": "Probiotique anti-glucose",
-      "title": "Des probiotiques modifiés régulent la glycémie",
-      "summary": "Des probiotiques génétiquement modifiés, dotés d'un circuit synthétique sensible au glucose, colonisent transitoirement l'intestin et sécrètent des facteurs thérapeutiques lorsque la glycémie augmente. La preuve de concept fonctionne chez la souris et le primate, ouvrant la voie à un contrôle oral du diabète.",
-      "source": "Nature Biotechnology",
-      "url": "https://www.nature.com/nbt/research-articles"
+      "short_title": "Trump taxe le solaire",
+      "title": "Washington taxe le polysilicium pendant que l'UE accélère ses renouvelables",
+      "summary": "Une proclamation présidentielle du 6 août impose de nouveaux tarifs douaniers sur le polysilicium et les produits solaires importés, renforçant la ligne protectionniste américaine sur l'énergie propre. Au même moment, l'Union européenne avance sur une gouvernance climatique intégrée avec de nouveaux objectifs renouvelables et des sanctions visant l'énergie russe, dessinant deux trajectoires opposées entre les deux blocs.",
+      "source": "CIBC Capital Markets",
+      "url": "https://cibccm.com/en/insights/articles/energy-innovation-climate-newsletter-august-2026/"
     }
   ],
   "edges": [
     {
       "source": "n01",
       "target": "n02",
-      "type": "cause",
-      "explanation": "L'annonce des sanctions américaines pousse Téhéran à menacer de bloquer le détroit d'Ormuz en représailles."
+      "type": "meme_sujet",
+      "explanation": "Les deux news décrivent la même séquence de désescalade Iran-USA cette semaine : médiation pakistanaise d'un côté, sanctions américaines finalement plus mesurées de l'autre."
     },
     {
       "source": "n01",
-      "target": "n05",
+      "target": "n04",
       "type": "cause",
-      "explanation": "Les marchés ayant largement anticipé l'ampleur des sanctions, leur confirmation officielle déclenche une prise de bénéfices sur le pétrole plutôt qu'un nouveau choc haussier."
+      "explanation": "La proposition de levée progressive des sanctions portée par Islamabad réduit la prime de risque géopolitique sur le pétrole et contribue au repli du Brent."
     },
     {
       "source": "n02",
-      "target": "n06",
+      "target": "n04",
       "type": "cause",
-      "explanation": "La menace iranienne sur une route empruntée par 20% du pétrole mondial ravive les craintes d'inflation qui alimentent la remontée des taux souverains."
+      "explanation": "En épargnant la sanction la plus lourde, Washington signale une retenue que les marchés interprètent comme un moindre risque de rupture durable des approvisionnements, ce qui fait baisser le baril."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "Fed et BCE se retrouvent sous le même projecteur cette semaine, avec des communications monétaires programmées le même jour au symposium de Jackson Hole."
+    },
+    {
+      "source": "n07",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Les deux news traduisent le même mouvement de fond : la régulation bancaire européenne se resserre d'un côté (supervision ACPR) tout en s'ajustant pour préserver la compétitivité de l'autre (filet FRTB)."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "tension",
+      "explanation": "Au même moment où OpenAI resserre l'accès quotidien à ses outils de codage pour préserver son calcul, Anthropic élargit au contraire l'accès à son modèle le plus avancé pour la cyberdéfense entreprise : deux postures opposées sur l'accès à l'IA de pointe."
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Anthropic et Google déploient la même semaine des mises à jour de capacités concurrentes, illustrant la cadence effrénée des labs IA frontier cet été."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Cursor et Linear avancent en parallèle vers des workflows agentiques de bout en bout, du code jusqu'au déploiement ou à la revue, signe d'une consolidation du vibe coding autour de l'automatisation continue."
+    },
+    {
+      "source": "n16",
+      "target": "n18",
+      "type": "cause",
+      "explanation": "Un acier bien moins coûteux que le titane pour l'électrolyse réduit structurellement le prix de l'hydrogène vert, ce qui renforce la trajectoire de transition énergétique que l'UE cherche à accélérer."
     },
     {
       "source": "n04",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "L'incertitude sur l'adoption du budget 2027 et le risque de censure poussent les investisseurs à exiger une prime de risque plus élevée sur la dette française."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "La flambée de l'OAT française à 30 ans est la déclinaison locale du mouvement mondial de vente sur les obligations souveraines."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Les deux news illustrent l'escalade simultanée sur les deux fronts de la confrontation Israël/Iran-USA au Moyen-Orient."
-    },
-    {
-      "source": "n10",
-      "target": "n14",
+      "target": "n18",
       "type": "tension",
-      "explanation": "OpenAI mise sur des agents disposant d'un accès large aux outils numériques des utilisateurs, quand Anthropic répond par plus de traçabilité et de contrôle — deux paris opposés sur la confiance envers l'IA autonome."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Google et Meta dégainent presque simultanément de nouveaux modèles multimodaux, mais avec des stratégies opposées : accès fermé haut de gamme contre poids ouverts optimisés pour tourner en local."
-    },
-    {
-      "source": "n10",
-      "target": "n15",
-      "type": "tension",
-      "explanation": "La généralisation d'agents IA qui exécutent les tâches à la place de l'utilisateur est exactement le scénario de délégation que les chercheurs en éducation associent à une perte de métacognition."
-    },
-    {
-      "source": "n19",
-      "target": "n20",
-      "type": "meme_sujet",
-      "explanation": "Les deux avancées illustrent comment l'IA et l'ingénierie de précision accélèrent la biotech, que ce soit pour décoder le génome ou concevoir des thérapies vivantes."
-    },
-    {
-      "source": "n06",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "Alors que la volatilité des marchés obligataires démontre le risque de marché en temps réel, les régulateurs européens choisissent de repousser d'un an les règles FRTB censées mieux le capturer."
+      "explanation": "Un pétrole moins cher relâche la pression économique qui pousse vers les renouvelables, à contre-courant de l'accélération de la transition énergétique portée par l'UE."
     }
   ]
 }

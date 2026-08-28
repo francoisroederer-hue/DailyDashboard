@@ -1,254 +1,276 @@
 {
-  "generated_at": "2026-08-27T09:00:00Z",
+  "generated_at": "2026-08-28T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Accord corridor Hormuz",
-      "title": "Iran et Oman s'accordent sur un corridor temporaire dans le détroit d'Ormuz",
-      "summary": "Les ministres des Affaires étrangères iranien et omanais se sont retrouvés à Téhéran pour discuter d'un corridor maritime temporaire et d'un déminage conjoint du détroit d'Ormuz. Téhéran conditionne toute réouverture durable au respect par Washington de l'accord de cessez-le-feu signé en juin, tandis que la route sud privilégiée par Oman resterait fermée. Les discussions doivent se poursuivre pour aboutir à un corridor permanent.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route"
+      "short_title": "Iran/Hormuz: impasse",
+      "title": "Impasse sur le cessez-le-feu Iran-USA",
+      "summary": "Le délai du 17 août pour un accord final entre Washington et Téhéran a expiré sans accord, la trêve de 60 jours ayant été prolongée dans l'urgence sous médiation. Le détroit d'Ormuz reste de facto fermé par l'Iran, qui conditionne sa réouverture à un allègement des sanctions et au paiement de réparations de guerre.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 3,
-      "short_title": "Gaza: trêve en péril",
-      "title": "L'envoyé du Board of Peace juge la trêve de Gaza proche d'un point de non-retour",
-      "summary": "Nickolay Mladenov, représentant du Board of Peace pour Gaza, a averti le Conseil de sécurité de l'ONU que l'échec du processus de cessez-le-feu marquerait un point de non-retour. Cette mise en garde intervient après le rejet public par Netanyahou du plan de paix en 15 points porté par Washington. Elle traduit la fragilité persistante de la trêve plusieurs mois après sa signature.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns"
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "Débat présidentielle FR",
+      "title": "Premier débat de la présidentielle 2027",
+      "summary": "Six candidats déclarés (Attal, Philippe, Glucksmann, Mélenchon, Retailleau, Le Pen) ont débattu le 27 août à Roland-Garros devant le patronat, sur fond de consultation Medef/OpinionWay portant sur compétitivité, emploi et fiscalité. Le débat intervient alors que le déficit de la Sécurité sociale s'annonce plus sévère que prévu pour 2026.",
+      "source": "CNews",
+      "url": "https://www.cnews.fr/france/2026-07-23/presidentielle-2027-ce-que-lon-sait-deja-sur-le-premier-debat-qui-aura-lieu-le-27"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "russie-ukraine",
-      "importance": 2,
-      "short_title": "Le patron CIA à Moscou",
-      "title": "Le directeur de la CIA effectue une visite surprise à Moscou",
-      "summary": "John Ratcliffe s'est rendu sans annonce préalable à Moscou pour rencontrer des responsables du renseignement russe, un déplacement repéré via des données de suivi de vol plutôt que confirmé officiellement. Le Kremlin indique qu'aucune rencontre avec Poutine n'a eu lieu et reste discret sur le contenu des échanges. Washington aurait par ailleurs demandé à l'Ukraine de suspendre ses frappes de drones sur Moscou durant cette période.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/25/politics/cia-director-visits-moscow"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent proche de $94",
+      "title": "Le pétrole reste durablement cher",
+      "summary": "Le Brent évolue autour de 90-95 dollars le baril depuis plusieurs semaines, porté par la quasi-fermeture du détroit d'Ormuz qui achemine d'ordinaire un cinquième du pétrole mondial. Les traders restent nerveux face aux signaux contradictoires de Téhéran sur une possible sortie de crise.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "macro",
+      "subtopic": "taux",
       "importance": 3,
-      "short_title": "1er discours Warsh Fed",
-      "title": "Kevin Warsh prépare son premier discours de Jackson Hole comme président de la Fed",
-      "summary": "Warsh doit s'exprimer vendredi lors du symposium de Jackson Hole, plusieurs mois après avoir succédé à Jerome Powell, pour clarifier sa vision de la politique monétaire face à une inflation persistante. Il a indiqué vouloir cadrer trois grandes questions : productivité, démographie et chocs répétés sur l'économie mondiale, plutôt que d'annoncer une décision de taux immédiate. Les marchés scrutent ce discours comme premier signal de doctrine du nouveau président.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair"
+      "short_title": "Fed reste restrictive",
+      "title": "La Fed durcit le ton à Jackson Hole",
+      "summary": "A Jackson Hole, la présidente de la Fed de Cleveland Beth Hammack a jugé qu'\"il est temps d'agir\" pour relever les taux, rejointe par son homologue de Kansas City. L'inflation américaine tourne autour de 3% en rythme annuel, un niveau jugé encore trop élevé cinq ans après le début du cycle inflationniste.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
+      "subtopic": "semiconducteurs",
       "importance": 2,
-      "short_title": "Brent proche de 90$",
-      "title": "Le Brent se maintient proche de 90 dollars sur fond d'incertitude à Ormuz",
-      "summary": "Le baril de Brent évolue autour de 89-94 dollars fin août, porté par l'incertitude persistante sur la réouverture du détroit d'Ormuz malgré les discussions irano-omanaises. L'AIE n'attend pas de retour de la production moyen-orientale à son niveau d'avant-conflit avant début 2027. Cette prime de risque énergétique alimente les inquiétudes inflationnistes à l'approche du symposium de Jackson Hole.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html"
+      "short_title": "Nvidia bat, marché tiède",
+      "title": "Résultats record de Nvidia, accueil mitigé",
+      "summary": "Nvidia a publié un chiffre d'affaires trimestriel de 96,2 milliards de dollars, en hausse de 106% sur un an, avec une plateforme Vera Rubin déjà en production chez les hyperscalers. Malgré ce dépassement des attentes, l'action a d'abord réagi négativement après clôture, les investisseurs ayant intégré des attentes déjà très élevées.",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026"
     },
     {
       "id": "n06",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Anthropic unifie Memory",
-      "title": "Anthropic unifie la mémoire de Claude entre chat et Cowork",
-      "summary": "Depuis le 25 août, la mémoire utilisée dans Claude chat est partagée avec Cowork, permettant à l'assistant de conserver le contexte d'un environnement à l'autre. Les utilisateurs peuvent visualiser, éditer ou supprimer chaque élément mémorisé par sujet, et les thématiques sensibles comme la santé restent exclues par défaut. La fonctionnalité est disponible sur les offres Free, Pro et Max sur web, desktop et mobile.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+      "importance": 3,
+      "short_title": "OpenAI lance Jalapeño",
+      "title": "OpenAI dévoile sa propre puce d'inférence",
+      "summary": "Développée avec Broadcom, la puce Jalapeño affiche 1,5 à 1,9 fois plus de débit par kilowatt et jusqu'à 3,6 fois moins de latence que les racks GB200/GB300 de Nvidia, selon les premiers benchmarks. Elle sera déployée dans l'infrastructure d'OpenAI d'ici la fin d'année, dans le cadre d'une feuille de route multigénérationnelle réduisant la dépendance à Nvidia.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "frtb",
       "importance": 3,
-      "short_title": "Puce Jalapeño d'OpenAI",
-      "title": "OpenAI dévoile les premiers résultats de sa puce d'inférence Jalapeño",
-      "summary": "OpenAI a publié les premières performances de Jalapeño, sa puce d'inférence maison développée avec Broadcom, affichant 1,5 à 1,9 fois plus de débit et une latence divisée par 1,7 à 3,6 face à la concurrence. Le déploiement au sein de l'infrastructure propre d'OpenAI est prévu d'ici fin 2026. Cette annonce marque une étape importante dans la course des labs IA à la maîtrise de leur propre infrastructure de calcul.",
-      "source": "The Register",
-      "url": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052"
+      "short_title": "EBA assouplit FRTB",
+      "title": "L'EBA temporise sur la frontière trading/banking book",
+      "summary": "L'Autorité bancaire européenne recommande aux superviseurs de ne pas sanctionner en priorité les manquements liés à la frontière entre portefeuille de négociation et portefeuille bancaire dans le cadre FRTB, en amont de l'entrée en vigueur du dispositif révisé au 1er janvier 2027. Cette tolérance donne aux banques plus de marge pour ajuster leurs dispositifs de calcul du risque de marché.",
+      "source": "Regulation Tomorrow",
+      "url": "https://www.regulationtomorrow.com/2026/08/eba-no-action-letter-and-technical-considerations-to-support-the-implementation-of-the-market-risk-framework-for-eu-banks/"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "DeepMind: sécurité isolée",
-      "title": "Google sort son équipe de sécurité IA de DeepMind",
-      "summary": "Google transfère son unité \"AI responsibility\", environ 90 personnes travaillant sur les risques chimiques, biologiques et psychologiques des modèles, de Google DeepMind vers l'organisation des affaires publiques du groupe. Des membres de l'équipe craignent une perte d'indépendance de recherche et un accès réduit aux derniers modèles du fait de ce changement de rattachement hiérarchique. Google défend un rapprochement des équipes sécurité pour renforcer leur influence transverse.",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/google/2026/google-shifts-ai-safety-unit-out-of-deepmind-lab-to-global-affairs/"
+      "theme": "finance",
+      "subtopic": "italie",
+      "importance": 2,
+      "short_title": "MPS relance en Italie",
+      "title": "La consolidation bancaire italienne s'accélère",
+      "summary": "Après avoir été la cible d'une offre d'Intesa Sanpaolo de 34,5 milliards d'euros, Monte dei Paschi a riposté avec des offres en actions sur Banco BPM (25,3 milliards) et Banca Generali (8,7 milliards), inversant les rôles entre proie et prédateur. Cette séquence illustre l'appétit renouvelé du secteur bancaire européen pour les fusions.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/italy-s-bank-m-a-saga-turns-targets-into-buyers-and-vice-versa"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Meta lance l'agent Hatch",
-      "title": "Meta prépare le lancement de son agent IA Hatch",
-      "summary": "Meta s'apprête à lancer Hatch, une plateforme d'agent IA grand public capable d'exécuter des tâches sur des services comme DoorDash, Etsy ou Outlook, avec un abonnement premium envisagé jusqu'à 199,99 dollars par mois. Le lancement pourrait intervenir dès fin août ou début septembre, suivi en octobre d'un nouveau modèle interne nommé Watermelon. L'initiative s'inscrit dans la stratégie de Zuckerberg pour monétiser les investissements IA au-delà de la publicité.",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295"
+      "importance": 3,
+      "short_title": "Anthropic: IA physique",
+      "title": "Anthropic lance un standard pour piloter du matériel",
+      "summary": "Le Model Hardware Standard (MHS) permet à des agents IA d'opérer en sécurité des équipements physiques - microscopes, bras robotisés, lasers - en réduisant l'intégration de plusieurs semaines à quelques heures. AWS, Hugging Face, Universal Robots ou QIAGEN rejoignent déjà ce standard, qu'Anthropic prévoit d'ouvrir en open source.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "regulation",
       "importance": 2,
-      "short_title": "Mistral x HUMAIN Arabie",
-      "title": "Mistral AI s'associe à HUMAIN pour l'IA souveraine en Arabie saoudite",
-      "summary": "Mistral et l'entreprise saoudienne HUMAIN annoncent une collaboration couvrant l'infrastructure de calcul, le développement de modèles avancés et le déploiement de solutions IA dans la région, avec un projet de modèles performants en langue arabe. Ce partenariat prolonge la stratégie de Mistral de vente de souveraineté et de capacité de calcul au-delà de l'Europe. Il illustre la compétition croissante entre labs occidentaux pour les marchés d'IA souveraine du Golfe.",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/mistral-x-humain/"
+      "short_title": "Anthropic filigrane IA",
+      "title": "Claude marque désormais ses textes générés",
+      "summary": "Depuis le 2 août, les nouveaux modèles Claude intègrent un filigrane invisible dans leurs réponses textuelles, en application de l'article 50 de l'AI Act européen. Anthropic applique cette mesure au niveau mondial, faute de moyen fiable de la limiter à la seule zone UE.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-text-watermark"
     },
     {
       "id": "n11",
-      "theme": "learn",
-      "subtopic": "education_ia",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "IA: 88% des étudiants",
-      "title": "L'usage de l'IA générative progresse mais la maîtrise recule côté étudiants",
-      "summary": "Le baromètre 2026 du Digital Education Council montre que 88% des étudiants et 77% des enseignants utilisent l'IA générative dans 35 pays, mais relève des signes d'érosion des compétences et des écarts dans l'évaluation. L'OCDE observe que l'avantage de qualité obtenu grâce aux chatbots disparaît, voire s'inverse, lorsque l'accès à l'IA est retiré en situation d'examen. Ces résultats interrogent la conception pédagogique de l'IA comme outil d'apprentissage plutôt que de simple assistance.",
-      "source": "Digital Education Council / OCDE",
-      "url": "https://www.digitaleducationcouncil.com/resource-library-items/ai-in-higher-education-global-survey-2026"
+      "short_title": "Figma/Linear: agents IA",
+      "title": "Les outils de design intègrent des agents IA",
+      "summary": "Figma a rendu détachable son panneau de chat agent sur macOS et Windows, qui reste visible pendant que l'on conçoit une interface. Linear pousse dans la même direction avec des \"Loops\" d'agents IA récurrents pour le triage et la revue de code, signe que les outils vibe coding et design convergent vers des flux pilotés par agents.",
+      "source": "Figma Help Center",
+      "url": "https://help.figma.com/hc/en-us/articles/37998629035799-Work-with-the-Figma-agent-in-design-files"
     },
     {
       "id": "n12",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 3,
-      "short_title": "Vaccin zona et démence",
-      "title": "Le vaccin contre le zona associé à une baisse du risque de démence",
-      "summary": "Une étude portant sur plus de 500 000 adultes de plus de 66 ans montre que la vaccination Shingrix après un séjour en établissement de soins est liée à une réduction de 24% du risque de démence sur quatre ans. La même équipe d'Oxford avait déjà associé ce vaccin à une baisse du risque cardiovasculaire, suggérant un effet protecteur plus large que la seule prévention du zona. Les chercheurs estiment qu'un cas de démence serait évité pour environ 17 personnes vaccinées.",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/"
+      "theme": "tech",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Mistral: IA souveraine",
+      "title": "Mistral muscle l'infrastructure IA européenne",
+      "summary": "Mistral déploie des endpoints d'inférence régionaux et des \"European Compute Units\" pour agréger des engagements d'entreprises sur le long terme, afin de sécuriser la capacité de calcul nécessaire à une IA souveraine. Un nouveau site d'inférence de 10 MW doit ouvrir en Essonne au troisième trimestre.",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "learn",
+      "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "Microbiote et longévité",
-      "title": "Une bactérie intestinale identifiée comme frein à l'inflammation liée à l'âge",
-      "summary": "Des chercheurs montrent dans Nature Aging que l'abondance de Bifidobacterium pseudocatenulatum et de son métabolite déclinent avec l'âge, et que leur administration chez des souris âgées restaure l'homéostasie intestinale, réduit l'inflammation multi-organes et améliore les performances cognitives et motrices. Cette approche probiotique s'inscrit dans une recherche longévité de plus en plus centrée sur la préservation de l'immunité plutôt que sur un remède unique au vieillissement.",
-      "source": "Nature Aging",
-      "url": "https://www.nature.com/articles/s43587-026-01181-4"
+      "short_title": "Tutorat IA validé",
+      "title": "Un essai randomisé valide le tutorat par IA",
+      "summary": "Un essai contrôlé randomisé mené dans des classes britanniques montre qu'un tuteur IA peut soutenir les élèves de façon sûre et efficace, sans alourdir la charge des enseignants. Ces résultats confortent des travaux antérieurs montrant des gains de l'ordre de 0,15 écart-type, comparables à plusieurs mois d'enseignement supplémentaire.",
+      "source": "arXiv",
+      "url": "https://arxiv.org/pdf/2512.23633"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "energie",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "UK: factures énergie",
-      "title": "Le plafond des prix de l'énergie augmente de 4% au Royaume-Uni",
-      "summary": "Le régulateur britannique Ofgem relève de 4% le plafond des prix de l'énergie à partir d'octobre, portant la facture annuelle moyenne à 1 723 livres. Les industriels britanniques paient environ quatre fois plus cher leur électricité que leurs concurrents américains, un surcoût largement attribué au financement de la transition réseau vers le net zéro. Ce décalage alimente le débat sur la compétitivité industrielle du Royaume-Uni face à sa trajectoire climatique.",
-      "source": "Energy Live News",
-      "url": "https://www.energylivenews.com/2026/08/26/energy-bills-hiked-as-price-cap-rises-by-4/"
+      "short_title": "GLP-1 et longévité",
+      "title": "Les GLP-1 testés comme traitements anti-âge",
+      "summary": "Des chercheurs du University of Texas Medical Branch étudient si le tirzépatide peut ralentir le vieillissement biologique, tandis qu'un essai sur le sémaglutide montre après 32 semaines des marqueurs épigénétiques compatibles avec un vieillissement ralenti. Novo Nordisk et Eli Lilly évoquent désormais ouvertement les GLP-1 comme premiers \"médicaments de longévité\", même si aucune preuve ne justifie leur usage hors indication.",
+      "source": "Good Morning America",
+      "url": "https://www.goodmorningamerica.com/wellness/story/researchers-glp-1-drugs-slow-aging-135765678"
     },
     {
       "id": "n15",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Feux et canicule en UE",
-      "title": "Vagues de chaleur et feux de forêt persistent en Europe de l'Ouest",
-      "summary": "Après un été marqué par quatre vagues de chaleur depuis mai et un juillet parmi les plus chauds jamais enregistrés, l'Europe de l'Ouest continue de faire face à des feux de forêt intenses, notamment dans le sud-ouest de la France et l'est de l'Espagne. Le service Copernicus souligne que l'Europe se réchauffe désormais à plus du double du rythme moyen mondial. Ces épisodes répétés pèsent sur la santé publique et la gestion des risques pour les assureurs et les pouvoirs publics.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/cited-4-august-2026-record-breaking-fires-2026-warming-projection-wildfire-scientist-qa"
+      "theme": "sante",
+      "subtopic": "kettlebell",
+      "importance": 1,
+      "short_title": "Kettlebell anti-âge",
+      "title": "Le kettlebell réduit l'inflammation liée à l'âge",
+      "summary": "Une étude sur un an montre que des adultes plus âgés pratiquant le kettlebell deux fois par semaine, même sans antécédent sportif, gagnent en masse musculaire, en force de préhension et en fonction physique tout en réduisant leurs marqueurs inflammatoires. Ces résultats renforcent l'intérêt de la musculation à charge modérée dans les stratégies de longévité.",
+      "source": "Yahoo Life",
+      "url": "https://www.yahoo.com/lifestyle/kettlebell-training-may-increase-muscle-strength-and-reduce-inflammation-as-we-age-a-new-study-finds-heres-how-to-get-started-130025648.html"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "biologie",
+      "theme": "climat",
+      "subtopic": "chine",
       "importance": 2,
-      "short_title": "IA décode l'ADN humain",
-      "title": "Une IA décode l'interrupteur génétique présent dans 60% des gènes humains",
-      "summary": "Des chercheurs de UC San Diego ont utilisé le deep learning pour décoder le motif ADN de \"l'initiateur\", une séquence clé qui déclenche l'activation des gènes, en analysant environ 500 000 variantes par séquençage à haut débit. L'initiateur est présent dans environ 60% des gènes humains, et le modèle permet désormais de repérer les mutations pouvant favoriser des cancers ou de concevoir des promoteurs synthétiques. Ce travail illustre l'essor de l'IA comme outil de découverte en biologie fondamentale.",
-      "source": "phys.org / UC San Diego",
-      "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html"
+      "short_title": "Chine: plan climat 5 ans",
+      "title": "Pékin publie son plan climat industriel",
+      "summary": "La Chine a publié un plan quinquennal visant à verdir son secteur industriel, avec pour objectif un pic des émissions industrielles avant 2030 et un renforcement de la compétitivité de ses filières bas-carbone. Le plan intervient alors qu'une vague de chaleur record a fait bondir la demande électrique liée à la climatisation début août.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/china-briefing-6-august-2026-five-year-climate-plan-overcapacity-report-severe-heatwave"
     },
     {
       "id": "n17",
-      "theme": "sciences",
-      "subtopic": "biologie",
+      "theme": "climat",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Cellules NK anti-tumeurs",
-      "title": "Des cellules immunitaires modifiées pénètrent mieux les tumeurs solides",
-      "summary": "Des chercheurs de Stanford Medicine montrent que des cellules NK résidentes de tissu, portant les marqueurs CD39/CD49a/CD103, parviennent à infiltrer et freiner la croissance de tumeurs épithéliales solides chez la souris. Les tumeurs solides restent la limite historique des thérapies par cellules NK, efficaces surtout sur les cancers du sang faute d'accès et à cause des signaux immunosuppresseurs du microenvironnement tumoral. Cette piste s'ajoute aux efforts d'ingénierie cellulaire visant à étendre l'immunothérapie aux cancers solides.",
-      "source": "ScienceDaily / Stanford Medicine",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm"
+      "short_title": "Trump taxe le solaire",
+      "title": "Washington taxe le polysilicium importé",
+      "summary": "Une action au titre de la Section 232 impose un droit de douane de 15% et des prix planchers sur le polysilicium et ses dérivés (cellules et modules solaires), invoquant la sécurité des chaînes d'approvisionnement en semi-conducteurs. La part américaine de la production mondiale de polysilicium est tombée de 50% en 2005 à moins de 2% en 2024, au profit de la Chine.",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/"
+    },
+    {
+      "id": "n18",
+      "theme": "sciences",
+      "subtopic": "neurosciences",
+      "importance": 1,
+      "short_title": "Cerveau prédictif",
+      "title": "Le cerveau vu comme un moteur de prédiction",
+      "summary": "De nouveaux travaux en neurosciences remettent en cause l'idée d'un cerveau qui classerait passivement les stimuli sensoriels comme un fichier. La catégorisation apparaît plutôt comme un processus actif de compression et de prédiction, intervenant tout au long du traitement sensoriel et non à son terme.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
+    },
+    {
+      "id": "n19",
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 2,
+      "short_title": "ADN: édition + précise",
+      "title": "Des nanoparticules d'argent affinent l'édition d'ADN",
+      "summary": "Des chercheurs japonais (Nagoya et Gifu) ont mis au point des nanoparticules d'argent qui découpent et assemblent l'ADN avec une efficacité 2 à 5 fois supérieure aux enzymes de restriction classiques. Le taux de récupération d'ADN final atteint 98% contre 14% avec les méthodes conventionnelles, une avancée utile pour l'ingénierie génétique de précision.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n05",
+      "target": "n03",
       "type": "cause",
-      "explanation": "L'absence d'accord définitif sur la réouverture du détroit d'Ormuz maintient une prime de risque géopolitique sur le baril malgré les avancées diplomatiques partielles."
-    },
-    {
-      "source": "n05",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "Le maintien du Brent à un niveau élevé nourrit les pressions inflationnistes que Warsh doit arbitrer dans le cadrage macroéconomique de son premier discours de Jackson Hole."
-    },
-    {
-      "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Les deux dossiers illustrent la fragilité simultanée de la diplomatie américaine au Moyen-Orient, sur le front israélo-palestinien comme sur celui du détroit d'Ormuz."
+      "explanation": "La quasi-fermeture du détroit d'Ormuz, qui achemine d'ordinaire un cinquième du pétrole mondial, prive le marché d'une partie de l'offre et maintient les cours du Brent à un niveau élevé."
     },
     {
       "source": "n03",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "La visite surprise de la CIA à Moscou et les pourparlers irano-omanais témoignent d'un même moment de diplomatie discrète menée en parallèle sur plusieurs théâtres de crise."
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Le renchérissement durable de l'énergie alimente l'inflation américaine, ce qui a conforté les faucons de la Fed à Jackson Hole dans leur appel à resserrer encore la politique monétaire."
     },
     {
-      "source": "n08",
+      "source": "n04",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "Des taux durablement plus élevés pèsent sur la valorisation des actions technologiques à fort multiple comme Nvidia, ce qui explique la réaction initiale négative malgré des résultats records."
+    },
+    {
+      "source": "n06",
+      "target": "n05",
+      "type": "tension",
+      "explanation": "Le lancement de la puce Jalapeño par OpenAI, dévoilé juste avant la publication des résultats de Nvidia, vise directement sa position dominante sur le marché de l'inférence et nourrit les doutes des investisseurs sur sa croissance future."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "meme_sujet",
+      "explanation": "La même semaine, Anthropic avance à la fois sur le contrôle du monde physique (MHS) et sur la traçabilité de ses contenus générés (filigrane), deux volets de sa stratégie de déploiement responsable."
+    },
+    {
+      "source": "n12",
       "target": "n06",
       "type": "tension",
-      "explanation": "Alors que Google éloigne son équipe de sécurité IA de la recherche, faisant craindre une perte d'indépendance, Anthropic met en avant le contrôle utilisateur et la protection des sujets sensibles comme argument de confiance."
+      "explanation": "Face à la course aux puces et à l'échelle menée par les labs américains comme OpenAI, Mistral mise sur une stratégie de souveraineté et d'infrastructure régionale plutôt que sur une course au gigantisme."
+    },
+    {
+      "source": "n17",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "Les nouveaux droits de douane américains sur le polysilicium visent explicitement à contrer la domination chinoise sur les technologies bas-carbone, entrant en friction directe avec la stratégie industrielle verte de Pékin."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "tension",
-      "explanation": "OpenAI mise sur la course à l'infrastructure et à l'efficacité d'inférence pendant que Google réorganise sa gouvernance de la sécurité, deux réponses stratégiques opposées à la même pression concurrentielle."
-    },
-    {
-      "source": "n09",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Les deux annonces marquent la même semaine de bascule des labs IA vers la monétisation d'agents et le contrôle de leur propre infrastructure."
-    },
-    {
-      "source": "n10",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Ces deux mouvements traduisent l'extension internationale de l'infrastructure et de la capacité de calcul des labs IA frontière au même moment."
-    },
-    {
-      "source": "n12",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "Ces deux études publiées la même semaine illustrent le basculement de la recherche longévité vers la biologie de l'inflammation et de l'immunité plutôt que vers un remède unique au vieillissement."
+      "type": "cause",
+      "explanation": "En assouplissant temporairement l'application du cadre FRTB, l'EBA réduit l'incertitude réglementaire et libère des capacités que les banques européennes redéploient dans des opérations de consolidation comme celles engagées en Italie."
     },
     {
       "source": "n14",
       "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Les deux news donnent la double facture de l'été climatique européen : le coût économique de la transition énergétique au Royaume-Uni et l'impact physique direct des vagues de chaleur sur le continent."
+      "explanation": "GLP-1 et kettlebell illustrent deux approches très différentes - pharmacologique et mécanique - qui gagnent du terrain cette année dans la recherche sur le ralentissement du vieillissement."
+    },
+    {
+      "source": "n18",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Les deux travaux interrogent la façon dont un système, biologique ou artificiel, construit des prédictions adaptatives à partir de signaux bruités pour mieux orienter l'apprentissage."
     }
   ]
 }

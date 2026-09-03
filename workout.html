@@ -37,96 +37,118 @@
     font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
     letter-spacing: 0.16em; color: var(--ink-faint); margin-bottom: 6px;
   }
-  .goal .g-line { font-family: 'Fraunces', serif; font-style: italic; font-weight: 500; font-size: 19px; line-height: 1.3; color: var(--ink); margin-bottom: 6px; }
-  .goal .g-line b { color: var(--accent); font-style: normal; font-weight: 600; }
-  .goal .g-sub { font-size: 12.5px; line-height: 1.45; color: var(--ink-dim); }
+  .goal .g-line { font-size: 14.5px; line-height: 1.5; margin-bottom: 8px; }
+  .goal .g-line b { font-weight: 600; }
+  .goal .g-sub { font-size: 13px; line-height: 1.6; color: var(--ink-dim); }
+  .goal .g-sub b { color: var(--ink); font-weight: 500; }
+
+  .constraint {
+    border: 1px solid var(--rule); border-radius: 14px;
+    padding: 16px 18px; margin-bottom: 18px;
+    background: rgba(255,255,255,0.015);
+  }
+  .constraint .c-tag {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--accent); margin-bottom: 8px;
+  }
+  .constraint .c-body { font-size: 13.5px; line-height: 1.65; color: var(--ink-dim); }
+  .constraint .c-body b { color: var(--ink); font-weight: 500; }
+  .constraint .c-body code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink); }
 
   .section-label {
-    font-family: 'Geist Mono', monospace; font-size: 11px; text-transform: uppercase;
-    letter-spacing: 0.18em; color: var(--ink-faint); margin: 0 0 16px;
-    display: flex; align-items: center; gap: 10px;
+    font-family: 'Geist Mono', monospace; font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.2em; color: var(--ink-faint);
+    margin: 40px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--rule);
   }
-  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--rule); }
 
-  .seance { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; margin-bottom: 48px; }
-  .step { display: flex; gap: 14px; padding: 14px 0; border-top: 1px solid var(--rule); }
-  .step:first-of-type { border-top: none; padding-top: 4px; }
-  .step .num { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent); flex-shrink: 0; width: 18px; padding-top: 3px; }
-  .step .txt { font-size: 13.5px; line-height: 1.5; flex: 1; }
-  .step .role { color: var(--ink); font-weight: 500; display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; margin-bottom: 6px; }
-  .step .time { font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--ink-faint); }
-  .step .detail { color: var(--ink-dim); }
+  .seance { display: flex; flex-direction: column; gap: 2px; }
+  .step { display: flex; gap: 14px; padding: 18px 0; border-bottom: 1px solid var(--rule); }
+  .step:last-child { border-bottom: none; }
+  .step .num {
+    font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent);
+    flex-shrink: 0; width: 20px; padding-top: 2px;
+  }
+  .step .txt { flex: 1; display: block; }
+  .step .role { display: block; font-size: 14.5px; font-weight: 600; margin-bottom: 6px; }
+  .step .role .time {
+    font-family: 'Geist Mono', monospace; font-size: 10.5px; font-weight: 400;
+    color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.1em; margin-left: 8px;
+  }
+  .step .detail { display: block; font-size: 13.5px; line-height: 1.6; color: var(--ink-dim); margin-bottom: 10px; }
   .step .detail b { color: var(--ink); font-weight: 500; }
-  .step ul { list-style: none; margin-top: 4px; }
-  .step li { padding: 3px 0 3px 16px; position: relative; color: var(--ink-dim); }
-  .step li::before { content: '·'; position: absolute; left: 4px; color: var(--accent); }
+  .step ul { list-style: none; padding: 0; margin: 0; }
+  .step li {
+    font-size: 13.5px; line-height: 1.5; padding: 7px 0 7px 14px;
+    border-left: 2px solid var(--rule); margin-bottom: 4px; color: var(--ink-dim);
+  }
   .step li b { color: var(--ink); font-weight: 500; }
-  .reps { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--accent); }
+  .step li code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink-faint); }
+  .step li .reps { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--accent); margin-left: 6px; }
 
   .retest {
-    background: linear-gradient(120deg, rgba(16,185,129,0.10), transparent 70%);
-    border: 1px solid rgba(16,185,129,0.32); border-radius: 12px;
-    padding: 10px 13px; margin-top: 8px;
+    border: 1px solid var(--rule); border-radius: 12px;
+    padding: 12px 14px; margin-top: 12px; background: rgba(255,255,255,0.02);
   }
   .retest .rt-tag {
     font-family: 'Geist Mono', monospace; font-size: 9px; text-transform: uppercase;
-    letter-spacing: 0.16em; color: #10b981; margin-bottom: 5px;
-  }
-  .retest .rt-body { font-size: 12.5px; line-height: 1.5; color: var(--ink-dim); }
-  .retest .rt-body b { color: var(--ink); font-weight: 500; }
-
-  .constraint {
-    background: linear-gradient(120deg, rgba(232,200,137,0.10), transparent 70%);
-    border: 1px solid rgba(232,200,137,0.32); border-radius: 12px;
-    padding: 12px 15px; margin-bottom: 40px;
-  }
-  .constraint .c-tag {
-    font-family: 'Geist Mono', monospace; font-size: 9px; text-transform: uppercase;
     letter-spacing: 0.16em; color: var(--accent); margin-bottom: 6px;
   }
-  .constraint .c-body { font-size: 12.5px; line-height: 1.55; color: var(--ink-dim); }
-  .constraint .c-body b { color: var(--ink); font-weight: 500; }
-
-  .split { display: grid; grid-template-columns: 1fr; gap: 16px; margin-bottom: 48px; }
-  @media (min-width: 680px) { .split { grid-template-columns: 1fr 1fr; align-items: start; } }
-  .card { background: var(--bg-panel); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 20px; }
-  .card h3 { font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; font-size: 18px; margin-bottom: 12px; }
-  .card ul { list-style: none; }
-  .card li { font-size: 13px; line-height: 1.5; padding: 6px 0 6px 20px; position: relative; color: var(--ink-dim); }
-  .card li b { color: var(--ink); font-weight: 500; }
-  .card.watch li::before { content: '→'; position: absolute; left: 0; color: var(--accent); }
-  .card.dont { background: linear-gradient(135deg, rgba(239,68,68,0.07), var(--bg-panel) 60%); border-color: rgba(239,68,68,0.28); }
-  .card.dont li::before { content: '✕'; position: absolute; left: 0; color: var(--tension); font-size: 11px; }
-
-  .tyler { background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 16px; padding: 20px; margin-bottom: 48px; }
-  .tyler .swatches { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0 14px; }
-  .sw { display: flex; align-items: center; gap: 7px; font-size: 12px; color: var(--ink-dim); border: 1px solid var(--rule); border-radius: 999px; padding: 5px 11px 5px 8px; }
-  .sw .dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
-  .sw.cur { border-color: var(--accent); color: var(--ink); }
-  .sw b { color: var(--ink); font-weight: 600; }
-  .tyler p { font-size: 12.5px; line-height: 1.55; color: var(--ink-dim); }
-  .tyler p b { color: var(--ink); font-weight: 500; }
+  .retest .rt-body { font-size: 12.5px; line-height: 1.6; color: var(--ink-dim); }
+  .retest .rt-body b { color: var(--ink); font-weight: 500; }
+  .retest .rt-body code { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink); }
 
   .decision {
-    background: linear-gradient(120deg, rgba(99,102,241,0.12), transparent 70%);
-    border: 1px solid rgba(99,102,241,0.34); border-radius: 12px;
-    padding: 14px 16px; margin-bottom: 40px;
+    border: 1px solid rgba(232,200,137,0.30); border-radius: 14px;
+    padding: 16px 18px; margin: 30px 0 0;
+    background: linear-gradient(110deg, rgba(232,200,137,0.08), transparent);
   }
   .decision .d-tag {
-    font-family: 'Geist Mono', monospace; font-size: 9px; text-transform: uppercase;
-    letter-spacing: 0.16em; color: #818cf8; margin-bottom: 8px;
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--accent); margin-bottom: 8px;
   }
-  .decision .d-body { font-size: 12.5px; line-height: 1.55; color: var(--ink-dim); }
+  .decision .d-body { font-size: 13.5px; line-height: 1.65; color: var(--ink-dim); }
   .decision .d-body b { color: var(--ink); font-weight: 500; }
-  .decision .opt { border-top: 1px solid var(--rule); margin-top: 10px; padding-top: 10px; }
-  .decision .opt-h { color: var(--ink); font-weight: 600; font-size: 13px; margin-bottom: 3px; }
+  .decision .d-body code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink); }
+  .decision .opt { margin-top: 12px; padding-left: 14px; border-left: 2px solid var(--rule); }
+  .decision .opt-h { font-size: 13px; font-weight: 600; color: var(--ink); margin-bottom: 4px; }
+
+  .tyler { border: 1px solid var(--rule); border-radius: 14px; padding: 16px 18px; }
+  .tyler p { font-size: 13.5px; line-height: 1.65; color: var(--ink-dim); margin: 0 0 12px; }
+  .tyler p:last-child { margin-bottom: 0; }
+  .tyler p b { color: var(--ink); font-weight: 500; }
+  .tyler code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink); }
+  .swatches { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 12px; }
+  .sw {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; color: var(--ink-dim);
+    border: 1px solid var(--rule); border-radius: 999px; padding: 5px 11px;
+  }
+  .sw.cur { border-color: rgba(232,200,137,0.45); color: var(--ink); }
+  .sw .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 700px) { .split { grid-template-columns: 1fr; } }
+  .card { border: 1px solid var(--rule); border-radius: 14px; padding: 16px 18px; }
+  .card h3 {
+    font-family: 'Geist Mono', monospace; font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin: 0 0 12px; font-weight: 400;
+  }
+  .card ul { list-style: none; padding: 0; margin: 0; }
+  .card li {
+    font-size: 13px; line-height: 1.55; padding: 7px 0 7px 16px; position: relative;
+    color: var(--ink-dim);
+  }
+  .card li b { color: var(--ink); font-weight: 500; }
+  .card li code { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink-faint); }
+  .card.watch li::before { content: '◆'; position: absolute; left: 0; color: var(--accent); font-size: 8px; top: 11px; }
+  .card.dont li::before { content: '✕'; position: absolute; left: 0; color: #ef4444; font-size: 10px; top: 9px; }
 
   .footnote {
-    margin-top: 44px; padding-top: 20px; border-top: 1px solid var(--rule);
-    font-family: 'Geist Mono', monospace; font-size: 10.5px; line-height: 1.7;
-    color: var(--ink-faint); letter-spacing: 0.04em;
+    font-size: 11.5px; line-height: 1.7; color: var(--ink-faint);
+    margin-top: 40px; padding-top: 18px; border-top: 1px solid var(--rule);
   }
-  .footnote b { color: var(--ink-dim); font-weight: 600; }
+  .footnote b { color: var(--ink-dim); font-weight: 500; }
+  .footnote code { font-family: 'Geist Mono', monospace; font-size: 10.5px; }
 </style>
 </head>
 <body>
@@ -148,182 +170,209 @@
 </header>
 
 <main>
-  <div class="page-kicker">MARDI 01/09 · midi · street · ~40 min · TIRAGE HORIZONTAL + HINGE + CORE · yellow maintenu par ta décision · ACWR corrigé 1,17 · REPOS COMPLET DEMAIN</div>
+  <div class="page-kicker">JEUDI 03/09 · street · ~50 min · CORRECTIF + TIRAGE VERTICAL + HINGE + CORE · PASSE 2/2 ÉPAULE ET GENOU · LES TRACTIONS REVIENNENT · 2<sup>e</sup> SÉANCE VENDREDI</div>
   <h1 class="page-title">Workout</h1>
   <p class="page-intro">
-    Mardi 01/09. Le verdict scripté du jour est passé à <b>red</b> en fin de matinée sur ta FC de repos à 62. <b>Tu l'as refusé</b>, et tu compenses par un <b>repos complet demain</b>. La séance revient donc à sa version <b>yellow</b>&nbsp;: trois blocs de travail, correctif complet, ~40 min.
-    C'est un arbitrage de placement de charge, pas un déni du signal&nbsp;: la dose est prise aujourd'hui et retirée demain, sur une semaine déjà en sous-charge. Le red reste tracé tel quel au dossier — il n'est ni effacé ni réécrit.
+    Repos complet tenu hier. Aujourd'hui, <b>deux retests se ferment le même jour</b>&nbsp;: la <b>passe 2/2 du B7</b> sur l'épaule, et la <b>passe 2/2 de <code>genou_impact</code></b> sur le trajet. Le premier décide de la levée d'une contre-indication ouverte depuis <b>98 jours</b>.
+    Et les <b>tractions reviennent</b>, à <code>traction-complete</code> — troisième séance qu'elles manquaient. Cette fois j'arbitre contre le plan échu, assumé et tracé.
   </p>
 
   <div class="goal">
     <span class="star">✦</span>
     <div>
-      <div class="g-kicker">Ta décision, et ce qu'elle engage</div>
-      <div class="g-line">Séance <b>yellow</b> aujourd'hui, <b>repos complet</b> le 02/09. Le total de la semaine ne bouge pas&nbsp;; seul le placement change.</div>
-      <div class="g-sub">L'arbitrage tient debout&nbsp;: ACWR <b>0,71</b> en sous-charge, CTL 129,9, et cinq jours sans renfo avant aujourd'hui. Tu n'ajoutes pas de charge, tu la déplaces. <b>Ce qui reste vrai</b>&nbsp;: ta FC de repos est à 62 contre une baseline de 54,86, après quatre jours à 53-53-53-50. Ça n'invalide pas ta décision — ça la rend mesurable. <b>Re-cote-la ce soir ou demain matin au calme</b>&nbsp;: si elle redescend vers 53-55, c'était un pic post-vélo et tu avais raison. Si elle tient ou monte, le repos de demain cesse d'être une compensation pour devenir une nécessité.</div>
-    </div>
-  </div>
-
-  <!-- Charge corrigee -->
-  <div class="constraint">
-    <div class="c-tag">◆ 12h30 — la charge était fausse, et ça change les chiffres</div>
-    <div class="c-body">
-      Tu as basculé l'automation <b>Workout</b> sur Drive et transmis les fichiers manquants. Ils sont ingérés. <b>Tes deux tennis sont là</b>&nbsp;: <b>30/08, 41,0 min, FC moy 110,7</b> (sRPE 164) et <b>31/08, 31,0 min, FC moy 118,3</b> (sRPE 124). Et avec eux, quatre séances jamais importées&nbsp;: deux vélos et deux courses le <b>26/08</b>, deux courses le <b>27/08</b>.
-      <b>Effet</b>&nbsp;: aigu 7 j <b>871 → 1 819</b> (il a doublé), ACWR <b>0,71 → 1,17</b>, zone <b>sous-charge → optimal</b>, CTL <b>129,9 → 165,6</b>. Le tennis n'est même pas le gros du delta (288 sRPE sur 948)&nbsp;: l'essentiel vient des vélos et courses des 26-27/08, bloqués depuis le 23/08 avec le reste.
-      <b>Ce que ça invalide</b>&nbsp;: «&nbsp;tu es en sous-charge, tu as de la marge, il n'y a rien à rattraper&nbsp;». Je l'ai écrit deux fois ce matin — pour garder le volume, puis pour valider ton arbitrage. C'était faux, construit sur un historique amputé de 948 sRPE.
-      <b>Projection après cette séance</b>&nbsp;: renfo ~40 min + trajet couru → ACWR <b>1,32 à 1,36</b>, soit la <b>zone danger</b> (seuil 1,30). <b>Après le repos de demain</b>&nbsp;: retour à <b>0,85</b>. Ton arbitrage tient donc numériquement — c'est un jour au-dessus de la borne, immédiatement rattrapé.
-      <b>Un levier si tu veux rester sous la borne</b>, et c'est le moins cher&nbsp;: <b>marche le trajet au lieu de le courir</b>. Ça retire ~84 sRPE → ACWR projeté <b>~1,27</b>, et ça supprime la composante impact sur le genou. Aucun bloc de travail touché. À toi.
-      <b>Et une convergence à noter</b>&nbsp;: ta FC de repos à 62 avait l'air inexplicable ce matin sur un historique «&nbsp;cinq jours sans rien&nbsp;». Après deux tennis, quatre vélos et quatre courses en six jours, elle l'est beaucoup moins.
-    </div>
-  </div>
-
-  <!-- L'override -->
-  <div class="constraint">
-    <div class="c-tag">◆ Ce que j'ai fait de ton override — et ce que je n'ai pas fait</div>
-    <div class="c-body">
-      <b>Appliqué</b>&nbsp;: la séance repasse en version yellow (3 blocs + correctif Tier 1, trajet couru, ~40 min), et le <b>02/09 est posé en repos complet</b> dans l'état courant — le brief de demain le lira, tu n'auras pas à le redire.
-      <b>Pas fait</b>&nbsp;: effacer le verdict. Le red reste écrit tel quel — FC repos <b>62</b> vs baseline <b>54,86</b> (+7,14), HRV <b>72,63</b> en hausse, soit le cas « HRV paradoxal ». L'override porte sur <b>l'action</b>, jamais sur la mesure. Si je réécrivais la mesure pour qu'elle colle à la décision, le dossier ne vaudrait plus rien dans trois semaines.
-      <b>Tracé</b>&nbsp;: <code>override-2026-09-01-001</code> au journal des décisions, statut <code>overridden</code>, avec ton verbatim et la contrepartie. La règle de blocage qui va avec ne couvre <b>que cette journée</b>&nbsp;: je ne te re-proposerai pas la modulation red pour le 01/09, mais un red sur une autre journée se traitera normalement.
+      <div class="g-kicker">Ce que cette séance décide</div>
+      <div class="g-line">Deux passes 2/2. Si l'épaule sort <b>&lt;2/10</b> en amplitude complète, <code>adapt-2026-05-28-001</code> devient levable — et le bloc du mois se compose ce soir <b>sans</b> le gel qui te prive de tractions depuis trois semaines.</div>
+      <div class="g-sub">C'est pour ça que je n'ai pas recomposé le bloc ce matin quand tu l'as demandé. L'allocateur dérive son gel des <b>CI actives</b>&nbsp;: le recomposer avant ta séance aurait gravé pour quatre semaines une contrainte que ta séance est en train d'invalider. <b>Séance → feedback → composition</b>, dans cet ordre, ce soir. <b>Le protocole <code>obs-2026-08-21-002</code> est caduc demain 04/09</b> — c'est aujourd'hui ou il faut tout reconduire.</div>
     </div>
   </div>
 
   <!-- Gate A2 -->
   <div class="constraint">
-    <div class="c-tag">◆ Le gate épaule n'est toujours pas ouvert</div>
+    <div class="c-tag">◆ Le gate épaule se mesure à chaud maintenant — et c'est un correctif, pas un assouplissement</div>
     <div class="c-body">
-      Ce matin tu as répondu «&nbsp;<b>≤1/10, pas fait mais indolore</b>&nbsp;» — <b>ma question était mal posée</b>, elle mélangeait «&nbsp;pas testé&nbsp;» et «&nbsp;≤1/10&nbsp;».
-      <b>Le gate a été exécuté le 26/08, et il a échoué</b>&nbsp;: rotation externe droite <b>à vide</b>, secteur <b>terminal</b> → <b>4/10</b>, arrêt volontaire, fin de course <b>antalgique</b>, déficit <b>≥10°</b> vs gauche. Seuil d'ouverture&nbsp;: ≤1/10.
-      Ton «&nbsp;indolore&nbsp;» n'est pas faux — il porte sur l'<b>arc de travail</b> (0/10, cohérent avec les 12 tractions amplitude complète du 27/08). Le gate mesure les <b>~5 derniers degrés</b>, où la dose-réponse documentée est «&nbsp;1/10 → 4/10 si forcé&nbsp;». Deux mesures, deux verdicts.
-      <b>Donc pas de passe B.</b> Rotation externe en <b>arc indolore</b>. Pour rouvrir&nbsp;: refais le gate <b>à froid, hors séance</b>, et cote-le. <b>Le protocole est caduc le 04/09</b> — et demain est un jour de repos, donc c'est le bon jour pour le faire.
+      Jusqu'au 01/09 le gate A2 était prescrit <b>à froid, hors séance</b>. Deux mesures ont montré que ce protocole mesurait la mauvaise chose.
+      <b>À froid</b> (26/08, hors séance)&nbsp;: rotation externe droite à vide, secteur terminal → <b>4/10</b>, arrêt volontaire, déficit <b>≥10°</b> vs gauche. Échec net.
+      <b>À chaud</b> (01/09, en séance)&nbsp;: <b>«&nbsp;rotation à vide j'ai rien eu&nbsp;»</b>, et <b>«&nbsp;pour l'amplitude j'avais la même des 2 côtés une fois chaud&nbsp;»</b>. Amplitude complète, <b>0/10 pendant et en fin de course</b>, symétrie retrouvée.
+      <b>Ce n'est pas une contradiction, c'est une information</b>&nbsp;: le déficit est un phénomène <b>à froid</b>. Or la charge tendineuse arrive toujours à chaud. Un gate qui bloque sur une mesure à froid interdit un travail qui, à chaud, passe à 0/10 — il protège contre un risque qui n'existe pas au moment où il faudrait le prendre.
+      <b>Donc</b>&nbsp;: échauffement d'abord, puis le gate, puis la passe B. Le seuil, lui, ne bouge pas — <b>≤1/10</b>.
     </div>
   </div>
 
-  <!-- Bloc échu -->
+  <!-- Passe 1/2 -->
   <div class="constraint">
-    <div class="c-tag">◆ Pas de tractions aujourd'hui — troisième séance de suite</div>
+    <div class="c-tag">◆ La passe 1/2 est acquise — et elle vient d'un écart que tu as fait</div>
     <div class="c-body">
-      <code>bloc-2026-07-15</code> est échu depuis le <b>12/08</b> — vingt jours — mais son <code>statut</code> est resté <code>actif</code>. Son allocation gèle <b>push, squat et tirage_vertical</b>, et sa file d'intentions n'a qu'<b>une entrée</b> (<code>hinge</code>), elle-même étiquetée maintenance alors que le focus déclaré est <code>tirage_horizontal</code>.
-      <b>Le coût</b>&nbsp;: aucune traction, alors que ton échelon a été <b>promu à <code>traction-complete</code> le 27/08</b> (0/10 en amplitude complète les 26 et 27/08, sur les deux prises) et que <code>sous_focus_courant</code> porte explicitement «&nbsp;tractions&nbsp;».
-      <b>Je l'applique quand même</b>, contrairement aux 26 et 27/08 où j'ai corrigé le plan à la main. Deux corrections successives sur un fichier qu'on ne répare pas, ça masque le problème. <b>Si tu veux tes tractions aujourd'hui, dis-le</b> — je les ajoute en volume prudent, tracé comme ajout hors allocation.
+      Le 01/09, la prescription disait <b>arc indolore strictement, pas de passe B</b> (le gate à froid avait échoué). <b>Tu as augmenté l'amplitude volontairement</b>, sur toutes les séries. Verbatim&nbsp;: «&nbsp;rotation externe j'ai essayé de travailler plus en grande amplitude&nbsp;».
+      Résultat coté&nbsp;: <b>amplitude complète, 0/10 pendant ET en fin d'amplitude</b>, symétrique avec le côté gauche une fois échauffé. Accepté rétroactivement comme <b>passe 1/2</b> du B7 (<code>delta-2026-09-01T16-47-012</code>).
+      <b>L'écart a produit la donnée que le protocole ne pouvait pas produire</b> — c'est lui qui a révélé le défaut du gate à froid. Ça ne rend pas les écarts recommandables&nbsp;: un ajout non prescrit est non dosé et non tracé, et le 05/08 quarante pompes improvisées ont renvoyé l'épaule de 0 à 2/10. Ici il est tracé, donc il compte.
+      <b>Condition stricte aujourd'hui</b>&nbsp;: mêmes conditions qu'au 01/09 — <b>même élastique, même position, même tension continue</b>. Une passe 2/2 dans d'autres conditions ne serait pas comparable, et ne vaudrait rien.
+    </div>
+  </div>
+
+  <!-- Tractions -->
+  <div class="constraint">
+    <div class="c-tag">◆ Les tractions reviennent — j'arbitre contre le plan, cette fois</div>
+    <div class="c-body">
+      <code>bloc-2026-07-15</code> est échu depuis le <b>12/08</b> — vingt-deux jours — et son <code>statut</code> est resté <code>actif</code>. Son allocation gèle <b>push, squat et tirage_vertical</b>. Le 01/09 j'ai appliqué ce gel tel quel, pour ne pas masquer le problème par une troisième correction manuelle.
+      <b>Le problème est maintenant en cours de réparation</b> (bloc composé ce soir), donc l'appliquer une fois de plus ne sert plus à rien — ça ne fait que te priver de tractions une quatrième séance d'affilée.
+      <b>La règle qui gagne</b>&nbsp;: <code>DECISIONS-sport.md</code> <b>D9</b> — «&nbsp;WHEN le contexte est <code>street</code> THE SYSTEM SHALL inclure un bloc de tirage vertical, dosé et tracé&nbsp;», et «&nbsp;le pattern <code>tirage_vertical</code> ne doit plus être mis en <code>gel</code> en contexte street&nbsp;». Ton échelon a été <b>promu à <code>traction-complete</code> le 27/08</b>, et <code>sous_focus_courant</code> porte explicitement «&nbsp;tractions&nbsp;».
+      <b>Dose</b>&nbsp;: <b>5×3 = 15 reps</b>, contre 12 le 27/08. Rampe progressive, conforme à la consigne qui accompagne la promotion d'échelon. Pas plus.
+    </div>
+  </div>
+
+  <!-- Correction alim -->
+  <div class="constraint">
+    <div class="c-tag">◆ Correction — l'alerte sous-alimentation d'hier ne valait rien</div>
+    <div class="c-body">
+      Hier je t'ai présenté une <b>disponibilité énergétique à 17,2 kcal/kg de masse maigre</b> (seuil 25) comme un signal à prendre au sérieux avant deux séances. <b>C'était faux.</b>
+      Le calcul prend les <b>trois derniers jours <i>loggés</i></b>, pas les trois derniers jours. Ces trois jours étaient le <b>05/08 (2 452 kcal)</b>, le <b>06/08 (859 kcal)</b> et le <b>11/08 (349 kcal)</b> — les deux derniers manifestement photographiés à moitié, et le plus récent vieux de <b>trois semaines</b>.
+      Le script fait ce qu'il faut&nbsp;: un jour sans log est <b>sauté</b>, jamais compté à zéro. Ce qu'il ne sait pas distinguer, c'est un jour <b>complet à 349 kcal</b> d'un jour <b>partiellement photographié</b>. C'est un trou de saisie, pas une donnée. <b>Aucune conséquence sur le volume d'aujourd'hui.</b>
+      <b>Ce matin, en revanche, c'est logué et corrigé</b>&nbsp;: 436 kcal, <b>51,3 g de protéines</b>. Le premier passage vision avait lu 24,8 g — il avait rejeté l'étiquette du muesli au profit d'une estimation. Étiquettes rephotographiées, base corrigée&nbsp;: <b>Favrichon Muesli protéiné soja &amp; fruits à 40 g/100 g</b> (le premier ingrédient de la fraction céréales est du <b>gluten de blé</b>), <b>Bjorg amande protéines</b> à 1,8 g/100 ml. Delta de reprise <code>delta-2026-09-03T07-59-001</code>, l'original intact.
     </div>
   </div>
 
   <!-- La séance -->
-  <div class="section-label">La séance — ~40 min (street, tirage horizontal + hinge + core)</div>
+  <div class="section-label">La séance — ~50 min (street, tirage vertical + hinge + core)</div>
   <div class="seance">
     <div class="step">
       <span class="num">1</span>
       <span class="txt">
-        <span class="role">Échauffement — trajet couru + mobilité <span class="time">~4 min sur place</span></span>
-        <span class="detail">Le <b>trajet couru</b> fait la montée en température, et il se <b>cote aller et retour séparément</b> — c'est la <b>passe 2/2</b> du retest <code>genou_impact</code>, la passe 1/2 étant passée (0/10 des deux côtés le 21/08). Sur place&nbsp;: thoracique au sol, puis cheville. <b>Rien d'overhead, pas de CARS.</b></span>
+        <span class="role">Échauffement — trajet + mobilité <span class="time">~4 min sur place</span></span>
+        <span class="detail">Le trajet fait la montée en température, et il se <b>cote aller et retour séparément</b> — c'est la <b>passe 2/2</b> du retest <code>genou_impact</code>, la passe 1/2 étant acquise (0/10 des deux côtés le 21/08). Sur place&nbsp;: thoracique au sol, puis cheville. <b>Rien d'overhead, pas de CARS.</b>
+        L'échauffement n'est pas optionnel aujourd'hui&nbsp;: c'est lui qui rend le gate mesurable.</span>
         <ul>
-          <li><b>Trajet couru</b> allure libre <span class="reps">~8 min · à coter aller ET retour</span></li>
-          <li><b>Mobilité thoracique</b> <code>rotation-allongee</code> <span class="reps">1×8/côté</span></li>
-          <li><b>Mobilité cheville</b> <code>genou-au-mur-assiste</code> <span class="reps">1×10/côté</span> · échelon estimé</li>
+          <li><b>Trajet</b> allure libre <span class="reps">à coter aller ET retour</span></li>
+          <li><b>Mobilité thoracique</b> <code>rotation-allongee</code> <span class="reps">2×8/côté</span></li>
+          <li><b>Mobilité cheville</b> <code>genou-au-mur-assiste</code> <span class="reps">2×10/côté</span></li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">2</span>
       <span class="txt">
-        <span class="role">Correctif — Tier 1 · épaule, genou, coude, mollet <span class="time">~11 min · sous-maximal</span></span>
-        <span class="detail">Quatre zones actives, quatre lignes — ce bloc n'a bougé dans aucune des versions du jour&nbsp;: le slot Tier 1 n'est jamais raboté. <b>Rotation externe</b>&nbsp;: arc indolore strictement, coude verrouillé au corps, épaules basses. <b>TKE</b>&nbsp;: note la <b>couleur de bande et l'ancrage</b> — troisième séance que ça manque, et sans ces deux champs aucune décision d'échelon n'est prenable. <b>Excentrique poignet</b>&nbsp;: retour freiné 3&nbsp;s. <b>Excentrique mollet</b>&nbsp;: montée deux pieds, descente sur un, 3&nbsp;s.</span>
+        <span class="role">Gate A2 — à chaud, avant tout le reste <span class="time">~1 min · décision</span></span>
+        <span class="detail">Rotation externe droite <b>à vide</b>, tu vas chercher le <b>secteur terminal</b> — les cinq derniers degrés, pas l'arc de travail. Cote honnêtement.</span>
         <ul>
-          <li><b>Rotation externe</b> coiffe élastique <code>re-neutre-leger</code>, <b>arc indolore</b> <span class="reps">3×12-15</span> · repos 45 s</li>
-          <li><b>TKE élastique</b> <code>tke-leger</code>, retour contrôlé <span class="reps">2×15/jambe</span> · repos 30 s · <b>noter couleur + ancrage</b></li>
-          <li><b>Excentrique poignet</b> <code>ext-leger</code>, retour freiné 3 s <span class="reps">3×15</span> · repos 30 s</li>
-          <li><b>Excentrique mollet</b> <code>unipodal-sol</code>, descente 3 s <span class="reps">2×12/jambe</span> · repos 30 s</li>
+          <li><b>≤1/10</b> <span class="reps">→ passe B7 en amplitude complète (étape 3)</span></li>
+          <li><b>&gt;1/10</b> <span class="reps">→ B7 en amplitude bornée, la passe ne compte pas</span></li>
         </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Ne triche pas dans un sens ni dans l'autre</div>
+          <div class="rt-body">Un gate forcé à «&nbsp;≤1/10&nbsp;» pour débloquer la passe fabrique une levée de CI sur une mesure fausse — et c'est trois mois de rééducation qu'on jetterait. Un gate coté trop haut par prudence reconduit une contre-indication pour un mois de plus. <b>La seule bonne réponse est la vraie.</b> Le 26/08 c'était 4/10 à froid, le 01/09 0/10 à chaud&nbsp;: les deux étaient justes.</div>
+        </div>
       </span>
     </div>
     <div class="step">
       <span class="num">3</span>
       <span class="txt">
-        <span class="role">Bloc 1 — Core, en début de séance <span class="time">~6 min</span></span>
-        <span class="detail"><b>Pallof press</b>&nbsp;: bande ancrée sur le côté à hauteur de sternum, mains jointes devant la poitrine, tu <b>pousses droit devant</b> en résistant à la rotation. Le travail est dans le tronc, pas dans les bras. <b>Bassin en rétroversion</b>, ne creuse pas le bas du dos — défaut relevé le 16/06 sur le gainage enchaîné.
-        Le core passe en début de séance, pas en finisher&nbsp;: un tronc déjà activé tient mieux le rowing et le hinge qui suivent.</span>
+        <span class="role">Correctif — Tier 1 · épaule, genou, coude <span class="time">~10 min · sous-maximal</span></span>
+        <span class="detail">Trois zones, trois lignes. Ce bloc n'est jamais raboté, quelle que soit la readiness.
+        <b>Rotation externe — c'est la passe 2/2</b>&nbsp;: amplitude complète, <b>tension continue sur toute l'amplitude</b> (pas de relâchement en fin de course), coude verrouillé au corps, épaules basses. <b>Cote pendant ET en fin d'amplitude, séparément.</b> <b>TKE</b>&nbsp;: note la <b>couleur de bande et l'ancrage</b> — quatrième séance que ça manque, et sans ces deux champs aucune décision d'échelon n'est prenable. <b>Excentrique poignet</b>&nbsp;: retour freiné 3&nbsp;s.</span>
         <ul>
-          <li><b>Pallof press</b> <code>pallof-press</code>, bassin en rétroversion <span class="reps">3×10/côté @ RIR 2</span> · repos 45 s</li>
+          <li><b>Rotation externe</b> coiffe élastique <code>re-neutre-leger</code>, <b>amplitude COMPLÈTE</b>, tempo 2-1-3 <span class="reps">3×12</span> · repos 40 s · <b>PASSE 2/2</b></li>
+          <li><b>TKE élastique</b> <code>tke-leger</code>, retour contrôlé <span class="reps">3×15</span> · repos 40 s · <b>noter couleur + ancrage</b></li>
+          <li><b>Excentrique poignet</b> <code>ext-leger</code>, retour freiné 3 s <span class="reps">3×15</span> · repos 40 s</li>
         </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Ce que la passe 2/2 déclenche, et ce qu'elle ne déclenche pas</div>
+          <div class="rt-body"><b>Si &lt;2/10</b>&nbsp;: la <code>condition_retour</code> d'<code>adapt-2026-05-28-001</code> est remplie — «&nbsp;épaule D &lt;2/10 sur B7 amplitude complète sur 2 séances consécutives&nbsp;». La levée se décide au feedback, elle n'est <b>pas automatique</b>. <b>Ce qui ne bouge pas dans tous les cas</b>&nbsp;: la CI <code>epaule_overhead</code> (jamais testée), l'interdiction d'<b>abduction active contre résistance</b> (6/10 le 27/08), et la <b>bursite sous-acromio-deltoïdienne</b> vue à l'écho du 19/08 — la coiffe est normale sur les 4 tendons, c'est la compression qui reste le motif.</div>
+        </div>
       </span>
     </div>
     <div class="step">
       <span class="num">4</span>
       <span class="txt">
-        <span class="role">Bloc 2 — Tirage horizontal <span class="time">~12 min · le pattern FOCUS</span></span>
-        <span class="detail">Activation d'abord&nbsp;: <b>scapular pull-up</b>, suspendu bras tendus, tu montes le corps de <b>quelques centimètres par les seules omoplates</b>, coudes tendus, <b>prise neutre</b>. C'est aussi la <b>re-cotation due</b> depuis le 17/08 — cote l'épaule sur ce mouvement précis.
-        Puis <b>rowing élastique</b>, bande ancrée devant à hauteur de poitrine, coudes le long du corps. <b>Prise neutre obligatoire.</b> Deux cues du dossier&nbsp;: <b>épaules basses, ne PAS hausser</b>, et <b>arrête avant le verrouillage scapulaire terminal</b> — c'est là que l'épaule est sortie à 2/10 le 17/08.</span>
+        <span class="role">Bloc 1 — Tirage vertical <span class="time">~12 min · les tractions</span></span>
+        <span class="detail">Activation d'abord&nbsp;: <b>scapular pull-up</b>, suspendu bras tendus, tu montes le corps de <b>quelques centimètres par les seules omoplates</b>, coudes tendus. C'est aussi la <b>re-cotation due</b> — non chiffrée le 01/09.
+        Puis les <b>tractions</b>, à <code>traction-complete</code>, <b>prise neutre</b>, <b>3&nbsp;s d'excentrique</b>. Amplitude complète, celle que tu fais déjà depuis le 26/08. Cinq séries courtes plutôt que quatre longues&nbsp;: on monte le volume sans monter la fatigue par série.</span>
         <ul>
           <li><b>Scapular pull-up</b> <code>scapular-pull-up</code>, prise neutre <span class="reps">2×8</span> · repos 45 s · <b>RE-COTER l'épaule</b></li>
-          <li><b>Rowing élastique</b> <code>rowing-lourd</code>, prise neutre, épaules basses <span class="reps">4×10 @ RIR 2</span> · repos 60 s</li>
+          <li><b>Tractions</b> <code>traction-complete</code>, prise neutre, 3 s excentrique <span class="reps">5×3 · 15 reps</span> · repos 60 s</li>
         </ul>
         <div class="retest">
-          <div class="rt-tag">◆ Pourquoi l'élastique et pas le rowing australien</div>
-          <div class="rt-body"><b>Ondulation d'emphase</b>&nbsp;: la dernière séance de tirage horizontal, le 26/08, était du <b>rowing australien</b>. On ne répète pas le même exercice deux séances de suite sur un pattern reconduit quand un substitut éligible existe. Le rowing élastique à <code>rowing-lourd</code> est ton échelon consigné depuis le 10/07, dernier fait le 21/08. <b>Note l'ancrage</b>&nbsp;: l'échelle est <b>saturée en haut</b> («&nbsp;lourd&nbsp;» est le dernier cran) et sans tension tracée, la progression n'est pas décidable.</div>
+          <div class="rt-tag">◆ Prise neutre — ce n'est pas un détail de confort</div>
+          <div class="rt-body">Le garde-fou mécanique sort <code>traction</code> et <code>depression-scapulaire</code> en <b>admis modifié</b>, pas en admis simple. Raison tracée&nbsp;: tag <code>coude_grip_traction</code> ← <code>grip_actif:coude_grip_charge</code> ← <code>decisions-log:obs-2026-06-02-002</code> (épicondylite active). La règle&nbsp;: <b>prise neutre, douleur ≤3/10 qui cède sous 24&nbsp;h</b>. Au-delà, tu arrêtes le bloc et tu le notes.</div>
         </div>
         <div class="retest">
-          <div class="rt-tag">◆ Prise neutre — ce n'est pas un détail de confort</div>
-          <div class="rt-body">Le garde-fou mécanique sort <code>rowing-elastique</code> et <code>depression-scapulaire</code> en <b>admis modifié</b>, pas en admis simple. Raison tracée&nbsp;: tag <code>coude_grip_traction</code> ← <code>coude_grip_charge</code> ← <code>obs-2026-06-02-002</code> (épicondylite active). La règle&nbsp;: <b>prise neutre, échelon de rééduc, douleur ≤3/10 qui cède sous 24&nbsp;h</b>. Au-delà, tu arrêtes le bloc et tu le notes.</div>
+          <div class="rt-tag">◆ Pas de négatives</div>
+          <div class="rt-body">Les tractions négatives restent <b>hors programme</b>. <code>adapt-2026-06-09-001</code> qui les interdisait est <i>resolved</i>, donc l'interdiction n'est plus portée par aucune entrée mécanique du journal — <b>c'est un défaut</b>, relevé aujourd'hui&nbsp;: le générateur du bloc les a re-proposées en candidat ce matin. La consigne tient quand même&nbsp;: la rampe se fait en <b>volume</b>, pas en intensité excentrique maximale.</div>
         </div>
       </span>
     </div>
     <div class="step">
       <span class="num">5</span>
       <span class="txt">
-        <span class="role">Bloc 3 — Hinge <span class="time">~7 min · dose de MAINTIEN</span></span>
-        <span class="detail"><b>Pont fessier unilatéral</b>&nbsp;: dos au sol, un pied posé, l'autre jambe tendue en l'air, bassin qui monte, <b>2&nbsp;s en haut</b>. Cue du dossier&nbsp;: ton <b>fessier gauche est le côté faible</b> (relevé deux fois) — fais la <b>qualité à gauche d'abord</b> et cale la droite dessus. Le côté fort qui mène, c'est ce qui te fait surcompenser à droite sur le genou et le mollet.</span>
+        <span class="role">Bloc 2 — Hinge <span class="time">~7 min · dose de MAINTIEN</span></span>
+        <span class="detail"><b>Pont fessier unilatéral</b>&nbsp;: dos au sol, un pied posé, l'autre jambe tendue en l'air, bassin qui monte, <b>1&nbsp;s en haut</b>. Cue du dossier&nbsp;: ton <b>fessier gauche est le côté faible</b> (relevé deux fois) — fais la <b>qualité à gauche d'abord</b> et cale la droite dessus. Le côté fort qui mène, c'est ce qui te fait surcompenser à droite sur le genou et le mollet.
+        C'est la dose <b>sautée le 01/09</b>, replacée ici.</span>
         <ul>
-          <li><b>Pont fessier unilatéral</b> <code>pont-unilateral</code>, 2 s en haut <span class="reps">3×10/jambe @ RIR 2</span> · repos 45 s</li>
+          <li><b>Pont fessier unilatéral</b> <code>pont-unilateral</code>, 1 s en haut <span class="reps">4×10/jambe @ RIR 2</span> · repos 45 s</li>
         </ul>
         <div class="retest">
-          <div class="rt-tag">◆ Trois séries, pas plus — et ta chaîne jambe a déjà travaillé ce matin</div>
-          <div class="rt-body">Le hinge est étiqueté <b>maintenance</b> par l'allocation&nbsp;: repère à <b>4-6 séries dures par groupe et par semaine, ≥1×/semaine, aucune surcharge</b> — pas de montée vers <code>pont-unilateral-leste</code> même si ça passe facile. Et l'anti-empilement hors-séance rappelle que ton <b>vélo de 31 min à FC moyenne 143</b> ce matin a chargé les patterns <code>squat</code> et <code>hinge</code>&nbsp;: raison de plus de rester à la dose de maintien. Ondulation aussi&nbsp;: le 26/08 c'était le RDL unilatéral, donc aujourd'hui c'est le pont.</div>
+          <div class="rt-tag">◆ Dose de maintien — pas de montée d'échelon</div>
+          <div class="rt-body">Le hinge est étiqueté <b>maintenance</b>&nbsp;: repère à <b>4-6 séries dures par groupe et par semaine, ≥1×/semaine, aucune surcharge</b> — pas de passage à <code>pont-unilateral-leste</code> même si ça passe facile. Ondulation&nbsp;: le 26/08 c'était le RDL unilatéral, donc aujourd'hui c'est le pont.</div>
         </div>
       </span>
     </div>
     <div class="step">
       <span class="num">6</span>
       <span class="txt">
-        <span class="role">Finisher — mobilité <span class="time">~2 min</span></span>
-        <span class="detail">Étirement quadriceps debout, appui sur un support, sans forcer sur le genou droit.</span>
+        <span class="role">Bloc 3 — Core <span class="time">~8 min</span></span>
+        <span class="detail"><b>Hollow hold</b>&nbsp;: bas du dos <b>plaqué au sol</b>, si le creux se forme tu plies les genoux — c'est le critère, pas la durée. <b>Gainage latéral</b>&nbsp;: hanche haute, corps aligné, pas de rotation du bassin.
+        Ondulation&nbsp;: le 01/09 c'était le Pallof press, donc pas lui aujourd'hui.</span>
         <ul>
-          <li><b>Étirement quadriceps</b> <code>quad-debout-appui</code> <span class="reps">2×30 s/côté</span></li>
+          <li><b>Hollow hold</b> <code>hollow-complet</code>, bas du dos plaqué <span class="reps">3×30 s</span> · repos 45 s</li>
+          <li><b>Gainage latéral</b> <code>lateral-complet</code>, hanche haute <span class="reps">3×30 s/côté</span> · repos 45 s</li>
+        </ul>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">7</span>
+      <span class="txt">
+        <span class="role">Finisher — dorsal sans grip <span class="time">~4 min</span></span>
+        <span class="detail"><b>Straight-arm pulldown élastique</b>&nbsp;: bras <b>tendus</b>, bande ancrée haut, tu descends par les dorsaux sans plier les coudes. Bras tendus = <b>aucune charge de grip</b>&nbsp;: ça ajoute du volume dorsal sans recharger le coude après les tractions.
+        C'est ce bloc qui fait la différence entre une séance qui te laisse sur ta faim et une séance dont tu n'as pas besoin de compléter le volume toi-même.</span>
+        <ul>
+          <li><b>Straight-arm pulldown</b> <code>pulldown-bras-tendus-leger</code>, bras tendus <span class="reps">3×15 @ RIR 2</span> · repos 45 s</li>
         </ul>
       </span>
     </div>
   </div>
 
-  <!-- Demain -->
+  <!-- Ce soir / demain -->
   <div class="decision">
-    <div class="d-tag">◆ Demain 02/09 — repos complet, et le bon jour pour trois choses</div>
+    <div class="d-tag">◆ Ce soir et demain — l'enchaînement compte</div>
     <div class="d-body">
-      C'est posé dans l'état courant, le brief de demain le lira&nbsp;: <b>aucun renfo, aucun cardio dédié</b>. Les trajets restent. Un jour de repos n'est pas un jour vide — il y a trois choses qui ne demandent aucun effort et qui débloquent la suite.
       <div class="opt">
-        <div class="opt-h">1 · Re-coter ta FC de repos, au calme</div>
-        C'est la mesure qui dira si le 62 d'aujourd'hui était un pic post-vélo ou le début de quelque chose. <b>53-55</b> → ton arbitrage était le bon. <b>62 ou plus</b> → le repos de demain n'était pas une compensation, c'était une nécessité, et on regarde plus loin.
+        <div class="opt-h">Ce soir · le feedback, puis le bloc</div>
+        Dans cet ordre. Le feedback fixe l'état de l'épaule&nbsp;; <code>compose_meso</code> tourne ensuite sur des CI à jour. Composé ce matin, le bloc regelait <b>push, squat et tirage_vertical</b> — le même gel qu'aujourd'hui. Il sortira en <code>statut: propose</code>&nbsp;: <b>tu le valides avant qu'il gouverne quoi que ce soit</b>.
       </div>
       <div class="opt">
-        <div class="opt-h">2 · Refaire le gate A2, à froid</div>
-        Rotation externe droite à vide, secteur terminal, coté honnêtement. <b>Le protocole est caduc le 04/09</b> — demain ou jeudi, sinon il faudra le reconduire. Un jour sans séance est exactement le bon contexte&nbsp;: pas d'échauffement, pas de fatigue accumulée, la mesure est propre.
+        <div class="opt-h">Vendredi 04/09 · ce qui est réservé</div>
+        <b>Tirage horizontal</b> (rowing australien — ondulation contre le rowing élastique du 01/09) et <b>push</b>. Je ne les consomme pas aujourd'hui&nbsp;: ils sont dans la fenêtre anti-empilement 48&nbsp;h, et ce sont eux qui font tenir la seconde séance.
       </div>
       <div class="opt">
-        <div class="opt-h">3 · L'accès complet au disque pour Ghostty</div>
-        Ça règle le transfert de données de façon durable&nbsp;: Google Drive est déjà monté sur ton Mac, je ne peux simplement pas y descendre. Une case à cocher dans Réglages Système, et Drive devient le canal de secours pendant que la synchro iCloud reste cassée. Ça récupère au passage les nuits du 24 au 27/08 qui manquent à la fenêtre 7 jours.
+        <div class="opt-h">−60 min · collagène, et la créatine avec si tu veux</div>
+        <b>15 g Peptan + 50 mg vit C, 60 min avant le début de la séance</b> — pas avant de partir si le trajet est long. Protocole Baar&nbsp;: sans charge mécanique dans l'heure, la prise est gaspillée, et ta séance charge précisément les tissus visés. La <b>créatine peut venir avec</b>&nbsp;: KB <code>supplements-stack-complet</code>, «&nbsp;timing insignifiant — consistance &gt;&gt;&gt;&gt; timing&nbsp;». Aucune interaction documentée. Seule réserve&nbsp;: elle se prend avec un repas, donc surveille la tolérance digestive si tu la prends à l'eau.
+      </div>
+      <div class="opt">
+        <div class="opt-h">Hors séance · la FC de repos</div>
+        <b>62 le 01/09</b> contre une baseline de <b>54,86</b>, après quatre jours à 53-53-53-50. Toujours pas re-cotée au calme. Tant qu'elle ne l'est pas, la readiness du jour n'est pas interprétable.
       </div>
     </div>
   </div>
 
   <!-- Tyler Twist -->
-  <div class="section-label">Tyler Twist — quotidien, y compris demain</div>
+  <div class="section-label">Tyler Twist — quotidien</div>
   <div class="tyler">
-    <p><b>3×15, tous les jours</b> (6-12 semaines), <b>hors circuit</b>, ~3 min. En street la FlexBar n'est pas au parc&nbsp;: <b>fais-le à la maison au retour</b>. Et <b>demain aussi</b> — c'est du correctif, pas de la charge&nbsp;: un jour de repos ne l'interrompt pas. Le substitut prescrit dans la séance (<b>excentrique des extenseurs du poignet</b>, <code>ext-leger</code>, 3×15) <b>ne le remplace pas</b>.</p>
+    <p><b>3×15, tous les jours</b> (6-12 semaines), <b>hors circuit</b>, ~3 min. En street la FlexBar n'est pas au parc&nbsp;: <b>fais-le à la maison au retour</b>. Le substitut prescrit dans la séance (<b>excentrique des extenseurs du poignet</b>, <code>ext-leger</code>, 3×15) <b>ne le remplace pas</b>.</p>
     <div class="swatches">
       <span class="sw"><span class="dot" style="background:#eab308"></span>Jaune <b>· filet</b></span>
       <span class="sw"><span class="dot" style="background:#ef4444"></span>Rouge <b>· fait</b></span>
       <span class="sw cur"><span class="dot" style="background:#10b981"></span>Vert <b>· actuel · cible</b></span>
       <span class="sw"><span class="dot" style="background:#3b82f6"></span>Bleu <b>· plus tard</b></span>
     </div>
-    <p>Épicondylite <b>toujours active</b>&nbsp;: elle borne le rowing et le scapular pull-up (prise neutre imposée). Coude à <b>0/10</b> au dernier relevé (21/08). La CI <code>coude_grip_charge</code> traîne <b>sans retest depuis 91 jours</b> (seuil 28)&nbsp;: elle fait partie du lot du cadrage.</p>
+    <p>Épicondylite <b>toujours active</b>&nbsp;: elle borne les tractions et le scapular pull-up (prise neutre imposée). Coude à <b>0/10</b> au dernier relevé (21/08). La CI <code>coude_grip_charge</code> traîne <b>sans retest depuis 93 jours</b> (seuil 28)&nbsp;: elle fait partie du lot à cadrer avec le nouveau bloc.</p>
   </div>
 
   <!-- Repères / interdits -->
@@ -332,44 +381,44 @@
     <div class="card watch">
       <h3>Ce que tu surveilles</h3>
       <ul>
-        <li><b>Ta FC de repos, ce soir ou demain matin, au calme.</b> C'est la mesure qui tranche ton arbitrage. Sans elle, la journée reste ininterprétable — exactement comme les seize précédentes.</li>
-        <li><b>L'épaule sur le scapular pull-up.</b> <b>Re-cotation due</b> depuis le 17/08, où elle était sortie à 2/10 sur ce mouvement. Cote-la séparément du rowing.</li>
-        <li><b>L'épaule en haut du rowing.</b> 2/10 le 17/08 en fin de tirage. Arrête <b>avant</b> le verrouillage&nbsp;; si c'est encore 2/10 en s'arrêtant avant, ça fait signal.</li>
+        <li><b>Le gate A2, à chaud, avant tout.</b> Secteur terminal à vide. C'est lui qui ouvre ou ferme la passe B7.</li>
+        <li><b>L'épaule sur la rotation externe — pendant ET en fin d'amplitude, séparément.</b> C'est la passe 2/2. Mêmes conditions qu'au 01/09, sinon la mesure ne vaut rien.</li>
+        <li><b>L'épaule sur le scapular pull-up.</b> Re-cotation due, non chiffrée le 01/09.</li>
         <li><b>Le genou sur le trajet — aller ET retour, séparément.</b> Passe 2/2 du retest <code>genou_impact</code>&nbsp;: une seconde passe &lt;2/10 rouvre la réévaluation de la CI.</li>
-        <li><b>Le coude sur le rowing</b> — grip prolongé, épicondylite active. Règle&nbsp;: <b>≤3/10 et ça cède sous 24&nbsp;h</b>.</li>
-        <li><b>Le TKE — couleur de bande et ancrage.</b> Troisième séance que ça manque.</li>
-        <li><b>Protéines</b> — cible <b>162,0 g</b>, <b>rien de logué</b> à l'heure où j'écris. Alerte <b>sous-alimentation</b> active (disponibilité énergétique 17,0 kcal/kg de masse maigre, seuil 25). Poids ce matin <b>79,6 kg</b>, −0,6 kg en trois jours. Une FC de repos qui monte sur un déficit soutenu, ce n'est pas une coïncidence à écarter d'office.</li>
+        <li><b>Le coude sur les tractions</b> — grip prolongé, épicondylite active. Règle&nbsp;: <b>≤3/10 et ça cède sous 24&nbsp;h</b>.</li>
+        <li><b>Le TKE — couleur de bande et ancrage.</b> Quatrième séance que ça manque.</li>
+        <li><b>Ta FC de repos, au calme.</b> 62 au dernier relevé (01/09) contre 54,86 de baseline. Deux jours sans mesure fraîche.</li>
+        <li><b>Protéines</b> — <b>51,3 g logués</b> au petit-déj sur une cible de <b>162 g</b>. Reste <b>108,7 g</b>, jour de séance. Fibres à <b>8,6 g</b> sur 30.</li>
       </ul>
     </div>
     <div class="card dont">
       <h3>Ce qu'on ne fait pas</h3>
       <ul>
-        <li><b>Ajouter du volume parce que le red est levé.</b> L'override rend la séance yellow, pas verte. Trois blocs, la modulation −30 % tient, le carry reste dehors.</li>
-        <li><b>S'entraîner demain.</b> C'est la contrepartie de ta décision, elle n'est pas décorative. Aucun renfo, aucun cardio dédié.</li>
-        <li><b>La passe B</b> (rotation externe amplitude complète). Gate à <b>4/10</b>, seuil ≤1/10. Reste dans l'arc indolore, ne pousse pas les derniers degrés «&nbsp;pour voir&nbsp;».</li>
+        <li><b>Forcer le gate dans un sens ou dans l'autre.</b> Une levée de CI construite sur une cotation complaisante coûte plus cher qu'un mois d'attente.</li>
+        <li><b>Changer l'élastique ou la position sur la rotation externe.</b> Mêmes conditions qu'au 01/09 — c'est la condition de comparabilité de la passe 2/2.</li>
+        <li><b>Les tractions négatives.</b> Rampe en volume, pas en excentrique maximal.</li>
+        <li><b>Dépasser 15 reps de tractions.</b> 12 le 27/08, 15 aujourd'hui&nbsp;: c'est la rampe. Le finisher bras tendus est là pour absorber l'envie d'en faire plus.</li>
         <li><b>Toute abduction active contre résistance</b>, y compris sous l'horizontale — <code>elevation-laterale-elastique</code> retirée d'office depuis le 27/08 (6/10).</li>
-        <li><b>Rien d'overhead</b>&nbsp;: pas de dislocations, pas de pass-through, pas de CARS complets, pas d'extension triceps overhead.</li>
-        <li><b>Hausser les épaules</b> sur le rowing ou la rotation externe. Dépression scapulaire d'abord, menton rentré.</li>
-        <li><b>Step-up, fente, wall-sit/chaise, bulgarian, cossack</b> — exclus par <code>genou_flexion_charge</code>. <b>Dips, pompes anneaux, ring dip, pike push-up, écarté, pseudo-planche, ab rollout</b> — exclus par les CI épaule.</li>
-        <li><b>Allonger le trajet ou ajouter du fractionné.</b> Le couple (course de trajet → genou droit) est un pattern confirmé de Niveau 1.</li>
+        <li><b>Rien d'overhead</b>&nbsp;: pas de dislocations, pas de pass-through, pas de CARS complets, pas d'extension triceps overhead. <code>epaule_overhead</code> n'a jamais été testée.</li>
+        <li><b>Hausser les épaules</b> sur les tractions ou la rotation externe. Dépression scapulaire d'abord, menton rentré.</li>
+        <li><b>Step-up, fente, wall-sit/chaise, bulgarian, cossack</b> — exclus par <code>genou_flexion_charge</code>. <b>Dips, pompes anneaux, pike push-up, écarté, pseudo-planche, ab rollout</b> — exclus par les CI épaule.</li>
         <li><b>Monter d'échelon sur le pont fessier</b> même si ça passe facile. Le hinge est en <b>maintenance</b>.</li>
+        <li><b>Ajouter du push ou du tirage horizontal.</b> Ils sont réservés pour demain.</li>
       </ul>
     </div>
   </div>
 
   <p class="footnote">
-    <b>Décision du jour</b> — <b>OVERRIDE UTILISATEUR</b> du verdict red (<code>override-2026-09-01-001</code>, statut <code>overridden</code>). Verbatim&nbsp;: «&nbsp;reste en yellow, demain repos&nbsp;». Séance yellow maintenue (3 blocs + correctif Tier 1, ~40 min), <b>repos complet le 2026-09-02</b> en contrepartie, écrit dans <code>etat-courant.sport.prochaine_seance</code>. Le blocage de re-proposition (FR-082) ne couvre <b>que le 01/09</b>&nbsp;: un red sur une autre journée se traite normalement.<br>
-    <b>Le verdict, non effacé</b> — <code>classify_gyr</code> alimenté avec les valeurs du jour rend <b>RED</b>&nbsp;: FC repos <b>62,0</b> vs baseline <b>54,86</b> → <b>+7,14 bpm</b>, au-dessus du seuil (+5). SDNN <b>72,63</b> → écart Ln 0,346 pour une SWC de 0,112, au-dessus mais <b>vers le haut</b> → cas «&nbsp;HRV paradoxal / saturation parasympathique&nbsp;», classé Yellow/Red. Nuits &lt;6&nbsp;h sur 7 j&nbsp;: <b>2</b> → ne déclenche pas le rouge. <b>Le red était porté par la FC de repos seule.</b> Série&nbsp;: 54 (16/08), 53, 53, 53, 50 (31/08), puis <b>62</b>. Réserves&nbsp;: <code>fc_repos</code> count <b>1</b>&nbsp;; <code>hrv_sdnn</code> count 5, min 39,83, max 171,37 (lectures diurnes)&nbsp;; mesures postérieures au vélo de 31 min à FC moy 143. <code>etat-courant.readiness</code> reste <b>yellow</b> (il porte sur le 31/08, dernière journée complète).<br>
-    <b>Modulation yellow appliquée</b> — −30 % de volume&nbsp;: budget normal 50 min ≈ 5 blocs → <b>3 blocs de travail</b> + correctif Tier 1 complet (jamais raboté). <b>Retiré</b>&nbsp;: le bloc <b>carry</b> (Tier 2, hors allocation). Durée ~40 min.<br>
-    <b>Nuits récupérées ce matin</b> — 7,19&nbsp;h (28/08) · 5,95&nbsp;h (29) · 7,50&nbsp;h (30) · 5,84&nbsp;h (31) · <b>6,43&nbsp;h (01/09, deep 37,9 min, REM 118,3 min, coucher 00:38)</b>. Manquent le 24 au 27/08 (sur Drive)&nbsp;: la fenêtre 7 j porte sur 5 nuits.<br>
-    <b>État</b> — Épaule D <b>6/10</b>, tendance hausse (27/08, sur abduction active contre résistance uniquement — 0/10 le même jour sur 12 tractions amplitude complète)&nbsp;; genou D <b>0/10</b> (27/08)&nbsp;; coude D <b>0/10</b> (21/08)&nbsp;; mollet D 0/10 (25/07). Poids <b>79,615 kg</b> (Withings 05:20), MG 19,57 %, masse musculaire 60,83 kg.<br>
-    <b>Charge — CORRIGÉE À 12h30</b> — ingestion des workouts Apple manquants (21, 26, 27, 30, 31/08) via le canal Drive : 12 deltas <code>type: workout</code>, dédup OK sur le 21/08 et sur les vélos Garmin du 27/08. Récupéré : <b>tennis 30/08 (41,0 min, FC moy 110,7, sRPE 164)</b>, <b>tennis 31/08 (31,0 min, FC moy 118,3, sRPE 124)</b>, 26/08 deux vélos + deux courses, 27/08 deux courses. <b>Aigu 7 j 871 → 1 819</b>, <b>ACWR 0,71 → 1,17</b>, zone <b>sous-charge → optimal</b>, CTL <b>129,9 → 165,6</b>. Projection après cette séance : ACWR <b>1,32-1,36</b> (zone danger, seuil 1,30) ; après le repos du 02/09 : <b>0,85</b>. Trace : <code>delta-2026-09-01T12-30-006</code>. Anti-empilement hors-séance&nbsp;: <code>patterns_charges_hors_seance(['velo'])</code> = <b>{squat, hinge}</b> → hinge maintenu à dose de maintien, séquencé loin des correctifs genou/mollet.<br>
-    <b>Gate A2</b> — <b>NON rouvert.</b> Dernière exécution le <b>26/08</b>&nbsp;: RE droite à vide, secteur terminal, <b>4/10</b>, arrêt volontaire, fin de course antalgique, déficit <b>≥10°</b> vs gauche → échec. La réponse «&nbsp;indolore&nbsp;» du 01/09 portait sur l'<b>arc de travail</b>, pas sur le secteur terminal (erreur de formulation de ma question, corrigée dans <code>delta-2026-09-01T09-21-002</code>). Protocole <code>obs-2026-08-21-002</code> <b>caduc le 04/09</b>.<br>
-    <b>Plan</b> — <code>bloc-2026-07-15</code> échu depuis le <b>12/08</b> mais <code>statut: actif</code>. Allocation appliquée telle quelle&nbsp;: <code>tirage_horizontal</code> focus, <code>hinge</code> maintenance, <code>push</code>/<code>squat</code>/<code>tirage_vertical</code> <b>gel</b> → aucune traction, malgré la promotion à <code>traction-complete</code> le 27/08. <b>Aucun arbitrage contre le plan</b>, contrairement aux 26 et 27/08.<br>
-    <b>Garde-fou g.1</b> — <code>verdict_exercice_trace</code> sur tous les retenus. <b>Admis modifié</b>&nbsp;: <code>rowing-elastique</code>, <code>depression-scapulaire</code> — tag <code>coude_grip_traction</code> ← <code>grip_actif:coude_grip_charge</code> ← <code>decisions-log:obs-2026-06-02-002</code> → prise neutre, ≤3/10 cédant &lt;24&nbsp;h. <b>Retiré d'office</b>&nbsp;: <code>elevation-laterale-elastique</code>. <b>CI actives</b>&nbsp;: <code>epaule_droite</code>, <code>epaule_fin_amplitude</code>, <code>epaule_overhead</code>, <code>coude_grip_charge</code>, <code>genou_flexion_charge</code>, <code>genou_impact</code>.<br>
-    <b>Chaîne de données</b> — <b>Réparé ce matin</b>&nbsp;: l'export Health Auto Export (42 métriques / agrégation minute / 33 Mo par jour → 0,3-0,8 Mo, upload débloqué par le Wi-Fi) et un <b>défaut de code</b> — le nouveau réglage produit <code>sleep_analysis</code> au format <b>agrégé</b> et <code>_parse_sleep</code> ne connaissait que le format <b>par stade</b> → zéro delta sommeil, en silence&nbsp;; corrigé par <code>_parse_sleep_agrege</code> en TDD, 59/59 sur <code>test_apple_health</code>. <b>Non réparé</b>&nbsp;: la synchro iCloud du conteneur HealthExport (<code>last-sync</code> figé au <b>23/08 14:28</b>), et l'accès au Drive monté localement (<code>Operation not permitted</code> — Ghostty n'a pas l'accès complet au disque). <b>Défauts ouverts</b>&nbsp;: la readiness n'horodate pas sa «&nbsp;mesure du jour&nbsp;»&nbsp;; un import à zéro signal est rapporté en «&nbsp;succès&nbsp;»&nbsp;; <code>bloc_est_actif</code> ne contrôle pas <code>date_fin</code>.<br>
-    <b>Source</b> — module corps-forme, moteur déterministe (<code>methode-seances.md</code>). Deltas du jour&nbsp;: <code>…09-20-001</code> (brief) · <code>…09-21-002</code> (correction gate A2) · <code>…10-54-003</code> (red périmé → yellow) · <code>…11-03-004</code> (yellow → red sur la FC de repos) · <code>…11-33-005</code> (override utilisateur → yellow + repos demain). Journal&nbsp;: <code>override-2026-09-01-001</code>. Artefact&nbsp;: <code>seance-du-jour.yaml</code>.<br>
-    Page statique — <b>mardi 01/09, midi, au parc</b>, ~40 min. <b>Demain 02/09 : repos complet.</b> La suite se génère au feedback, dans Jarvis (<b>/corps-forme</b>).
+    <b>Readiness — NON CLASSIFIABLE ce matin.</b> <code>etat-courant.readiness</code> affiche <b>red</b>, mais sur des données du <b>01/09</b>&nbsp;: aucun import wearable depuis. Le verdict est porté par la <b>FC de repos à 62</b> vs baseline <b>54,86</b> (+7,14, seuil +5), mesurée il y a deux jours, après un vélo de 31 min à FC moy 143. Contributeurs&nbsp;: «&nbsp;cœur objectif&nbsp;: red&nbsp;» + «&nbsp;<b>ressenti non saisi</b> (mode dégradé, FR-858)&nbsp;», drapeau <code>ressenti_manquant</code>. <b>La séance est calibrée Green/Yellow.</b> Repli Red si reclassement rouge sur mesure fraîche&nbsp;: garder échauffement + gate A2 + les trois correctifs + scapular pull-up, retirer tractions, hinge, core et finisher — la passe B7 reste faisable, c'est du correctif sous-maximal, pas une série de travail. <b>Import relancé ce matin à 08:06</b> (<code>scripts.wearables</code>, code de sortie 0)&nbsp;: les fichiers du 02/09 ont bien été téléchargés et archivés, mais le seul delta <code>source: wearable</code> produit pour le 02/09 porte <b>zéro signal</b> — ni FC de repos, ni HRV, ni sommeil pour la nuit du 02 au 03. <b>Deux défauts ouverts, confirmés à l'instant</b>&nbsp;: un import à zéro signal est rapporté en <b>succès</b>, et la readiness n'horodate pas sa mesure du jour ni ne signale qu'elle est périmée — elle affiche <b>red</b> sans dire qu'elle parle d'avant-hier.<br>
+    <b>Charge</b> — CTL <b>194,1</b>, ACWR <b>0,46</b>, zone <b>sous-charge</b>, <code>donnees_suffisantes: true</code>, <code>ctl_floor_atteint: true</code> (plancher 45). Sous-charge ⇒ progression possible (borne masters &gt;40&nbsp;: +30&nbsp;%/semaine max). C'est ce qui autorise le volume d'aujourd'hui — sept blocs, ~50 min, contre trois blocs et ~40 min le 01/09. Aucun exercice à impact au programme malgré le plancher CTL atteint&nbsp;: <code>genou_impact</code> reste active.<br>
+    <b>Volume — D9 appliqué</b>&nbsp;: «&nbsp;dimensionner le volume pour que François n'ait pas besoin d'ajouter — le budget temps n'est pas la contrainte, la tolérance tissulaire l'est&nbsp;». Trois séances consécutives (02, 05 et 17/08) avaient porté un ajout hors prescription. Durée ~50 min supposée, non demandée&nbsp;: dis-le si c'est trop ou trop peu.<br>
+    <b>Plan</b> — <code>bloc-2026-07-15</code> échu depuis le <b>12/08</b>, <code>statut: actif</code>. <b>Allocation NON appliquée sur <code>tirage_vertical</code></b> (arbitrage D9, tracé)&nbsp;; <code>hinge</code> maintenance appliqué. Bloc <code>bloc-2026-09-03</code> composé ce matin en <code>statut: propose</code> — <b>non écrit</b> dans <code>data/tracking/</code>, à recomposer ce soir après feedback. <b>Défaut relevé</b>&nbsp;: <code>compose_meso</code> a re-proposé <code>traction-negative</code> en candidat, alors que la consigne «&nbsp;négatives non réintroduites&nbsp;» ne vit plus que dans le texte d'une alerte — plus aucune entrée <code>decisions-log</code> avec <code>exercices_interdits</code> ne la porte depuis la résolution d'<code>adapt-2026-06-09-001</code>. Une interdiction qui tient debout ne devrait pas être invisible au générateur.<br>
+    <b>Garde-fou g.1</b> — <code>verdict_exercice_trace</code> sur tous les retenus. <b>Admis modifié</b>&nbsp;: <code>traction</code>, <code>depression-scapulaire</code> — tag <code>coude_grip_traction</code> ← <code>grip_actif:coude_grip_charge</code> ← <code>decisions-log:obs-2026-06-02-002</code> → prise neutre, ≤3/10 cédant &lt;24&nbsp;h. <b>Retiré d'office</b>&nbsp;: <code>elevation-laterale-elastique</code> (<code>adapt-2026-08-27-001</code>, <code>exercices_interdits</code>). <b>CI actives</b>&nbsp;: <code>epaule_droite</code>, <code>epaule_fin_amplitude</code>, <code>epaule_overhead</code>, <code>coude_grip_charge</code>, <code>genou_flexion_charge</code>, <code>genou_impact</code>. Anti-empilement 48&nbsp;h&nbsp;: aucun pattern chargé (repos le 02/09).<br>
+    <b>État</b> — Épaule D <b>6/10</b> (27/08, sur <b>abduction active contre résistance uniquement</b> — 0/10 le même jour sur 12 tractions amplitude complète)&nbsp;; genou D <b>0/10</b> (27/08)&nbsp;; coude D <b>0/10</b> (21/08)&nbsp;; mollet D 0/10 (25/07). Écho du 19/08&nbsp;: <b>coiffe normale sur les 4 tendons</b>, bursite sous-acromio-deltoïdienne minime. Poids <b>79,615 kg</b> (01/09), MG 19,57&nbsp;%, masse musculaire 60,83 kg. Sommeil&nbsp;: 6,7&nbsp;h de moyenne sur 2 semaines, 3 nuits &lt;6&nbsp;h sur 14, profond 10&nbsp;%.<br>
+    <b>Nutrition</b> — Petit-déj <b>436 kcal · 51,3 g prot · 38,4 g gluc · 6,5 g lip · 248 mg Ca · 8,6 g fibres</b>. Reste <b>1 667 kcal · 108,7 g prot · 145 g gluc · 74 g lip · 752 mg Ca · 21,4 g fibres</b>. Correction appliquée&nbsp;: <code>delta-2026-09-03T07-59-001</code> corrige <code>delta-2026-09-03T07-45-001</code> (original intact) — deux des trois items étaient des estimations LLM, étiquettes rephotographiées et base corrigée. <b>Restent non vérifiés</b>&nbsp;: les 80 g de muesli (estimation vision, non pesée — chaque 10 g pèse 4 g de protéines) et la marque du skyr (Yoplait 0&nbsp;% pris par défaut).<br>
+    <b>L'alerte sous-alimentation d'hier était sans valeur</b> — construite sur les trois derniers jours <i>loggés</i>&nbsp;: 05/08 (2 452 kcal), 06/08 (859), 11/08 (349), le plus récent vieux de trois semaines et les deux derniers partiels. Le script saute correctement les jours non loggés&nbsp;; il ne distingue pas un jour complet d'un jour à moitié photographié. <b>Aucune conséquence sur le volume.</b><br>
+    <b>Source</b> — module corps-forme, moteur déterministe (<code>methode-seances.md</code>), 7 étapes a→g. Deltas&nbsp;: <code>delta-2026-09-02T19-32-002</code> (repos complet du 02/09) · <code>delta-2026-09-03T07-45-001</code> (petit-déj) · <code>delta-2026-09-03T07-59-001</code> (correction). Artefact&nbsp;: <code>seance-du-jour.yaml</code> (date 2026-09-03, 11 exercices). Protocole&nbsp;: <code>obs-2026-08-21-002</code>, <b>caduc le 04/09</b>.<br>
+    Page statique — <b>jeudi 03/09, au parc</b>, ~50 min. <b>Vendredi 04/09&nbsp;: seconde séance, tirage horizontal + push.</b> La suite se génère au feedback, dans Jarvis (<b>/corps-forme</b>).
   </p>
 </main>
 

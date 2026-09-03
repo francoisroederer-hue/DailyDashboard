@@ -1,181 +1,203 @@
 {
-  "generated_at": "2026-09-02T05:30:00Z",
+  "generated_at": "2026-09-03T05:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Iran-USA: combats repris",
-      "title": "Washington et Teheran reprennent les combats directs pres d'Ormuz",
-      "summary": "Apres un mois d'accalmie, l'armee americaine a frappe lundi deux lance-roquettes iraniens sur l'ile de Larak, dans le detroit d'Ormuz, en reponse a des attaques contre des navires commerciaux et des forces americaines. L'Iran a riposte en visant des bases americaines en Jordanie et aux Emirats arabes unis, tandis que Donald Trump menaçait publiquement de detruire le terminal petrolier iranien de Kharg Island.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest"
+      "short_title": "Frappe US sur un mariage",
+      "title": "Une frappe americaine tue des civils lors d'un mariage en Iran",
+      "summary": "Une frappe americaine visant des sites militaires pres du detroit d'Ormuz a touche par erreur une maison ou se tenait un mariage a Kuhestak, tuant quatre civils dont deux enfants et blessant une soixantaine de personnes selon les autorites iraniennes. L'incident survient apres plusieurs semaines d'accalmie relative dans la guerre Iran-Etats-Unis, qui dure depuis six mois. Il relance immediatement le risque d'escalade dans une region deja sous tension militaire.",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/politics/2026/09/02/iran-retaliates-against-gulf-state-countries-after-claiming-united-states-military-strikes-hit-a-wedding/"
     },
     {
       "id": "n02",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Drones: Golfe s'embrase",
-      "title": "Le Koweit et Bahrein signalent des attaques de drones iraniens",
-      "summary": "Au lendemain de la frappe iranienne contre une base americaine en Jordanie, le Koweit et Bahrein ont rapporte lundi 1er septembre avoir ete la cible de drones en provenance d'Iran. L'escalade s'etend ainsi au-dela du seul detroit d'Ormuz vers l'ensemble des monarchies du Golfe, qui hebergent des installations militaires americaines.",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-september-1-2026/"
+      "importance": 3,
+      "short_title": "Iran riposte au Golfe",
+      "title": "Teheran riposte contre les allies du Golfe des Etats-Unis",
+      "summary": "En represailles a la frappe meurtriere sur le mariage, l'Iran a lance des drones et projectiles contre des cibles au Koweit et a Bahrein, provoquant un incendie a Koweit City tandis que Manama interceptait plusieurs engins. Cette riposte marque la reprise ouverte des hostilites apres un mois de calme relatif et etend le conflit a des pays du Golfe jusque-la epargnes par des frappes directes. Les autorites koweitiennes n'ont signale aucune victime dans l'immediat.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/iran-fires-on-its-gulf-neighbors-retaliating-for-u-s-strikes-after-a-wedding-was-hit"
     },
     {
       "id": "n03",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Petrole: WTI +5,2%",
-      "title": "Le brut bondit avec l'effondrement des espoirs de reouverture d'Ormuz",
-      "summary": "Le WTI a grimpe de 5,2% lundi pour cloturer a 90,22 dollars le baril, et le Brent de 4,6% a 94,65 dollars, apres que les frappes americaines sur Larak Island ont enterre les perspectives d'une reouverture negociee du detroit d'Ormuz. Des greves visant des raffineries russes tendent en parallele les marges de produits raffines, et un petrolier a pris feu apres avoir heurte des mines navales dans le detroit.",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-stocks-slide-and-oil-surges-amid-u-s-iran-tension/"
+      "theme": "geopol",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "Iran mine les midterms",
+      "title": "La guerre en Iran fragilise le camp Trump avant les midterms",
+      "summary": "L'enlisement du conflit avec l'Iran et son cout economique croissant, entre inflation et prix de l'energie, pesent sur la popularite de Donald Trump a deux mois des elections de mi-mandat. Une partie de la base MAGA, traditionnellement anti-interventionniste, se dit decue par la poursuite des frappes, ce qui fragilise la cohesion du camp republicain. Les democrates, deja bien places pour reprendre la Chambre des representants, pourraient beneficier de ce ressentiment.",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/campaign/5989245-trump-iran-war-midterm-turnout/"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "macro",
-      "importance": 2,
-      "short_title": "Wall Street recule",
-      "title": "Wall Street recule et les rendements grimpent a un plus haut de 20 mois",
-      "summary": "Le S&P 500 a cede 0,71% lundi, le Dow Jones 419 points (-0,79%) et le Nasdaq 1,03%, tandis que le rendement du Treasury a 10 ans touchait 4,788%, son plus haut niveau depuis pres de deux ans. Le marche bascule brutalement de la saison des resultats, plutot bonne en aout, vers l'inquietude sur le petrole, l'inflation et les taux.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-1-135016820.html"
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent proche de 95$",
+      "title": "Le Brent grimpe pres de 95 dollars apres les nouvelles frappes",
+      "summary": "Le baril de Brent a bondi d'environ 5% pour approcher 95 dollars, son plus haut niveau en pres de six semaines, apres la reprise des frappes americaines et la riposte iranienne autour du detroit d'Ormuz. Le WTI americain a lui aussi franchi les 90 dollars. Le marche redoute une nouvelle escalade susceptible de perturber durablement les exportations petrolieres et gazieres de la region, par laquelle transite environ un cinquieme du brut mondial.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html"
     },
     {
       "id": "n05",
       "theme": "finance",
       "subtopic": "macro",
-      "importance": 3,
-      "short_title": "Fed: hausse taux a 66%",
-      "title": "Les probabilites d'une hausse de taux de la Fed en septembre grimpent a 66%",
-      "summary": "Selon le CME FedWatch, la probabilite d'un relevement du taux directeur lors de la reunion des 15-16 septembre est passee a environ 66%, contre un peu plus de 50% avant le discours hawkish de Kevin Warsh a Jackson Hole. Trois des douze membres votants du FOMC plaidaient deja pour une hausse immediate lors du dernier vote, et il ne manquerait que quatre voix supplementaires pour basculer la majorite.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html"
+      "importance": 2,
+      "short_title": "Wall Street rebondit",
+      "title": "Wall Street se stabilise malgre les tensions Iran-Etats-Unis",
+      "summary": "Apres un debut de semaine chahute par la flambee du petrole et la remontee des taux obligataires, les indices americains, S&P 500 en tete, ont rebondi le 2 septembre a mesure que le rally petrolier marquait une pause. Les investisseurs continuent neanmoins de surveiller de pres l'evolution du conflit au Moyen-Orient, qui reste la principale source d'incertitude macroeconomique de la rentree.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-134032621.html"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "PMI France repasse a 51,1",
-      "title": "Le PMI manufacturier francais repasse en zone d'expansion en aout",
-      "summary": "L'indice PMI manufacturier S&P Global remonte a 51,1 en aout contre 49,8 en juillet, signalant un retour timide de la croissance dans l'industrie francaise, legerement en dessous du consensus de 51,5. La production progresse tres legerement pour la premiere fois depuis avril, mais les nouvelles commandes restent en contraction pour le quatrieme mois consecutif, ce qui rend la reprise fragile.",
-      "source": "Bourse Direct",
-      "url": "https://www.boursedirect.fr/fr/actualites/categorie/analyse-de-la-tendance-des-marches/france-le-secteur-manufacturier-renoue-avec-la-croissance-en-aout-pmi-zone-bourse-ef13113cb9d53ab5abc6ae106f407707108b5dad"
+      "subtopic": "macro",
+      "importance": 3,
+      "short_title": "Fed penche vers un hike",
+      "title": "La Fed se rapproche d'une hausse de taux face au choc petrolier",
+      "summary": "Les paris des marches sur une hausse de 25 points de base lors de la reunion du FOMC des 15 et 16 septembre ont nettement augmente, alimentes par les avertissements du president de la Fed Kevin Warsh sur une inflation qui ne ralentit pas assez vite. La flambee du brut liee a la guerre Iran-Golfe complique l'arbitrage de la banque centrale entre soutien a l'activite et lutte contre des pressions sur les prix importees par l'energie.",
+      "source": "Marketplace",
+      "url": "https://www.marketplace.org/story/2026/08/31/will-the-fed-raise-rates-at-september-fomc-meeting"
     },
     {
       "id": "n07",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic cible l'IPO",
-      "title": "Anthropic fixe une fenetre d'introduction en bourse a l'automne",
-      "summary": "Anthropic viserait une IPO des septembre ou octobre 2026, avec Morgan Stanley, Goldman Sachs et JPMorgan a la manoeuvre, et Citigroup recemment ajoute a la liste des banques conseils. L'operation, qui pourrait valoriser l'entreprise autour de 1 000 milliards de dollars voire davantage, ferait d'Anthropic la plus grande entree en bourse jamais realisee par un pur acteur de l'IA, devancant une eventuelle IPO d'OpenAI.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-fall-ipo-eyeing-185032639.html"
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "BCE releve ses taux",
+      "title": "La BCE a deja releve ses taux face a une inflation au plus haut",
+      "summary": "En juin, la BCE a releve son taux de refinancement a 2,40% et son taux de depot a 2,25%, une premiere hausse depuis trois ans, apres que l'inflation en zone euro a atteint 3,2% en mai, son plus haut niveau depuis 2023. La guerre au Moyen-Orient et ses repercussions sur les prix de l'energie figurent parmi les facteurs cites par l'institution pour justifier ce resserrement anticipe.",
+      "source": "Touteleurope.eu",
+      "url": "https://www.touteleurope.eu/economie-et-social/la-bce-augmente-ses-principaux-taux-directeurs-une-premiere-depuis-trois-ans/"
     },
     {
       "id": "n08",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Pentagone: ChatGPT Mil",
-      "title": "Le Pentagone deploie ChatGPT Mil sur sa plateforme GenAI.mil",
-      "summary": "Le Departement de la Guerre americain a mis en service lundi ChatGPT Mil sur GenAI.mil, sa plateforme d'IA securisee utilisee par environ 3 millions de personnels civils et militaires, aux cotes de Gemini et de Grok. L'outil, accredite pour traiter des informations sensibles non classifiees, aide a la redaction de documents de politique, de logistique et d'approvisionnement, avec les donnees isolees des modeles commerciaux grand public d'OpenAI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 2,
+      "short_title": "Assurance flambe a Ormuz",
+      "title": "Les primes d'assurance guerre explosent pour les tankers a Ormuz",
+      "summary": "Le cout de l'assurance risque de guerre pour les petroliers transitant par le detroit d'Ormuz a grimpe jusqu'a 10% de la valeur de la coque, contre 0,25% avant le debut du conflit, soit plusieurs millions de dollars supplementaires par traversee pour un navire de taille standard. Cette hausse renchérit directement le cout du transport petrolier et se repercute in fine sur les prix a la pompe et l'inflation importee.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/2026/07/17/war-risk-shipping-premium-surges-again-as-tensions-escalate-at-strait-of-hormuz/"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI DevDay 29 sept",
-      "title": "OpenAI annonce son DevDay 2026 pour le 29 septembre a San Francisco",
-      "summary": "OpenAI a confirme la tenue de son DevDay annuel le 29 septembre a San Francisco, decrit comme le plus grand evenement de l'annee pour l'entreprise. L'annonce arrive alors que ChatGPT franchit le milliard de dollars de revenu publicitaire annualise et etend ses acces a de nouvelles donnees publiques de sante pour les cliniciens americains.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/devday-2026/"
+      "importance": 3,
+      "short_title": "Astra franchit un seuil",
+      "title": "OpenAI annonce qu'Astra franchit le seuil cyber critique",
+      "summary": "OpenAI indique que son futur modele Astra est le premier a depasser le seuil critique de son Preparedness Framework en cybersecurite, avec un score parfait sur ExploitBench et la decouverte autonome de deux vulnerabilites zero-day inedites lors de tests. Face a ce niveau de capacite, l'entreprise retarde certains developpements et reserve dans un premier temps l'acces avance a un groupe restreint de testeurs via un programme defensif nomme Daybreak Blue.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor lance Origin",
-      "title": "Cursor lance Origin, une plateforme d'hebergement de code pour agents IA",
-      "summary": "L'editeur de l'IDE Cursor a devoile Origin, une plateforme concurrente de GitHub qui integre nativement depots, pull requests, revues et connexions CI, pensee des le depart pour des agents de code autonomes plutot que pour des developpeurs humains. Le lancement marque une extension strategique de Cursor au-dela de l'editeur, vers l'ensemble de la chaine de developpement.",
-      "source": "Tech Startups",
-      "url": "https://techstartups.com/2026/08/17/cursor-launches-origin-a-github-rival-built-for-ai-coding-agents/"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Fable 5.1 lance",
+      "title": "Anthropic lance Claude Fable 5.1 et Mythos 5.1",
+      "summary": "Anthropic a devoile le 1er septembre Claude Fable 5.1, disponible publiquement, et Claude Mythos 5.1, reserve a des acces de confiance pour la cybersecurite et les sciences du vivant. Les deux modeles partagent un contexte d'un million de tokens, jusqu'a 128 000 tokens de sortie, un ajustement de l'effort en cours de conversation, et un cout reduit jusqu'a 45% sur les charges fortement agentiques grace a une baisse du prix de lecture du cache.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
     },
     {
       "id": "n11",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "Meta Connect: 23-24/09",
-      "title": "Meta annonce Meta Connect les 23 et 24 septembre",
-      "summary": "Meta a confirme les dates de sa conference annuelle Meta Connect, les 23 et 24 septembre, ou Mark Zuckerberg doit presenter les avancees du groupe en IA, lunettes connectees et realite virtuelle. L'evenement s'inscrit dans un plan d'investissement massif, avec jusqu'a 135 milliards de dollars de depenses d'infrastructure prevues pour 2026.",
-      "source": "Meta",
-      "url": "https://www.meta.com/connect/"
+      "importance": 2,
+      "short_title": "DeepMind eval aveugle",
+      "title": "DeepMind pilote une evaluation en double aveugle de ses modeles",
+      "summary": "Google DeepMind experimente, avec le Singapore AI Safety Institute et le consortium MLCommons, une methode d'evaluation cryptographiquement protegee ou l'evaluateur ne voit jamais les poids du modele et l'entreprise ne voit jamais les prompts de test a l'avance. L'objectif est de reduire le risque de contamination des benchmarks tout en preservant la confidentialite des deux parties, un probleme recurrent dans l'evaluation independante des modeles frontier.",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
     },
     {
       "id": "n12",
-      "theme": "sciences",
-      "subtopic": "mathematiques",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Percolation: preuve",
-      "title": "Des mathematiciens resolvent une enigme vieille de plusieurs decennies sur la percolation",
-      "summary": "Une equipe emmenee par Sahar Diskin, Philip Easo et Vincent Tassion a demontre qu'une large classe de reseaux aleatoires change abruptement de comportement au passage d'un seuil critique, resolvant un probleme ouvert de longue date en theorie de la percolation. Cette theorie, qui modelise la propagation dans des reseaux, trouve des applications allant des materiaux poreux aux reseaux de communication.",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/"
+      "short_title": "Mistral: recherche IA",
+      "title": "Mistral etend OCR 4 et lance un outil de recherche pour agents",
+      "summary": "Mistral met en avant les performances de son modele OCR 4, qui devance les systemes concurrents sur le benchmark OlmOCRBench, desormais integre a son nouveau Search Toolkit, une couche de recherche documentaire open-source et composable pour agents presentee lors de son AI Now Summit. L'entreprise poursuit en parallele l'ouverture d'un site d'inference dedie en region parisienne, dans une logique de souverainete face aux hyperscalers americains.",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/ai-now-summit-2026/"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Muscu: le bon dosage",
-      "title": "Une etude sur 30 ans precise le dosage ideal de musculation pour vivre plus longtemps",
-      "summary": "En analysant les donnees de 147 374 participants sur pres de 30 ans, des chercheurs publiant dans le British Journal of Sports Medicine montrent que 90 a 120 minutes de renforcement musculaire par semaine reduisent le risque de deces precoce d'environ 13%, avec des baisses marquees pour les maladies cardiovasculaires et neurologiques. Combiner musculation et exercice aerobie regulier fait grimper la reduction du risque de mortalite a environ 45%.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234959.htm"
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 1,
+      "short_title": "Figma: agents generatifs",
+      "title": "Figma etend les capacites generatives de son agent de design",
+      "summary": "Figma permet desormais de creer des plugins et des shaders generatifs personnalises directement en dialoguant avec son agent, avec prise en charge des animations, des interactions et de la publication sur la Figma Community. L'entreprise ajoute egalement une bibliotheque de competences partageables pour l'agent et une gestion centralisee des connexions IA pour les organisations, signe d'une integration plus profonde de l'IA generative dans le flux de travail design.",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/config-2026-recap/"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "Canicule: 7300 morts",
-      "title": "L'ete 2026 aura coute pres de 7300 vies et fragilise le systeme energetique francais",
-      "summary": "Le bilan de l'ete 2026 en France fait etat de plus de 7300 deces en exces lies aux vagues de chaleur, d'un record de secheresse des sols depuis le debut des mesures et d'un cout economique estime jusqu'a 15 milliards d'euros par la ministre de la Transition ecologique. La centrale nucleaire de Golfech est restee a l'arret complet depuis le 22 juin faute d'eau de refroidissement suffisante, illustrant la vulnerabilite du parc energetique francais a la chaleur.",
-      "source": "Selectra",
-      "url": "https://selectra.info/energie/actualites/marche/canicules-ete-2026-bilan-deces-records-secheresse"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Rapamycine chez le chien",
+      "title": "L'essai TRIAD sur la rapamycine et les chiens progresse",
+      "summary": "Le Dog Aging Project a obtenu une subvention de 7 millions de dollars du NIH pour poursuivre TRIAD, l'essai clinique testant si la rapamycine, un immunosuppresseur utilise en greffe d'organe, prolonge la duree de vie de chiens de compagnie. Plus de 50 000 chiens sont deja inscrits dans le programme, et des travaux preliminaires suggerent deja une amelioration de la fonction cardiaque a faible dose. Les resultats sur la longevite, tres attendus par la communaute de recherche sur le vieillissement humain, ne sont pas encore publies.",
+      "source": "American Veterinary Medical Association",
+      "url": "https://www.avma.org/news/7m-grant-rescues-dog-study-investigating-rapamycin-canine-aging"
     },
     {
       "id": "n15",
-      "theme": "learn",
+      "theme": "climat",
       "subtopic": "france",
       "importance": 2,
-      "short_title": "Rentree: IA au college",
-      "title": "La rentree 2026 generalise des options IA au college et au lycee",
-      "summary": "Pour la rentree 2026, l'Education nationale lance des options dediees a l'intelligence artificielle au college et au lycee et rend obligatoire un module d'education financiere en classe de 4e. La circulaire de rentree insiste sur un usage raisonne de l'IA, presentee comme une aide a l'apprentissage qui ne doit pas se substituer a la maitrise du langage et du raisonnement autonome des eleves.",
-      "source": "CarnetdeBord",
-      "url": "https://www.carnetdebord.info/1er-septembre-2026-ia-au-college-education-financiere-en-4e-ce-que-cette-rentree-scolaire-change-pour-les-familles/"
+      "short_title": "Rentree energie tendue",
+      "title": "La rentree relance le debat energie-climat en France",
+      "summary": "L'ete 2026, marque par des canicules, des feux de foret et des tensions sur l'approvisionnement energetique, a mis en evidence les arbitrages difficiles entre nucleaire, adaptation climatique et prevention des risques. La rentree s'ouvre ainsi sur de forts enjeux pour la transition energetique francaise, dans un contexte deja tendu par la remontee des prix mondiaux du petrole liee a la guerre en Iran.",
+      "source": "GreenUnivers",
+      "url": "https://www.greenunivers.com/2026/09/les-grands-sujets-de-la-rentree-dans-la-transition-energetique-431982/"
     },
     {
       "id": "n16",
-      "theme": "geopol",
-      "subtopic": "usa",
+      "theme": "sciences",
+      "subtopic": "himalaya",
+      "importance": 3,
+      "short_title": "Glacier: 1000 morts Nepal",
+      "title": "Effondrement glaciaire meurtrier au Nepal: des signes avant-coureurs identifies",
+      "summary": "Des images satellite ont revele que la masse rocheuse et glaciaire du Langtang, pres de la frontiere sino-nepalaise, accelerait son mouvement plusieurs semaines avant de s'effondrer le 26 aout, declenchant une crue eclair qui a fait plus de 1000 morts et plusieurs milliers de disparus. Des chercheurs pointent le rechauffement du sol et la fonte accrue, qui auraient fragilise la cohesion entre glace et roche. Ce signal precurseur pourrait ameliorer les systemes d'alerte precoce dans l'Himalaya, ou ce type d'evenement devient plus frequent avec le changement climatique.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02716-w"
+    },
+    {
+      "id": "n17",
+      "theme": "sciences",
+      "subtopic": "robotique",
       "importance": 1,
-      "short_title": "Primaire Massachusetts",
-      "title": "Le Massachusetts ouvre la saison des primaires avant les midterms 2026",
-      "summary": "La primaire du Massachusetts s'est tenue le 1er septembre, avec des elus democrates plus ages, dont le senateur Ed Markey, confrontes a des challengers plus jeunes au sein de leur propre parti. Le scrutin, l'un des premiers d'une longue serie de primaires avant les midterms de novembre, teste l'ampleur du renouvellement generationnel reclame par une partie de la base democrate.",
-      "source": "GBH News",
-      "url": "https://www.wgbh.org/news/politics/live-updates/2026-09-01/live-updates-on-the-massachusetts-2026-primary-election"
+      "short_title": "MIT: robot air-eau",
+      "title": "Un robot du MIT vole, plonge et nage comme un oiseau marin",
+      "summary": "Des ingenieurs du MIT et de l'EPFL ont concu un vehicule aerien-aquatique de moins de 300 grammes capable de nager sous l'eau puis de reprendre son envol, en s'inspirant des oiseaux plongeurs comme le macareux. Lors d'essais sur le lac Leman, l'appareil a nage a pres d'un metre par seconde et vole a environ six metres par seconde, avant de percer la surface de l'eau selon un angle precis pour ne pas endommager ses ailes. Les chercheurs envisagent des applications pour la surveillance des cotes, des stocks de poissons et des efflorescences algales nuisibles.",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709"
+    },
+    {
+      "id": "n18",
+      "theme": "finance",
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "Chomage France a 7,7%",
+      "title": "Le chomage remonte a 7,7% en France, l'Etat promet un plan jeunes",
+      "summary": "Le taux de chomage francais a augmente de 0,1 point pour atteindre 7,7%, avec 44 000 demandeurs d'emploi supplementaires portant le total a 2,4 millions de personnes selon les criteres du BIT. Face a cette degradation, le ministre du Travail Jean-Pierre Farandou a promis de nouveaux moyens pour relancer l'apprentissage et l'emploi des jeunes, ainsi qu'un programme dedie aux demandeurs d'emploi de plus de 50 ans.",
+      "source": "Echos Plus",
+      "url": "https://echosplus.com/2026/08/16/chomage-farandou-promet-de-relancer-lapprentissage-et-lemploi-des-jeunes/"
     }
   ],
   "edges": [
@@ -183,79 +205,79 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "La reprise des frappes americaines sur Larak Island declenche la riposte iranienne contre des bases en Jordanie et aux Emirats, qui s'etend ensuite en attaques de drones visant le Koweit et Bahrein."
+      "explanation": "La frappe americaine qui touche un mariage et tue des civils declenche la riposte iranienne immediate contre des allies americains dans le Golfe."
     },
     {
-      "source": "n01",
-      "target": "n03",
-      "type": "cause",
-      "explanation": "L'effondrement des espoirs de reouverture negociee du detroit d'Ormuz apres les frappes sur Larak Island fait bondir le baril, les operateurs anticipant une perturbation prolongee du transit petrolier."
-    },
-    {
-      "source": "n03",
+      "source": "n02",
       "target": "n04",
       "type": "cause",
-      "explanation": "La flambee soudaine du petrole ravive les craintes d'inflation importee et declenche le repli des indices actions et la remontee des rendements obligataires le meme jour."
+      "explanation": "Les tirs de drones et projectiles iraniens pres du detroit d'Ormuz raniment le risque sur les exportations petrolieres et font grimper le Brent vers 95 dollars."
     },
     {
-      "source": "n03",
-      "target": "n05",
+      "source": "n04",
+      "target": "n08",
       "type": "cause",
-      "explanation": "La hausse du cout de l'energie renforce l'argument d'une inflation encore trop elevee, poussant les marches a monter les probabilites d'une hausse de taux de la Fed en septembre."
+      "explanation": "La flambee des prix et la multiplication des incidents pres d'Ormuz poussent les assureurs a repricer fortement le risque de guerre sur les petroliers qui transitent par le detroit."
     },
     {
       "source": "n04",
       "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Le repli des actions et la remontee des rendements refletent le meme repositionnement des marches face a une Fed jugee plus encline a resserrer sa politique."
+      "type": "tension",
+      "explanation": "La hausse du petrole pese d'abord sur les marches actions, mais la pause du rally petrolier permet a Wall Street de rebondir des le lendemain: deux forces qui se neutralisent partiellement."
+    },
+    {
+      "source": "n02",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "L'escalade militaire et son cout economique croissant fragilisent le soutien electoral au camp Trump a deux mois des midterms."
+    },
+    {
+      "source": "n04",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "La flambee du brut ravive les pressions inflationnistes americaines, ce qui pousse la Fed vers un relevement de taux plutot qu'une nouvelle pause."
+    },
+    {
+      "source": "n04",
+      "target": "n07",
+      "type": "cause",
+      "explanation": "Le meme choc petrolier alimente une inflation deja elevee en zone euro, la meme dynamique qui avait pousse la BCE a relever ses taux directeurs des juin."
     },
     {
       "source": "n06",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Le retour timide du PMI francais en zone d'expansion contraste avec le climat de nervosite qui domine au meme moment sur les marches americains, deux lectures opposees de la conjoncture de rentree."
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "Fed et BCE font face au meme choc d'offre energetique lie a la guerre Iran-Golfe et doivent chacune arbitrer entre soutien a la croissance et lutte contre une inflation importee."
     },
     {
       "source": "n07",
-      "target": "n08",
+      "target": "n18",
       "type": "tension",
-      "explanation": "Alors qu'Anthropic mise sur une IPO record pour asseoir sa legitimite financiere, OpenAI consolide au meme moment sa presence dans les usages gouvernementaux sensibles: deux strategies distinctes pour s'imposer comme labo IA de reference."
+      "explanation": "Le resserrement monetaire destine a contenir l'inflation importee par le petrole s'oppose a la necessite de soutenir un marche du travail francais deja fragilise, ou le chomage remonte a 7,7%."
     },
     {
-      "source": "n08",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "OpenAI multiplie les annonces la meme semaine, entre deploiement gouvernemental sur GenAI.mil et confirmation de son grand rendez-vous produit annuel."
+      "source": "n04",
+      "target": "n15",
+      "type": "tension",
+      "explanation": "Les prix de l'energie fossile au plus haut relancent en France le debat sur le nucleaire et la resilience energetique, en tension avec les priorites d'adaptation climatique portees par les ecologistes."
     },
     {
-      "source": "n07",
-      "target": "n09",
+      "source": "n09",
+      "target": "n10",
       "type": "meme_sujet",
-      "explanation": "Anthropic et OpenAI avancent en parallele sur deux terrains cles de leur course a la valorisation, l'introduction en bourse pour l'un, la vitrine produit pour l'autre."
+      "explanation": "OpenAI et Anthropic publient a quelques jours d'intervalle des annonces majeures sur leurs modeles frontier, l'une sur un seuil de securite cyber franchi, l'autre sur un nouveau modele phare."
     },
     {
-      "source": "n10",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Cursor et OpenAI investissent tous deux, la meme semaine, dans l'infrastructure et les evenements destines a ancrer leurs outils dans le quotidien des developpeurs et des agents de code."
+      "source": "n09",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "OpenAI restreint l'acces a Astra pour limiter les risques cyber, tandis que DeepMind mise sur une evaluation externe cryptographiquement protegee pour batir la confiance sans exposer ses poids modele: deux strategies opposees de gestion du risque frontier."
     },
     {
       "source": "n11",
-      "target": "n08",
+      "target": "n12",
       "type": "meme_sujet",
-      "explanation": "Meta et le Pentagone confirment la meme semaine des jalons majeurs de deploiement de l'IA, l'un grand public avec Connect, l'autre gouvernemental avec GenAI.mil."
-    },
-    {
-      "source": "n14",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "La fragilisation du parc energetique francais par la canicule et la flambee actuelle des prix du petrole liee au Moyen-Orient dessinent, sous deux formes differentes, la meme vulnerabilite energetique de la rentree."
-    },
-    {
-      "source": "n15",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "L'IA s'installe la meme rentree dans les programmes scolaires francais et dans les strategies commerciales des grands laboratoires americains, deux facettes de sa normalisation accelere."
+      "explanation": "DeepMind et Mistral publient tous deux, la meme semaine, des avancees sur la fiabilite et l'infrastructure des agents IA, l'une sur l'evaluation, l'autre sur la recherche documentaire."
     }
   ]
 }

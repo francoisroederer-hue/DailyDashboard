@@ -1,277 +1,249 @@
 {
-  "generated_at": "2026-09-04T04:11:25Z",
+  "generated_at": "2026-09-05T05:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Escalade Iran-US",
-      "title": "Nouvelles frappes US en Iran, Téhéran riposte dans le Golfe",
-      "summary": "Début septembre, l'armée américaine a de nouveau frappé des cibles en Iran en représailles à une tentative de minage du détroit d'Ormuz, provoquant des tirs de missiles et de drones iraniens contre des installations américaines en Jordanie, au Bahreïn et ailleurs dans le Golfe. Trump a exclu de rechercher un accord avec Téhéran et menacé de frappes encore plus dures en cas de nouvelle riposte iranienne.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war"
+      "short_title": "Frappe US: mariage vise",
+      "title": "Une frappe américaine aurait touché un mariage dans le sud de l'Iran",
+      "summary": "Le 1er septembre, Téhéran affirme qu'une frappe américaine a visé un mariage à Kuhestak, sur le détroit d'Ormuz, tuant au moins quatre civils et en blessant des dizaines. Washington dit enquêter (JD Vance) sans confirmer, tandis que l'Iran a répliqué en tirant des missiles sur des bases américaines en Jordanie, en Irak et au Koweït.",
+      "source": "RFE/RL",
+      "url": "https://www.rferl.org/a/iran-us-strike-wedding-minab/33845617.html"
     },
     {
       "id": "n02",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "GPT-6 Astra critique",
-      "title": "OpenAI lance GPT-6 Astra, premier modèle jugé critique en cybersécurité",
-      "summary": "OpenAI a publié le 3 septembre GPT-6 Astra, premier de ses modèles à franchir le seuil de capacité critique en cybersécurité de son Preparedness Framework: il pourrait en théorie découvrir et exploiter des failles sur des systèmes bien protégés sans supervision humaine étape par étape. Le déploiement a été volontairement retardé de plusieurs semaines pour renforcer les garde-fous, avec un accès d'abord restreint aux programmes Daybreak avant une ouverture progressive à ChatGPT et à l'API.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/path-to-astra/"
+      "short_title": "Brent proche de 95$",
+      "title": "Le Brent grimpe de 8% sur la semaine, trafic dans Ormuz au plus bas",
+      "summary": "Le baril de Brent s'est maintenu autour de 95 dollars vendredi, en hausse d'environ 8% sur la semaine, porté par l'escalade militaire américano-iranienne et la chute du trafic pétrolier dans le détroit d'Ormuz: seulement six navires l'ont traversé mercredi contre une moyenne de 13 sur dix jours. Le marché redoute une fermeture prolongée d'un passage qui achemine un cinquième du pétrole mondial.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/09/02/oil-surges-above-95-on-renewed-us-iran-fighting-and-hormuz-disruption-concerns/"
     },
     {
       "id": "n03",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "usa",
       "importance": 3,
-      "short_title": "Fable/Mythos 5.1",
-      "title": "Anthropic dévoile Claude Fable 5.1 et Mythos 5.1",
-      "summary": "Anthropic a lancé le 1er septembre Claude Fable 5.1 (accès grand public) et Claude Mythos 5.1, un même modèle sous deux régimes de garde-fous différents, ce dernier réservé aux acteurs vérifiés en cybersécurité et sciences de la vie. La baisse de 75% du coût de lecture du cache réduit la facture réelle de 25% à 45% selon les usages, et de nouvelles Enterprise Frontier Safeguards offrent aux entreprises une confidentialité proche de la rétention zéro tout en gardant des protections anti-abus de pointe.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      "short_title": "Emploi US surprend",
+      "title": "Les créations d'emplois US bondissent en août, loin au-dessus des attentes",
+      "summary": "L'économie américaine a créé 162 000 emplois en août, très au-dessus du consensus de 55 000, avec un chômage stable à 4,1%. Ce rebond, après un été marqué par des chiffres faibles, relance le débat sur une possible hausse des taux de la Fed lors de la réunion des 15-16 septembre.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report"
     },
     {
       "id": "n04",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Meta Muse Spark 1.3",
-      "title": "Meta publie Muse Spark 1.3, plus agentique et plus sobre",
-      "summary": "Meta a publié le 2 septembre Muse Spark 1.3, une mise à jour axée sur le code et les tâches agentiques longues, réduisant d'environ 20% l'usage d'outils et de 25% la consommation de tokens par rapport à la version précédente. Le modèle intègre aussi des garde-fous renforcés contre les entrées adverses, dans une course frontale avec OpenAI et Anthropic sur les capacités agentiques.",
-      "source": "Meta AI Research",
-      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+      "short_title": "Marches reculent",
+      "title": "Wall Street recule et les rendements grimpent après le rapport sur l'emploi",
+      "summary": "Le Dow et le S&P 500 ont cédé respectivement 0,3% et 0,2% vendredi, le rendement des bons du Trésor à 2 ans touchant son plus haut niveau depuis janvier 2025. Les paris sur une hausse de taux en septembre sont montés à 58% avant de refluer vers 50% après des propos plus prudents du gouverneur de la Fed Christopher Waller.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026"
     },
     {
       "id": "n05",
       "theme": "tech",
-      "subtopic": "design",
-      "importance": 2,
-      "short_title": "Figma: code layers",
-      "title": "Figma introduit les \"code layers\" sur son canvas",
-      "summary": "Lors de sa conférence Config 2026, Figma a présenté les \"code layers\": n'importe quel calque de design peut être transformé en composant de code interactif en un clic ou via un prompt. Combinée à l'adoption croissante du protocole MCP par des équipes comme Vercel ou Linear, cette évolution accélère le passage direct du design au code pour des agents type Cursor ou Claude Code.",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/config-2026-recap/"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Gemini 3.8 Flash",
+      "title": "Google DeepMind lance Gemini 3.8 Flash, focus sur le code et l'auto-amélioration",
+      "summary": "Google a dévoilé mercredi Gemini 3.8 Flash, quatrième modèle Flash livré en 106 jours, avec des gains marqués en génération de code. La démarche s'inscrit dans un effort interne piloté par Sergey Brin et Koray Kavukcuoglu pour améliorer les capacités de codage du modèle comme étape vers une auto-amélioration récursive (RSI), pendant que le futur modèle frontière de Google se fait toujours attendre.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/03/google-shipped-four-gemini-flash-models-in-106-days-but-its-flagship-frontier-model-is-still-nowhere-to-be-seen/"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "energie",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Baril proche de 96$",
-      "title": "Le Brent grimpe près de 96 dollars sur fond de tensions au Golfe",
-      "summary": "Le Brent s'est établi début septembre autour de 95-96 dollars le baril, en hausse de plus de 20% sur un mois, alors que le trafic de pétroliers dans le détroit d'Ormuz reste très en dessous de sa moyenne habituelle. Les nouvelles frappes américaines contre l'Iran et la riposte iranienne dans le Golfe alimentent les craintes d'une nouvelle flambée au-delà de 100 dollars.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-09-02-2026/"
+      "short_title": "OpenAI: 1Md$ cyber",
+      "title": "OpenAI engage 1 milliard de dollars pour la cyberdéfense des infrastructures critiques",
+      "summary": "OpenAI a lancé le 4 septembre Daybreak for Frontline Defenders, un programme mondial offrant un accès subventionné à ses modèles cyber à des réseaux d'eau, opérateurs électriques, banques régionales et collectivités, pour un engagement d'un milliard de dollars de crédits sur six mois. L'initiative suit de près le lancement de GPT-6 Astra, premier modèle jugé critique en cybersécurité par OpenAI.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders/"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "europe",
-      "importance": 3,
-      "short_title": "BCE et risque hausse",
-      "title": "La BCE laisse la porte ouverte à une hausse de taux en septembre",
-      "summary": "Christine Lagarde a averti que la remontée des prix du pétrole liée aux tensions au Moyen-Orient fait peser un risque haussier sur l'inflation en zone euro, ouvrant la voie à une hausse de taux lors de la réunion de septembre malgré un statu quo maintenu à 2,25% en juillet. Les marchés intègrent désormais quasi totalement l'hypothèse d'un relèvement si les prix de l'énergie restent élevés.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Glasswing au Congrès",
+      "title": "La NYSE détaille devant le Congrès son usage du Project Glasswing d'Anthropic",
+      "summary": "La présidente du NYSE Lynn Martin a témoigné le 2 septembre devant la commission des services financiers de la Chambre sur l'usage de Claude Mythos, via le Project Glasswing, pour détecter et corriger des failles de sécurité vieilles de plusieurs décennies dans ses systèmes. Le programme réunit désormais environ 200 organisations dans plus de 15 pays, avec plus de 10 000 vulnérabilités critiques identifiées.",
+      "source": "CSO Online",
+      "url": "https://www.csoonline.com/article/4176865/project-glasswing-has-uncovered-10000-vulnerabilities-anthropic.html"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "usa",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Warsh, ton hawkish",
-      "title": "Le patron de la Fed Kevin Warsh durcit le ton sur l'inflation",
-      "summary": "Lors du symposium de Jackson Hole fin août, le président de la Fed Kevin Warsh a jugé que les tendances inflationnistes sous-jacentes ne s'étaient pas réellement améliorées, ravivant l'hypothèse d'une hausse de taux en septembre. La probabilité d'un relèvement d'un quart de point est repassée au-dessus de 60% selon les contrats à terme sur les fed funds.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html"
+      "short_title": "Meta agent Hatch",
+      "title": "Meta s'apprête à lancer Hatch, son agent IA autonome sur WhatsApp et Instagram",
+      "summary": "Meta prépare le lancement de Hatch, un agent capable d'agir seul pour réserver un restaurant, remplir des formulaires ou faire des achats via DoorDash, Etsy ou Outlook, intégré à WhatsApp et Instagram. Une offre premium pourrait atteindre 200 dollars par mois, positionnant Meta face aux agents d'OpenAI et Anthropic sur l'automatisation de tâches du quotidien.",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-consumer-focused-ai-agent-could-be-weeks-from-launch/"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "usa",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Emploi US en berne",
-      "title": "L'emploi américain déçoit, compliquant l'équation de la Fed",
-      "summary": "Le rapport de juillet a montré une destruction nette de 23 000 emplois aux États-Unis, avec des révisions à la baisse de 103 000 emplois sur mai et juin, tandis que la croissance des salaires ralentissait à 3,2%. Ce ralentissement du marché du travail plaide pour un statu quo monétaire, à rebours du discours plus offensif tenu par Kevin Warsh sur l'inflation.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/policy/article/weak-july-jobs-report-helps-case-for-fed-to-hold-rates-but-doesnt-take-hikes-off-the-table-134001140.html"
+      "short_title": "Cursor: Agent Skills",
+      "title": "Cursor généralise les Agent Skills via le standard SKILL.md",
+      "summary": "Depuis sa refonte Glass, Cursor permet de packager des workflows métier réutilisables sous forme de fichiers SKILL.md placés dans .cursor/skills, que l'agent découvre et applique automatiquement pendant une tâche. L'approche rapproche Cursor d'un modèle de connaissance versionnée et partageable entre projets, plutôt que des prompts ad hoc.",
+      "source": "Cursor Docs",
+      "url": "https://cursor.com/docs/skills"
     },
     {
       "id": "n10",
       "theme": "finance",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "IPO record Anthropic",
-      "title": "Anthropic viserait une IPO record à 2000 milliards de dollars",
-      "summary": "Des investisseurs anticipent qu'Anthropic vise une valorisation d'au moins 2000 milliards de dollars lors d'une entrée en Bourse prévue en octobre, ce qui en ferait la plus grande introduction de l'histoire, devant SpaceX. Le pari repose sur une croissance de revenus qui pourrait dépasser dix fois celle de mai, la société ayant déjà déposé une demande confidentielle auprès de la SEC en juin.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/"
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "Gel partiel pensions",
+      "title": "Budget 2027: le gouvernement étudie un gel partiel des pensions de retraite",
+      "summary": "À l'approche de la présentation du budget 2027 le 30 septembre, Bercy explore un gel de l'indexation des pensions supérieures à 3000 euros, avec un système à trois taux selon les montants. Un économiste chiffre le manque à gagner jusqu'à 1200 euros par an pour une pension de 5000 euros, dans un contexte de déficit public à 5,1% du PIB.",
+      "source": "MoneyVox",
+      "url": "https://www.moneyvox.fr/votre-argent/actualites/110064/budget-2027-gel-partiel-des-retraites-niches-fiscales-les-premieres-pistes-du-gouvernement"
     },
     {
       "id": "n11",
       "theme": "finance",
-      "subtopic": "france",
-      "importance": 3,
-      "short_title": "Facturation e. en France",
-      "title": "La facturation électronique devient obligatoire pour toutes les entreprises",
-      "summary": "Depuis le 1er septembre, toutes les entreprises françaises, y compris les plus petites structures comme les SASU, doivent être en mesure de recevoir des factures électroniques, les plus grandes devant en émettre et transmettre les données de transaction à l'administration. Cette réforme change concrètement les outils de facturation à utiliser pour les indépendants et petites structures.",
-      "source": "Ministère de l'Économie",
-      "url": "https://www.economie.gouv.fr/actualites/ce-qui-change-en-septembre-2026"
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "EBA: risque ESG stable",
+      "title": "L'EBA publie un nouveau tableau de bord ESG pour les banques européennes",
+      "summary": "L'Autorité bancaire européenne a mis à jour son tableau de bord ESG montrant une exposition stable des banques de l'UE/EEE aux secteurs climatiquement sensibles, à 62% en moyenne, avec de fortes disparités entre pays. Le dashboard est désormais intégré au portail EDAP, un pas vers plus de transparence sur le risque climatique bancaire qui infuse aussi les cadres de stress-test et de pricing XVA.",
+      "source": "European Banking Authority",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improvements-data-quality"
     },
     {
       "id": "n12",
-      "theme": "finance",
-      "subtopic": "ccr_xva",
-      "importance": 3,
-      "short_title": "FRTB dans le XVA",
-      "title": "La moitié des banques européennes intègrent déjà la FRTB dans leur XVA",
-      "summary": "Une étude de benchmarking de Risk.net montre qu'environ la moitié des banques européennes ont déjà intégré les exigences de capital FRTB directement dans leurs modèles de pricing XVA, contre une minorité de leurs homologues nord-américaines. L'écart illustre des calendriers réglementaires divergents entre l'UE, qui applique des mesures transitoires FRTB dès 2027, et les États-Unis, où la refonte de Bâle III Endgame reste en discussion.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
-    },
-    {
-      "id": "n13",
-      "theme": "climat",
-      "subtopic": "rechauffement",
-      "importance": 2,
-      "short_title": "1,5°C: seuil dépassé",
-      "title": "L'ONU juge inévitable le franchissement du seuil de 1,5°C",
-      "summary": "Un rapport du PNUE publié le 2 septembre estime que le réchauffement va inévitablement dépasser 1,5°C dans les prochaines années, et propose une trajectoire de \"dépassement, pic puis décrue\" pour limiter l'ampleur et la durée de ce dépassement. Le scénario le plus optimiste table sur un pic à 1,8°C, contre une médiane proche de 2,6°C si les politiques actuelles ne changent pas, la réduction du méthane étant jugée le levier le plus efficace à court terme.",
-      "source": "UNEP",
-      "url": "https://www.unep.org/news-and-stories/press-release/unep-world-set-cross-15degc-global-warming-can-still-limit-adapt-and"
-    },
-    {
-      "id": "n14",
       "theme": "climat",
       "subtopic": "usa",
       "importance": 2,
-      "short_title": "Fin de l'IIJA US",
-      "title": "Les financements climat américains de l'IIJA expirent le 30 septembre",
-      "summary": "La loi américaine sur les infrastructures (IIJA) expire le 30 septembre 2026, faisant revenir les financements fédéraux des routes et transports à leurs niveaux d'avant 2021 en l'absence de nouvelle loi. L'administration Trump a déjà annulé plusieurs milliards de dollars de subventions liées aux énergies propres, dont le programme de bornes de recharge électrique NEVI, marquant un net retrait des priorités climatiques fédérales.",
-      "source": "ContractorPlus",
-      "url": "https://contractorplus.app/blog/iija-expiration-2026-contractors"
+      "short_title": "Fin de l'IIJA le 30/09",
+      "title": "L'autorisation de financement de l'IIJA expire fin septembre aux États-Unis",
+      "summary": "Le grand plan d'infrastructures IIJA voit son autorisation de financement s'éteindre le 30 septembre, mettant la pression sur les agences pour engager les fonds restants. Le mois d'août a révélé une tension structurelle: le capital privé s'est précipité vers le renouvelable et le stockage pendant que les infrastructures de transmission nécessaires restent sous-financées.",
+      "source": "Climate Program Portal",
+      "url": "https://climateprogramportal.org/2026/03/03/whats-next-for-implementation-in-2026/"
     },
     {
-      "id": "n15",
+      "id": "n13",
       "theme": "sciences",
       "subtopic": "biotech",
       "importance": 2,
-      "short_title": "IA co-scientifique DM",
-      "title": "L'IA \"co-scientifique\" de Google DeepMind identifie des pistes contre une leucémie",
-      "summary": "Le système multi-agents Co-Scientist, construit sur Gemini par Google DeepMind, a proposé des candidats-médicaments repositionnés et des combinaisons synergiques contre la leucémie myéloïde aiguë, validés ensuite in vitro sur plusieurs lignées cellulaires. Parmi les pistes figurent des molécules déjà connues comme le binimetinib et la cerivastatine, ainsi qu'un inhibiteur totalement nouveau, KIRA6.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10644-y"
+      "short_title": "Doubler son génome",
+      "title": "Comment certains organismes survivent au doublement de leur génome",
+      "summary": "Des chercheurs étudiant un escargot néo-zélandais ayant récemment doublé l'intégralité de son génome montrent que cet événement évolutif est un pari à haut risque: la plupart des génomes dupliqués ne se stabilisent jamais, tandis que les rares survivants se mettent à éliminer progressivement les gènes redondants. Ce mécanisme pourrait expliquer des sauts d'adaptation rapide observés chez certaines espèces.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutionary-gamble-20260902/"
     },
     {
-      "id": "n16",
+      "id": "n14",
       "theme": "learn",
       "subtopic": "llm_agents",
       "importance": 2,
-      "short_title": "Tutorat IA+humain",
-      "title": "Le tutorat combinant IA et enseignant surpasse le tutorat humain seul",
-      "summary": "Une étude exploratoire randomisée menée par Eedi et Google DeepMind dans des collèges britanniques montre que des tuteurs supervisant les suggestions de LearnLM ont validé 76% de ses messages sans quasi aucune modification. Les élèves suivis par ce binôme humain-IA ont mieux réussi à résoudre de nouveaux problèmes sur des sujets suivants que ceux encadrés uniquement par des tuteurs humains.",
-      "source": "Yahoo Finance / Eedi & DeepMind",
-      "url": "https://finance.yahoo.com/news/exploratory-research-eedi-google-deepmind-090000225.html"
+      "short_title": "IA tutrice: effet mixte",
+      "title": "Le tutorat par IA a un effet ambivalent sur la métacognition des élèves",
+      "summary": "Une revue de recherches 2026 montre que les tuteurs IA améliorent les retours personnalisés mais peuvent réduire l'engagement métacognitif quand les élèves se reposent trop sur des réponses toutes faites, une forme de délégation cognitive. Les dispositifs qui poussent l'élève à expliciter son raisonnement plutôt qu'à obtenir la réponse directement préservent, eux, les gains d'apprentissage.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
     },
     {
-      "id": "n17",
-      "theme": "sante",
-      "subtopic": "vaccination",
-      "importance": 2,
-      "short_title": "1er vaccin grippe ARNm",
-      "title": "La FDA approuve le premier vaccin grippe à ARN messager",
-      "summary": "La FDA a approuvé début août mFLUSIVA, premier vaccin antigrippal à ARN messager de Moderna, pour les adultes de 50 à 64 ans, avec une autorisation accélérée pour les 65 ans et plus. Lors des essais cliniques, le vaccin s'est montré environ 27% plus efficace qu'un vaccin antigrippal classique, et devrait être disponible pour la saison 2026-2027.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine"
-    },
-    {
-      "id": "n18",
+      "id": "n15",
       "theme": "sante",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Muscu: dose optimale",
-      "title": "90 à 120 minutes de musculation par semaine, la dose de longévité",
-      "summary": "Un suivi de plus de 147 000 personnes sur 30 ans montre que 90 à 120 minutes de renforcement musculaire par semaine constituent le point idéal pour la longévité, associées à une baisse de 13% de la mortalité toutes causes confondues et de 19% de la mortalité cardiovasculaire. Au-delà de ce volume, les bénéfices supplémentaires observés sont marginaux.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260611024609.htm"
+      "short_title": "Attitude et vieillir",
+      "title": "Une étude de Yale relie attitude positive envers l'âge et gains cognitifs",
+      "summary": "Une étude de Yale School of Public Health ayant suivi près de 4000 adultes de 19 à 94 ans pendant trois ans montre que 45% des plus de 65 ans se sont améliorés sur au moins un plan cognitif ou physique. Les personnes ayant une vision plus positive de leur propre vieillissement avaient significativement plus de chances de figurer parmi ces améliorations.",
+      "source": "SUCCESS",
+      "url": "https://www.success.com/longevity-research-2026-new-findings"
+    },
+    {
+      "id": "n16",
+      "theme": "sante",
+      "subtopic": "kettlebell",
+      "importance": 1,
+      "short_title": "Street workout: risques",
+      "title": "Une revue documente l'épidémiologie des blessures en street workout",
+      "summary": "Une étude récente cartographie les types de blessures les plus fréquentes en street workout et calisthenics, mouvements composés à forte charge articulaire sur épaules, coudes et poignets. Les auteurs recommandent une progression prudente des variantes de traction et de dips, points faibles récurrents identifiés dans la littérature.",
+      "source": "ResearchGate",
+      "url": "https://www.researchgate.net/publication/399231359_The_Science_of_Calisthenics_Injury_Epidemiology_in_Street_Workout"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n06",
+      "target": "n02",
       "type": "cause",
-      "explanation": "Les frappes américaines et la tentative iranienne de miner Ormuz réduisent le trafic pétrolier dans le détroit, ce qui pousse mécaniquement le Brent à la hausse."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "cause",
-      "explanation": "La flambée du pétrole alimente directement le risque d'inflation importée que Lagarde cite pour justifier une possible hausse de taux de la BCE."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "BCE et Fed affrontent au même moment le même dilemme d'une inflation ravivée par l'énergie, chacune à l'approche de sa réunion de septembre."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Le discours offensif de Warsh sur l'inflation entre en tension avec un marché du travail qui s'affaiblit, ce qui plaiderait plutôt pour un statu quo monétaire."
-    },
-    {
-      "source": "n03",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "La baisse des coûts et les gains de performance agentique de Fable 5.1 renforcent le récit de croissance des revenus qui sous-tend la valorisation record visée pour l'IPO."
-    },
-    {
-      "source": "n07",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "La perspective d'une remontée des taux en Europe durcit l'environnement de financement des valeurs de croissance, au moment même où Anthropic vise la plus grosse IPO de l'histoire."
-    },
-    {
-      "source": "n02",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "OpenAI et Anthropic publient chacun un modèle frontière à 48 heures d'intervalle, avec dans les deux cas de nouveaux paliers d'accès et de sécurité."
+      "explanation": "La frappe et les représailles iraniennes qui suivent réduisent le trafic maritime dans le détroit d'Ormuz, point de passage d'un cinquième du pétrole mondial, ce qui pousse mécaniquement les cours du Brent à la hausse."
     },
     {
       "source": "n02",
       "target": "n04",
-      "type": "meme_sujet",
-      "explanation": "Astra, Muse Spark et Fable/Mythos sortent tous la même semaine, signe d'une course frontale entre labs sur les capacités agentiques et de code."
+      "type": "cause",
+      "explanation": "La hausse du pétrole ravive les craintes inflationnistes, ce qui contribue à la remontée des anticipations de hausse de taux et pèse sur les marchés actions."
     },
     {
-      "source": "n13",
-      "target": "n14",
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "Le rapport sur l'emploi bien plus fort qu'attendu renforce indépendamment le scénario d'une Fed plus restrictive, faisant grimper les rendements et reculer les indices actions."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
       "type": "tension",
-      "explanation": "L'alerte de l'ONU sur le dépassement inévitable de 1,5°C contraste avec le retrait des financements climat américains au moment où l'IIJA expire."
+      "explanation": "Alors que Google pousse ses modèles vers l'auto-amélioration en code, OpenAI riposte sur un autre front, la cyberdéfense, dans une course entre labs pour définir le terrain de la capacité critique."
+    },
+    {
+      "source": "n06",
+      "target": "n07",
+      "type": "tension",
+      "explanation": "Le programme Daybreak d'OpenAI est présenté par plusieurs observateurs comme une réponse directe à l'avance prise par Anthropic avec Project Glasswing sur la cyberdéfense assistée par IA, chacun revendiquant le meilleur usage défensif d'un modèle à capacité critique."
+    },
+    {
+      "source": "n06",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "OpenAI, Anthropic et Meta annoncent la même semaine des initiatives structurantes sur l'usage agentique et sécuritaire de leurs modèles, chacun cherchant à fixer les termes de la course à l'IA agentique grand public et professionnelle."
     },
     {
       "source": "n07",
-      "target": "n12",
+      "target": "n11",
       "type": "meme_sujet",
-      "explanation": "Ces deux dossiers illustrent le décalage croissant entre l'Europe et les États-Unis sur le calendrier réglementaire et macro-financier bancaire."
+      "explanation": "Les deux news touchent à la gestion du risque dans le secteur financier, l'une via la cybersécurité assistée par IA, l'autre via le risque climatique, deux dimensions du risque non financier de plus en plus suivies par les régulateurs bancaires."
+    },
+    {
+      "source": "n10",
+      "target": "n03",
+      "type": "meme_sujet",
+      "explanation": "Le gel des pensions et le rapport sur l'emploi renvoient tous deux à l'état des finances publiques et du marché du travail qui encadrent les arbitrages budgétaires en France comme aux États-Unis."
+    },
+    {
+      "source": "n12",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "L'expiration du financement infrastructurel américain contraste avec le renforcement du suivi du risque climatique bancaire en Europe, illustrant des trajectoires opposées entre désengagement public US et institutionnalisation réglementaire européenne."
+    },
+    {
+      "source": "n14",
+      "target": "n08",
+      "type": "tension",
+      "explanation": "La recherche montre que déléguer trop de tâches cognitives à l'IA peut nuire à l'apprentissage, un risque symétrique à celui soulevé par des agents comme Hatch qui automatisent des décisions du quotidien au détriment de l'engagement actif de l'utilisateur."
     },
     {
       "source": "n15",
       "target": "n16",
       "type": "meme_sujet",
-      "explanation": "Ce sont deux applications concrètes des modèles Gemini/LearnLM de Google DeepMind à des domaines réels, la découverte de médicaments et l'éducation."
-    },
-    {
-      "source": "n17",
-      "target": "n18",
-      "type": "meme_sujet",
-      "explanation": "Vaccination et renforcement musculaire sont deux mesures de prévention fondées sur des preuves, particulièrement pertinentes pour une population 40 ans et plus avant la saison de la grippe."
+      "explanation": "Les deux études relèvent de la même question de santé à 40 ans et plus: quels leviers, mentaux ou physiques, maximisent la longévité en bonne santé tout en minimisant le risque de blessure."
     }
   ]
 }

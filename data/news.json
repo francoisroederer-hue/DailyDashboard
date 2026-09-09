@@ -1,181 +1,181 @@
 {
-  "generated_at": "2026-09-08T04:10:49Z",
+  "generated_at": "2026-09-09T04:16:19Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Ormuz: zone d'exclusion",
-      "title": "Téhéran prépare une zone d'exclusion maritime aux abords du détroit d'Ormuz",
-      "summary": "Le secrétaire du Conseil suprême de sécurité nationale iranien a annoncé la mise en place prochaine d'une zone où les navires devront obtenir l'autorisation de Téhéran pour transiter, en réponse au blocus naval américain. Cette annonce intervient après une nouvelle salve d'échanges de frappes entre Washington et Téhéran visant tankers et navires militaires.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days"
+      "short_title": "Houthis visent Aramco",
+      "title": "Les Houthis frappent des installations pétrolières saoudiennes, 73 blessés",
+      "summary": "Les rebelles houthis ont revendiqué des tirs de missiles balistiques et de drones contre des sites Aramco à Abha, Najran et Jazan ainsi qu'une base aérienne près de Khamis Mushait, en représailles à des frappes saoudiennes au Yémen. Le bilan fait état de 73 blessés et d'un arrêt temporaire de certaines opérations, un net élargissement du conflit régional au-delà du seul face-à-face Iran-États-Unis.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent proche de $97",
-      "title": "Le Brent touche un plus haut de sept semaines alors que le trafic à Ormuz s'effondre",
-      "summary": "Le baril de Brent a brièvement atteint près de 97 dollars, prolongeant une hausse de 8% sur la semaine précédente, tandis que le trafic maritime dans le détroit d'Ormuz est tombé à son niveau le plus bas depuis mai avec à peine une dizaine de navires par jour. Les États-Unis insistent publiquement sur le fait que la voie reste \"totalement ouverte\", malgré la pression iranienne.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/"
+      "short_title": "Brent proche de $98",
+      "title": "Le Brent touche $98, plus haut depuis sept semaines, après les frappes sur l'Arabie saoudite",
+      "summary": "Le baril de Brent a bondi vers 98 dollars, son plus haut niveau en sept semaines, immédiatement après les frappes houthies contre les installations Aramco. Goldman Sachs a relevé ses prévisions de 5 dollars pour décembre tout en avertissant qu'un Brent au-delà de 120 dollars est possible en 2027 si l'offre du Golfe reste durablement amputée.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html"
     },
     {
       "id": "n03",
-      "theme": "geopol",
+      "theme": "finance",
       "subtopic": "usa",
       "importance": 3,
-      "short_title": "Canada: contre-tarifs",
-      "title": "Le Canada active ses contre-tarifs sur plus de 700 produits américains",
-      "summary": "À partir du 8 septembre, Ottawa applique des surtaxes de 15 à 50% sur plus de 700 produits américains (acier, aluminium, électroménager, produits laitiers) en réplique aux droits de douane de 50% imposés par Washington fin août. Les négociations bilatérales, rompues depuis le 22 août, ne reprennent pas et Trump a ajouté dimanche une critique publique sur le niveau du dollar canadien.",
-      "source": "Canada.ca",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html"
+      "short_title": "Emploi US surprend",
+      "title": "Les créations d'emplois américaines bondissent à 162 000 en août, loin des attentes",
+      "summary": "Le Bureau of Labor Statistics fait état de 162 000 créations de postes en août, contre environ 53 000 à 56 000 attendues par les économistes, avec un chômage stable à 4,1%. C'est la plus forte hausse mensuelle depuis mars, portée par l'éducation locale et les loisirs, et elle relance mécaniquement les anticipations d'une hausse des taux de la Fed le 16 septembre.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
     },
     {
       "id": "n04",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Marchés digèrent tarifs",
-      "title": "Wall Street et Toronto absorbent la nouvelle salve tarifaire sans vente généralisée",
-      "summary": "Malgré l'escalade commerciale avec le Canada, les indices nord-américains ne montrent pas de mouvement de vente massif à l'entrée en vigueur des contre-tarifs, les analystes soulignant que le risque reste concentré sur les entreprises directement exposées aux secteurs taxés plutôt que sur le marché dans son ensemble. Le dollar canadien reste toutefois sous pression.",
-      "source": "BNN Bloomberg",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/08/24/loonie-down-in-late-morning-trading-as-us-imposes-tariffs-and-trump-threatens-more/"
+      "short_title": "BCE: taux à 2,50%",
+      "title": "La BCE s'apprête à relever son taux de dépôt à 2,50% lors de sa réunion des 9-10 septembre",
+      "summary": "Selon un sondage Reuters, la totalité des 65 économistes interrogés anticipe un relèvement d'un quart de point à 2,50%, ce qui ferait de ce cycle le plus court de resserrement de la BCE depuis 2011. Environ 91% des économistes voient ce niveau se maintenir jusqu'à fin 2026, la banque jugeant l'inflation suffisamment maîtrisée pour arrêter là son cycle.",
+      "source": "Investing.com (sondage Reuters)",
+      "url": "https://www.investing.com/news/economy-news/ecb-to-raise-rates-a-second-time-in-september-but-then-done-say-economists-reuters-poll-4887563"
     },
     {
       "id": "n05",
       "theme": "finance",
       "subtopic": "usa",
       "importance": 3,
-      "short_title": "Fed Warsh: hausse en vue",
-      "title": "Le président de la Fed Kevin Warsh n'exclut plus une hausse des taux",
-      "summary": "Lors de son discours de Jackson Hole, Kevin Warsh a jugé l'inflation \"encore trop élevée\" et laissé entendre que la Fed pourrait devoir relever ses taux dans les mois à venir plutôt que les baisser, faisant bondir la probabilité anticipée d'une hausse de 34% à 57% en une journée. La prochaine réunion du FOMC se tient le 14 septembre, décision attendue le lendemain.",
-      "source": "The Hill",
-      "url": "https://thehill.com/business/6057043-federal-reserve-kevin-warsh-jackson-hole-interest-rate-hike/"
+      "short_title": "Trump presse la Fed",
+      "title": "Trump intensifie la pression sur la Fed pour une baisse de taux, à contre-courant des données",
+      "summary": "À une semaine de la décision du FOMC, Donald Trump pousse publiquement le président de la Fed Kevin Warsh vers une baisse des taux, alors que les marchés à terme donnent environ 60% de probabilité à une hausse d'un quart de point. La tension est renforcée par l'attente du rapport CPI du 11 septembre, seule donnée encore susceptible de faire pencher la balance.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "france",
-      "importance": 2,
-      "short_title": "Budget 2027: impasse",
-      "title": "Lecornu alerte sur le \"désordre\" d'un report du budget 2027, la censure déjà brandie",
-      "summary": "Sébastien Lecornu a écrit aux parlementaires que retarder l'adoption du budget 2027 jusqu'à la présidentielle reviendrait à choisir le désordre, alors qu'il ne dispose d'aucune majorité pour le faire voter. Olivier Faure (PS) et Jean-Luc Mélenchon (LFI) ont tous deux prévenu qu'ils censureraient un texte perçu comme porté par la ligne Attal-Philippe.",
-      "source": "Franceinfo",
-      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/budget-2027-sebastien-lecornu-face-au-defi-de-trouver-une-majorite-a-l-assemblee_8171324.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic: $517Md",
+      "title": "Anthropic aurait signé pour 517 milliards de dollars de capacité de calcul en onze mois",
+      "summary": "Selon une enquête de The Information, Anthropic a multiplié les contrats pluriannuels avec Microsoft Azure, SpaceX, Lambda, nScale, Volta et AMD, ajoutant au moins 14,8 GW de capacité déployable depuis octobre 2025. La société, qui viserait une introduction en Bourse, reste toutefois loin des quelque 750 milliards de dollars d'engagements annoncés par OpenAI à l'horizon 2030.",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/"
     },
     {
       "id": "n07",
-      "theme": "geopol",
-      "subtopic": "chine",
-      "importance": 2,
-      "short_title": "Sommet Xi-Trump: 24/09",
-      "title": "Trump invite Xi Jinping à Washington pour un sommet le 24 septembre",
-      "summary": "La rencontre, qui coïnciderait avec l'Assemblée générale de l'ONU à New York, marquerait la première visite d'État de Xi Jinping aux États-Unis depuis des années. Les attentes restent limitées côté américain, l'agenda bilatéral étant chargé par le commerce, Taïwan et la position de Pékin sur le conflit Iran-États-Unis.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Mistral lève 3 Md€",
+      "title": "Mistral boucle un tour de table de 3 milliards d'euros, plus grosse levée tech jamais réalisée en Europe",
+      "summary": "Samsung Electronics mène ce tour de série D aux côtés du Scaleup Europe Fund et de PSG Equity, avec en parallèle un partenariat stratégique sur les infrastructures semi-conductrices pilotées par IA. L'opération, annoncée en marge d'un sommet d'État France-Corée du Sud à Paris, illustre la tentative européenne de peser face à l'échelle de financement des géants américains de l'IA.",
+      "source": "NAI 500",
+      "url": "https://nai500.com/blog/2026/09/mistral-s-3-billion-round-puts-europe-s-ai-ambition-on-display/"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "GPT-6 Astra restreint",
-      "title": "OpenAI déploie GPT-6 Astra, premier modèle à franchir son seuil \"Critical\" de cybersécurité",
-      "summary": "Astra est le premier modèle d'OpenAI à dépasser le seuil \"Critical\" du Preparedness Framework en cybersécurité, ce qui justifie un déploiement prudent et par phases: les entreprises du programme cybersécurité d'OpenAI y accèdent en premier, avant une ouverture progressive à ChatGPT Plus/Pro/Business/Enterprise, à l'API et à AWS. Des garde-fous supplémentaires ont été ajoutés après la brèche subie par Hugging Face.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+      "importance": 2,
+      "short_title": "Gemini 3.8 Flash Cyber",
+      "title": "Google DeepMind lance Gemini 3.8 Flash et une variante Cyber dédiée à la cybersécurité",
+      "summary": "Troisième modèle Flash en six semaines, Gemini 3.8 Flash cible le code et les tâches agentiques, tandis que la variante Cyber, réservée aux clients gouvernementaux et entreprises de confiance, détecte et corrige des vulnérabilités logicielles à un niveau frontier. L'équipe sécurité de Chrome rapporte un taux de correctifs corrects 2,6 fois supérieur à des modèles commerciaux concurrents pourtant plus volumineux.",
+      "source": "Quartz",
+      "url": "https://qz.com/google-gemini-38-flash-cyber-ai-model-090326"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "regulation_ia",
       "importance": 2,
-      "short_title": "Claude Fable 5.1 lancé",
-      "title": "Anthropic lance Claude Fable 5.1 et Mythos 5.1, moins chers et plus agentiques",
-      "summary": "Fable 5.1, disponible en accès général via l'API, AWS, Google Cloud et Azure, coûte jusqu'à 45% de moins que Fable 5 sur les charges fortement agentiques grâce à une baisse de 75% du prix des lectures de cache. Mythos 5.1, la version aux garde-fous allégés pour la cybersécurité et les sciences du vivant, reste réservée aux programmes d'accès de confiance.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      "short_title": "UE: AI Act en vigueur",
+      "title": "L'UE entre dans l'ère de l'application effective de l'AI Act, amendes possibles jusqu'à 3% du CA mondial",
+      "summary": "Depuis le 2 août, l'AI Office de la Commission et les autorités nationales peuvent exiger la documentation technique des modèles à usage général, mener des évaluations et imposer des mesures correctives. Les nouvelles obligations de transparence forcent aussi les chatbots à s'identifier et les deepfakes à porter un marquage détectable, sous peine d'amendes pouvant atteindre 15 millions d'euros ou 3% du chiffre d'affaires mondial.",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/08/04/eu-ai-act-enforcement-ai-models/"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "mlops",
-      "importance": 3,
-      "short_title": "Nvidia rachète HF",
-      "title": "Nvidia confirme le rachat de Hugging Face pour 12,9 milliards de dollars",
-      "summary": "L'opération valorise Hugging Face à 11,9 milliards en cash pour les actionnaires, complétés par jusqu'à 1 milliard de dollars en actions de rétention pour les salariés; la plateforme héberge plus de 3 millions de modèles utilisés par 18 millions de développeurs et 200 000 entreprises. Nvidia s'engage à préserver l'ouverture de la plateforme, qui continuera de soutenir des puces concurrentes; la clôture est attendue au premier semestre 2027 sous réserve des autorisations réglementaires.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+      "theme": "finance",
+      "subtopic": "ccr_xva",
+      "importance": 2,
+      "short_title": "FRTB: sursis de l'EBA",
+      "title": "L'Autorité bancaire européenne publie une lettre de tolérance sur la frontière trading book/banking book du FRTB",
+      "summary": "L'EBA recommande aux superviseurs nationaux de ne pas prioriser les actions de contrôle sur la frontière entre portefeuille de négociation et portefeuille bancaire, ni sur les transferts internes de risque, en attendant l'entrée en vigueur pour trois ans à partir de janvier 2027 de l'acte délégué de la Commission. Ce geste de tolérance laisse aux banques le temps d'adapter leurs systèmes de calcul du risque de marché sans risquer de sanctions prématurées, un enjeu direct pour les équipes CCR/XVA.",
+      "source": "European Banking Authority",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "geopol",
+      "subtopic": "chine",
       "importance": 2,
-      "short_title": "100+ labs vs rogue AI",
-      "title": "Plus de 100 entreprises IA, dont Anthropic, OpenAI et Google, appellent à contrer les IA malveillantes",
-      "summary": "Une coalition de plus de cent entreprises technologiques, incluant Anthropic, OpenAI, Google et Microsoft, a signé fin août une lettre commune appelant à renforcer les défenses face aux cyberattaques assistées par IA. Le texte anticipe une multiplication des incidents impliquant des agents autonomes détournés de leur usage prévu.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+      "short_title": "Chine: exports +25%",
+      "title": "Les exportations chinoises bondissent de 25% en août, portées par l'auto et les semi-conducteurs",
+      "summary": "Les douanes chinoises rapportent une hausse de 25% des exportations en août sur un an, avec des ventes automobiles en hausse de 43% et des exports de semi-conducteurs en hausse de 129,8%, portant l'excédent commercial à 119,1 milliards de dollars. Cette résilience commerciale, obtenue malgré les droits de douane américains, renforce la position de négociation de Pékin à l'approche du sommet Xi-Trump du 24 septembre à Washington.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/china-exports-august-jump-25-percent-trade-surplus-widens-rcna596541"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
+      "theme": "sciences",
+      "subtopic": "genetique",
       "importance": 2,
-      "short_title": "Astra domine le coding",
-      "title": "GPT-6 Astra prend la tête de l'indice coût-efficacité des agents de code",
-      "summary": "Selon l'analyse du développeur Simon Willison, Astra affiche un coût par tâche proche de GPT-5.6 Sol tout en obtenant un score supérieur de deux points sur le Coding Agent Index, pour moins de la moitié du coût de Claude Fable 5 par tâche. Ce repositionnement, à peine quelques jours après la sortie du modèle, illustre la vitesse à laquelle le classement des agents de code se redessine.",
-      "source": "Simon Willison",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+      "short_title": "Gènes et personnalité",
+      "title": "Une étude portant sur 1,14 million de personnes relie plus de 1200 variants génétiques aux traits de personnalité",
+      "summary": "Publiée dans Nature, cette méta-analyse de 46 cohortes dans 13 pays identifie 1260 variants associés aux cinq grands traits de personnalité (dont 824 nouveaux), qui n'expliquent toutefois que 4,8 à 9,3% de la variance de chaque trait. Les auteurs montrent aussi que ces variants recoupent des marqueurs liés à la santé, la longévité, le parcours professionnel, le revenu et les habitudes de sommeil.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02761-5"
     },
     {
       "id": "n13",
-      "theme": "learn",
-      "subtopic": "llm_agents",
+      "theme": "sante",
+      "subtopic": "sante_mentale",
       "importance": 2,
-      "short_title": "IA agentique et travail",
-      "title": "L'IA agentique redéfinit la frontière entre chatbot et exécution autonome du travail",
-      "summary": "Lors du sommet IA & Workforce de Valence, le professeur Ethan Mollick (Wharton) a présenté des démonstrations d'agents capables de mener plusieurs heures de travail de connaissance en autonomie, ainsi que des recherches sur leur impact sur la performance des équipes. Il défend l'idée que la fonction RH, plutôt que l'IT, est la mieux placée pour piloter cette transformation dans les organisations.",
-      "source": "Valence",
-      "url": "https://www.valence.co/ai-and-the-workforce/ai-agents-agentic-work-the-future-of-work-ethan-mollick"
+      "short_title": "Sémaglutide: bipolaire",
+      "title": "Une étude de cohorte suédoise associe le sémaglutide à moins d'hospitalisations psychiatriques chez les patients bipolaires",
+      "summary": "L'étude, publiée dans Acta Psychiatrica Scandinavica sur près de 14 700 personnes dont 5 200 utilisateurs d'agonistes du GLP-1, rapporte une baisse de 21% du risque d'hospitalisation psychiatrique et de 17% du risque de rechute chez les utilisateurs de sémaglutide, sans effet retrouvé pour le liraglutide ou le dulaglutide. Les auteurs avancent une action anti-inflammatoire du GLP-1 sur le cerveau, mais appellent à un essai randomisé pour confirmer un lien causal.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "kettlebell",
+      "theme": "climat",
+      "subtopic": "usa",
       "importance": 2,
-      "short_title": "Kettlebell: rééducation",
-      "title": "Une revue confirme l'intérêt du kettlebell pour la rééducation musculosquelettique",
-      "summary": "Une synthèse portant sur 261 participants et des programmes de 8 à 12 semaines (swings, Turkish get-ups, développés) montre des preuves de bonne qualité sur la douleur et la force, et modérées sur la performance fonctionnelle. Les gains observés vont de -30 à -40% de douleur, +10 à 25% de force et +10 à 20% de fonction, positionnant le kettlebell comme une modalité de réadaptation peu coûteuse et facilement généralisable.",
-      "source": "PubMed Central",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12555178/"
+      "short_title": "Justice bloque l'EPA",
+      "title": "Une juge fédérale bloque la tentative de l'EPA de faire annuler les dérogations climatiques de la Californie",
+      "summary": "La juge Beryl Howell a jugé que l'EPA n'avait pas justifié légalement sa décision de requalifier en \"règles\" quatre dérogations du Clean Air Act accordées à la Californie, ce qui les aurait soumises à un contrôle du Congrès. Ces dérogations, dont plus de cent ont été accordées depuis les années 1960, permettent à l'État d'imposer ses propres normes d'émissions automobiles, avec des effets d'entraînement dans tout le pays.",
+      "source": "Inside Climate News",
+      "url": "https://insideclimatenews.org/news/03092026/judge-blocks-epa-from-challenging-californias-emissions-standards/"
     },
     {
       "id": "n15",
-      "theme": "sciences",
-      "subtopic": "biologie",
-      "importance": 3,
-      "short_title": "Alzheimer: piste immune",
-      "title": "Un anticorps anti-PD-L1 à action brève montre des signaux prometteurs contre Alzheimer",
-      "summary": "L'essai de phase 1b publié dans Nature Medicine sur IBC-Ab002, un anticorps modulant temporairement l'immunité périphérique plutôt qu'un inhibiteur de checkpoint classique, rapporte un profil de sécurité favorable et des réductions de biomarqueurs de lésion neuronale chez des patients au stade précoce d'Alzheimer. Les résultats, bien que non significatifs statistiquement vu la petite taille de l'échantillon, soutiennent la poursuite du développement clinique.",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04547-8"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor sur Vercel Sandbox",
+      "title": "Les agents cloud de Cursor peuvent désormais s'exécuter dans Vercel Sandbox",
+      "summary": "Cursor garde la main sur l'orchestration et la boucle d'inférence de ses Cloud Agents, mais peut désormais déléguer l'environnement d'exécution à Vercel Sandbox, une microVM Firecracker isolée par requête, orchestrée par Vercel Functions et Workflow. Réservée aux comptes Cursor Enterprise via les Self-Hosted Machines, cette intégration illustre la course à l'infrastructure derrière les outils de vibe coding, au même titre que les méga-contrats de calcul des labs frontier.",
+      "source": "Vercel",
+      "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox"
     },
     {
       "id": "n16",
-      "theme": "climat",
-      "subtopic": "regulation",
+      "theme": "learn",
+      "subtopic": "education_ia",
       "importance": 2,
-      "short_title": "Reform UK: argent fossile",
-      "title": "Greenpeace expose le financement fossile de Reform UK en pleine conférence du parti",
-      "summary": "Des militants de Greenpeace ont déployé une banderole télécommandée pendant le discours de Richard Tice au congrès de Reform UK à Birmingham, représentant Nigel Farage en \"Monsieur Monopoly\" brûlant la planète. Une analyse de Desmog citée par l'ONG évalue à plus de 24 millions de livres le financement du parti provenant de donateurs liés aux énergies fossiles, soit environ deux tiers de ses ressources.",
-      "source": "The London Economic",
-      "url": "https://www.thelondoneconomic.com/politics/greenpeace-unfurl-anti-farage-banner-behind-richard-tice-at-reform-conference-409477/"
+      "short_title": "Khanmigo: 700k élèves",
+      "title": "Google et Khan Academy déploient une version repensée de Khanmigo pour la rentrée 2026",
+      "summary": "Après six mois d'ingénierie commune pour intégrer les modèles Gemini, Khan Academy généralise à l'ensemble de ses districts partenaires une version de Khanmigo capable de générer des diagrammes adaptatifs en temps réel et du matériel pédagogique personnalisable. L'outil est passé de 40 000 à 700 000 élèves utilisateurs actifs en une seule année scolaire, confirmant l'appétit du secteur éducatif pour le tutorat assisté par IA.",
+      "source": "Google",
+      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/"
     }
   ],
   "edges": [
@@ -183,73 +183,61 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "L'annonce iranienne d'une zone d'exclusion et l'intensification des frappes croisées font chuter le trafic commercial à Ormuz et poussent le Brent vers un plus haut de sept semaines."
+      "explanation": "Les frappes houthies contre les installations Aramco font immédiatement bondir le Brent vers un plus haut de sept semaines, le marché intégrant un risque accru sur l'offre du Golfe."
     },
     {
       "source": "n02",
       "target": "n05",
       "type": "cause",
-      "explanation": "La flambée du prix du pétrole ajoute une pression inflationniste supplémentaire qui renforce l'argumentaire de Kevin Warsh en faveur d'un maintien, voire d'une hausse, des taux de la Fed."
+      "explanation": "La flambée du prix du pétrole ajoute une pression inflationniste qui complique l'équation de la Fed à une semaine de sa décision, à contre-courant de la volonté de baisse de Trump."
     },
     {
       "source": "n03",
-      "target": "n04",
+      "target": "n05",
       "type": "cause",
-      "explanation": "L'entrée en vigueur des contre-tarifs canadiens le 8 septembre est l'événement précis que les marchés nord-américains digèrent, sans provoquer de vente généralisée hors secteurs directement exposés."
+      "explanation": "Le rebond surprise de l'emploi américain en août renforce mécaniquement les anticipations de marché d'une hausse des taux, à l'opposé de ce que Trump réclame publiquement à Warsh."
     },
     {
-      "source": "n03",
-      "target": "n07",
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "BCE et Fed abordent la même semaine décisive sous un angle inverse: l'une clôt un cycle de resserrement jugé suffisant, l'autre hésite encore entre hausse et statu quo sous pression politique."
+    },
+    {
+      "source": "n11",
+      "target": "n05",
       "type": "tension",
-      "explanation": "Washington durcit simultanément le ton commercial envers son voisin canadien tout en tendant la main diplomatique à la Chine pour un sommet, illustrant deux postures opposées de la politique étrangère américaine au même moment."
+      "explanation": "La résilience inattendue des exportations chinoises complique la lecture du cycle économique mondial que la Fed doit intégrer, alors même que les prix de l'énergie et l'emploi américain plaident pour des lectures opposées."
     },
     {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "Le virage hawkish de la Fed renchérit les conditions de financement mondiales, ce qui réduit encore la marge de manœuvre budgétaire de Lecornu alors qu'il tente de faire adopter un budget 2027 sans majorité."
+      "source": "n06",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "Les 517 milliards de dollars de contrats de calcul d'Anthropic et le record européen de Mistral illustrent la même course mondiale au capital pour l'IA, mais à des échelles qui creusent l'écart entre labs américains et challengers européens."
     },
     {
-      "source": "n11",
+      "source": "n07",
       "target": "n08",
-      "type": "cause",
-      "explanation": "L'appel collectif de plus de cent entreprises IA fin août à mieux se défendre contre les usages malveillants de l'IA constitue la toile de fond qui pousse OpenAI à restreindre le déploiement d'Astra, son premier modèle classé \"Critical\" en cybersécurité."
+      "type": "meme_sujet",
+      "explanation": "La levée record de Mistral et le lancement du troisième modèle Flash de Google en six semaines montrent le même rythme effréné de sorties et de financements qui structure la semaine de l'IA frontier."
     },
     {
-      "source": "n11",
+      "source": "n06",
       "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Anthropic, cosignataire de la même coalition, applique la même logique de gouvernance en réservant Mythos 5.1, sa version aux garde-fous allégés, à des programmes d'accès de confiance plutôt qu'à une diffusion large."
+      "type": "tension",
+      "explanation": "La course effrénée d'Anthropic à l'échelle de calcul entre en tension avec le durcissement réglementaire européen, qui impose désormais documentation technique et évaluations aux modèles à usage général les plus puissants."
     },
     {
-      "source": "n08",
-      "target": "n09",
+      "source": "n15",
+      "target": "n06",
       "type": "meme_sujet",
-      "explanation": "OpenAI et Anthropic lancent à quelques jours d'intervalle des modèles frontier assortis d'un accès à deux vitesses, signe d'une convergence de l'industrie vers des déploiements sous conditions plutôt qu'une ouverture totale."
-    },
-    {
-      "source": "n08",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "La sortie d'Astra rebat immédiatement les classements de coût-efficacité des agents de code suivis par la communauté développeur, propulsant OpenAI en tête devant Claude Fable 5."
-    },
-    {
-      "source": "n10",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Le rachat de Hugging Face par Nvidia et la bataille des agents de code entre labs traduisent la même dynamique de consolidation autour du contrôle de la chaîne outillage-modèles-infrastructure de l'IA générative."
+      "explanation": "L'intégration de Cursor à l'infrastructure cloud de Vercel et les méga-contrats de calcul d'Anthropic relèvent de la même course à l'infrastructure IA, à deux échelles différentes: l'agent de code individuel et l'entraînement de modèles frontier."
     },
     {
       "source": "n12",
       "target": "n13",
       "type": "meme_sujet",
-      "explanation": "L'essor rapide des agents de code et les observations de Mollick sur le travail de connaissance autonome décrivent la même bascule: des outils IA qui abaissent la barrière d'entrée et redéfinissent ce qu'un humain doit encore superviser."
-    },
-    {
-      "source": "n14",
-      "target": "n15",
-      "type": "meme_sujet",
-      "explanation": "La revue sur le kettlebell et l'essai clinique sur Alzheimer illustrent tous deux la maturation d'une médecine fondée sur la preuve en 2026, aussi bien pour la rééducation musculosquelettique que pour les maladies neurodégénératives."
+      "explanation": "L'étude génétique sur la personnalité et l'étude de cohorte sur le sémaglutide illustrent toutes deux la montée en puissance d'une recherche biomédicale à très grande échelle, capable de relier des données de masse à des trajectoires de santé individuelles."
     }
   ]
 }

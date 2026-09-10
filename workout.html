@@ -170,90 +170,81 @@
 </header>
 
 <main>
-  <div class="page-kicker">JEUDI 10/09 · street · ~50 min · HINGE — LE FOCUS DU BLOC · 16 SÉRIES DE TRAVAIL · 6 JOURS SANS RENFO · ACWR 0,62 — SOUS-CHARGE</div>
+  <div class="page-kicker">VENDREDI 11/09 · street · ~40 min · PUSH · 8 SÉRIES DE TRAVAIL · J2 CONSÉCUTIF — VOLUME ÷ 2 · POMPES PROMUES AU SOL</div>
   <h1 class="page-title">Workout</h1>
   <p class="page-intro">
-    Six jours sans séance de renfo — dernière le <b>04/09</b>, 30 min. L'ACWR est retombé de <b>0,84 à 0,62</b> : zone <b>sous-charge</b>, la rampe est autorisée (<code>borne_rampe</code> : 0,62 ≤ 1,3). Readiness <b>green</b>.
-    Le plan a été <b>re-projeté ce matin</b> : la re-projection du 04/09 n'avait jamais été faite, l'intention <code>squat</code> était restée en tête de file alors qu'elle avait été consommée. Corrigé — tête de file = <b>hinge</b>, ce qui recolle enfin avec <code>allocation.focus = [hinge]</code>.
-    Volume : <b>16 séries de travail</b> contre 12 le 04/09, soit <b>+33 %</b>. C'est juste au-dessus de la borne masters de +30 %/semaine, assumé : il y a eu six jours de repos entre les deux, et le hinge est le focus qui n'a été servi qu'une fois depuis l'ouverture du bloc.
+    Deuxième jour de renfo d'affilée. Hier : <b>16 séries en ~30 min à RPE 6, zéro douleur</b> sur les quatre zones. L'ACWR est passé de <b>0,62 à 0,94 en une journée</b> (renfo + vélo) — zone toujours <code>optimal</code>, borne à 1,3, donc rien ne bloque. La réduction à <b>8 séries</b> est une décision de séquencement, pas une contrainte de la machine : la chaîne postérieure a pris 7 séries hier, elle ne repasse pas aujourd'hui.
+    Les <b>pompes montent au sol</b> — deux crans, <code>pompes-genoux</code> enjambé. C'est ton arbitrage, pas celui du script : il refusait, et il avait tort sur le fond.
   </p>
 
   <div class="goal">
     <span class="star">✦</span>
     <div>
-      <div class="g-kicker">Ce que cette séance met à l'épreuve</div>
-      <div class="g-line">Le <b>hinge en focus réel</b> — deux blocs, 7 séries, chaîne postérieure. C'est le pattern qui sert le vélo, et il n'a été travaillé qu'une seule fois depuis le 04/09.</div>
-      <div class="g-sub">Et, toujours, la <b>rotation externe à <code>re-neutre-modere</code></b> sous régime Silbernagel : <b>≤5/10 permis pendant</b>, verdict <b>vendredi matin</b>. &lt;2/10 → l'échelon tient. ≥2/10 ou douleur sourde → régression d'un cran. <b>Aucune donnée n'est remontée du 04/09</b> : <code>reponse_douleur</code> est vide dans l'index. Troisième séance du régime, et on n'a toujours pas une seule mesure de réveil pour le juger.</div>
+      <div class="g-kicker">La mesure qui décide de tout, ce matin</div>
+      <div class="g-line"><b>Ton épaule au réveil, avant de te lever.</b> C'est la première donnée de réveil depuis l'ouverture du régime Silbernagel le 03/09. Trois séances qu'elle manque.</div>
+      <div class="g-sub"><b>&lt;2/10</b> → <code>re-neutre-modere</code> tient, la séance part telle quelle. <b>≥2/10, ou une douleur sourde qui s'installe</b> → tu régresses la rotation externe à <code>re-neutre-leger</code>, sans discussion. Ta baseline matinale est à ~0 : c'est ce qui rend le critère tranchant. Et un bon réveil <b>n'ouvre pas</b> <code>re-90-abduction</code> — c'est le palier 3, conditionné à GIRD &lt;18° et ER/IR ≥66 %, ni l'un ni l'autre jamais mesurés.</div>
     </div>
   </div>
 
   <div class="constraint">
-    <div class="c-tag">◆ Le plan n'était pas à jour — et ça se voyait dans la séance</div>
+    <div class="c-tag">◆ Les pompes montent de deux crans — et le script disait non</div>
     <div class="c-body">
-      La méthode prévoit une <b>re-projection à chaque feedback de séance</b> (FR-400) : l'intention consommée sort de la file, le reste est ré-ordonné par variété. Ça n'a pas été fait au feedback du 04/09.
-      Résultat : <code>file_intentions[0]</code> valait encore <b><code>squat</code> T1</b> — le pattern qu'on venait justement de travailler — pendant que <code>allocation.focus</code> valait <b><code>hinge</code></b>. Deux sources qui se contredisaient dans le même fichier.
-      Re-projeté ce matin sur l'événement du 04/09 (<code>reprojeter</code> + <code>persister_plan</code>). Nouvelle file : <b>hinge T2 → push T3 → tirage_vertical T1</b>. Le squat n'y est plus : il a été servi le 04/09, il est dans sa fenêtre de 7 jours, il ne revient pas aujourd'hui.
+      Prescrit hier : <code>pompes-inclinees</code>. Fait : <b>au sol, amplitude presque entière, épaule 0/10</b>. L'échelle est <code>mur → inclinees → genoux → <b>sol</b> → declinees → archer</code> : tu as sauté <code>pompes-genoux</code>.
+      <code>progression_gatee(pattern="push")</code> rendait <b><code>hold</code></b> — mais avec <code>decision_clinique: "progresser"</code> et le motif <i>« pattern 'push' hors focus (allocation active) — progression réservée aux patterns focus (FR-808) »</i>. Autrement dit : <b>le refus n'était pas clinique</b>, c'était l'Allocateur qui réservait la dépense de progression au focus du bloc (<code>hinge</code>).
+      Ton arbitrage lève le hold. <b>L'entorse à FR-808 est tracée</b> dans <code>echelons.yaml</code> (<code>note_2026_09_10</code>), pas maquillée — et l'<b>allocation n'est pas modifiée</b> : <code>push</code> reste en maintenance, ce cran ne rouvre pas la surcharge sur le push pour le reste du bloc.
+      <b>Réserve, et elle est réelle</b> : « presque entière » n'est pas « complète ». <b>Cote l'amplitude explicitement aujourd'hui.</b> Si l'amplitude complète ne passe pas à 0/10, le cran redescend à <code>pompes-genoux</code> — enjambé, donc jamais testé.
     </div>
   </div>
 
   <div class="constraint">
-    <div class="c-tag">◆ Deux écarts à l'ondulation, assumés et signalés</div>
+    <div class="c-tag">◆ Le focus d'aujourd'hui vient d'un fail-safe, pas d'un choix</div>
     <div class="c-body">
-      <b>1. Push.</b> <code>substitut_ondulation</code> propose de remplacer <code>pompes</code> (fait le 04/09) par <code>triceps-extension-elastique</code>. <b>Refusé.</b> Les CI épaule ont réduit le catalogue push du street à deux entrées — dips, ring push-up, ring dip, écarté, pseudo-planche et pike push-up sont tous exclus. Une extension triceps ne couvre pas le groupe musculaire dont le volume minimal est en jeu ; substituer, ici, ce serait perdre le stimulus au nom de la variété. <b>L'ondulation passe par le tempo</b> (3 s d'excentrique) et non par le changement d'exercice.
-      <b>2. Hinge.</b> Le catalogue hinge du street compte <b>trois</b> exercices. <code>rdl-unilateral-pdc</code> consomme la variation (il n'était pas au programme du 04/09) ; <code>nordic-hamstring</code> est reconduit. Avec deux blocs de focus sur trois exercices disponibles, un doublon est arithmétique, pas un oubli.
+      <code>patterns_charges_recents(11/09)</code> renvoie <b>les cinq patterns d'hier</b> : correctif, hinge, push, tirage horizontal, tirage vertical. L'anti-empilement 48 h n'a donc <b>plus rien à écarter</b> — <code>instancier_focus</code> tombe sur son dernier recours (FR-559) et conserve la tête de file, <code>push</code> T3.
+      Il se trouve que le fail-safe atterrit juste : <b>push est le pattern le moins chargé d'hier</b> — 2 séries seulement, parce que je l'avais délibérément plafonné pour tenir la rampe. Et le <b>squat</b> n'est pas dans les patterns chargés (dernier : 04/09), avec sa fenêtre de volume minimal hebdo qui expire aujourd'hui.
+      Mais ça ne rend pas le fail-safe fiable pour autant. <b>C'est le signal de fond : à J2, la méthode n'a plus de variété à distribuer.</b> Un troisième jour d'affilée n'aurait aucun pattern frais à proposer.
     </div>
   </div>
 
-  <div class="constraint">
-    <div class="c-tag">◆ Ce que le tempo élastique change — et que tu fais à l'envers depuis longtemps</div>
-    <div class="c-body">
-      <code>obs-2026-09-01-001</code>, à citer à chaque exercice élastique, et il coupe en deux :
-      <b>Séries de travail</b> (rowing élastique, pallof, curl, triceps, pulldown) → <b>tension continue conservée</b>. C'est une intensification légitime, elle explique en partie l'atteinte du RIR cible du 01/09.
-      <b>Slot correctif Tier 1</b> (rotation externe, TKE, excentrique poignet) → <b>relâcher la tension en fin d'amplitude</b>. Ces exercices sont sous-maximaux par construction et visent des structures irritables actives — bursite, épicondylite, chondropathie. <b>La rééducation vise la tolérance, pas l'accumulation de charge.</b>
-      Aujourd'hui les deux régimes cohabitent dans la même séance : relâché sur les trois correctifs, continu sur le rowing.
-    </div>
-  </div>
-
-  <div class="section-label">La séance — ~50 min (street, hinge en focus)</div>
+  <div class="section-label">La séance — ~40 min (street, push, volume réduit)</div>
   <div class="seance">
     <div class="step">
       <span class="num">1</span>
       <span class="txt">
-        <span class="role">Échauffement — trajet + cheville + thoracique <span class="time">~4 min sur place</span></span>
-        <span class="detail">Le trajet se <b>cote aller et retour séparément</b> — passe 2/2 du retest <code>genou_impact</code>, toujours bloqué à 1/2 depuis le 21/08 faute de remontée. C'est la seule mesure qui peut faire avancer ce dossier.</span>
+        <span class="role">Avant de te lever — cotation du réveil <span class="time">~10 s · au lit</span></span>
+        <span class="detail">Épaule D, NRS, <b>avant de bouger</b>. Puis, si tu y penses, la même chose pour le genou. C'est la donnée qui manque depuis trois séances et sans laquelle le régime Silbernagel ne peut rien décider — ni garder l'échelon, ni le rendre.</span>
         <ul>
-          <li><b>Trajet</b> allure libre <span class="reps">à coter aller ET retour</span></li>
-          <li><b>Mobilité cheville</b> <code>genou-au-mur-assiste</code> <span class="reps">10 reps/côté × 2 séries</span></li>
-          <li><b>TEST genou-au-mur</b> — mesure, pas exercice <span class="reps">en cm, les 2 côtés</span> · <b>toujours jamais fait</b></li>
-          <li><b>Mobilité thoracique</b> <code>rotation-allongee</code> <span class="reps">8 reps/côté × 2 séries</span></li>
+          <li><b>Épaule D au réveil</b> <span class="reps">NRS 0-10 · décide l'échelon du bloc 2</span></li>
         </ul>
-        <div class="retest">
-          <div class="rt-tag">◆ La mesure qui manque depuis des mois</div>
-          <div class="rt-body">Pied perpendiculaire au mur, genou qui avance vers le mur <b>sans décoller le talon</b>. Tu recules jusqu'au point où le genou ne touche plus, tu notes la <b>distance orteils-mur en centimètres</b>, des <b>deux côtés</b>. Trente secondes. La fiche <code>mobilite-cheville</code> le dit : « déficit dorsiflexion → compensation valgus genou, <b>levier préventif amont</b> ». L'exercice est au programme depuis des mois, au <b>premier cran assisté</b>, jamais progressé et jamais mesuré. Une asymétrie &gt;1-2 cm entre côtés est déjà un signal.</div>
-        </div>
       </span>
     </div>
     <div class="step">
       <span class="num">2</span>
       <span class="txt">
-        <span class="role">Mesure hebdo — ton plafond d'élévation indolore <span class="time">~20 s · indolore par construction</span></span>
-        <span class="detail">Bras tendu, <b>dans le plan de l'omoplate</b> (~30° en avant du plan frontal), tu montes <b>lentement, à vide</b>, et tu <b>t'arrêtes à l'apparition de la douleur</b>. Tu notes où — <b>sous l'horizontale / à l'horizontale / au-dessus / bras à l'oreille</b> — et le NRS à cet instant.
-        C'est le suivi de <b>P2</b> (élévation sous charge ou sous vitesse : 4-5/10 le 16/06, 6/10 le 27/08, service 6-7/10). Prescrite pour la première fois le 04/09, <b>non remontée</b>. Tant qu'elle n'existe pas, P2 reste binaire et rien ne peut progresser dessus.</span>
+        <span class="role">Échauffement + les deux mesures qui traînent <span class="time">~5 min sur place</span></span>
+        <span class="detail">Le trajet se <b>cote aller et retour séparément</b> si tu cours — hier il n'y a eu que du vélo, donc la passe 2/2 de <code>genou_impact</code> n'a pas avancé. Compteur toujours à 0 depuis la remontée à 2/10 du 26/08.</span>
         <ul>
-          <li><b>Élévation active plan scapulaire</b>, à vide, lente <span class="reps">1 passage · noter angle + NRS</span></li>
+          <li><b>Trajet</b> allure libre <span class="reps">à coter aller ET retour, si couru</span></li>
+          <li><b>Mobilité cheville</b> <code>genou-au-mur-assiste</code> <span class="reps">10 reps/côté × 2 séries</span></li>
+          <li><b>TEST genou-au-mur</b> — mesure, pas exercice <span class="reps">en cm, les 2 côtés</span> · <b>toujours jamais fait</b></li>
+          <li><b>Plafond d'élévation indolore</b> — bras tendu, plan de l'omoplate, à vide, lent <span class="reps">1 passage · angle + NRS</span> · <b>3ᵉ demande</b></li>
         </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Pourquoi j'insiste sur ces deux-là</div>
+          <div class="rt-body"><b>Le plafond d'élévation</b> est la seule mesure qui peut faire avancer P2 — l'abduction, le service, tout ce qui te fait mal à 6-7/10. Hier tu as fait 0/10 sur tractions, rowing et rotation externe : ça ne dit <b>rien</b> de P2, parce qu'aucune abduction n'a été faite. <code>adapt-2026-08-27-001</code> attend cette mesure pour avoir une condition de sortie, sinon elle reste active indéfiniment.
+          <b>Le genou-au-mur</b> : pied perpendiculaire au mur, genou vers le mur <b>sans décoller le talon</b>, tu recules jusqu'au point de non-contact, tu notes la <b>distance orteils-mur en cm</b>, des deux côtés. Trente secondes. Une asymétrie &gt;1-2 cm est déjà un signal, et ce déficit borne le squat.</div>
+        </div>
       </span>
     </div>
     <div class="step">
       <span class="num">3</span>
       <span class="txt">
-        <span class="role">Correctif — Tier 1 · épaule, genou, coude <span class="time">~9 min · sous-maximal</span></span>
-        <span class="detail"><b>Rotation externe</b>, coude verrouillé au corps, épaules basses. <b>≤5/10 permis</b> — c'est le régime, pas une tolérance ; le plafond n'est pas une cible. <b>Relâche la tension en fin d'amplitude</b> (correctif, pas série de travail). Le verdict se prend <b>vendredi au réveil</b>.
-        <b>TKE</b> : note la <b>couleur de bande et l'ancrage</b>. Sixième séance que ça manque — sans ces champs, aucune décision d'échelon n'est prenable.
-        <b>Excentrique poignet</b> : fait le 04/09, à tenir. L'épicondylite borne les tractions <b>et</b> le rowing d'aujourd'hui.</span>
+        <span class="role">Correctif — Tier 1 · épaule, genou, coude <span class="time">~8 min · sous-maximal</span></span>
+        <span class="detail"><b>Rotation externe — l'échelon dépend de ta cotation de l'étape 1.</b> Réveil &lt;2/10 → <code>re-neutre-modere</code>, comme hier. Réveil ≥2/10 ou douleur sourde → <b>tu descends à <code>re-neutre-leger</code></b>, élastique plus souple. Pendant l'exercice, <b>≤5/10 permis</b> — c'est le régime, pas une cible.
+        <b>Relâche la tension en fin d'amplitude</b> sur les trois exercices de ce bloc. C'est l'inverse de ce que tu fais spontanément, et l'inverse de ce qu'on demande sur le pallof plus bas : les correctifs sont sous-maximaux par construction et visent des structures irritables — la rééducation vise la <b>tolérance</b>, pas l'accumulation de charge.
+        <b>TKE</b> : couleur de bande et ancrage. <b>Septième séance.</b> Sans ces deux champs, deux séries élastiques ne sont pas comparables et l'échelon est bloqué en hold administratif, pas clinique.</span>
         <ul>
-          <li><b>Rotation externe coiffe</b> <code>re-neutre-modere</code>, tempo 2-1-3 <span class="reps">12 reps × 3 séries</span> · repos 40 s · <b>≤5/10 permis · relâcher en fin d'amplitude</b></li>
-          <li><b>TKE élastique</b> <code>tke-leger</code> <span class="reps">15 reps × 2 séries</span> · repos 30 s · <b>noter couleur + ancrage</b></li>
+          <li><b>Rotation externe coiffe</b> <code>re-neutre-modere</code> <i>ou</i> <code>re-neutre-leger</code>, tempo 2-1-3 <span class="reps">12 reps × 3 séries</span> · repos 40 s · <b>≤5/10 permis · relâcher en fin d'amplitude</b></li>
+          <li><b>TKE élastique</b> <code>tke-leger</code>, retour contrôlé <span class="reps">15 reps × 2 séries</span> · repos 30 s · <b>noter couleur + ancrage</b></li>
           <li><b>Excentrique poignet</b> <code>ext-leger</code>, retour freiné 3 s <span class="reps">15 reps × 2 séries</span> · repos 30 s</li>
         </ul>
       </span>
@@ -261,71 +252,67 @@
     <div class="step">
       <span class="num">4</span>
       <span class="txt">
-        <span class="role">Bloc 1 — Hinge <span class="time">~9 min · LE FOCUS</span></span>
-        <span class="detail"><b>Soulevé de terre roumain unilatéral, poids de corps.</b> Nouveau au programme du bloc — c'est lui qui porte l'ondulation du hinge.
-        Jambe d'appui légèrement fléchie, bassin qui recule, dos neutre, la jambe libre part en arrière dans l'axe. Tu descends jusqu'à la <b>limite d'étirement des ischios sans arrondir le bas du dos</b>, <b>3 s à la descente</b>. Le geste est un mouvement de <b>hanche</b>, pas de genou : la chondropathie n'est pas dans le circuit.
-        <b>Qualité à gauche d'abord</b> — c'est ton côté faible, relevé deux fois, et c'est lui qui te fait surcompenser à droite sur le genou et le mollet.</span>
+        <span class="role">Bloc 1 — Squat <span class="time">~7 min · maintenance</span></span>
+        <span class="detail">Le squat passe <b>avant</b> le push, et ce n'est pas cosmétique : ça évite d'accoler le correctif d'épaule au bloc qui charge l'épaule (anti-empilement de zone, C-008).
+        <b>Demi-squat poids de corps</b>, pieds largeur d'épaules, <b>descente lente 3 s</b>, arrêt à mi-course — loin de la flexion très profonde qui te fait mal. Genoux alignés sur les pieds. <b>Pas de RIR chiffré</b> : poids de corps seul sous CI active, l'effort se règle au tempo.
+        C'est le seul pattern non chargé hier, et sa fenêtre de volume minimal hebdomadaire expire aujourd'hui. Hier c'était la chaîne postérieure (RDL + nordic, 7 séries) ; aujourd'hui c'est le quadriceps. Ce n'est pas le même tissu.</span>
         <ul>
-          <li><b>RDL unilatéral poids de corps</b> <code>rdl-uni-poids-de-corps</code>, 3 s descente <span class="reps">10 reps/jambe × 4 séries @ RIR 2</span> · repos 60 s</li>
+          <li><b>Demi-squat poids de corps</b> <code>squat-demi</code>, descente 3 s <span class="reps">12 reps × 3 séries</span> · repos 60 s</li>
         </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Pourquoi pas le spanish squat, encore une fois</div>
+          <div class="rt-body"><code>substitut_ondulation</code> le propose (tu as fait du demi-squat le 04/09), et <code>prioriser_reparation</code> le met en tête. <b>Refusé</b>, pour le motif écrit le 04/09 : il charge le <b>tendon rotulien</b>, muscles = quadriceps seuls, alors que ton diagnostic est une <b>chondropathie</b> — mauvais tissu ; et l'isométrie est classée <b>3ᵉ sur 4</b> par la KB (HSR &gt; résistance modérée-lente &gt; isométrique &gt; excentrique isolé) après 7 semaines dessus — mauvaise phase.
+          <code>leg-extension-elastique</code> écarté aussi : quadriceps seuls, il ne couvre pas le groupe dont le volume minimal est en jeu. <b>C'est exactement le critère avec lequel j'ai refusé le substitut triceps sur le push hier</b> — si je l'applique là, je l'applique ici. L'ondulation passe donc par le <b>tempo</b>, pas par le changement d'exercice.</div>
+        </div>
       </span>
     </div>
     <div class="step">
       <span class="num">5</span>
       <span class="txt">
-        <span class="role">Bloc 2 — Tirage vertical <span class="time">~8 min · maintenance</span></span>
-        <span class="detail"><b>Tractions, prise NEUTRE obligatoire.</b> Le garde-fou rend l'exercice <code>admis_modifie</code>, pas admis simple : tag <code>coude_grip_traction</code> ← <code>grip_actif:coude_grip_charge</code> ← <code>obs-2026-06-02-002</code>. Règle : <b>≤3/10 et ça cède sous 24 h</b>.
-        <b>Pas de RIR chiffré</b> — <code>dose_serie</code> renvoie le mode <b>tempo</b> : poids de corps seul sous CI active, l'effort se règle au tempo et à l'amplitude. <b>3 s à la descente, amplitude complète.</b>
-        <b>Volume : 16 reps, exactement comme le 03/09.</b> Pas de rampe ici — le tirage vertical est en <b>maintenance</b>, sa dose est le volume d'entretien, pas une cible à faire monter. Ce qui change, c'est la <b>structure</b> : 4 séries propres au lieu du 5-5-2-2-2 du 03/09, qui venait d'une erreur de pacing sur le format d'affichage.</span>
+        <span class="role">Bloc 2 — Push <span class="time">~7 min · LE FOCUS · nouvel échelon</span></span>
+        <span class="detail"><b>Pompes au sol.</b> Corps gainé d'une seule pièce, coudes à ~45° du buste (pas écartés en T — c'est ça qui ferme l'espace sous-acromial), <b>descente 3 s</b>, <b>poitrine proche du sol</b>. Pas de RIR chiffré : mode tempo.
+        <b>8 reps × 3, et pas plus.</b> Tu en ferais probablement plus — ce n'est pas le sujet. Tu viens de sauter deux crans, sur un pattern en maintenance, au lendemain d'une séance à 16 séries. On installe l'échelon avant de le charger.
+        <b>Ce que tu dois rapporter</b> : l'<b>amplitude réelle</b> (poitrine au sol ou pas) et l'<b>épaule</b>. « Presque entière » hier n'est pas « complète » — et si la complète ne passe pas à 0/10, on redescend à <code>pompes-genoux</code>, qui a été enjambé et jamais testé.</span>
         <ul>
-          <li><b>Tractions</b> <code>traction-complete</code>, prise neutre, 3 s descente <span class="reps">4 reps × 4 séries</span> · repos 60 s · <b>arrêt si épaule &gt;3/10</b></li>
+          <li><b>Pompes au sol</b> <code>pompes-sol</code>, coudes ~45°, descente 3 s <span class="reps">8 reps × 3 séries</span> · repos 60 s · <b>coter amplitude + épaule</b></li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">6</span>
       <span class="txt">
-        <span class="role">Bloc 3 — Hinge <span class="time">~7 min · LE FOCUS</span></span>
-        <span class="detail"><b>Nordic hamstring, assisté à la bande.</b> <b>Serviette ou tapis sous les genoux</b> — le sol du parc comprime les rotules, c'est une mécanique de surface, pas la chondropathie (<code>obs-2026-06-15-001</code>).
-        <b>RIR 3, pas RIR 1.</b> La bibliothèque prescrit RIR 1 sur cet exercice ; il est <b>plafonné par le Tier 1</b> : ta douleur vient de la <b>patte d'oie</b>, insertion commune du sartorius, du gracilis et du <b>semi-tendineux</b> — un ischio médial. Le nordic est un excentrique maximal d'ischios, il tire exactement là. <b>Tu arrêtes la série si la face interne dépasse 2/10.</b>
-        Hydratation et ischios échauffés — c'est l'exercice à crampes.</span>
+        <span class="role">Bloc 3 — Core anti-rotation <span class="time">~5 min</span></span>
+        <span class="detail"><b>Pallof press.</b> Élastique ancré à hauteur de sternum, perpendiculaire, tu pousses devant toi et tu <b>résistes à la rotation</b> — le travail est dans ce que tu ne fais pas bouger. Bassin verrouillé, côtes basses.
+        <b>Tension continue conservée ici</b> — c'est une série de travail, pas un correctif. Régime inverse du bloc 3.
+        Le core anti-rotation sert directement le sous-focus vélo : c'est ce qui évite que le bassin roule à chaque coup de pédale en danseuse.</span>
         <ul>
-          <li><b>Nordic hamstring</b> <code>nordic-assiste-bande</code>, descente lente <span class="reps">6 reps × 3 séries @ RIR 3</span> · repos 60 s · <b>ARRÊT si patte d'oie &gt;2/10</b></li>
+          <li><b>Pallof press</b> <code>pallof-press</code>, tension continue <span class="reps">10 reps/côté × 2 séries @ RIR 2</span> · repos 45 s</li>
         </ul>
       </span>
     </div>
     <div class="step">
       <span class="num">7</span>
       <span class="txt">
-        <span class="role">Bloc 4 — Tirage horizontal <span class="time">~6 min · maintenance</span></span>
-        <span class="detail"><b>Rowing élastique</b>, et non le rowing australien : ondulation depuis le 04/09.
-        <b>Tension continue conservée</b> — c'est une série de travail. <b>Prise neutre</b>, même règle de grip que les tractions.
-        Et le rappel qui vaut pour tout tirage d'épaule : <b>épaules basses, ne PAS hausser</b>. Dépression scapulaire d'abord (épaules loin des oreilles), menton rentré, coudes tirés par l'<b>arrière d'épaule + rhomboïdes</b>, jamais par le cou. Si la nuque reprend le relais, allège l'élastique. <b>Arrête-toi avant le verrouillage scapulaire terminal</b> plutôt que de tirer au maximum (<code>obs-2026-08-17-001</code>).</span>
+        <span class="role">Retour au calme <span class="time">~2 min</span></span>
+        <span class="detail">Mobilité thoracique — utile après un bloc push, et ça ne coûte rien.</span>
         <ul>
-          <li><b>Rowing élastique</b> <code>rowing-lourd</code>, prise neutre, tension continue <span class="reps">12 reps × 3 séries @ RIR 2</span> · repos 60 s</li>
-        </ul>
-      </span>
-    </div>
-    <div class="step">
-      <span class="num">8</span>
-      <span class="txt">
-        <span class="role">Bloc 5 — Push <span class="time">~4 min · maintenance, dose réduite</span></span>
-        <span class="detail">Mains sur <b>n'importe quel appui surélevé</b> — barre basse, rambarde, barres de dips. Pas de banc au parc, l'échelon ne change pas pour autant. Corps gainé, coudes à ~45°, amplitude complète sans douleur. <b>Pas de RIR chiffré</b> : mode tempo, l'effort se règle à la descente.
-        <b>2 séries seulement, et c'est délibéré.</b> Le volume minimal d'entretien du push est de 4-6 séries <b>par semaine</b>, pas par séance. Deux séries tiennent la <b>fréquence</b> (≥1×/sem) sans faire exploser la rampe du jour ; le compte se complète à la prochaine séance, où <code>push</code> est justement en tête de file.</span>
-        <ul>
-          <li><b>Pompes inclinées</b> <code>pompes-inclinees</code>, 3 s descente <span class="reps">10 reps × 2 séries</span> · repos 60 s</li>
+          <li><b>Mobilité thoracique</b> <code>rotation-allongee</code> <span class="reps">8 reps/côté × 2 séries</span></li>
         </ul>
       </span>
     </div>
   </div>
 
   <div class="decision">
-    <div class="d-tag">◆ Complément maison, si tu as encore du temps</div>
+    <div class="d-tag">◆ Si la readiness n'est pas verte au réveil</div>
     <div class="d-body">
-      Le complément n'ajoute <b>aucune série de travail</b> — c'est du correctif que le parc ne permet pas.
+      Le <b>green est reporté d'hier</b>, pas mesuré pour aujourd'hui. Reclasse-le avec la HRV et la FC fraîches avant de partir.
       <div class="opt">
-        <div class="opt-h">Tyler Twist — FlexBar verte, 15 reps × 3 séries</div>
-        Quotidien, 6-12 semaines, hors circuit. La FlexBar n'est pas au parc, donc c'est à la maison ou nulle part. L'épicondylite est active depuis <b>100 jours sans retest</b> et elle borne les tractions <b>et</b> le rowing d'aujourd'hui. L'excentrique poignet prescrit en séance ne la remplace pas.
+        <div class="opt-h">Yellow → tu retires le bloc squat</div>
+        −30 % de volume (FR-253). Il reste correctif + push + core = 5 séries. Le push est le focus, il ne saute pas.
+      </div>
+      <div class="opt">
+        <div class="opt-h">Red → correctif + mobilité seuls, et rien d'autre</div>
+        Pas de bloc de force. La rotation externe et le TKE restent — ils sont sous-maximaux par construction.
       </div>
     </div>
   </div>
@@ -335,43 +322,44 @@
     <div class="card watch">
       <h3>Ce que tu surveilles</h3>
       <ul>
-        <li><b>La rotation externe.</b> ≤5/10 pendant, c'est permis. Le verdict est <b>vendredi au réveil</b> : &lt;2/10 on garde, sinon on régresse. <b>Troisième séance sans donnée de réveil</b> — sans elle, le régime ne peut rien décider.</li>
-        <li><b>Ton plafond d'élévation indolore</b> (étape 2). Angle + NRS. Prescrite le 04/09, jamais remontée.</li>
-        <li><b>Le genou sur le trajet — aller ET retour, séparément.</b> Passe 2/2 de <code>genou_impact</code>, toujours à 1/2.</li>
-        <li><b>La patte d'oie, cotée à part du genou « en général ».</b> C'est ton générateur de douleur actuel et il n'a <b>jamais été chiffré</b>. Sur le nordic surtout.</li>
-        <li><b>Le coude sur les tractions et le rowing</b> — double charge de grip dans la même séance, épicondylite active. ≤3/10 et ça cède sous 24 h.</li>
-        <li><b>Le TKE — couleur de bande et ancrage.</b> Sixième séance.</li>
-        <li><b>Le bas du dos sur le RDL.</b> Si ça arrondit, tu ne descends pas plus bas : la limite est l'étirement des ischios, pas l'amplitude visuelle.</li>
-        <li><b>Protéines.</b> Alerte <b>sous-alimentation soutenue</b> active : protéines sous cible ≥3 j consécutifs, disponibilité énergétique à <b>13,7 kcal/kg</b> de masse maigre (seuil 25). Jour de séance chaîne postérieure — la consigne est de <b>réduire le déficit</b>, pas le volume.</li>
+        <li><b>L'épaule au réveil.</b> Première donnée du régime Silbernagel depuis son ouverture le 03/09. Elle décide l'échelon de la rotation externe, ce matin.</li>
+        <li><b>L'amplitude des pompes au sol.</b> Poitrine proche du sol, oui ou non. C'est ce qui valide ou annule le saut de deux crans.</li>
+        <li><b>L'épaule sur les pompes.</b> Nouvel échelon, chaîne antérieure, coudes à 45°. Si ça pince en position basse, tu remontes l'appui.</li>
+        <li><b>Ton plafond d'élévation indolore.</b> Angle + NRS. Troisième demande — sans elle, <code>adapt-2026-08-27-001</code> n'a aucune condition de sortie.</li>
+        <li><b>Le genou-au-mur, en cm, les deux côtés.</b> Jamais fait. Trente secondes.</li>
+        <li><b>Le genou sur le trajet, aller ET retour</b>, si tu cours. Hier c'était vélo : la passe 2/2 de <code>genou_impact</code> n'a pas bougé, compteur à 0 depuis le 26/08.</li>
+        <li><b>Le TKE — couleur de bande et ancrage.</b> Septième séance.</li>
+        <li><b>Protéines.</b> L'alerte <b>sous-alimentation soutenue</b> est toujours active : protéines sous cible ≥3 j consécutifs, disponibilité énergétique à 13,7 kcal/kg de masse maigre (seuil 25). Deuxième jour de renfo d'affilée — la consigne est de <b>réduire le déficit</b>, pas le volume.</li>
       </ul>
     </div>
     <div class="card dont">
       <h3>Ce qu'on ne fait pas</h3>
       <ul>
-        <li><b>Confondre « ≤5/10 permis » et « pousser jusqu'à 5 ».</b> Le plafond n'est pas une cible.</li>
-        <li><b>Tenir la tension en fin d'amplitude sur les correctifs.</b> Rotation externe, TKE, excentrique poignet : on <b>relâche</b>. C'est l'inverse du rowing.</li>
-        <li><b>Tenter un service</b> pour voir. La CI <code>epaule_overhead</code> est active, palier 0 du chemin de réparation non mesuré (ni GIRD, ni ratio ER/IR).</li>
-        <li><b>Toute abduction active contre résistance</b> — <code>elevation-laterale-elastique</code> retirée d'office (<code>adapt-2026-08-27-001</code>). <code>re-90-abduction</code> hors d'atteinte.</li>
-        <li><b>Rien d'overhead</b> : pas de dislocations, pas de pass-through, pas de CARS complets, pas d'extension triceps overhead.</li>
-        <li><b>Les négatives de traction.</b> Toujours <code>exclu</code> par <code>epaule_fin_amplitude</code>, non réintroduites malgré la promotion d'échelon du 27/08.</li>
-        <li><b>Du squat.</b> Servi le 04/09, dans sa fenêtre de 7 jours. Step-up, fente, wall-sit/chaise, bulgarian, cossack restent exclus par <code>genou_flexion_charge</code>. <b>Dips, pompes anneaux, pike push-up, écarté, pseudo-planche</b> — exclus par les CI épaule.</li>
-        <li><b>Monter d'échelon en séance.</b> Le hinge est en focus, mais la progression se décide au feedback. Et sur <code>push</code> / <code>squat</code> / les deux tirages, en maintenance, <b>aucune surcharge n'est autorisée ce bloc-ci</b>.</li>
-        <li><b>Ajouter parce qu'il reste du temps.</b> 16 séries est déjà à +33 % sur la dernière séance.</li>
+        <li><b>Charger le nouvel échelon.</b> 8 × 3, point. Tu viens de sauter deux crans sur un pattern en maintenance : on installe avant de charger.</li>
+        <li><b>Rattraper hier.</b> Pas de tractions, pas de rowing, pas de hinge — les cinq patterns d'hier sont dans la fenêtre 48 h. Le hinge a pris 7 séries, il est le plus servi de tous.</li>
+        <li><b>Lire un bon réveil comme un feu vert overhead.</b> <code>re-90-abduction</code> est le palier 3, conditionné à GIRD &lt;18° et ER/IR ≥66 % — <b>palier 0 jamais mesuré</b>.</li>
+        <li><b>Toute abduction active contre résistance</b> — <code>elevation-laterale-elastique</code> retirée d'office. Et rien d'overhead : pas de dislocations, pas de pass-through, pas d'extension triceps overhead.</li>
+        <li><b>Tenir la tension en fin d'amplitude sur les correctifs.</b> Rotation externe, TKE, excentrique poignet : on <b>relâche</b>. Sur le pallof, on tient. Les deux régimes cohabitent dans la même séance.</li>
+        <li><b>Descendre en flexion profonde sur le squat.</b> Demi-squat, mi-course. <code>genou_flexion_charge</code> est active depuis 87 jours ; step-up, fente, wall-sit, bulgarian et cossack restent exclus.</li>
+        <li><b>Ajouter parce que 8 séries paraît court.</b> C'est la moitié d'hier, délibérément, à J2 avec l'ACWR qui a bondi de 0,62 à 0,94 en 24 h.</li>
+        <li><b>Un J3.</b> À trois jours d'affilée, la méthode n'a plus aucun pattern frais : le fail-safe tourne déjà à vide aujourd'hui.</li>
       </ul>
     </div>
   </div>
 
   <p class="footnote">
-    <b>Re-projection rattrapée</b> — la méthode prévoit <code>reprojeter(plan, {"type":"seance", "patterns":[…]})</code> à chaque feedback de séance (FR-400). Non fait au feedback du 04/09 : <code>file_intentions[0]</code> valait encore <code>squat</code> T1, le pattern qui venait d'être travaillé, en contradiction avec <code>allocation.focus = [hinge]</code> dans le même fichier. Re-projeté et persisté ce matin. Nouvelle file : <b>hinge T2 → push T3 → tirage_vertical T1</b>.<br>
-    <b>Charge</b> — ACWR <b>0,62</b> (0,84 au 04/09), zone <b>sous-charge</b>, aigu 7 j <b>677</b>, chronique 28 j 1 096, CTL <b>170,5</b> ≫ plancher 45. <code>borne_rampe</code> : « ACWR 0,62 ≤ cible 1,3 → rampe autorisée ». <code>donnees_suffisantes: true</code>, la zone est prise en compte. Dernière entrée de charge : 04/09 (renfo 30 min RPE 6 + 2 vélos + 2 courses). <b>Rien depuis</b> — six jours sans activité loggée.<br>
-    <b>Volume — l'arithmétique de la rampe</b> — 12 séries de travail prescrites le 04/09, <b>16 aujourd'hui</b> = <b>+33 %</b>, juste au-dessus de la borne masters &gt;40 de +30 %/semaine. Assumé et non maquillé : six jours de repos séparent les deux séances, l'ACWR est à 0,62, et le <code>hinge</code> — focus du bloc — n'a été servi qu'une fois depuis son ouverture. Répartition : <b>hinge 7</b> (RDL 4 + nordic 3), <b>tirage vertical 4</b>, <b>tirage horizontal 3</b>, <b>push 2</b>.<br>
-    <b>Garde-fou g.1</b> — <code>verdict_exercice_trace</code> sur tous les retenus. <b>CI actives</b> (<code>ci_actives_depuis</code>) : <code>coude_grip_charge</code>, <code>epaule_droite</code>, <code>epaule_fin_amplitude</code>, <code>epaule_overhead</code>, <code>genou_flexion_charge</code>, <code>genou_impact</code>. <b>Admis modifiés</b> : <code>traction</code> et <code>rowing-elastique</code> — tag <code>coude_grip_traction</code> ← <code>grip_actif:coude_grip_charge</code> ← <code>decisions-log:obs-2026-06-02-002</code> → prise neutre, ≤3/10 cédant &lt;24 h. <b>Retiré d'office</b> : <code>elevation-laterale-elastique</code> (<code>exercices_interdits</code> de <code>adapt-2026-08-27-001</code>). Anti-empilement 48 h : <b>aucun pattern chargé</b> — la dernière séance date de six jours.<br>
-    <b>Écarts à l'ondulation</b> — <code>push</code> : <code>substitut_ondulation</code> propose <code>triceps-extension-elastique</code> à la place de <code>pompes</code>, refusé (une isolation triceps ne couvre pas le groupe dont le MV est en jeu ; le catalogue push street est réduit à 2 entrées par les CI épaule). <code>hinge</code> : trois exercices disponibles pour deux blocs de focus, <code>nordic-hamstring</code> reconduit du 04/09. Les deux sont des choix, pas des oublis.<br>
-    <b>Données manquantes du 04/09</b> — <code>reponse_douleur</code> est <b>vide</b> dans <code>seance_type.yaml</code> pour cette séance. Ni le plafond d'élévation, ni le genou aller/retour, ni le réveil du 05/09 n'ont été remontés. Trois mesures prescrites, zéro collectée — c'est ce qui bloque la passe 2/2 de <code>genou_impact</code> et le verdict du régime Silbernagel.<br>
-    <b>CI périmées</b> — cinq entrées &gt;28 j sans retest : <code>coude_grip_charge</code> (100 j), <code>genou_impact</code> (93 j), <code>genou_flexion_charge</code> (87 j), <code>epaule_fin_amplitude</code> (86 j), <code>epaule_overhead</code> (85 j). Aucune levée automatique — la levée se décide au feedback, quand la <code>condition_retour</code> est atteinte.<br>
-    <b>Plan</b> — <code>bloc-2026-09-04</code> <b>ACTIF</b> (04/09 → 02/10, S1/4, pas de décharge). Focus <code>hinge</code>, maintenance <code>push</code>/<code>squat</code>/<code>tirage_horizontal</code>/<code>tirage_vertical</code>, <b>gel vide</b>. Sous-focus : <code>renfo_au_service_du_velo</code>, <code>tractions</code>, <code>reintro_haut_du_corps</code>. <code>part_dev_7j</code> = 0,80 → pas de bascule forcée vers le développement.<br>
-    <b>Source</b> — module corps-forme, moteur déterministe (<code>methode-seances.md</code>), 7 étapes a→g. Delta : <code>delta-2026-09-10T07-40-002</code>. Artefact : <code>seance-du-jour.yaml</code> (date 2026-09-10, 10 exercices, 16 séries de travail).<br>
-    Page statique — <b>jeudi 10/09, au parc, ce midi</b>, ~50 min. Readiness <b>green</b> à reclasser le matin avec HRV/FC fraîche. La suite se génère au feedback, dans Jarvis (<b>/corps-forme</b>).
+    <b>Échelon pompes — promotion de deux crans, entorse tracée</b> — <code>pompes-inclinees</code> → <code>pompes-sol</code>, <code>pompes-genoux</code> enjambé. Arbitrage utilisateur du 10/09 : « je vois pas de limite à continuer les pompes inclinées, puisque j'arrive à faire des pompes sans inclinaison et sans douleur ». <code>progression_gatee(pattern="push", allocation=active)</code> rendait <code>hold</code> avec <code>decision_clinique: "progresser"</code> et <code>report_motif</code> « pattern 'push' hors focus (allocation active) — progression réservée aux patterns focus (FR-808), jamais maintenance/gel ». <b>Le hold est levé par décision utilisateur, pas par le script</b>, et consigné comme tel dans <code>echelons.yaml</code> (<code>note_2026_09_10</code>). L'allocation n'est pas modifiée : <code>push</code> reste maintenance, ce cran ne rouvre pas la surcharge pour le reste du bloc. <code>obs-2026-09-10-001</code> → <i>resolved/improved</i>.<br>
+    <b>Séance du 10/09 — ce qui a été exécuté</b> — 16 séries sur 16, ~30 min (<b>plancher</b> : montre lancée en retard), RPE 6, <b>0/10 sur les quatre zones</b>. Tractions <code>traction-complete</code> prise neutre à 3 s d'excentrique : <b>4-4-3-3 = 14 reps</b>, toutes en amplitude complète, courbe de fatigue plate — contre 5-5-2-2-2 le 03/09 à volume nominal supérieur. <b>Erreur de prescription reconnue</b> : le brief annonçait « 16 reps exactement comme le 03/09, pas de rampe » tout en ajoutant un excentrique de 3 s absent le 03/09. À reps égales le temps sous tension monte : c'était une progression présentée comme une maintenance. Les 14 reps à 3 s valent plus que les 16 en tempo libre — l'écart de −2 reps n'est pas un déficit.<br>
+    <b>Capacité — signal à garder</b> — 12 séries en 30 min à RPE 6 le 04/09, <b>16 séries en 30 min à RPE 6</b> le 10/09. Même durée déclarée, même effort, +33 % de volume. Réserve : la durée du 10/09 est un plancher (montre en retard), donc le rapport réel est peut-être moins favorable.<br>
+    <b>Charge</b> — ACWR <b>0,94</b> (0,62 hier matin, 0,83 après la séance, 0,94 après le vélo du soir), zone <code>optimal</code>, aigu 7 j 1 317, chronique 28 j 1 405, CTL <b>200,3</b> ≫ plancher 45. <code>donnees_suffisantes: true</code>. La borne 1,3 n'est pas atteinte — la réduction de volume d'aujourd'hui est un choix de séquencement, pas une contrainte de la borne.<br>
+    <b>Focus par fail-safe</b> — <code>patterns_charges_recents(11/09)</code> = {correctif, hinge, push, tirage_horizontal, tirage_vertical} : <b>les cinq patterns du 10/09</b>. <code>instancier_focus</code> n'a plus d'intention non chargée et conserve la tête de file (FR-559, dernier recours), soit <code>push</code> T3. Le squat est le seul pattern hors fenêtre 48 h (dernier : 04/09) et sa fenêtre de volume minimal hebdo expire aujourd'hui — d'où sa présence malgré l'absence du plan. <code>part_dev_7j</code> = 0,60 → pas de bascule forcée vers le développement.<br>
+    <b>Garde-fou g.1</b> — <code>verdict_exercice_trace</code> sur tous les retenus : <b>tous <code>admis</code></b>, aucune substitution. <b>CI actives</b> (<code>ci_actives_depuis</code>) : <code>coude_grip_charge</code>, <code>epaule_fin_amplitude</code>, <code>epaule_overhead</code>, <code>genou_flexion_charge</code>, <code>genou_impact</code>. Le tag <code>epaule_droite</code> est <b>tombé</b> — la zone est repassée à 0/10 le 10/09, contre 6/10 datant du 27/08. Les CI portées par le decisions-log, elles, ne bougent pas. <b>Retiré d'office</b> : <code>elevation-laterale-elastique</code>.<br>
+    <b>Écarts à l'ondulation</b> — <code>squat</code> : <code>spanish-squat-elastique</code> proposé par <code>substitut_ondulation</code> et par <code>prioriser_reparation</code>, refusé (mauvais tissu — tendon rotulien vs chondropathie ; mauvaise phase — isométrie 3ᵉ sur 4, 7 semaines dessus, motif écrit le 04/09). <code>leg-extension-elastique</code> écarté : quadriceps seuls, ne couvre pas le groupe dont le MV est en jeu — même critère que le refus du substitut triceps sur le push le 10/09. <code>push</code> : l'exercice n'est pas répété à l'identique, l'échelon change.<br>
+    <b>Mesures reportées</b> — réveil épaule : jamais remonté depuis l'ouverture du régime le 03/09 (<b>3 séances</b>). Plafond d'élévation indolore : <b>3ᵉ demande</b>. TEST genou-au-mur : jamais fait. Couleur de bande + ancrage du TKE : <b>7ᵉ séance</b>. Passe 2/2 de <code>genou_impact</code> : compteur à 0 depuis la remontée à 2/10 du 26/08, et aucune course loguée le 10/09 (vélo seul).<br>
+    <b>CI périmées</b> — <code>coude_grip_charge</code> (100 j), <code>genou_impact</code> (93 j), <code>genou_flexion_charge</code> (87 j), <code>epaule_fin_amplitude</code> (86 j), <code>epaule_overhead</code> (85 j). Aucune levée automatique.<br>
+    <b>Plan</b> — <code>bloc-2026-09-04</code> ACTIF (04/09 → 02/10, S1/4). Focus <code>hinge</code>, maintenance <code>push</code>/<code>squat</code>/<code>tirage_horizontal</code>/<code>tirage_vertical</code>, gel vide. File après re-projection du 10/09 : <b>push T3 → tirage_vertical T1</b>.<br>
+    <b>Source</b> — module corps-forme, moteur déterministe (<code>methode-seances.md</code>), 7 étapes a→g. Deltas : <code>delta-2026-09-10T13-23-003</code> (séance exécutée) · <code>delta-2026-09-10T23-23-004</code> (ce brief). Artefact : <code>seance-du-jour.yaml</code> (date 2026-09-11, 8 exercices, 8 séries de travail).<br>
+    Page statique — <b>vendredi 11/09, au parc</b>, ~40 min. Readiness <b>green reportée du 10/09</b>, à reclasser le matin avec HRV/FC fraîche. La suite se génère au feedback, dans Jarvis (<b>/corps-forme</b>).
   </p>
 </main>
 

@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+<title>Daily — Mobilité</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Geist:wght@300..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+  html { scroll-behavior: smooth; }
+  body { min-height: 100%; }
+  main { max-width: 900px; margin: 0 auto; padding: calc(var(--topbar-h) + 22px) 18px 80px; }
+
+  .page-kicker {
+    font-family: 'Geist Mono', monospace;
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.22em;
+    color: var(--ink-faint); margin-bottom: 8px;
+  }
+  .page-title {
+    font-family: 'Fraunces', serif; font-variation-settings: 'opsz' 144;
+    font-weight: 500; font-style: italic; font-size: clamp(30px, 7vw, 44px);
+    line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 16px;
+  }
+  .page-intro { font-size: 14px; line-height: 1.6; color: var(--ink-dim); max-width: 62ch; margin-bottom: 28px; }
+  .page-intro b { color: var(--ink); font-weight: 500; }
+
+  .goal {
+    display: flex; align-items: flex-start; gap: 14px;
+    background: linear-gradient(110deg, rgba(232,200,137,0.12), transparent);
+    border: 1px solid rgba(232,200,137,0.30); border-radius: 16px;
+    padding: 18px 20px; margin-bottom: 40px;
+  }
+  .goal .star { color: var(--accent); font-size: 20px; line-height: 1; margin-top: 1px; }
+  .goal .g-kicker {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin-bottom: 6px;
+  }
+  .goal .g-line { font-size: 14.5px; line-height: 1.5; margin-bottom: 8px; }
+  .goal .g-line b { font-weight: 600; }
+  .goal .g-sub { font-size: 13px; line-height: 1.6; color: var(--ink-dim); }
+  .goal .g-sub b { color: var(--ink); font-weight: 500; }
+
+  .constraint {
+    border: 1px solid var(--rule); border-radius: 14px;
+    padding: 16px 18px; margin-bottom: 18px;
+    background: rgba(255,255,255,0.015);
+  }
+  .constraint .c-tag {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--accent); margin-bottom: 8px;
+  }
+  .constraint .c-body { font-size: 13.5px; line-height: 1.65; color: var(--ink-dim); }
+  .constraint .c-body b { color: var(--ink); font-weight: 500; }
+  .constraint .c-body code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink); }
+
+  .section-label {
+    font-family: 'Geist Mono', monospace; font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.2em; color: var(--ink-faint);
+    margin: 40px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--rule);
+  }
+
+  .seance { display: flex; flex-direction: column; gap: 2px; }
+  .step { display: flex; gap: 14px; padding: 18px 0; border-bottom: 1px solid var(--rule); }
+  .step:last-child { border-bottom: none; }
+  .step .num {
+    font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--accent);
+    flex-shrink: 0; width: 20px; padding-top: 2px;
+  }
+  .step .txt { flex: 1; display: block; }
+  .step .role { display: block; font-size: 14.5px; font-weight: 600; margin-bottom: 6px; }
+  .step .role .time {
+    font-family: 'Geist Mono', monospace; font-size: 10.5px; font-weight: 400;
+    color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.1em; margin-left: 8px;
+  }
+  .step .detail { display: block; font-size: 13.5px; line-height: 1.6; color: var(--ink-dim); margin-bottom: 10px; }
+  .step .detail b { color: var(--ink); font-weight: 500; }
+  .step ul { list-style: none; padding: 0; margin: 0; }
+  .step li {
+    font-size: 13.5px; line-height: 1.5; padding: 7px 0 7px 14px;
+    border-left: 2px solid var(--rule); margin-bottom: 4px; color: var(--ink-dim);
+  }
+  .step li b { color: var(--ink); font-weight: 500; }
+  .step li code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink-faint); }
+  .step li .reps { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--accent); margin-left: 6px; }
+
+  .retest {
+    border: 1px solid var(--rule); border-radius: 12px;
+    padding: 12px 14px; margin-top: 12px; background: rgba(255,255,255,0.02);
+  }
+  .retest .rt-tag {
+    font-family: 'Geist Mono', monospace; font-size: 9px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--accent); margin-bottom: 6px;
+  }
+  .retest .rt-body { font-size: 12.5px; line-height: 1.6; color: var(--ink-dim); }
+  .retest .rt-body b { color: var(--ink); font-weight: 500; }
+  .retest .rt-body code { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink); }
+
+  .decision {
+    border: 1px solid rgba(232,200,137,0.30); border-radius: 14px;
+    padding: 16px 18px; margin: 30px 0 0;
+    background: linear-gradient(110deg, rgba(232,200,137,0.08), transparent);
+  }
+  .decision .d-tag {
+    font-family: 'Geist Mono', monospace; font-size: 9.5px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--accent); margin-bottom: 8px;
+  }
+  .decision .d-body { font-size: 13.5px; line-height: 1.65; color: var(--ink-dim); }
+  .decision .d-body b { color: var(--ink); font-weight: 500; }
+  .decision .d-body code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink); }
+  .decision .opt { margin-top: 12px; padding-left: 14px; border-left: 2px solid var(--rule); }
+  .decision .opt-h { font-size: 13px; font-weight: 600; color: var(--ink); margin-bottom: 4px; }
+
+  .tyler { border: 1px solid var(--rule); border-radius: 14px; padding: 16px 18px; }
+  .tyler p { font-size: 13.5px; line-height: 1.65; color: var(--ink-dim); margin: 0 0 12px; }
+  .tyler p:last-child { margin-bottom: 0; }
+  .tyler p b { color: var(--ink); font-weight: 500; }
+  .tyler code { font-family: 'Geist Mono', monospace; font-size: 11.5px; color: var(--ink); }
+  .swatches { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 12px; }
+  .sw {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; color: var(--ink-dim);
+    border: 1px solid var(--rule); border-radius: 999px; padding: 5px 11px;
+  }
+  .sw.cur { border-color: rgba(232,200,137,0.45); color: var(--ink); }
+  .sw .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 700px) { .split { grid-template-columns: 1fr; } }
+  .card { border: 1px solid var(--rule); border-radius: 14px; padding: 16px 18px; }
+  .card h3 {
+    font-family: 'Geist Mono', monospace; font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.16em; color: var(--ink-faint); margin: 0 0 12px; font-weight: 400;
+  }
+  .card ul { list-style: none; padding: 0; margin: 0; }
+  .card li {
+    font-size: 13px; line-height: 1.55; padding: 7px 0 7px 16px; position: relative;
+    color: var(--ink-dim);
+  }
+  .card li b { color: var(--ink); font-weight: 500; }
+  .card li code { font-family: 'Geist Mono', monospace; font-size: 11px; color: var(--ink-faint); }
+  .card.watch li::before { content: '◆'; position: absolute; left: 0; color: var(--accent); font-size: 8px; top: 11px; }
+  .card.dont li::before { content: '✕'; position: absolute; left: 0; color: #ef4444; font-size: 10px; top: 9px; }
+
+  .footnote {
+    font-size: 11.5px; line-height: 1.7; color: var(--ink-faint);
+    margin-top: 40px; padding-top: 18px; border-top: 1px solid var(--rule);
+  }
+  .footnote b { color: var(--ink-dim); font-weight: 500; }
+  .footnote code { font-family: 'Geist Mono', monospace; font-size: 10.5px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="topline">
+    <div class="masthead">Daily <span class="amp">&amp;</span> Co.</div>
+    <div class="date-line">Mobilité<br><span class="meta">bilan &amp; amplitude</span></div>
+  </div>
+  <nav class="tabs">
+    <a class="tab" href="index.html">Carte du jour</a>
+    <a class="tab" href="supplements.html">Suppléments</a>
+    <a class="tab" href="skincare.html">Skincare</a>
+    <a class="tab" href="tennis.html">Tennis</a>
+    <a class="tab" href="workout.html">Workout</a>
+    <a class="tab active" href="mobilite.html">Mobilité</a>
+    <a class="tab" href="nutrition.html">Nutrition</a>
+    <a class="tab" href="bieres.html">Bières</a>
+  </nav>
+</header>
+
+<main>
+  <div class="page-kicker">BILAN MOBILITÉ · maison · ~20-25 MIN · UNE FOIS PUIS MENSUEL · 8 MESURES, TOUTES BILATÉRALES</div>
+  <h1 class="page-title">Mobilité</h1>
+  <p class="page-intro">
+    Objectif posé le 11/09 : <b>« retrouver une mobilité parfaite dans tous mes membres »</b>, et une séquence — <b>d'abord retrouver ce que j'avais, puis obtenir ce qui m'a toujours manqué</b>.
+    Ce n'est pas la séance d'entraînement : c'est <b>la mesure qui la produit</b>. Un objectif d'amplitude sans mesure d'amplitude est ingérable, et il n'existe aujourd'hui <b>aucun chiffre d'amplitude</b> dans le système.
+    Un mur, un mètre ruban, ton téléphone. Rien d'autre.
+  </p>
+
+  <div class="goal">
+    <span class="star">✦</span>
+    <div>
+      <div class="g-kicker">Tu es ton propre groupe témoin</div>
+      <div class="g-line">Tes quatre zones suivies sont <b>toutes à droite</b> — épaule D, genou D, coude D, mollet D. <b>Ton côté gauche n'a jamais été touché.</b></div>
+      <div class="g-sub">Donc la cible de la phase 1 n'est pas une norme de manuel, c'est <b>ton gauche</b>. Et le tri se fait tout seul : <b>écart D/G</b> → déficit acquis → phase 1. <b>Limite bilatérale</b> → déficit de toujours → phase 2. C'est pour ça que chaque mesure est bilatérale, sans exception — ce n'est pas de la symétrie décorative, c'est ce qui range chaque déficit dans la bonne phase.</div>
+    </div>
+  </div>
+
+  <div class="split">
+    <div class="card watch">
+      <h3>Phase 1 — retrouver</h3>
+      <ul>
+        <li><b>Signature</b> : écart droite/gauche</li>
+        <li><b>Nature</b> : acquis, perdu avec les bobos</li>
+        <li><b>Cible</b> : ton côté gauche</li>
+        <li><b>Levier</b> : réduction d'irritation, reconquête progressive du secteur</li>
+        <li><b>Fin</b> : symétrie D/G</li>
+      </ul>
+    </div>
+    <div class="card watch">
+      <h3>Phase 2 — acquérir</h3>
+      <ul>
+        <li><b>Signature</b> : limite bilatérale</li>
+        <li><b>Nature</b> : de toujours, jamais eu</li>
+        <li><b>Cible</b> : norme externe (KB)</li>
+        <li><b>Levier</b> : renforcement pleine amplitude, CARs, souplesse dédiée</li>
+        <li><b>Fin</b> : cible chiffrée atteinte</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="constraint">
+    <div class="c-tag">◆ Le levier n'est pas l'étirement — et ce n'est pas une opinion</div>
+    <div class="c-body">
+      <b>Étirement statique ≥60 s → −4,6 % force/puissance</b> ; gain de ROM <b>transitoire, moins de 30 minutes</b>, d'origine neurologique, <b>sans aucun allongement tissulaire permanent</b> (Behm 2016). Aucun effet protecteur sur les blessures (Lauersen 2014, RR 0,963) — <b>seul le renforcement protège</b> (RR 0,315).
+      <b>Renforcement pleine amplitude &gt; étirement seul</b> (Schoenfeld &amp; Grgic 2020 ; Pallarés 2021) : <i>« c'est l'intervention mobilité à plus haut rendement, avant tout outil passif »</i>.
+      <b>CARs</b> — renforcement en amplitude terminale → ROM durable et contrôlable, faible risque, haute valeur.
+      Autrement dit ta demande du 11/09 — <b>« mobilité et force légère en fin d'amplitude »</b> — <b>est</b> la méthode validée. Ton intuition était juste ; c'est le stretching passif qui ne l'est pas.
+    </div>
+  </div>
+
+  <div class="constraint">
+    <div class="c-tag">◆ Pourquoi une séance dédiée et pas des lignes en bas de brief</div>
+    <div class="c-body">
+      Entre le 04/09 et le 11/09, quatre mesures ont été prescrites en fin de brief : plafond d'élévation (×4), couleur de bande du TKE (×7), genou-au-mur, genou aller/retour. <b>Aucune n'est revenue. Taux de remontée : 0 %.</b>
+      Le format ne marche pas. Donc on change de format au lieu de te le redemander une cinquième fois : une séance courte, dédiée, où <b>mesurer est la tâche</b> et pas une note de bas de page.
+    </div>
+  </div>
+
+  <div class="constraint">
+    <div class="c-tag">◆ Règle transversale</div>
+    <div class="c-body">
+      Tout se mesure <b>à vide</b> et <b>sans forcer</b>. <b>Une mesure qui fait mal n'est pas une mesure, c'est une exposition.</b> Arrêt immédiat au-delà de 3/10 — et dans ce cas l'angle atteint et le NRS <i>sont</i> le résultat. N'insiste pas.
+    </div>
+  </div>
+
+  <div class="section-label">Bas du corps — 4 mesures</div>
+  <div class="seance">
+    <div class="step">
+      <span class="num">1</span>
+      <span class="txt">
+        <span class="role">Genou au mur — dorsiflexion de cheville <span class="time">~2 min</span></span>
+        <span class="detail">Pied perpendiculaire au mur, genou qui avance vers le mur <b>sans décoller le talon</b>. Tu recules jusqu'au point où le genou ne touche plus. Tu notes la <b>distance orteils-mur en cm</b>.</span>
+        <ul>
+          <li><b>Droite</b> <span class="reps">___ cm</span> · <b>Gauche</b> <span class="reps">___ cm</span></li>
+          <li>Cible KB prophylaxie : <b>&gt;10 cm</b> · asymétrie <b>&gt;1-2 cm</b> = signal</li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Jamais fait, et ça borne le squat</div>
+          <div class="rt-body">La fiche <code>mobilite-cheville</code> le dit depuis le début : « déficit dorsiflexion → compensation valgus genou, <b>levier préventif amont</b> ». L'exercice est à ton programme depuis des mois, au <b>premier cran assisté</b>, jamais progressé et jamais mesuré.</div>
+        </div>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">2</span>
+      <span class="txt">
+        <span class="role">Flexion talon-fesse — ta demande directe <span class="time">~4 min</span></span>
+        <span class="detail">Allongé <b>sur le ventre</b>. D'abord <b>actif</b> (tu ramènes le talon seul), puis <b>passif</b> (tu tires à la main ou avec une sangle). Distance <b>talon-fesse en cm</b>, les deux côtés, dans les deux modes.
+        <b>Ce qui compte le plus, c'est ce qui ARRÊTE le mouvement :</b> une <b>douleur</b> (où exactement — face interne, patte d'oie ? face antérieure ? — et son NRS) ou une <b>butée de raideur sans douleur</b>.</span>
+        <ul>
+          <li><b>Actif</b> — D <span class="reps">___ cm</span> · G <span class="reps">___ cm</span></li>
+          <li><b>Passif</b> — D <span class="reps">___ cm</span> · G <span class="reps">___ cm</span></li>
+          <li><b>Ce qui arrête</b>, à droite : <span class="reps">douleur / butée · où · NRS</span></li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Déjà tranché le 11/09 — et ça illustre les deux phases sur une seule articulation</div>
+          <div class="rt-body">Tu as répondu : <b>à droite c'est la douleur qui arrête avant la butée</b>. Donc deux limites distinctes, actives en même temps, dans deux phases différentes :
+          <b>genou D, arrêt sur douleur</b> → déficit <b>acquis</b> → <b>phase 1</b>, cible = l'amplitude de ton genou gauche. Levier : <code>glissement-talon</code> <b>en décharge</b>, dans l'amplitude tolérée, <b>jamais forcer</b>.
+          <b>Butée quadriceps</b>, bilatérale, depuis l'adolescence → <b>phase 2</b>.
+          Ça corrige une lecture de ton index genou : il disait « pas l'objectif » pour la butée quad. Il avait raison <b>pour la douleur de genou</b> — la raideur quad n'en est pas la cause. Il avait tort d'être lu comme « pas un objectif du tout ». Cette mesure sert désormais à <b>chiffrer l'écart D/G</b> et à suivre sa fermeture, plus à trancher.</div>
+        </div>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">3</span>
+      <span class="txt">
+        <span class="role">Test de Thomas — fléchisseurs de hanche et droit fémoral <span class="time">~3 min</span></span>
+        <span class="detail">Assis au bord du lit, tu te couches en arrière en ramenant <b>un genou contre la poitrine</b>. Tu observes la <b>jambe libre</b>. Photo de profil, les deux côtés.</span>
+        <ul>
+          <li>La cuisse <b>décolle</b> du plan → <b>psoas court</b></li>
+          <li>La cuisse reste posée mais le genou <b>s'étend</b> (ne pend pas à ~90°) → <b>droit fémoral court</b></li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Pourquoi celui-là recoupe le précédent</div>
+          <div class="rt-body">Le droit fémoral est exactement le muscle de ta butée talon-fesse. Si le Thomas le montre court <b>des deux côtés</b>, ça confirme le classement en phase 2. S'il est court d'un seul côté, la lecture change.</div>
+        </div>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">4</span>
+      <span class="txt">
+        <span class="role">Sit-and-rise — score global <span class="time">~2 min</span></span>
+        <span class="detail">T'asseoir au sol puis te relever <b>sans appui</b>. Départ 10 points. <b>−1 par appui</b> (main, avant-bras, genou, côté de jambe), <b>−0,5 par perte d'équilibre nette</b>. Proxy global hanche + force de jambes + équilibre.</span>
+        <ul>
+          <li><b>Score</b> <span class="reps">___ / 10</span> · noter <b>quels</b> appuis</li>
+        </ul>
+      </span>
+    </div>
+  </div>
+
+  <div class="section-label">Épaule — 4 mesures</div>
+  <div class="seance">
+    <div class="step">
+      <span class="num">5</span>
+      <span class="txt">
+        <span class="role">Plafond d'élévation indolore <span class="time">~1 min · 4ᵉ demande</span></span>
+        <span class="detail">Bras tendu, <b>dans le plan de l'omoplate</b> (~30° en avant du plan frontal), montée <b>lente, à vide</b>, <b>arrêt à l'apparition de la douleur</b>.</span>
+        <ul>
+          <li><b>Niveau</b> <span class="reps">sous l'horizontale / à l'horizontale / au-dessus / bras à l'oreille</span></li>
+          <li><b>NRS</b> à cet instant <span class="reps">___ /10</span> · <b>les deux bras</b></li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ C'est le seul curseur des directions en compression</div>
+          <div class="rt-body">Le 27/08, l'abduction a produit 6/10 avec un onset que tu as décrit comme « d'un coup et en flèche » : c'est un <b>seuil angulaire</b>, pas un gradient. Sur ces directions-là, <b>baisser la résistance ne protège pas</b> — c'est l'amplitude qui est la variable. Sans ce chiffre, <code>adapt-2026-08-27-001</code> n'a aucune condition de sortie et l'abduction reste fermée indéfiniment.</div>
+        </div>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">6</span>
+      <span class="txt">
+        <span class="role">GIRD — rotation interne comparée <span class="time">~3 min · prudence</span></span>
+        <span class="detail">Allongé <b>sur le dos</b>, épaule à <b>90° d'abduction</b>, coude à <b>90°</b>, <b>omoplate plaquée</b> (main libre ou poids du corps). L'avant-bras descend vers le sol, <b>passivement</b>. Photo de profil, mesurer l'<b>angle</b>, les deux côtés.</span>
+        <ul>
+          <li><b>Droite</b> <span class="reps">___ °</span> · <b>Gauche</b> <span class="reps">___ °</span> · <b>écart</b> <span class="reps">___ °</span></li>
+          <li>Seuil KB : écart <b>≥18°</b> = facteur de risque prioritaire</li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Réserve assumée, à lire avant de le faire</div>
+          <div class="rt-body">90° d'abduction est <b>précisément la position qui a produit 4-5/10 le 16/06</b>. La mesure est <b>passive, à vide, brève</b> — mais c'est un arbitrage à assumer, pas un détail. <b>Arrêt immédiat au-delà de 3/10</b>, et dans ce cas l'angle atteint est le résultat.
+          C'est le <b>palier 0</b> de <code>obs-2026-09-03-002</code>, jamais fait, et il gate le palier 2 (mobilité de la capsule postérieure).</div>
+        </div>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">7</span>
+      <span class="txt">
+        <span class="role">Ratio ER/IR isométrique <span class="time">~3 min</span></span>
+        <span class="detail">Coude <b>au corps</b>, 90°. Tu pousses en <b>rotation externe</b> contre une résistance fixe (mur, poignée, main libre), <b>5 s, sous-maximal progressif</b>. Puis idem en <b>rotation interne</b>. Compare l'effort à résistance égale, ou mieux : cherche la plus petite résistance qui te bloque dans chaque sens.</span>
+        <ul>
+          <li><b>ER/IR droite</b> <span class="reps">___ %</span> · <b>gauche</b> <span class="reps">___ %</span></li>
+          <li>Cible KB : <b>≥75 %</b> en isométrique</li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Mesure grossière, assumée</div>
+          <div class="rt-body">Sans dynamomètre, ça ne donne pas une valeur absolue. Ça sert de <b>suivi relatif</b> — droite vs gauche, et dans le temps. Une mesure imparfaite mais répétée bat une mesure parfaite jamais faite.</div>
+        </div>
+      </span>
+    </div>
+    <div class="step">
+      <span class="num">8</span>
+      <span class="txt">
+        <span class="role">Shoulder arms-raise — flexion d'épaule <span class="time">~2 min</span></span>
+        <span class="detail">Allongé sur le dos, <b>lombaires plaquées au sol</b> (genoux fléchis si besoin), bras tendus ramenés au-dessus de la tête. Les mains touchent-elles le sol <b>sans que les lombaires décollent</b> ? Sinon, mesurer l'<b>écart en cm</b>. Les deux bras ensemble, puis séparément.</span>
+        <ul>
+          <li><b>Ensemble</b> <span class="reps">touche / ___ cm</span></li>
+          <li><b>Droite</b> <span class="reps">___ cm</span> · <b>Gauche</b> <span class="reps">___ cm</span></li>
+        </ul>
+        <div class="retest">
+          <div class="rt-tag">◆ Une direction sans aucun exercice</div>
+          <div class="rt-body">La <b>flexion d'épaule</b> n'a <b>aucun exercice</b> dans la bibliothèque à ce jour. Ni exclu, ni admis : absent. C'est l'un des trous relevés le 11/09, avec la rotation interne, la capsule postérieure, l'abduction de hanche et l'excentrique poignet extenseurs.</div>
+        </div>
+      </span>
+    </div>
+  </div>
+
+  <div class="decision">
+    <div class="d-tag">◆ Deux réserves — le critère d'asymétrie n'est pas parfait</div>
+    <div class="d-body">
+      <div class="opt">
+        <div class="opt-h">Un déficit peut être bilatéral ET acquis</div>
+        Deux chevilles raidies par des années de vélo et de position assise, par exemple. L'asymétrie est un bon proxy, <b>pas une preuve</b>. On recoupera avec l'ancienneté que tu déclares pour chaque limite.
+      </div>
+      <div class="opt">
+        <div class="opt-h">À l'épaule, une part d'asymétrie est physiologique</div>
+        Le bras dominant a normalement un profil différent — la KB en fait même une cible : <i>« force globale de coiffe côté dominant <b>≥ +10 %</b> vs non-dominant »</i>. Ne pas lire tout écart D/G à l'épaule comme une perte. Seul le <b>GIRD</b> a un seuil propre : <b>≥18°</b>.
+      </div>
+    </div>
+  </div>
+
+  <div class="section-label">Ce qui n'est pas testé, et pourquoi</div>
+  <div class="split">
+    <div class="card dont">
+      <h3>Écarté du bilan</h3>
+      <ul>
+        <li><b>Overhead squat</b> (Starrett) — exige un overhead chargé, <code>epaule_overhead</code> est active depuis 86 jours. Reporté tant que la CI tient.</li>
+        <li><b>BOLT score</b> (apnée) — appartient au dossier respiratoire / SRVAS, pas à la mobilité.</li>
+      </ul>
+    </div>
+    <div class="card watch">
+      <h3>Après le bilan</h3>
+      <ul>
+        <li>Chaque mesure devient une <b>entrée d'index</b> datée — donc une série suivie, pas un chiffre isolé.</li>
+        <li>Le programme se compose <b>à partir de ces chiffres</b>, <b>phase 1 d'abord</b>.</li>
+        <li><code>glissement-talon</code> (actif → tenue 5 s → sangle) : admis, zéro matériel, nommé par ton index genou comme <b>la</b> méthode — et <b>jamais prescrit une seule fois</b>.</li>
+        <li><code>shoulder-cars</code> : admis, <b>jamais fait</b>. Aucun CARs hanche ni cheville n'existe.</li>
+        <li>Sur 5 exercices de mobilité en bibliothèque, <b>un seul</b> est consigné dans <code>echelons.yaml</code>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="footnote">
+    <b>Origine</b> — objectif déclaré le 2026-09-11 : « je veux retrouver une mobilité parfaite dans tous mes membres », précédé de « je peux toujours pas faire une flexion complète » et de « je veux travailler l'épaule dans tous mouvements directions, et tu module la résistance et force ». Inscrit en tête des <code>sous_focus_courant</code> de <code>objectifs-sport.md</code>. Logué : <code>obs-2026-09-11-003</code>.<br>
+    <b>Ce que ça change dans le programme</b> — depuis ~100 jours le système fonctionne en <b>évitement de douleur</b> : les contre-indications excluent des catégories de gestes entières et l'amplitude n'est mesurée nulle part. L'objectif déclaré n'est pas l'absence de douleur mais <b>l'amplitude retrouvée</b>. La douleur redevient une <b>borne de dosage</b>, pas le critère de succès.<br>
+    <b>Contrainte maintenue</b> — « pas de flexion genou profonde <b>en charge</b> en phase de rééducation » (<code>sport-mobilite-souplesse.md</code>). La flexion profonde <b>à vide / en décharge</b> reste ouverte : c'est exactement <code>glissement-talon</code>.<br>
+    <b>Sources</b> — <code>agent_docs/kb/sport-mobilite-souplesse.md</code> : Behm 2016 (étirement statique, −4,6 %) · Lauersen 2014 (RR 0,963 étirement vs 0,315 renforcement) · Schoenfeld &amp; Grgic 2020 et Pallarés 2021 (pleine amplitude &gt; étirement) · CARs / amplitude terminale · Starrett, <i>Built to Move</i> (sit-and-rise, shoulder arms-raise, Thomas test). <code>blessures-reeducation.md</code> : GIRD ≥18°, ratio ER/IR ≥66 % isocinétique ou ≥75 % isométrique, coiffe dominante ≥+10 %.<br>
+    <b>Trous de bibliothèque relevés le 11/09</b> — aucune abduction de hanche dédiée (<code>obs-2026-09-11-002</code>) · aucun excentrique poignet <b>extenseurs</b> aux haltères, alors que la version fléchisseurs existe et que l'épicondylite est <b>latérale</b> (<code>obs-2026-09-11-001</code>) · aucune rotation interne d'épaule · aucune flexion d'épaule · aucune capsule postérieure (sleeper stretch, cross-body) · aucun CARs hanche ni cheville.<br>
+    Page statique — protocole <b>maison</b>, ~20-25 min, <b>une fois puis mensuel</b>. Source : <code>data/tracking/programmes/bilan-mobilite.md</code>. Les résultats se logguent dans Jarvis (<b>/corps-forme</b>).
+  </p>
+</main>
+
+</body>
+</html>

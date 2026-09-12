@@ -1,260 +1,278 @@
 {
-  "generated_at": "2026-09-11T06:00:00Z",
+  "generated_at": "2026-09-12T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Frappes USA-Iran Hormuz",
-      "title": "Les frappes américano-iraniennes s'intensifient dans le détroit d'Hormuz",
-      "summary": "L'IRGC affirme avoir visé deux navires de guerre américains, huit pétroliers et dix autres navires en représailles aux frappes américaines contre cinq tankers iraniens. Le trafic dans le détroit, fermé par Téhéran depuis mars, tombe à une dizaine de navires par jour contre une centaine avant le conflit, aggravant l'étranglement d'un axe qui achemine un cinquième du pétrole et du gaz mondial.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz"
+      "short_title": "Houthis Mer Rouge",
+      "title": "Les Houthis prennent Moka et frappent un pipeline saoudien",
+      "summary": "Les rebelles Houthis, soutenus par l'Iran, ont capturé le port yéménite de Moka et l'île de Perim, verrouillant un peu plus l'accès au détroit de Bab al-Mandeb. Au même moment, des frappes de drones ont visé l'oléoduc Est-Ouest saoudien, ravivant les craintes sur une route qui achemine environ 12% de l'offre mondiale de pétrole.",
+      "source": "S&P Global",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/091126-factbox-houthi-advance-on-yemen-port-threatens-key-oil-shipping-route"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Houthis prennent port",
-      "title": "Les Houthis s'emparent d'un port stratégique sur la côte ouest du Yémen",
-      "summary": "La milice soutenue par l'Iran a saisi une ville portuaire clé, ajoutant une menace supplémentaire sur les routes maritimes de la mer Rouge déjà perturbées par la guerre USA-Iran dans le Golfe. L'épisode illustre l'extension du théâtre de tensions au-delà du seul détroit d'Hormuz.",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/sep/10/oil-prices-rise-iran-targets-vessels-strait-hormuz-houthis-seize/"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Pétrole au-dessus 107$",
+      "title": "Le Brent bondit au-dessus de 107 dollars",
+      "summary": "Le prix du Brent a dépassé 107 dollars le baril, un plus haut depuis près de quatre mois, sous l'effet direct de l'avancée Houthie en mer Rouge et des frappes sur les infrastructures saoudiennes. Le WTI a suivi la même dynamique, repassant au-dessus des 100 dollars pour la première fois depuis plusieurs mois.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/business/energy/brent-crude-tops-107-after-houthis-seizure-of-mokha-near-bab-al-mandab-strait-1.500670457"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "energie",
+      "subtopic": "macro",
       "importance": 3,
-      "short_title": "Pétrole flambe à $108",
-      "title": "Le Brent bondit vers $108 le baril alors que l'IRGC cible des tankers",
-      "summary": "Le Brent est passé d'environ $101,5 mercredi à près de $108 jeudi, portant sa hausse à près de 20% sur un mois, après que l'Iran a revendiqué des tirs contre des navires de guerre et pétroliers américains. Les marchés intègrent désormais un risque de disruption durable de l'offre plutôt qu'un pic ponctuel.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-oil-gas-price-strikes/"
-    },
-    {
-      "id": "n04",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Or proche d'un record",
-      "title": "L'or se maintient près de $4 400 l'once, porté par la demande de valeur refuge",
-      "summary": "Le métal jaune reste proche de ses sommets alors que les investisseurs se couvrent contre l'inflation énergétique et l'incertitude géopolitique liée à la guerre USA-Iran. Les ETF adossés à l'or physique ont enregistré en août leur deuxième plus gros afflux mensuel jamais enregistré, à 18 milliards de dollars.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/select/the-price-of-gold-today-sept-10-2026/"
-    },
-    {
-      "id": "n05",
-      "theme": "finance",
-      "subtopic": "usa",
-      "importance": 3,
-      "short_title": "Fed vers hausse taux",
-      "title": "La Fed pourrait relever ses taux le 16 septembre face au choc énergétique",
-      "summary": "Les stratégistes de J.P. Morgan Wealth Management anticipent désormais une hausse de 25 points de base, un revirement après le statu quo de juillet. Les chocs d'approvisionnement liés au conflit iranien maintiennent les coûts de l'énergie élevés, ravivant les doutes sur la capacité de la Fed à contenir l'inflation.",
+      "short_title": "Fed vers une hausse",
+      "title": "La Fed pourrait remonter ses taux face au choc énergétique",
+      "summary": "Les stratèges de J.P. Morgan s'attendent désormais à une hausse de 25 points de base lors de la réunion du FOMC du 16 septembre, un scénario jugé improbable il y a encore quelques semaines. Le choc pétrolier lié au conflit au Moyen-Orient et les doutes sur la fermeté de la Fed face à l'inflation ont fait basculer les anticipations de marché.",
       "source": "Chase",
       "url": "https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks"
     },
     {
-      "id": "n06",
+      "id": "n04",
       "theme": "finance",
-      "subtopic": "france",
+      "subtopic": "macro",
       "importance": 2,
-      "short_title": "Chômage France en hausse",
-      "title": "L'Insee prévoit un chômage à 8,6% en France d'ici la fin de l'année",
-      "summary": "L'institut anticipe des perspectives sombres pour l'emploi salarié d'ici décembre, avec un recul attendu dans le secteur privé et les contrats d'alternance. La flambée du coût de l'énergie liée à la guerre au Moyen-Orient pèse sur la conjoncture d'une économie déjà fragilisée par des créations d'emploi limitées.",
-      "source": "Boursorama (Insee)",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/emploi-perspectives-sombres-pour-la-fin-de-l-annee-avec-un-chomage-a-8-6-insee-c860410de2f61e1d562fa97031db03fc"
+      "short_title": "IA et coupes d'emploi",
+      "title": "Le marché du travail américain plie sous les coupes liées à l'IA",
+      "summary": "Le rapport sur l'emploi d'août n'a fait apparaître qu'environ 65 000 créations de postes, avec un taux de chômage remontant à 4,2%. Sur l'année, les suppressions de postes attribuées à l'IA représentent déjà 22% de l'ensemble des licenciements recensés par Challenger, Gray & Christmas, un phénomène qui frappe en priorité les jeunes diplômés.",
+      "source": "Digital Applied",
+      "url": "https://www.digitalapplied.com/blog/ai-and-jobs-2026-what-the-labor-data-shows-analysis"
+    },
+    {
+      "id": "n05",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "USA-Iran s'enflamme",
+      "title": "Le conflit direct entre les Etats-Unis et l'Iran s'intensifie",
+      "summary": "Au-delà du front yéménite, l'affrontement s'étend: les forces américaines ont visé des pétroliers iraniens tandis que Téhéran a lancé des missiles contre des navires de guerre et des actifs américains dans la région. Cette escalade directe complique encore la lecture du risque énergétique et sécuritaire au Moyen-Orient.",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Near-100-After-Fresh-Attacks-on-Saudi-Energy-Sites.html"
+    },
+    {
+      "id": "n06",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Iran a utilisé Claude",
+      "title": "Anthropic révèle que l'Iran a utilisé Claude contre l'US Navy",
+      "summary": "Dans un rapport de menace publié le 10 septembre, Anthropic explique qu'un acteur lié à l'Iran a utilisé Claude, assisté d'un pipeline Python que le modèle a aidé à construire, pour compiler des dossiers de ciblage sur des navires de guerre américains dans la région. L'outil a servi à croiser des données publiques (photos militaires, identifiants de transpondeurs, imagerie satellite commerciale) et à explorer des vulnérabilités dans des équipements de communication embarqués.",
+      "source": "Navy Times",
+      "url": "https://www.navytimes.com/news/your-navy/2026/09/11/iran-used-claude-to-target-us-navy-in-middle-east-anthropic-says/"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "OpenAI lance GPT-6 Astra",
-      "title": "OpenAI dévoile GPT-6 Astra, un modèle frontier axé sécurité et usage professionnel",
-      "summary": "Présenté comme le modèle le plus intelligent et le mieux aligné d'OpenAI, GPT-6 Astra vise l'usage d'ordinateur, la navigation web, l'ingénierie logicielle et le travail scientifique, avec un déploiement sur ChatGPT, l'API, Azure et Bedrock. OpenAI a mis un accent inhabituel sur la sécurité dans l'annonce, en pleine intensification de la concurrence avec Anthropic et Google.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+      "short_title": "Astra classé Critical",
+      "title": "GPT-6 Astra franchit le seuil Critical en cybersécurité",
+      "summary": "OpenAI a classé les capacités cyber de GPT-6 Astra au niveau Critical de son propre cadre de sécurité, une première pour l'entreprise. Le modèle affiche par ailleurs une baisse marquée de la lisibilité de sa chaîne de raisonnement, ce qui inquiète les chercheurs chargés de détecter un comportement potentiellement mal aligné.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Google: Gemini 3.8 Flash",
-      "title": "Google lance Gemini 3.8 Flash et une variante Cyber dédiée à la cybersécurité",
-      "summary": "Troisième version Flash en six semaines, Gemini 3.8 Flash Cyber est réservée via le programme Fairwind aux gouvernements, opérateurs d'infrastructures critiques et mainteneurs de logiciels, avec des capacités de détection et correction de vulnérabilités à niveau frontier. Demis Hassabis a évoqué devant le G20 une stratégie où Gemini deviendrait la couche générale coordonnant des modèles spécialisés moins coûteux.",
-      "source": "Google (blog officiel)",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+      "short_title": "OpenAI veut réguler IA",
+      "title": "OpenAI opère un revirement et réclame une régulation contraignante",
+      "summary": "Après des années à plaider pour un encadrement léger, OpenAI a appelé le 11 septembre à des règles de sécurité contraignantes pour les systèmes d'IA les plus puissants aux Etats-Unis. Sam Altman a également indiqué envisager de ralentir le développement des modèles de pointe, en espérant que les autres laboratoires suivent le mouvement.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/next/2026/09/11/openai-makes-u-turn-and-calls-for-binding-national-ai-safety-rules"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anthropic: Fable 5.1",
-      "title": "Anthropic lance Claude Fable 5.1 et Mythos 5.1 avec coûts réduits",
-      "summary": "Fable 5.1 est en disponibilité générale tandis que Mythos 5.1, aux garde-fous plus permissifs, reste réservé au programme d'accès de confiance pour la cybersécurité et les sciences de la vie. Anthropic réduit de 75% le coût de la lecture du cache et introduit une nouvelle architecture de sécurité, les Enterprise Frontier Safeguards, en réponse directe à la pression concurrentielle de GPT-6 Astra.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+      "importance": 2,
+      "short_title": "Agents API d'OpenAI",
+      "title": "OpenAI ouvre son Agents API en beta publique",
+      "summary": "OpenAI a mis à disposition de tous les développeurs l'infrastructure agentique qui fait tourner Codex: sessions longues, orchestration, compaction de contexte et sous-agents, exécutables dans un sandbox géré par OpenAI ou chez des partenaires comme Vercel, Cloudflare ou Oracle. Aucun tarif spécifique n'est ajouté, l'usage restant facturé via les modèles et outils mobilisés.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Mistral: levée record",
-      "title": "Mistral boucle une levée record de 3 milliards d'euros menée par Samsung",
-      "summary": "Ce tour porte la valorisation du champion français à plus de 21 milliards d'euros, un record pour une levée de fonds technologique européenne, avec Samsung en chef de file aux côtés du Scaleup Europe Fund et de PSG Equity. L'opération vise à financer des data centers propres pour rivaliser avec les labs américains dans une course à l'échelle qui s'intensifie chaque semaine.",
-      "source": "NAI 500",
-      "url": "https://nai500.com/blog/2026/09/mistral-s-3-billion-round-puts-europe-s-ai-ambition-on-display/"
+      "importance": 2,
+      "short_title": "Claude Code mis à jour",
+      "title": "Anthropic fait évoluer Claude Code",
+      "summary": "La même semaine, Anthropic a publié une mise à jour large de Claude Code, avec des évaluations de plugins, un changement de style de sortie et un contrôle renforcé des workflows et de la télémétrie. L'accent est mis sur la fiabilité et l'expérience développeur plutôt que sur une nouvelle capacité de modèle.",
+      "source": "Releasebot",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "design",
-      "importance": 2,
-      "short_title": "Figma: plugins IA",
-      "title": "Figma permet de créer des plugins génératifs et des shaders par simple prompt",
-      "summary": "La nouvelle capacité de l'agent Figma permet de construire des plugins personnalisés et des effets visuels directement en langage naturel, sans coder. C'est le dernier signe d'une bascule des outils de design vers des agents génératifs intégrés, la même semaine où les labs IA rivalisent d'annonces sur leurs modèles agentiques.",
-      "source": "Figma (blog officiel)",
-      "url": "https://www.figma.com/blog/product-updates/"
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Mistral lève 3 Md€",
+      "title": "Mistral boucle une levée record de 3 milliards d'euros",
+      "summary": "Menée par Samsung Electronics, cette série D valorise Mistral à plus de 21 milliards d'euros et constitue la plus grosse levée jamais réalisée par une entreprise technologique européenne. Les fonds doivent financer la recherche de pointe, la capacité de calcul pour l'entraînement des modèles et l'expansion internationale de l'alternative européenne aux géants américains de l'IA.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
     },
     {
       "id": "n12",
-      "theme": "climat",
-      "subtopic": "usa",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Nucléaire USA-Arabie",
-      "title": "L'accord nucléaire civil USA-Arabie saoudite entre dans sa fenêtre d'entrée en vigueur",
-      "summary": "Transmis au Congrès fin août, le pacte de 30 ans donnant l'exclusivité à Westinghouse sur les infrastructures nucléaires saoudiennes entrera en vigueur sous 90 jours sauf blocage parlementaire. Des élus et experts en non-prolifération s'inquiètent d'une filière d'enrichissement d'uranium jusqu'à 20%, un risque amplifié par la guerre en cours entre les Etats-Unis et l'Iran voisin.",
-      "source": "Arms Control Association",
-      "url": "https://www.armscontrol.org/blog/2026-09-01/us-saudi-agreement-civil-nuclear-cooperation-answers-frequently-asked-questions"
+      "short_title": "Tyrosine et longévité",
+      "title": "Un acide aminé courant lié à une espérance de vie réduite chez l'homme",
+      "summary": "Une étude portant sur plus de 270 000 personnes associe un taux sanguin élevé de tyrosine à une espérance de vie réduite de près d'un an chez les hommes, sans effet équivalent chez les femmes. L'analyse combine données observationnelles et randomisation mendélienne, mais ne teste pas directement l'effet d'une supplémentation en tyrosine.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
     },
     {
       "id": "n13",
-      "theme": "climat",
-      "subtopic": "europe",
-      "importance": 1,
-      "short_title": "UE actualise climat",
-      "title": "Bruxelles affine sa réglementation climat-énergie pour la fin d'année",
-      "summary": "La Commission européenne publie des orientations sur le Net-Zero Industry Act et des mises à jour des exigences ESG, tandis que l'Autorité bancaire européenne actualise son tableau de bord des risques climatiques pour le secteur bancaire. Ces ajustements réglementaires s'inscrivent dans une année charnière pour l'architecture climatique et énergétique de l'UE.",
-      "source": "Cleary Gottlieb",
-      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-09-02"
-    },
-    {
-      "id": "n14",
       "theme": "sante",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Muscu: sweet spot 90min",
-      "title": "Une étude sur 147 000 adultes fixe le sweet spot du renforcement musculaire",
-      "summary": "En suivant les participants jusqu'à 30 ans, les chercheurs montrent que 90 à 120 minutes de musculation par semaine réduisent de 13% le risque de mortalité toutes causes, avec des baisses marquées pour les maladies cardiovasculaires et neurologiques. Associée à de l'endurance régulière, la combinaison ferait chuter le risque de décès de près de 45%, sans que la corpulence n'explique cet effet.",
-      "source": "British Journal of Sports Medicine (via ScienceDaily)",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234959.htm"
+      "short_title": "Régime et espérance vie",
+      "title": "Les régimes qui allongent la vie diffèrent selon le sexe",
+      "summary": "Une analyse portant sur plus de 100 000 adultes montre que le régime le plus bénéfique pour l'espérance de vie n'est pas le même pour les femmes (un profil méditerranéen riche en céréales complètes) que pour les hommes. Cette étude relance le débat sur la pertinence de recommandations nutritionnelles génériques, non différenciées par sexe.",
+      "source": "YourNews",
+      "url": "https://yournews.com/2026/09/06/7187652/longevity-diets-may-differ-for-men-and-women-large-uk/"
+    },
+    {
+      "id": "n14",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "UE climat post-2030",
+      "title": "La Commission européenne défend la survie de sa politique climatique",
+      "summary": "Alors que les prix de l'énergie flambent à nouveau, la Commission européenne a réaffirmé que la politique climatique devait \"survivre\" pour que l'Europe elle-même survive. Bruxelles prépare son paquet climat post-2030, avec un objectif contraignant de réduction de 90% des émissions d'ici 2040, incluant une révision du marché carbone (ETS) et du mécanisme d'ajustement carbone aux frontières (CBAM).",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/09/02/climate-policy-must-survive-because-we-want-to-survive-in-europe-eu-commission-says"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "sciences",
+      "subtopic": "ig_nobel",
       "importance": 1,
-      "short_title": "Démence après 90 ans",
-      "title": "Le risque de démence après 90 ans varie fortement selon le sexe et la génétique",
-      "summary": "L'étude LifeAfter90, menée sur plus de 800 nonagénaires par UC Davis Health et Kaiser Permanente, montre que les femmes ont un risque de démence deux fois plus élevé que les hommes, et que le variant APOE4 double quasiment ce risque chez les participants noirs. Elle confirme qu'atteindre 90 ans sans démence ne met à l'abri d'aucune trajectoire de déclin cognitif ultérieur.",
-      "source": "The Lancet Healthy Longevity",
-      "url": "https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(26)00066-8/fulltext"
+      "short_title": "Ig Nobel 2026",
+      "title": "Les Ig Nobel 2026 récompensent la science qui fait rire puis réfléchir",
+      "summary": "La cérémonie des 36èmes Ig Nobel s'est tenue à Zurich début septembre, avec dix prix couronnant des recherches aussi sérieuses qu'insolites. Parmi les lauréats: une définition plus précise du baiser chez les fourmis, oiseaux, ours polaires et humains, et une étude sur la propension des classes aisées à se comporter de façon moins éthique.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02650-x"
     },
     {
       "id": "n16",
       "theme": "sciences",
-      "subtopic": "bio",
-      "importance": 2,
-      "short_title": "ADN à 8 lettres lu",
-      "title": "Une enzyme naturelle lit avec précision un alphabet ADN à huit lettres",
-      "summary": "Des chercheurs de UC San Diego montrent par cryo-microscopie électronique que l'ARN polymérase d'E. coli peut reconnaître et transcrire deux paires de bases synthétiques en plus des quatre lettres naturelles de l'ADN. La découverte, publiée dans Nature Communications, ouvre la voie à des systèmes biologiques conçus sur mesure pour produire des fonctions ou composés absents de la nature.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
+      "subtopic": "llm_agents",
+      "importance": 3,
+      "short_title": "Percée Navier-Stokes",
+      "title": "OpenAI affirme avoir résolu un problème du prix du millénaire",
+      "summary": "Des chercheurs d'OpenAI annoncent avoir démontré, à l'aide de 10 000 agents autonomes tournant sur un modèle non public, l'existence d'une singularité dans les équations de Navier-Stokes en trois dimensions, résolvant l'un des problèmes du prix du millénaire de l'institut Clay. Le résultat a été vérifié formellement en Lean, mais fait polémique après qu'un mathématicien a accusé OpenAI de s'être appuyé sur sa méthode sans attribution correcte.",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/"
     },
     {
       "id": "n17",
-      "theme": "sciences",
-      "subtopic": "bio",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Connectome mouche",
-      "title": "Premier connectome complet du système nerveux d'une mouche adulte mâle",
-      "summary": "Après près de vingt ans de travail, une équipe internationale menée par Harvard et Princeton cartographie 166 700 neurones et 125 millions de connexions synaptiques couvrant cerveau et cordon nerveux ventral. C'est la première fois qu'un système nerveux central complet est comparé cellule par cellule entre les deux sexes chez un même animal.",
-      "source": "Sci.News",
-      "url": "https://www.sci.news/biology/complete-fruit-fly-connectome-15053.html"
+      "short_title": "Claude sur Vercel",
+      "title": "Vercel intègre Claude Fable 5.1 dans son AI Gateway",
+      "summary": "Vercel a ajouté l'accès à Claude Fable 5.1 dans son AI Gateway, avec une clé API unique, des mécanismes de repli, un suivi des dépenses et une traçabilité des requêtes. L'intégration illustre la diffusion rapide des derniers modèles d'Anthropic dans les outils utilisés par les développeurs et les designers web.",
+      "source": "Releasebot",
+      "url": "https://releasebot.io/updates/vercel"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n03",
+      "target": "n02",
       "type": "cause",
-      "explanation": "Les tirs iraniens contre des tankers et navires américains resserrent l'offre pétrolière transitant par Hormuz, ce qui pousse mécaniquement les prix du Brent à la hausse."
+      "explanation": "La prise de Moka et les frappes sur l'oléoduc saoudien menacent directement l'approvisionnement en pétrole via Bab al-Mandeb, ce qui a immédiatement fait grimper les cours du Brent."
     },
     {
       "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Les deux épisodes relèvent de la même flambée de tensions régionales entre forces pro-iraniennes et intérêts occidentaux sur les routes maritimes du Golfe et de la mer Rouge."
+      "target": "n03",
+      "type": "cause",
+      "explanation": "La flambée du Brent ravive les pressions inflationnistes liées à l'énergie, ce qui a fait basculer les anticipations de marché vers une hausse de taux de la Fed plutôt qu'un statu quo."
     },
     {
       "source": "n03",
       "target": "n04",
-      "type": "cause",
-      "explanation": "La flambée du pétrole nourrit les craintes d'inflation et l'incertitude géopolitique, ce qui pousse les investisseurs vers l'or comme valeur refuge."
+      "type": "tension",
+      "explanation": "La Fed est prise en tenaille: le choc énergétique pousse vers une hausse des taux, alors même que le marché du travail s'affaiblit et que les coupes liées à l'IA fragilisent l'emploi, deux signaux qui appelleraient plutôt à la prudence."
     },
     {
-      "source": "n03",
+      "source": "n01",
       "target": "n05",
-      "type": "cause",
-      "explanation": "Le choc énergétique alimente l'inflation américaine, ce qui a fait basculer les anticipations de marché d'un statu quo vers une hausse des taux de la Fed."
+      "type": "meme_sujet",
+      "explanation": "Les Houthis, soutenus par Téhéran, ne sont qu'un front parmi d'autres dans le même affrontement élargi opposant les Etats-Unis et leurs alliés à l'Iran au Moyen-Orient."
     },
     {
-      "source": "n03",
+      "source": "n05",
       "target": "n06",
       "type": "cause",
-      "explanation": "La hausse du coût de l'énergie pèse sur l'activité en zone euro, contribuant à la dégradation des prévisions de chômage françaises pour la fin d'année."
+      "explanation": "C'est dans le cadre de cette confrontation directe avec les Etats-Unis qu'un acteur lié à l'Iran a eu recours à Claude pour bâtir des dossiers de ciblage sur les forces navales américaines."
     },
     {
-      "source": "n07",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "GPT-6 Astra revendique surpasser Claude sur les benchmarks de référence, ce qui pousse Anthropic à répliquer rapidement avec des modèles plus performants et moins chers."
+      "source": "n06",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "La même semaine, deux affaires distinctes illustrent le même basculement: des modèles frontière deviennent assez capables pour représenter un risque cyber ou militaire concret, que ce soit détourné par un Etat ou classé Critical par son propre concepteur."
     },
     {
       "source": "n07",
       "target": "n08",
-      "type": "meme_sujet",
-      "explanation": "OpenAI et Google dévoilent leurs nouveaux modèles frontier à quelques jours d'intervalle, illustrant l'accélération de la course aux capacités entre labs américains."
+      "type": "cause",
+      "explanation": "La classification Critical d'Astra en cybersécurité et la controverse sur la baisse de lisibilité de son raisonnement ont directement précédé et nourri le revirement d'OpenAI en faveur d'une régulation contraignante."
     },
     {
-      "source": "n08",
-      "target": "n09",
+      "source": "n09",
+      "target": "n10",
       "type": "meme_sujet",
-      "explanation": "Les lancements de Google et d'Anthropic relèvent de la même séquence concurrentielle entre labs IA frontier menée cette semaine."
+      "explanation": "OpenAI et Anthropic publient la même semaine des mises à jour majeures de leurs outils pour développeurs agentiques, signe d'une course parallèle à l'infrastructure IA pour le code."
     },
     {
-      "source": "n10",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "La levée record de Mistral s'inscrit dans la même dynamique de course aux capitaux et à l'échelle de calcul déclenchée par les annonces de modèles frontier de la semaine."
+      "source": "n09",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "En ouvrant largement l'infrastructure d'agents autonomes d'OpenAI au-delà de l'usage interne, l'Agents API accélère la diffusion d'outils d'automatisation qui contribuent aux suppressions de postes déjà attribuées à l'IA."
     },
     {
       "source": "n11",
-      "target": "n09",
+      "target": "n08",
+      "type": "tension",
+      "explanation": "Mistral mise sur une stratégie de souveraineté et de levée de capitaux massifs pour exister face aux géants américains, une trajectoire qui contraste avec l'appel d'OpenAI à ralentir et encadrer la course aux modèles les plus puissants."
+    },
+    {
+      "source": "n10",
+      "target": "n17",
       "type": "meme_sujet",
-      "explanation": "L'extension des agents génératifs de Figma aux plugins et shaders illustre la même bascule vers l'IA agentique que les nouveaux modèles de labs, appliquée cette fois aux outils de design."
+      "explanation": "La mise à jour de Claude Code et l'intégration de Claude Fable 5.1 dans l'AI Gateway de Vercel reflètent, la même semaine, l'expansion rapide de l'écosystème Claude chez les développeurs et les équipes produit."
+    },
+    {
+      "source": "n02",
+      "target": "n14",
+      "type": "tension",
+      "explanation": "La flambée des prix du pétrole ravive la dépendance de court terme aux énergies fossiles au moment même où Bruxelles tente de verrouiller des objectifs climatiques plus stricts pour 2040, illustrant la tension entre sécurité énergétique immédiate et trajectoire de décarbonation."
     },
     {
       "source": "n12",
-      "target": "n01",
-      "type": "tension",
-      "explanation": "L'accord nucléaire civil USA-Arabie saoudite avance en pleine guerre ouverte avec l'Iran voisin, ce qui alimente les craintes d'une course régionale à la prolifération plutôt que d'apaiser la zone."
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Deux grandes études publiées la même semaine convergent sur un même constat: les leviers nutritionnels de la longévité ne produisent pas les mêmes effets chez les hommes et chez les femmes."
+    },
+    {
+      "source": "n16",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "Les deux annonces de la semaine illustrent le même saut de capacité des modèles de pointe, entre percée mathématique controversée et capacités cyber classées Critical, posant la question de la vérifiabilité de ce que ces systèmes accomplissent réellement."
     }
   ]
 }

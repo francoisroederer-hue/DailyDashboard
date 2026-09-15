@@ -1,243 +1,255 @@
 {
-  "generated_at": "2026-09-14T06:00:00Z",
+  "generated_at": "2026-09-15T08:00:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Guerre Iran-USA",
-      "title": "Le conflit Iran-Etats-Unis continue de perturber le détroit d'Ormuz",
-      "summary": "Sept mois après son déclenchement, la guerre ouverte entre l'Iran et les Etats-Unis se poursuit, avec des frappes régulières visant des pétroliers et les infrastructures saoudiennes. Le trafic dans le détroit d'Ormuz, par lequel transite un cinquième de l'offre mondiale de pétrole, reste fortement perturbé, retardant tout espoir de normalisation des flux du Golfe.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html"
+      "short_title": "Houthis prennent Perim",
+      "title": "Les Houthis s'emparent de l'île de Perim",
+      "summary": "Les forces houthistes soutenues par l'Iran ont pris le contrôle de l'île de Perim, qui commande l'un des deux chenaux du détroit de Bab-el-Mandeb, après le retrait des forces progouvernementales yéménites. Cette prise de position stratégique intervient après la chute du port de Moka et fait planer une menace directe sur le trafic commercial transitant par la mer Rouge.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "asie",
+      "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Chine menace sommet Xi",
-      "title": "Pékin menace d'annuler le sommet Trump-Xi si Washington vend des armes à Taïwan",
-      "summary": "A onze jours de la rencontre prévue le 24 septembre, la Chine a averti qu'elle annulerait le sommet si les Etats-Unis approuvaient de nouvelles ventes d'armes à Taïwan, qualifiant le dossier de \"ligne rouge\" absolue. Taïwan affirme pourtant avoir reçu des garanties écrites de Washington en mars sur la poursuite du contrat.",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/13/2003864183"
+      "short_title": "Oléoduc saoudien arrêté",
+      "title": "Riyad ferme son oléoduc Est-Ouest après une attaque",
+      "summary": "L'oléoduc saoudien Est-Ouest, capable d'acheminer jusqu'à 7 millions de barils par jour en contournant le détroit d'Ormuz, a été mis à l'arrêt après avoir été touché dans une attaque. Selon des responsables saoudiens, sa remise en service pourrait prendre trois à cinq semaines, alors qu'il jouait un rôle clé pour amortir les perturbations pétrolières liées à la guerre avec l'Iran.",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/09/14/economy/saudi-east-west-pipeline-shut-oil-market"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "brics",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Sommet BRICS New Delhi",
-      "title": "Le 18e sommet des BRICS adopte la déclaration de New Delhi",
-      "summary": "Réunis les 12 et 13 septembre sous présidence indienne, les dix pays membres des BRICS élargis ont adopté un texte de 140 paragraphes couvrant la réforme de la gouvernance mondiale, la dé-dollarisation, la sécurité au Moyen-Orient et la coopération Sud-Sud. Le sommet illustre la volonté du bloc de peser davantage face à l'ordre international dominé par les Etats-Unis.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters"
+      "short_title": "Navire iranien touché",
+      "title": "Un navire commercial iranien frappé près d'Ormuz",
+      "summary": "Un navire commercial iranien a été touché par un projectile non identifié près de l'île de Qeshm dans le détroit d'Ormuz, faisant un mort selon les médias d'État iraniens. L'incident illustre l'escalade continue autour de ce point de passage stratégique, sans revendication ni commentaire des États-Unis à ce stade.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl"
     },
     {
       "id": "n04",
       "theme": "geopol",
-      "subtopic": "afrique",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Algérie rompt avec EAU",
-      "title": "L'Algérie rompt ses relations diplomatiques avec les Emirats arabes unis",
-      "summary": "Alger a annoncé la rupture de ses liens avec Abou Dhabi le 10 septembre, évoquant des actes \"hostiles\" répétés sans en préciser la nature exacte, et a donné 48 heures à l'ambassadeur émirati pour quitter le pays. La rupture s'inscrit dans un contentieux ancien sur le Sahara occidental et l'influence croissante des Emirats en Libye, au Mali et au Niger.",
+      "short_title": "Réunion Ormuz reportée",
+      "title": "Le sommet Golfe-Iran sur Ormuz reporté à Oman",
+      "summary": "La réunion prévue à Salalah entre l'Iran et les pays du Golfe pour discuter d'un plan de sécurisation du trafic maritime dans le détroit d'Ormuz a été reportée sine die. Oman évoque un besoin de temps pour bâtir un consensus, tandis que Téhéran affirme que le report a été demandé par l'Arabie saoudite, quelques heures après la frappe contre le navire iranien.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+      "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through"
     },
     {
       "id": "n05",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "AfD 43,8% Saxe-Anhalt",
-      "title": "L'AfD remporte 43,8% des voix aux élections régionales de Saxe-Anhalt",
-      "summary": "Le parti d'extrême droite double quasiment son score précédent et rate de peu la majorité absolue dans ce Land de l'est allemand, la CDU s'effondrant de 37% à 17%. Ce résultat, qualifié de \"séisme politique\" par la presse allemande, ravive le débat sur une éventuelle levée du cordon sanitaire autour de l'AfD à l'approche d'autres scrutins régionaux.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/06/europe/germany-afd-state-election-majority-intl"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent proche de 108$",
+      "title": "Le Brent grimpe vers 108 dollars le baril",
+      "summary": "Le prix du pétrole a poursuivi sa hausse pour approcher les 108 dollars le baril, plus haut niveau en quatre mois, porté par la fermeture de l'oléoduc saoudien et la prise de contrôle houthie sur une partie du détroit de Bab-el-Mandeb. Les deux principaux points de contournement du détroit d'Ormuz sont désormais menacés simultanément, ce qui alimente une prime de risque durable sur les marchés.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/business/energy/2026/09/14/oil-nears-108-after-saudi-arabia-shuts-pipeline-amid-attacks/"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "russie",
-      "importance": 2,
-      "short_title": "Inde relance brut russe",
-      "title": "L'Inde reprend ses achats de brut russe malgré la menace de sanctions américaines",
-      "summary": "Un projet de loi au Congrès américain menace d'imposer jusqu'à 100% de droits de douane aux pays qui continuent d'acheter du pétrole ou des armes russes, visant en premier lieu l'Inde et la Chine. Mais la fermeture du détroit d'Ormuz a privé l'Inde d'une partie de ses approvisionnements du Golfe, la poussant à revenir vers le brut russe à prix cassé malgré le risque tarifaire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china"
+      "theme": "finance",
+      "subtopic": "banques_centrales",
+      "importance": 3,
+      "short_title": "Fed vers hausse de taux",
+      "title": "La Fed s'oriente vers une hausse de taux mercredi",
+      "summary": "À la veille de sa réunion des 15-16 septembre, la Réserve fédérale est largement anticipée pour relever ses taux de 25 points de base, ce qui serait la première hausse depuis 2023. Le renchérissement de l'énergie lié au conflit iranien a pesé sur les anticipations d'inflation et réduit la marge de manœuvre du comité après son statu quo de juillet.",
+      "source": "Chase",
+      "url": "https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks"
     },
     {
       "id": "n07",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "AIE réduit prévision",
-      "title": "L'AIE abaisse encore sa prévision de demande pétrolière mondiale pour 2026",
-      "summary": "L'Agence internationale de l'énergie prévoit désormais une contraction de 2,5 millions de barils/jour de la demande mondiale en 2026, la plus forte baisse annuelle depuis la pandémie de Covid-19. L'agence pointe directement l'enlisement du conflit Iran-Etats-Unis et les frappes répétées visant des pétroliers dans le détroit d'Ormuz, qui repoussent désormais à 2027 le retour à la normale de l'offre du Golfe.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Altman retarde l'IPO",
+      "title": "Altman repousse l'IPO d'OpenAI et soutient un ralentissement",
+      "summary": "Sam Altman a indiqué que l'introduction en bourse d'OpenAI n'aurait pas lieu en 2026, jugeant le moment mal choisi compte tenu des inquiétudes actuelles sur la sécurité de l'IA. Il a également apporté son soutien à l'idée d'un rythme plus mesuré ('pacing') du développement des modèles les plus avancés, reprenant un discours proche de celui de Dario Amodei chez Anthropic.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "chine",
-      "importance": 2,
-      "short_title": "Chine injecte 56Md$",
-      "title": "Pékin injecte près de 56 milliards de dollars dans ses banques et assureurs",
-      "summary": "Le ministère chinois des Finances mène une recapitalisation de plusieurs établissements publics jugée la plus vaste depuis près de vingt ans, alors que les ratios de solvabilité des assureurs se dégradent sous l'effet de taux durablement bas. Les analystes jugent l'impact conjoncturel limité, la faiblesse de la demande de crédit restant le principal frein plutôt qu'un manque de capital bancaire.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude pour conseillers",
+      "title": "Anthropic lance Claude pour les conseillers financiers",
+      "summary": "Anthropic a dévoilé une version de Claude destinée aux conseillers financiers, combinant l'assistant conversationnel à des données et outils de gestion des risques fournis par des acteurs comme BlackRock ou Vanguard. L'objectif est d'accélérer les tâches de recherche, d'administration et de suivi de portefeuille, marquant une étape importante dans l'expansion du groupe vers le secteur financier.",
+      "source": "AdvisorHub",
+      "url": "https://www.advisorhub.com/anthropic-pitches-new-claude-tool-for-financial-advisers/"
     },
     {
       "id": "n09",
-      "theme": "climat",
-      "subtopic": "chine",
-      "importance": 2,
-      "short_title": "Chine gèle le stockage",
-      "title": "La Chine suspend les nouveaux agréments d'usines de batteries de stockage",
-      "summary": "Pékin a gelé début septembre l'approbation de nouveaux projets d'usines de batteries stationnaires non encore lancés, face à une surcapacité qui pourrait dépasser de moitié la production totale de 2025. Les autorités ont aussi rétabli une taxe de 2% sur les batteries lithium-ion, un signal fort de reprise en main d'une industrie de la transition énergétique jugée en surchauffe.",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-New-Battery-Storage-Plant-Approvals.html"
-    },
-    {
-      "id": "n10",
-      "theme": "climat",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "Financement climat en jeu",
-      "title": "Les Etats-Unis à un mois de l'expiration de leur grande loi sur les infrastructures",
-      "summary": "L'autorisation budgétaire de la majeure partie des programmes de l'Infrastructure Investment and Jobs Act s'éteint le 30 septembre, avec encore environ 600 milliards de dollars non engagés, dont une large part destinée aux réseaux électriques et à la transition énergétique. Faute de loi de remplacement votée, les agences fédérales se précipitent pour engager les fonds restants avant qu'ils ne soient perdus.",
-      "source": "Holland & Knight",
-      "url": "https://www.hklaw.com/en/insights/publications/2026/08/stakeholder-pressure-increases-as-iija-funding-expiration-draws-nearer"
-    },
-    {
-      "id": "n11",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
+      "subtopic": "ai_labs",
+      "importance": 1,
       "short_title": "Limites Claude Code",
-      "title": "Anthropic remplace la hausse temporaire des limites de Claude Code par un relèvement permanent",
-      "summary": "Le bonus temporaire de 50% sur les limites hebdomadaires de Claude Code, qui expirait le 13 septembre, est remplacé dès le 14 par une hausse permanente de 25% par rapport au plafond de base de chaque forfait. Ce réajustement traduit l'arbitrage constant des laboratoires entre usage intensif des agents de code et maîtrise des coûts de calcul.",
+      "title": "Anthropic ajuste les limites d'usage de Claude Code",
+      "summary": "Anthropic a rendu permanente une hausse de 25% des limites hebdomadaires de Claude Code par rapport à la base d'origine, mais ce nouveau plafond représente en réalité une baisse de 17% par rapport au bonus temporaire de 50% en vigueur depuis mai. La communication initiale a été critiquée pour avoir mis en avant la hausse sans mentionner clairement la réduction effective vécue par les utilisateurs actifs.",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/"
     },
     {
-      "id": "n12",
+      "id": "n10",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "OpenAI API Agents",
-      "title": "OpenAI ouvre en bêta publique son API pour agents cloud autonomes",
-      "summary": "Cette nouvelle API expose aux développeurs l'infrastructure jusqu'ici réservée à Codex et à ChatGPT Enterprise: gestion automatique du contexte, exécution parallèle d'outils et délégation à des sous-agents dans des sandboxes hébergées par OpenAI ou des partenaires comme Vercel et Cloudflare. Les premiers utilisateurs rapportent des gains de fiabilité et de latence significatifs par rapport à des architectures d'agents construites maison.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-the-agents-api/"
+      "short_title": "Mistral lève 3 Mds €",
+      "title": "Mistral boucle une levée de 3 milliards d'euros",
+      "summary": "La start-up française Mistral AI a finalisé une levée de série D de 3 milliards d'euros, valorisant l'entreprise à plus de 21 milliards d'euros et en faisant la plus importante levée jamais réalisée par une tech européenne. Les fonds doivent financer l'expansion de la recherche et des infrastructures de calcul, dans un contexte de course aux capacités face aux géants américains.",
+      "source": "AIwire (HPCwire)",
+      "url": "https://www.hpcwire.com/aiwire/2026/09/08/mistral-raises-e3b-to-expand-ai-research-and-infrastructure/"
+    },
+    {
+      "id": "n11",
+      "theme": "climat",
+      "subtopic": "regulation_energie",
+      "importance": 3,
+      "short_title": "EPA annule normes CO2",
+      "title": "L'EPA s'apprête à abroger les normes carbone des centrales",
+      "summary": "L'agence américaine de protection de l'environnement s'apprête à annuler formellement les normes limitant les émissions de CO2 des centrales à charbon et à gaz, en marge d'une réunion des ministres de l'énergie du G20 à Houston. Cette décision s'inscrit dans une série de reculs réglementaires de l'administration Trump sur le climat, après l'abrogation des normes automobiles et du 'endangerment finding' de 2009.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-epa-to-rescind-carbon-standards-for-coal-gas-power-plants"
+    },
+    {
+      "id": "n12",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Molécule IA anti-âge",
+      "title": "Un médicament conçu par IA réduit des marqueurs de l'âge",
+      "summary": "Le rentosertib, un inhibiteur de la protéine TNIK conçu par intelligence artificielle chez Insilico Medicine, a réduit les marqueurs d'âge biologique mesurés par six horloges protéomiques distinctes lors d'un essai de phase 2a mené en Chine. L'effet maximal, observé à la quatrième semaine, correspondrait à un rajeunissement apparent de trois à six ans selon l'horloge utilisée, même si les chercheurs restent prudents sur la part liée à l'effet anti-fibrotique du traitement plutôt qu'à un vrai rajeunissement.",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20260907/AI-designed-drug-candidate-reverses-biological-age-in-clinical-study.aspx"
     },
     {
       "id": "n13",
-      "theme": "learn",
-      "subtopic": "llm_agents",
-      "importance": 2,
-      "short_title": "Mollick sur les agents",
-      "title": "Ethan Mollick propose de renverser la question de l'autonomie des agents IA",
-      "summary": "Dans un nouvel essai, le chercheur de Wharton avance que la vraie question n'est plus de savoir quand un humain doit solliciter l'IA, mais quand un agent autonome doit savoir s'arrêter pour demander l'avis d'un humain. Il oppose son modèle de \"Twilight Factory\", où des agents sollicitent activement une supervision, à l'usine pleinement autonome que la plupart des fournisseurs continuent de vendre.",
-      "source": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing"
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 1,
+      "short_title": "Mitochondries en alerte",
+      "title": "Des mitochondries défaillantes entretiennent l'inflammation liée à l'âge",
+      "summary": "Des chercheurs ont montré que les cellules sénescentes utilisent des mitochondries dysfonctionnelles pour produire de l'acétyl-CoA, une molécule qui rend les gènes inflammatoires plus accessibles et maintient le système immunitaire en état d'alerte permanent. Bloquer le transporteur mitochondrial impliqué, SLC25A1, a réduit l'inflammation et amélioré le vieillissement en bonne santé chez la souris, ouvrant une piste thérapeutique contre l'inflammation chronique liée à l'âge.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm"
     },
     {
       "id": "n14",
       "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Sémaglutide et longévité",
-      "title": "Le sémaglutide prolonge la durée de vie et améliore la cognition de souris âgées",
-      "summary": "Publiée début septembre dans Nature, une étude montre que des souris femelles âgées traitées au sémaglutide ont vécu en moyenne 100 jours de plus, avec une meilleure fonction musculaire, une cognition préservée et une inflammation réduite. Les auteurs notent que le traitement a surpassé, sur certains marqueurs, les bénéfices classiquement attribués à la restriction calorique.",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20260903/Semaglutide-extended-lifespan-in-older-female-mice-but-that-was-not-the-only-finding.aspx"
+      "subtopic": "nutrition",
+      "importance": 1,
+      "short_title": "Obésité: critères revus",
+      "title": "L'Endocrine Society veut redéfinir le succès thérapeutique dans l'obésité",
+      "summary": "Dans une prise de position publiée le 9 septembre, l'Endocrine Society appelle à ne plus juger l'efficacité des traitements de l'obésité au seul critère de la perte de poids. La société savante recommande d'évaluer plutôt les progrès sur la composition corporelle, le tour de taille, les marqueurs cardiométaboliques et la qualité de vie, alors que la nouvelle génération de traitements pharmacologiques se généralise.",
+      "source": "Healio",
+      "url": "https://www.healio.com/news/endocrinology/20260910/scientific-statement-to-researchers-look-at-obesity-outcomes-beyond-weight-loss"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "nutrition",
+      "theme": "sciences",
+      "subtopic": "neurosciences",
       "importance": 2,
-      "short_title": "Ozempic: effets cachés",
-      "title": "Une IA détecte des effets secondaires méconnus des médicaments GLP-1 sur Reddit",
-      "summary": "Des chercheurs de l'université de Pennsylvanie ont analysé par IA plus de 400 000 messages Reddit d'utilisateurs d'Ozempic, Wegovy, Mounjaro et Zepbound, révélant des symptômes peu documentés comme des troubles du cycle menstruel, des bouffées de chaleur ou des troubles anxieux chez près de 13% des utilisateurs. Les auteurs y voient un signal d'alerte précoce complémentaire des essais cliniques, tout en reconnaissant que Reddit n'est pas un échantillon représentatif.",
+      "short_title": "ADN 3D et Alzheimer",
+      "title": "Une nouvelle couche du génome impliquée dans Alzheimer",
+      "summary": "Des chercheurs de Carnegie Mellon, de l'Université de Pittsburgh et de l'Université de Washington ont montré que l'organisation tridimensionnelle de l'ADN est perturbée dans plusieurs types de cellules cérébrales chez les personnes atteintes d'Alzheimer, modifiant l'activation de gènes clés. L'équipe a combiné séquençage unicellulaire et un modèle d'apprentissage profond pour révéler cette couche jusque-là peu explorée de la maladie, ouvrant de nouvelles pistes thérapeutiques potentielles.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm"
     },
     {
       "id": "n16",
       "theme": "sciences",
-      "subtopic": "quantique",
+      "subtopic": "astrophysique",
       "importance": 1,
-      "short_title": "Effet Magnus optique",
-      "title": "Des physiciens observent pour la première fois un effet Magnus optique",
-      "summary": "Une collaboration internationale a démontré expérimentalement qu'un laser focalisé interagit le plus fortement avec un atome légèrement décalé du centre du faisceau, un phénomène analogue à l'effet qui fait courber la trajectoire d'une balle qui tourne sur elle-même. Publiée dans Physical Review Letters, l'observation, réalisée sur un ion piégé, pourrait autant introduire de nouvelles sources d'erreur dans le contrôle des qubits qu'ouvrir une nouvelle voie pour les coupler entre eux.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm"
+      "short_title": "Sursauts radio et cosmos",
+      "title": "Les sursauts radio rapides cartographient la matière cosmique",
+      "summary": "Une équipe de Caltech a utilisé une centaine de sursauts radio rapides (FRB) pour mesurer directement l'effet du 'feedback' galactique, les gaz et l'énergie éjectés par les galaxies, sur la répartition de la matière à grande échelle. Cette méthode ouvre une nouvelle voie pour contraindre la matière noire, l'énergie noire et la masse des neutrinos, en complément des grands relevés comme Euclid ou DESI.",
+      "source": "Caltech",
+      "url": "https://www.caltech.edu/about/news/fast-radio-bursts-poised-to-help-with-biggest-cosmic-mysteries"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n07",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La poursuite des frappes dans le détroit d'Ormuz et l'absence de dégel entre Téhéran et Washington repoussent à 2027 le retour de l'offre du Golfe, poussant l'AIE à revoir sa prévision de demande à la baisse."
-    },
-    {
-      "source": "n01",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "La fermeture persistante du détroit d'Ormuz prive l'Inde d'une partie de ses approvisionnements habituels du Golfe, la poussant à se retourner vers le brut russe à prix réduit malgré la menace de sanctions américaines."
+      "explanation": "La prise de l'île de Perim par les Houthis renforce la menace sur le second point de passage clé de la mer Rouge, ajoutant une prime de risque au prix du pétrole déjà tendu par la guerre Iran-USA."
     },
     {
       "source": "n02",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Pékin joue un double jeu diplomatique: fermeté maximale face à Washington sur Taïwan tout en se posant, au même moment via les BRICS, en champion d'un ordre mondial multipolaire alternatif."
+      "target": "n05",
+      "type": "cause",
+      "explanation": "L'arrêt de l'oléoduc Est-Ouest saoudien retire jusqu'à 7 millions de barils/jour de capacité de contournement du détroit d'Ormuz, resserrant mécaniquement l'offre mondiale disponible."
     },
     {
-      "source": "n08",
-      "target": "n02",
-      "type": "tension",
-      "explanation": "Alors que son secteur bancaire nécessite une recapitalisation d'urgence face à l'effondrement du crédit intérieur, la Chine affiche au même moment une posture de fermeté diplomatique tous azimuts, de Taïwan aux BRICS."
+      "source": "n03",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La frappe contre le navire iranien près d'Ormuz, survenue la veille du sommet, a directement conduit à son report, Ryad et Téhéran se rejetant la responsabilité de l'annulation."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "tension",
-      "explanation": "La Chine verrouille ses agréments pour juguler une surcapacité industrielle dans le stockage par batteries, tandis que les Etats-Unis laissent au contraire expirer le financement fédéral qui soutient leurs propres infrastructures de transition énergétique: deux Etats interviennent dans des directions opposées sur la trajectoire mondiale de la transition."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
+      "source": "n02",
+      "target": "n04",
       "type": "meme_sujet",
-      "explanation": "La même semaine, Anthropic et OpenAI réajustent chacun l'infrastructure économique de leurs outils d'agents pour développeurs, l'un en resserrant puis relevant ses quotas d'usage, l'autre en industrialisant l'accès à ses agents cloud autonomes."
+      "explanation": "Les deux épisodes relèvent de la même dynamique d'escalade autour de la sécurisation des voies pétrolières régionales, l'un ciblant les infrastructures saoudiennes, l'autre la diplomatie sur Ormuz."
     },
     {
-      "source": "n12",
-      "target": "n13",
-      "type": "tension",
-      "explanation": "OpenAI industrialise l'accès à des agents cloud capables de tourner seuls pendant des heures au moment même où Mollick soutient que le vrai enjeu n'est plus l'autonomie des agents mais leur capacité à savoir quand s'arrêter et solliciter un humain."
-    },
-    {
-      "source": "n14",
-      "target": "n15",
-      "type": "tension",
-      "explanation": "La même classe de molécules GLP-1 apparaît sous deux angles opposés la même semaine: des bénéfices spectaculaires sur la longévité en laboratoire d'un côté, des effets secondaires méconnus remontés du terrain par des patients réels de l'autre."
-    },
-    {
-      "source": "n04",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "La rupture algérienne avec les Emirats et la tenue du sommet des BRICS, dont les Emirats sont membres, illustrent la même recomposition heurtée des alliances au sein du bloc multipolaire élargi."
+      "source": "n05",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "La flambée du Brent alimente directement les pressions inflationnistes que la Fed doit arbitrer lors de sa réunion des 15-16 septembre, renforçant les anticipations d'une hausse de taux."
     },
     {
       "source": "n07",
       "target": "n08",
+      "type": "tension",
+      "explanation": "Le discours prudent d'Altman sur un ralentissement de l'IA contraste avec l'expansion commerciale simultanée d'Anthropic vers un nouveau secteur régulé, illustrant des stratégies concurrentielles divergentes malgré un discours de sécurité commun."
+    },
+    {
+      "source": "n08",
+      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "La contraction de la demande pétrolière mondiale et l'effondrement du crédit chinois sont deux signaux convergents de fragilisation de la croissance mondiale, avec des causes distinctes mais un même sens de marche."
+      "explanation": "Ces deux annonces d'Anthropic publiées le même jour révèlent la tension entre expansion commerciale vers de nouveaux marchés et gestion des coûts de calcul qui pèsent sur les capacités offertes aux utilisateurs existants."
+    },
+    {
+      "source": "n10",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Les deux nouvelles illustrent la course au financement et à la commercialisation sectorielle qui s'intensifie entre labs, Mistral misant sur le capital et l'infrastructure quand Anthropic mise sur l'intégration verticale dans la finance."
+    },
+    {
+      "source": "n12",
+      "target": "n07",
+      "type": "meme_sujet",
+      "explanation": "L'essai clinique du rentosertib illustre concrètement les capacités de l'IA que les dirigeants de labs, comme Altman, jugent nécessaire d'encadrer par un développement plus prudent."
+    },
+    {
+      "source": "n11",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "La dérégulation carbone américaine et le choc d'offre pétrolier lié au conflit renforcent tous deux, par des voies distinctes, la dépendance de court terme aux énergies fossiles."
+    },
+    {
+      "source": "n13",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "Ces deux études publiées la même semaine éclairent, à l'échelle moléculaire, les mécanismes du vieillissement cellulaire et neuronal, l'une sur l'inflammation chronique, l'autre sur la régulation génique dans Alzheimer."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Les deux résultats relèvent du même champ de recherche sur le vieillissement biologique, l'un testant une intervention pharmacologique, l'autre en élucidant un mécanisme cellulaire sous-jacent."
     }
   ]
 }

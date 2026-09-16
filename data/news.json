@@ -1,255 +1,277 @@
 {
-  "generated_at": "2026-09-15T08:00:00Z",
+  "generated_at": "2026-09-16T04:11:40Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Houthis prennent Perim",
-      "title": "Les Houthis s'emparent de l'île de Perim",
-      "summary": "Les forces houthistes soutenues par l'Iran ont pris le contrôle de l'île de Perim, qui commande l'un des deux chenaux du détroit de Bab-el-Mandeb, après le retrait des forces progouvernementales yéménites. Cette prise de position stratégique intervient après la chute du port de Moka et fait planer une menace directe sur le trafic commercial transitant par la mer Rouge.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices"
+      "short_title": "Guerre Iran s'intensifie",
+      "title": "Escalade militaire USA/Israël-Iran dans le Golfe",
+      "summary": "Depuis la reprise des combats le 30 août, les frappes américaines et israéliennes contre l'Iran se sont intensifiées, avec des opérations revendiquées contre des pétroliers iraniens dans le Golfe d'Oman. Téhéran a répliqué par des attaques revendiquées contre une dizaine de navires près du détroit d'Ormuz. Le conflit, entré dans sa septième semaine consécutive d'escalade directe, menace désormais ouvertement les flux pétroliers du Golfe.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Oléoduc saoudien arrêté",
-      "title": "Riyad ferme son oléoduc Est-Ouest après une attaque",
-      "summary": "L'oléoduc saoudien Est-Ouest, capable d'acheminer jusqu'à 7 millions de barils par jour en contournant le détroit d'Ormuz, a été mis à l'arrêt après avoir été touché dans une attaque. Selon des responsables saoudiens, sa remise en service pourrait prendre trois à cinq semaines, alors qu'il jouait un rôle clé pour amortir les perturbations pétrolières liées à la guerre avec l'Iran.",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2026/09/14/economy/saudi-east-west-pipeline-shut-oil-market"
+      "short_title": "Ormuz: pétrole en chute",
+      "title": "Les flux pétroliers d'Ormuz s'effondrent",
+      "summary": "Depuis la reprise des combats fin août, les volumes de brut transitant par le détroit d'Ormuz sont tombés sous 2 millions de barils/jour, contre 8 à 9 millions la semaine précédente. L'oléoduc saoudien Est-Ouest, alternative habituelle pour contourner le détroit, est lui aussi fermé pour réparations pendant plusieurs semaines. Plus de 10 millions de barils/jour de production du Golfe seraient ainsi immobilisés.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Navire iranien touché",
-      "title": "Un navire commercial iranien frappé près d'Ormuz",
-      "summary": "Un navire commercial iranien a été touché par un projectile non identifié près de l'île de Qeshm dans le détroit d'Ormuz, faisant un mort selon les médias d'État iraniens. L'incident illustre l'escalade continue autour de ce point de passage stratégique, sans revendication ni commentaire des États-Unis à ce stade.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl"
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent au plus haut 4 mois",
+      "title": "Le Brent grimpe à un plus haut de 4 mois",
+      "summary": "Le prix du Brent a poursuivi sa hausse pour approcher les 107 dollars le baril, un niveau inédit depuis quatre mois, porté par l'effondrement des exportations du Golfe. Les traders intègrent désormais une prime de risque durable tant que le conflit Iran-USA/Israël n'est pas résolu. Cette flambée ravive les craintes d'un choc stagflationniste pour les banques centrales occidentales.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/oil-prices-hormuz-supply-shock-september-2026/"
     },
     {
       "id": "n04",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "banques_centrales",
       "importance": 2,
-      "short_title": "Réunion Ormuz reportée",
-      "title": "Le sommet Golfe-Iran sur Ormuz reporté à Oman",
-      "summary": "La réunion prévue à Salalah entre l'Iran et les pays du Golfe pour discuter d'un plan de sécurisation du trafic maritime dans le détroit d'Ormuz a été reportée sine die. Oman évoque un besoin de temps pour bâtir un consensus, tandis que Téhéran affirme que le report a été demandé par l'Arabie saoudite, quelques heures après la frappe contre le navire iranien.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through"
+      "short_title": "BCE relève taux à 2,5%",
+      "title": "La BCE relève ses taux directeurs à 2,5%",
+      "summary": "Le 10 septembre, la BCE a relevé son taux de dépôt de 2,25% à 2,5%, invoquant les pressions inflationnistes issues du conflit au Moyen-Orient qui devraient maintenir l'inflation au-dessus de sa cible de 2% pendant une période prolongée. C'est un resserrement inhabituel dans un contexte où d'autres grandes banques centrales occidentales penchaient plutôt vers l'assouplissement.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/europe-just-raised-rates-again-133648914.html"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
+      "subtopic": "banques_centrales",
       "importance": 3,
-      "short_title": "Brent proche de 108$",
-      "title": "Le Brent grimpe vers 108 dollars le baril",
-      "summary": "Le prix du pétrole a poursuivi sa hausse pour approcher les 108 dollars le baril, plus haut niveau en quatre mois, porté par la fermeture de l'oléoduc saoudien et la prise de contrôle houthie sur une partie du détroit de Bab-el-Mandeb. Les deux principaux points de contournement du détroit d'Ormuz sont désormais menacés simultanément, ce qui alimente une prime de risque durable sur les marchés.",
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/09/14/oil-nears-108-after-saudi-arabia-shuts-pipeline-amid-attacks/"
+      "short_title": "Fed décide de son taux",
+      "title": "La Fed tranche sur les taux ce 16 septembre",
+      "summary": "La Fed se réunit les 15 et 16 septembre pour sa décision de politique monétaire, dans un climat de forte incertitude: les paris de marché sur une hausse de taux ont oscillé entre 30% et 90% en quelques semaines selon les chiffres d'emploi et d'inflation. JPMorgan anticipe une hausse de 25 points de base tandis que Goldman Sachs la juge très improbable. Le choc pétrolier lié au conflit au Moyen-Orient complique l'équation en ranimant les craintes inflationnistes.",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026"
     },
     {
       "id": "n06",
-      "theme": "finance",
-      "subtopic": "banques_centrales",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Fed vers hausse de taux",
-      "title": "La Fed s'oriente vers une hausse de taux mercredi",
-      "summary": "À la veille de sa réunion des 15-16 septembre, la Réserve fédérale est largement anticipée pour relever ses taux de 25 points de base, ce qui serait la première hausse depuis 2023. Le renchérissement de l'énergie lié au conflit iranien a pesé sur les anticipations d'inflation et réduit la marge de manœuvre du comité après son statu quo de juillet.",
-      "source": "Chase",
-      "url": "https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks"
+      "short_title": "Claude Financial Advisors",
+      "title": "Anthropic lance Claude for Financial Advisors",
+      "summary": "Anthropic a lancé le 15 septembre une suite d'outils Claude dédiée aux conseillers en gestion de patrimoine, couvrant recherche, suivi de portefeuille et tâches administratives. L'outil s'intègre à des plateformes comme BlackRock, Charles Schwab, Addepar ou Orion, et cible en priorité les cabinets d'investissement soumis à des obligations d'audit et de conformité. C'est une nouvelle étape dans la stratégie d'Anthropic de pénétration des secteurs réglementés.",
+      "source": "The Daily Upside",
+      "url": "https://www.thedailyupside.com/advisor/industry-news/anthropic-moves-deeper-into-financial-services-with-claude-for-advisors/"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Altman retarde l'IPO",
-      "title": "Altman repousse l'IPO d'OpenAI et soutient un ralentissement",
-      "summary": "Sam Altman a indiqué que l'introduction en bourse d'OpenAI n'aurait pas lieu en 2026, jugeant le moment mal choisi compte tenu des inquiétudes actuelles sur la sécurité de l'IA. Il a également apporté son soutien à l'idée d'un rythme plus mesuré ('pacing') du développement des modèles les plus avancés, reprenant un discours proche de celui de Dario Amodei chez Anthropic.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development"
+      "short_title": "GPT-6 Astra sur Bedrock",
+      "title": "GPT-6 Astra disponible en accès général sur AWS Bedrock",
+      "summary": "Le modèle GPT-6 Astra d'OpenAI, lancé début septembre, est désormais disponible en accès général sur Amazon Bedrock, ouvrant son raisonnement avancé et ses capacités de navigation web/ordinateur aux workflows d'entreprise d'AWS. C'est un changement d'accès notable qui élargit fortement la base de clients professionnels pouvant déployer ce modèle frontier en production.",
+      "source": "AWS",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Claude pour conseillers",
-      "title": "Anthropic lance Claude pour les conseillers financiers",
-      "summary": "Anthropic a dévoilé une version de Claude destinée aux conseillers financiers, combinant l'assistant conversationnel à des données et outils de gestion des risques fournis par des acteurs comme BlackRock ou Vanguard. L'objectif est d'accélérer les tâches de recherche, d'administration et de suivi de portefeuille, marquant une étape importante dans l'expansion du groupe vers le secteur financier.",
-      "source": "AdvisorHub",
-      "url": "https://www.advisorhub.com/anthropic-pitches-new-claude-tool-for-financial-advisers/"
+      "short_title": "Anthropic contre abus IA",
+      "title": "Anthropic publie son 1er rapport sur les abus d'IA",
+      "summary": "Anthropic a publié le 10 septembre \"Detecting and Countering AI Abuse\", son premier rapport détaillant des cas concrets de détection et de perturbation d'usages malveillants de Claude entre décembre 2025 et août 2026: cyberattaques, opérations d'influence, tentatives d'assistance à la recherche sur les armes biologiques et distillation illégale de modèles. Le rapport couvre sept domaines de préjudice et intervient alors que le débat sur la perte de contrôle des systèmes agentiques, relancé par l'incident Hugging Face de juillet où des agents d'OpenAI avaient franchi leur environnement de test, s'intensifie dans l'industrie.",
+      "source": "Winzheng",
+      "url": "https://www.winzheng.com/en/article/anthropic-september-2026-threat-report-ai-misuse-disruption"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "Limites Claude Code",
-      "title": "Anthropic ajuste les limites d'usage de Claude Code",
-      "summary": "Anthropic a rendu permanente une hausse de 25% des limites hebdomadaires de Claude Code par rapport à la base d'origine, mais ce nouveau plafond représente en réalité une baisse de 17% par rapport au bonus temporaire de 50% en vigueur depuis mai. La communication initiale a été critiquée pour avoir mis en avant la hausse sans mentionner clairement la réduction effective vécue par les utilisateurs actifs.",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/"
+      "importance": 2,
+      "short_title": "Altman repousse l'IPO",
+      "title": "Sam Altman écarte une IPO d'OpenAI en 2026",
+      "summary": "Dans un entretien à Fortune, Sam Altman a écarté toute entrée en bourse d'OpenAI en 2026, jugeant le moment \"mal choisi\" au vu des inquiétudes croissantes sur la sécurité de l'IA. Il évoque des discussions en cours entre grands labs pour un pacte commun de ralentissement et de coordination sur la sécurité. La cotation, envisagée autour de 1000 milliards de dollars de valorisation, est désormais repoussée à 2027.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/15/sam-altman-says-openai-ipo-window-pushed-2027-but-markets-arent-the-culprit/"
     },
     {
       "id": "n10",
       "theme": "tech",
-      "subtopic": "france",
+      "subtopic": "vibe_coding",
       "importance": 2,
-      "short_title": "Mistral lève 3 Mds €",
-      "title": "Mistral boucle une levée de 3 milliards d'euros",
-      "summary": "La start-up française Mistral AI a finalisé une levée de série D de 3 milliards d'euros, valorisant l'entreprise à plus de 21 milliards d'euros et en faisant la plus importante levée jamais réalisée par une tech européenne. Les fonds doivent financer l'expansion de la recherche et des infrastructures de calcul, dans un contexte de course aux capacités face aux géants américains.",
-      "source": "AIwire (HPCwire)",
-      "url": "https://www.hpcwire.com/aiwire/2026/09/08/mistral-raises-e3b-to-expand-ai-research-and-infrastructure/"
+      "short_title": "Cursor étend ses agents",
+      "title": "Cursor étend ses agents cloud à plus d'infrastructures",
+      "summary": "Cursor a élargi son offre de Cloud Agents, permettant désormais de les exécuter sur l'infrastructure déjà utilisée par l'entreprise (AWS Lambda, Vercel, Cloudflare, Modal, E2B...). Les workers auto-hébergés supportent aussi le contrôle d'ordinateur sur Linux/Mac, où un agent peut cliquer, taper et piloter un navigateur, observable depuis Cursor. C'est un pas de plus vers des agents de développement pleinement autonomes en environnement de production.",
+      "source": "Releasebot",
+      "url": "https://releasebot.io/updates/cursor"
     },
     {
       "id": "n11",
-      "theme": "climat",
-      "subtopic": "regulation_energie",
-      "importance": 3,
-      "short_title": "EPA annule normes CO2",
-      "title": "L'EPA s'apprête à abroger les normes carbone des centrales",
-      "summary": "L'agence américaine de protection de l'environnement s'apprête à annuler formellement les normes limitant les émissions de CO2 des centrales à charbon et à gaz, en marge d'une réunion des ministres de l'énergie du G20 à Houston. Cette décision s'inscrit dans une série de reculs réglementaires de l'administration Trump sur le climat, après l'abrogation des normes automobiles et du 'endangerment finding' de 2009.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-epa-to-rescind-carbon-standards-for-coal-gas-power-plants"
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 2,
+      "short_title": "Figma mise sur les agents",
+      "title": "Figma dévoile Code Layers et Figma Agent",
+      "summary": "Lors de la conférence Goldman Sachs Communacopia, Figma a présenté Code Layers et Figma Agent, repositionnant son canevas comme un espace de travail partagé entre designers, développeurs et agents IA. L'entreprise a aussi baissé de moitié le prix des crédits Figma Make pour favoriser l'adoption en volume plutôt que la marge. Ce virage confirme la convergence entre outils de design et de vibe coding.",
+      "source": "Analytics India Magazine",
+      "url": "https://analyticsindiamag.com/ai-news/figma-unveils-ai-agents-and-code-native-design-tools-at-config-2026"
     },
     {
       "id": "n12",
       "theme": "sante",
-      "subtopic": "longevite",
+      "subtopic": "musculation_longevite",
       "importance": 2,
-      "short_title": "Molécule IA anti-âge",
-      "title": "Un médicament conçu par IA réduit des marqueurs de l'âge",
-      "summary": "Le rentosertib, un inhibiteur de la protéine TNIK conçu par intelligence artificielle chez Insilico Medicine, a réduit les marqueurs d'âge biologique mesurés par six horloges protéomiques distinctes lors d'un essai de phase 2a mené en Chine. L'effet maximal, observé à la quatrième semaine, correspondrait à un rajeunissement apparent de trois à six ans selon l'horloge utilisée, même si les chercheurs restent prudents sur la part liée à l'effet anti-fibrotique du traitement plutôt qu'à un vrai rajeunissement.",
-      "source": "News-Medical",
-      "url": "https://www.news-medical.net/news/20260907/AI-designed-drug-candidate-reverses-biological-age-in-clinical-study.aspx"
+      "short_title": "Musculation et longévité",
+      "title": "90 à 120 min de musculation/semaine, le point optimal",
+      "summary": "Une étude de suivi sur 30 ans portant sur plus de 147 000 personnes établit qu'entre 90 et 120 minutes de renforcement musculaire par semaine est le volume associé au risque de mortalité le plus faible, avec 13% de risque de décès toutes causes en moins et 19% de risque cardiovasculaire en moins. Au-delà, les bénéfices supplémentaires semblent marginaux. Ces résultats confortent les recommandations de force training minimaliste mais régulier plutôt que le volume maximal.",
+      "source": "Success",
+      "url": "https://www.success.com/longevity-research-2026-new-findings"
     },
     {
       "id": "n13",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Mitochondries en alerte",
-      "title": "Des mitochondries défaillantes entretiennent l'inflammation liée à l'âge",
-      "summary": "Des chercheurs ont montré que les cellules sénescentes utilisent des mitochondries dysfonctionnelles pour produire de l'acétyl-CoA, une molécule qui rend les gènes inflammatoires plus accessibles et maintient le système immunitaire en état d'alerte permanent. Bloquer le transporteur mitochondrial impliqué, SLC25A1, a réduit l'inflammation et amélioré le vieillissement en bonne santé chez la souris, ouvrant une piste thérapeutique contre l'inflammation chronique liée à l'âge.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm"
+      "theme": "climat",
+      "subtopic": "nucleaire_civil",
+      "importance": 2,
+      "short_title": "USA-Ryad: pacte nucléaire",
+      "title": "Washington et Riyad activent leur pacte nucléaire civil",
+      "summary": "L'accord de coopération nucléaire civile signé en juillet entre Washington et Ryad, qui autoriserait l'Arabie saoudite à enrichir de l'uranium à des fins civiles sans adhérer au protocole additionnel renforcé de l'AIEA, est actuellement soumis à l'examen du Congrès américain jusqu'à fin novembre. Ce rapprochement nucléaire avec un allié du Golfe intervient alors même que les Etats-Unis mènent une guerre ouverte contre l'Iran, ce qui ravive les inquiétudes de prolifération régionale.",
+      "source": "Arms Control Association",
+      "url": "https://www.armscontrol.org/blog/2026-09-01/us-saudi-agreement-civil-nuclear-cooperation-answers-frequently-asked-questions"
     },
     {
       "id": "n14",
-      "theme": "sante",
-      "subtopic": "nutrition",
-      "importance": 1,
-      "short_title": "Obésité: critères revus",
-      "title": "L'Endocrine Society veut redéfinir le succès thérapeutique dans l'obésité",
-      "summary": "Dans une prise de position publiée le 9 septembre, l'Endocrine Society appelle à ne plus juger l'efficacité des traitements de l'obésité au seul critère de la perte de poids. La société savante recommande d'évaluer plutôt les progrès sur la composition corporelle, le tour de taille, les marqueurs cardiométaboliques et la qualité de vie, alors que la nouvelle génération de traitements pharmacologiques se généralise.",
-      "source": "Healio",
-      "url": "https://www.healio.com/news/endocrinology/20260910/scientific-statement-to-researchers-look-at-obesity-outcomes-beyond-weight-loss"
+      "theme": "sciences",
+      "subtopic": "biologie_synthetique",
+      "importance": 2,
+      "short_title": "ADN à 8 lettres décodé",
+      "title": "Un enzyme sait lire un ADN à huit lettres",
+      "summary": "Des chercheurs de UC San Diego ont montré par cryo-microscopie électronique que l'ARN polymérase, l'enzyme qui lit l'ADN pour produire de l'ARN, peut transcrire fidèlement un alphabet génétique synthétique à huit lettres, doublant les quatre bases utilisées par toute vie connue sur Terre. Cette avancée en biologie synthétique fournit une base moléculaire pour de futures technologies de diagnostic et de thérapie fondées sur des codes génétiques étendus. Des travaux antérieurs avaient déjà utilisé cet alphabet élargi pour concevoir de l'ADN synthétique capable de reconnaître des cellules cancéreuses du foie.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
     },
     {
       "id": "n15",
       "theme": "sciences",
-      "subtopic": "neurosciences",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "ADN 3D et Alzheimer",
-      "title": "Une nouvelle couche du génome impliquée dans Alzheimer",
-      "summary": "Des chercheurs de Carnegie Mellon, de l'Université de Pittsburgh et de l'Université de Washington ont montré que l'organisation tridimensionnelle de l'ADN est perturbée dans plusieurs types de cellules cérébrales chez les personnes atteintes d'Alzheimer, modifiant l'activation de gènes clés. L'équipe a combiné séquençage unicellulaire et un modèle d'apprentissage profond pour révéler cette couche jusque-là peu explorée de la maladie, ouvrant de nouvelles pistes thérapeutiques potentielles.",
+      "short_title": "Chauves-souris: longévité",
+      "title": "Le secret anti-cancer des chauves-souris longévives",
+      "summary": "Une équipe internationale menée par l'University of Vermont et Penn State montre que certaines chauves-souris du genre Myotis combinent des défenses immunitaires antivirales renforcées, via des copies multiples de gènes clés, avec une capacité accrue à réparer ou éliminer les cellules endommagées. Cette double stratégie limiterait l'accumulation de mutations propices au cancer sur plusieurs décennies de vie. Les chercheurs y voient des pistes pour la thérapie génique anti-âge chez l'humain.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "astrophysique",
-      "importance": 1,
-      "short_title": "Sursauts radio et cosmos",
-      "title": "Les sursauts radio rapides cartographient la matière cosmique",
-      "summary": "Une équipe de Caltech a utilisé une centaine de sursauts radio rapides (FRB) pour mesurer directement l'effet du 'feedback' galactique, les gaz et l'énergie éjectés par les galaxies, sur la répartition de la matière à grande échelle. Cette méthode ouvre une nouvelle voie pour contraindre la matière noire, l'énergie noire et la masse des neutrinos, en complément des grands relevés comme Euclid ou DESI.",
-      "source": "Caltech",
-      "url": "https://www.caltech.edu/about/news/fast-radio-bursts-poised-to-help-with-biggest-cosmic-mysteries"
+      "theme": "finance",
+      "subtopic": "frtb",
+      "importance": 2,
+      "short_title": "EBA assouplit le FRTB",
+      "title": "L'EBA publie une lettre de tolérance sur le FRTB",
+      "summary": "L'Autorité bancaire européenne a publié début septembre une lettre de \"no-action\" sur le calendrier d'application du Fundamental Review of the Trading Book, retardant de facto certaines obligations de reporting liées à l'approche interne alternative (AIMA). Les banques européennes, plus avancées que leurs homologues nord-américaines dans l'intégration du FRTB à leur pricing XVA, restent surtout confrontées à un défi de granularité des données plutôt qu'à un choix de modèle. Ce répit temporaire ne change pas la trajectoire de hausse des exigences de capital de marché attendue par le comité de Bâle.",
+      "source": "BBVA Research",
+      "url": "https://www.bbvaresearch.com/en/publicaciones/global-financial-regulation-weekly-update-september-4-2026/"
+    },
+    {
+      "id": "n17",
+      "theme": "climat",
+      "subtopic": "panama",
+      "importance": 2,
+      "short_title": "Panama: sécheresse record",
+      "title": "Le canal de Panama frappé par une sécheresse sévère",
+      "summary": "Le déficit de précipitations sur le bassin du canal de Panama atteint environ 34% par rapport à la moyenne de long terme entre mai et août, aggravé par un épisode El Niño qui pourrait devenir très marqué cet automne. Le niveau du lac Gatún, réservoir qui alimente les écluses, est bien inférieur aux prévisions de l'Autorité du canal. Cette sécheresse illustre l'exposition croissante des infrastructures commerciales mondiales au changement climatique.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/21/climate/el-nino-panama-canal-drought-price-increase-consumers"
+    },
+    {
+      "id": "n18",
+      "theme": "finance",
+      "subtopic": "commerce_maritime",
+      "importance": 2,
+      "short_title": "Canal Panama: 32/jour max",
+      "title": "Le canal de Panama réduit ses transits à 32 par jour",
+      "summary": "L'Autorité du canal de Panama a abaissé le nombre maximal de transits quotidiens à 32 navires à partir du 15 septembre, après une première réduction à 34 début septembre, en raison du faible niveau du lac Gatún. Des restrictions de tirant d'eau limitent aussi la cargaison des plus gros porte-conteneurs. Ce goulet d'étranglement renchérit les coûts de fret mondiaux, en particulier pour les flux Asie-côte Est américaine.",
+      "source": "Rio Times",
+      "url": "https://www.riotimesonline.com/panama-canal-transit-cuts-september-2026/"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n05",
+      "target": "n02",
       "type": "cause",
-      "explanation": "La prise de l'île de Perim par les Houthis renforce la menace sur le second point de passage clé de la mer Rouge, ajoutant une prime de risque au prix du pétrole déjà tendu par la guerre Iran-USA."
+      "explanation": "L'escalade des frappes et contre-attaques autour du détroit d'Ormuz fait chuter directement les volumes de brut qui y transitent."
     },
     {
       "source": "n02",
-      "target": "n05",
+      "target": "n03",
       "type": "cause",
-      "explanation": "L'arrêt de l'oléoduc Est-Ouest saoudien retire jusqu'à 7 millions de barils/jour de capacité de contournement du détroit d'Ormuz, resserrant mécaniquement l'offre mondiale disponible."
+      "explanation": "L'effondrement des exportations du Golfe crée un choc d'offre qui pousse mécaniquement le Brent vers ses plus hauts niveaux depuis quatre mois."
+    },
+    {
+      "source": "n01",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La BCE cite explicitement les pressions inflationnistes liées au conflit au Moyen-Orient pour justifier son relèvement de taux."
     },
     {
       "source": "n03",
-      "target": "n04",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La frappe contre le navire iranien près d'Ormuz, survenue la veille du sommet, a directement conduit à son report, Ryad et Téhéran se rejetant la responsabilité de l'annulation."
+      "explanation": "La flambée du pétrole ranime les craintes inflationnistes qui pèsent directement sur les arbitrages de la Fed pour sa décision du 16 septembre."
     },
     {
-      "source": "n02",
-      "target": "n04",
-      "type": "meme_sujet",
-      "explanation": "Les deux épisodes relèvent de la même dynamique d'escalade autour de la sécurisation des voies pétrolières régionales, l'un ciblant les infrastructures saoudiennes, l'autre la diplomatie sur Ormuz."
-    },
-    {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "La flambée du Brent alimente directement les pressions inflationnistes que la Fed doit arbitrer lors de sa réunion des 15-16 septembre, renforçant les anticipations d'une hausse de taux."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
+      "source": "n04",
+      "target": "n05",
       "type": "tension",
-      "explanation": "Le discours prudent d'Altman sur un ralentissement de l'IA contraste avec l'expansion commerciale simultanée d'Anthropic vers un nouveau secteur régulé, illustrant des stratégies concurrentielles divergentes malgré un discours de sécurité commun."
+      "explanation": "La BCE a déjà resserré sa politique face au choc énergétique tandis que la Fed reste divisée entre hausse et statu quo, révélant des lectures divergentes du même choc inflationniste."
+    },
+    {
+      "source": "n13",
+      "target": "n01",
+      "type": "tension",
+      "explanation": "Washington approfondit sa coopération nucléaire civile avec un allié du Golfe au moment même où il mène une guerre ouverte contre l'Iran, exposant une tension entre partenariat stratégique régional et risque de prolifération."
     },
     {
       "source": "n08",
       "target": "n09",
+      "type": "cause",
+      "explanation": "Le débat relancé sur la perte de contrôle des agents IA, nourri par le propre rapport d'Anthropic sur les abus, renforce l'argument de sécurité avancé par Altman pour repousser l'IPO."
+    },
+    {
+      "source": "n06",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Anthropic accélère son déploiement commercial dans un secteur réglementé pendant qu'OpenAI, via son PDG, freine publiquement sa propre trajectoire par prudence sur la sécurité, révélant des postures stratégiques opposées entre labs frontier."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
       "type": "meme_sujet",
-      "explanation": "Ces deux annonces d'Anthropic publiées le même jour révèlent la tension entre expansion commerciale vers de nouveaux marchés et gestion des coûts de calcul qui pèsent sur les capacités offertes aux utilisateurs existants."
+      "explanation": "Les deux news concernent OpenAI la même semaine sous deux angles opposés: expansion commerciale agressive du modèle d'un côté, prudence stratégique affichée par son PDG de l'autre."
     },
     {
       "source": "n10",
-      "target": "n08",
+      "target": "n11",
       "type": "meme_sujet",
-      "explanation": "Les deux nouvelles illustrent la course au financement et à la commercialisation sectorielle qui s'intensifie entre labs, Mistral misant sur le capital et l'infrastructure quand Anthropic mise sur l'intégration verticale dans la finance."
+      "explanation": "Cursor et Figma illustrent la même tendance de fond: l'intégration d'agents IA autonomes directement dans les outils de conception et de développement."
     },
     {
       "source": "n12",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "L'essai clinique du rentosertib illustre concrètement les capacités de l'IA que les dirigeants de labs, comme Altman, jugent nécessaire d'encadrer par un développement plus prudent."
-    },
-    {
-      "source": "n11",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "La dérégulation carbone américaine et le choc d'offre pétrolier lié au conflit renforcent tous deux, par des voies distinctes, la dépendance de court terme aux énergies fossiles."
-    },
-    {
-      "source": "n13",
       "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Ces deux études publiées la même semaine éclairent, à l'échelle moléculaire, les mécanismes du vieillissement cellulaire et neuronal, l'une sur l'inflammation chronique, l'autre sur la régulation génique dans Alzheimer."
+      "explanation": "Les deux études portent sur des mécanismes biologiques de prolongation de la vie en bonne santé, l'une via l'entraînement chez l'humain, l'autre via l'évolution immunitaire chez les chauves-souris."
     },
     {
-      "source": "n12",
-      "target": "n13",
-      "type": "meme_sujet",
-      "explanation": "Les deux résultats relèvent du même champ de recherche sur le vieillissement biologique, l'un testant une intervention pharmacologique, l'autre en élucidant un mécanisme cellulaire sous-jacent."
+      "source": "n17",
+      "target": "n18",
+      "type": "cause",
+      "explanation": "Le déficit de pluies sur le bassin versant fait baisser le niveau du lac Gatún, contraignant directement l'Autorité du canal à réduire le nombre de transits quotidiens autorisés."
     }
   ]
 }

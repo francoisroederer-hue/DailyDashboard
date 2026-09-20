@@ -1,266 +1,266 @@
 {
-  "generated_at": "2026-09-19T05:30:00Z",
+  "generated_at": "2026-09-20T04:12:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Guerre Houthis s'étend",
-      "title": "Le conflit Houthis-Arabie saoudite s'étend vers Marib",
-      "summary": "L'aviation saoudienne a intensifié ses frappes sur le Yémen tandis que les rebelles houthis, soutenus par l'Iran, ripostaient par de nouvelles salves de drones et de missiles sur les villes saoudiennes, avec de violents combats autour de Marib, province pétrolière clé. Cette offensive fait suite à la prise par les Houthis de tout le littoral du détroit de Bab al-Mandab la semaine précédente et menace désormais directement les exportations pétrolières saoudiennes.",
-      "source": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-09-17/saudi-yemen-houthi-iran/107162054"
+      "short_title": "Iran pose 7 conditions",
+      "title": "Iran transmet sept conditions à Washington via le Qatar",
+      "summary": "Le secrétaire du Conseil suprême de sécurité nationale iranien, Mohsen Rezaei, a confirmé que Téhéran a transmis sept conditions à Washington par l'intermédiaire du Qatar pour rouvrir des négociations, dont la fin des combats sur tous les fronts, la libération d'avoirs iraniens gelés et la levée du blocus naval américain. Rezaei a averti que l'Iran était prêt pour une « guerre décisive » si Trump rejetait ces demandes. Ces échanges interviennent alors que le mémorandum de 60 jours censé encadrer une sortie de crise a expiré sans accord le mois précédent.",
+      "source": "Ynet News",
+      "url": "https://www.ynetnews.com/article/sjtmdwntfg"
     },
     {
       "id": "n02",
       "theme": "geopol",
-      "subtopic": "ukraine",
+      "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Sommet Carpates 8",
-      "title": "Zelensky accueille le premier sommet des Carpates 8",
-      "summary": "Volodymyr Zelensky a réuni le 18 septembre à Bukovel les dirigeants de sept pays voisins des Carpates (Pologne, Roumanie, Serbie, Slovaquie, Tchéquie, Autriche, Hongrie) pour un premier sommet consacré à la sécurité, l'énergie et la coopération transfrontalière. Environ 550 entreprises participent à l'événement, avec un milliard d'euros d'accords commerciaux attendus, tandis que l'UE annonce en parallèle le transfert de 3,3 milliards d'euros à Kyiv pour des missiles et drones.",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-hosts-european-leaders-at-inaugural-carpathian-8-summit/"
+      "short_title": "Houthis menacent l'Arabie",
+      "title": "L'escalade houthiste fait fuir 125 000 Yéménites et menace le pétrole saoudien",
+      "summary": "Les rebelles houthis soutenus par l'Iran ont étendu leur offensive vers le sud de la mer Rouge et intensifié les combats autour de Marib, province pétrolière clé, ravivant une guerre civile yéménite vieille de 12 ans. Une frappe attribuée à des milices proches de l'Iran a visé l'oléoduc est-ouest saoudien, sans confirmation indépendante d'un impact direct, mais avec un panache de fumée visible par satellite. Cette offensive a déjà forcé environ 125 000 Yéménites à fuir leur foyer.",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-09-18/houthi-attacks-saudi-oil-world-markets/107168508"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Canada membre associé UE",
-      "title": "Von der Leyen propose à Ottawa un statut de membre associé",
-      "summary": "Lors de son discours annuel sur l'état de l'Union à Strasbourg, la présidente de la Commission européenne Ursula von der Leyen a proposé de faire du Canada le premier \"membre associé\" de l'UE, un statut inédit dont les contours restent à définir. Cette ouverture intervient alors que les tarifs douaniers de Donald Trump et ses propos sur un \"51e Etat\" poussent Ottawa à se rapprocher de Bruxelles sur l'industrie, l'IA, les minerais critiques et l'énergie.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member"
+      "theme": "finance",
+      "subtopic": "banques_centrales",
+      "importance": 3,
+      "short_title": "Fed relève ses taux",
+      "title": "La Fed relève ses taux directeurs à 3,75%-4%, une première depuis 2023",
+      "summary": "Le FOMC a voté à l'unanimité (12-0) une hausse de 25 points de base, portant le taux directeur américain à 3,75%-4%. Le président Kevin Warsh a justifié cette décision par une économie plus solide que prévu, une inflation qui ne ralentit pas et des tensions géopolitiques accrues. La majorité des membres du comité anticipe au moins une nouvelle hausse d'ici la fin de l'année.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
     },
     {
       "id": "n04",
       "theme": "finance",
       "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Diesel US au record",
-      "title": "Le diesel américain franchit un nouveau record",
-      "summary": "Le prix moyen du diesel à la pompe aux Etats-Unis a dépassé pour la première fois 6,30 dollars le gallon, sous l'effet de la menace directe que fait peser l'élargissement du conflit yéménite sur l'oléoduc saoudien Est-Ouest, par lequel transite jusqu'à 4% de l'offre mondiale de pétrole. Les traders redoutent qu'une fermeture prolongée de cette infrastructure ne resserre durablement le marché des produits raffinés, indépendamment du niveau du brut lui-même.",
-      "source": "NPR / Houston Public Media",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/09/18/nx-s1-5973810/what-to-know-after-a-week-of-houthi-attacks-that-threaten-saudi-oil/"
+      "importance": 2,
+      "short_title": "Brent retombe à 100$",
+      "title": "Le Brent retombe sous 101 dollars malgré l'escalade au Yémen",
+      "summary": "Le Brent a reculé de près de 2% vendredi à environ 100,70 dollars, enchaînant un troisième repli consécutif, l'apaisement perçu sur l'offre saoudienne l'emportant pour l'instant sur l'inquiétude suscitée par l'élargissement du conflit houthi. Ce découplage intervient après une hausse cumulée d'environ 55% du baril depuis février, portée par la guerre en Iran et les craintes sur le détroit d'Ormuz. Les rendements du Trésor américain se détendent également après la décision de la Fed en début de semaine.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-18-2026"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
+      "subtopic": "france",
       "importance": 2,
-      "short_title": "Brent recule 3e jour",
-      "title": "Le Brent recule pour une troisième séance",
-      "summary": "Le baril de Brent a reculé d'environ 1,3% le 18 septembre, autour de 103,50 dollars, enchaînant une troisième séance consécutive de baisse malgré l'aggravation du conflit entre les Houthis et l'Arabie saoudite. Ce repli reflète le poids d'un excédent de stocks américains qui l'emporte pour l'instant sur la prime de risque géopolitique, un découplage qui contraste avec l'envolée simultanée des prix du diesel.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-09-18-2026/"
+      "short_title": "Dette France record",
+      "title": "La dette publique française attendue à 121,7% du PIB en 2027",
+      "summary": "Le ministère de l'Économie prévoit une dette publique atteignant 119,3% du PIB en 2026 puis 121,7% en 2027, un niveau inédit depuis 1995. La charge d'intérêts de l'État grimpe mécaniquement vers 67 milliards d'euros en 2026 du fait du refinancement de la dette ancienne à des taux plus élevés, les taux à 10 ans français dépassant désormais 4,5%. S&P et Fitch avaient déjà dégradé la note souveraine française fin 2025.",
+      "source": "CNews",
+      "url": "https://www.cnews.fr/france/2026-09-19/budget-2027-la-dette-publique-de-la-france-atteindra-un-record-en-grimpant-jusqua"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "marches",
+      "subtopic": "ccr_xva",
       "importance": 2,
-      "short_title": "Wall St rebond en Asie",
-      "title": "Le rebond de Wall Street se propage à l'Asie",
-      "summary": "Le rallye de soulagement de Wall Street consécutif à la hausse de taux de la Fed s'est étendu aux marchés asiatiques le 18 septembre, porté par un nouveau repli du pétrole qui allège les craintes inflationnistes après une semaine volatile marquée par plusieurs décisions de banques centrales. Les marchés européens s'annonçaient en revanche plus prudents à l'ouverture.",
-      "source": "Tickmill",
-      "url": "https://www.tickmill.com/blog/daily-market-outlook-september-18-2026"
+      "short_title": "FRTB s'impose en XVA",
+      "title": "La moitié des banques européennes intègrent déjà FRTB dans le pricing XVA",
+      "summary": "Une étude de Risk.net montre que la moitié des banques européennes ont déjà intégré les exigences FRTB dans leurs modèles de pricing XVA, contre un retard notable des établissements américains et du reste du monde. Cette intégration reflète la pression réglementaire croissante sur le capital de risque de marché et de contrepartie. Les desks CVA/XVA doivent désormais absorber une volatilité de taux accrue dans un contexte de resserrement monétaire.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
     },
     {
       "id": "n07",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Claude pilote 26% R&D",
-      "title": "Anthropic: Claude pilote 26% de sa R&D",
-      "summary": "Anthropic a publié son premier \"R&D Automation Index\", selon lequel Claude dirige désormais de bout en bout, sous supervision humaine, environ 26% des travaux de recherche et développement de ses propres modèles, contre une part quasi nulle en février, et rédige plus de 80% du code de l'entreprise. Anthropic reconnaît que ces chiffres nourrissent légitimement les interrogations sur la proximité d'une auto-amélioration récursive des modèles d'IA.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-says-model-claude-helping-build-next-version-rcna598494"
+      "short_title": "Anthropic ouvre bio IA",
+      "title": "Anthropic lance un programme d'accès vérifié pour la recherche en sciences de la vie",
+      "summary": "Anthropic ouvre son Life Sciences Verification Program, qui donne aux chercheurs vérifiés en biologie un accès à Claude (Opus, Sonnet et pour la première fois Mythos) avec des garde-fous assouplis pour couvrir des usages sensibles comme la découverte de médicaments. Le programme, développé avec le gouvernement américain, s'accompagne d'un laboratoire humide interne où Claude a aidé à accélérer d'environ 4x une trentaine de modèles biomoléculaires open source. Cette approche marque un basculement d'un accès grand public généraliste vers des accès sectoriels de confiance.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "ai_labs",
+      "subtopic": "regulation",
       "importance": 3,
-      "short_title": "Accenture évalue l'IA",
-      "title": "Anthropic et Accenture investissent 2 milliards dans l'évaluation de l'IA",
-      "summary": "Anthropic a annoncé le 18 septembre un partenariat avec Accenture, chacun s'engageant à investir au moins un milliard de dollars sur cinq ans pour développer une capacité d'\"évaluation embarquée\" de ses modèles frontières. Menée par Faculty, la division IA d'Accenture, cette équipe d'évaluateurs indépendants aura un accès comparable à celui d'un salarié pour auditer les garde-fous de sécurité et vérifier le respect des engagements pris par l'entreprise.",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4734317/anthropic-accenture-frontier-ai-models-embedded-evaluation-pace-the-frontier/"
+      "short_title": "Plainte anti-pacte IA",
+      "title": "Quatre consommateurs attaquent Anthropic, OpenAI, Google et SpaceXAI pour entente illégale",
+      "summary": "Une plainte en recours collectif déposée le 18 septembre devant le tribunal fédéral de San Francisco accuse Anthropic, OpenAI, Google et SpaceXAI de s'être entendus pour ralentir le rythme d'amélioration de leurs modèles frontières, en violation du Sherman Act antitrust. La plainte s'appuie sur l'essai « We Must Pace the Frontier » publié par Dario Amodei le 12 septembre, immédiatement salué publiquement par Sam Altman, Elon Musk et Demis Hassabis. Les plaignants estiment payer le même prix pour des produits dont le rythme d'amélioration aurait été artificiellement freiné.",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "business_model",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "ChatGPT: agents sponsors",
-      "title": "OpenAI teste des agents ChatGPT sponsorisés",
-      "summary": "OpenAI a commencé le 16 septembre à piloter des \"agents sponsorisés\" au sein de ChatGPT, avec Wayfair et Angi comme premiers annonceurs, permettant à un agent clairement identifié comme publicitaire de répondre aux questions d'un utilisateur avant de le renvoyer vers le site de la marque. Best Buy, Lowe's, Newegg et VistaPrint doivent suivre, une étape clé dans la monétisation publicitaire des agents conversationnels au-delà des abonnements et de l'API.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/alerts/openai-pilots-sponsored-agents-in-chatgpt-with-wayfair-angi"
+      "short_title": "OpenAI vise le juridique",
+      "title": "OpenAI lance Astra for Law, une offre juridique bâtie sur GPT-6 Astra",
+      "summary": "OpenAI dévoile Astra for Law, une version de GPT-6 Astra dotée d'un index de recherche couvrant plus de 230 millions de décisions, lois et réglementations américaines, ainsi que 26 plugins pour cabinets d'avocats. Le produit affiche une précision de recherche 40% supérieure à GPT-6 Astra avec recherche web seule, et des cabinets comme Sullivan & Cromwell ou Cooley l'utilisent déjà pour la revue de contrats et le due diligence M&A. L'accès reste initialement limité à des cabinets sélectionnés via Trusted Access.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/astra-for-law/"
     },
     {
       "id": "n10",
-      "theme": "learn",
-      "subtopic": "llm_agents",
+      "theme": "tech",
+      "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Mollick: l'IA accélère",
-      "title": "Mollick: l'IA reste sur une courbe exponentielle",
-      "summary": "Dans son essai \"The Overhang\" publié le 18 septembre, le chercheur Ethan Mollick soutient que les inquiétudes actuelles autour de l'IA tiennent moins à la technologie elle-même qu'à la lenteur avec laquelle les institutions, les organisations et les usages humains parviennent à s'adapter à un rythme de progrès qui demeure exponentiel. Il cite la résolution récente d'un problème mathématique resté ouvert pendant des décennies comme illustration de cette accélération continue.",
-      "source": "One Useful Thing",
-      "url": "https://www.oneusefulthing.org/p/the-overhang"
+      "short_title": "DeepMind: institut AGI",
+      "title": "Google DeepMind lance un institut dédié aux impacts sociétaux de l'AGI",
+      "summary": "Google DeepMind a lancé un institut de réflexion réunissant chercheurs internes et externes pour explorer comment la société doit se préparer à l'intelligence artificielle générale. Dirigé par Demis Hassabis, Shane Legg et James Manyika, l'institut publie déjà des essais sur la politique économique, la transparence du raisonnement des modèles et l'accès mondial à l'IA. Cette initiative intervient peu après la réorganisation de DeepMind, où Hassabis est passé du poste de CEO à celui de président.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
     },
     {
       "id": "n11",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Semaglutide et longévité",
-      "title": "Le sémaglutide ralentit le vieillissement de souris",
-      "summary": "Des chercheurs de UC Berkeley ont administré du sémaglutide, principe actif de l'Ozempic et du Wegovy, à des souris âgées de 20 mois (l'équivalent d'environ 60 ans chez l'humain), observant une durée de vie allongée d'une centaine de jours en moyenne ainsi qu'une amélioration de la mémoire spatiale, de la fonction musculaire et de la régulation glycémique. Ces effets dépassent ceux obtenus par simple restriction calorique, mais leur transposition à l'humain reste hypothétique selon les auteurs.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm"
+      "theme": "tech",
+      "subtopic": "design",
+      "importance": 1,
+      "short_title": "Figma ouvre Weave",
+      "title": "Figma ouvre la publication communautaire des outils Weave",
+      "summary": "Figma permet désormais à quiconque construit un outil génératif dans Figma Weave de le publier sur la Figma Community pour qu'il soit utilisable directement sur le canevas de Figma Design. Parmi les premiers outils partagés figure un générateur qui transforme un moodboard en rendu 3D photoréaliste d'une pièce. Cette ouverture illustre la bascule de Figma d'un simple outil de fichiers de design vers une plateforme de création assistée par IA générative.",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/"
     },
     {
       "id": "n12",
-      "theme": "sciences",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Protéine Menin anti-âge",
-      "title": "La protéine Menin, nouvelle cible anti-âge",
-      "summary": "Une étude montre qu'un déclin du taux de la protéine Menin dans l'hypothalamus de souris âgées déclenche inflammation, troubles de la mémoire, perte osseuse et amincissement cutané, autant de marqueurs classiques du vieillissement. Restaurer cette protéine, ou administrer l'acide aminé D-sérine, a permis de renverser plusieurs de ces altérations chez l'animal, ouvrant une piste thérapeutique explorée par les chercheurs pour un vieillissement en meilleure santé.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm"
+      "theme": "sante",
+      "subtopic": "nutrition_evidence_based",
+      "importance": 1,
+      "short_title": "Nutrition streetlifting",
+      "title": "Une étude évalue le rôle de la nutrition et du sommeil en streetlifting",
+      "summary": "Une étude publiée dans Nutrients examine la performance en streetlifting, un sport de force dérivé de la callisthénie basé sur des charges externes maximales en tractions lestées, dips, muscle-ups et squats. Les chercheurs soulignent le rôle combiné de la nutrition, de la masse maigre et du sommeil dans l'optimisation de la performance, tout en notant que les preuves scientifiques spécifiques à cette discipline restent encore limitées. Ce travail rejoint les efforts plus larges pour fonder les pratiques de force fonctionnelle sur des données probantes plutôt que sur des habitudes de salle de sport.",
+      "source": "Nutrients (MDPI)",
+      "url": "https://doi.org/10.3390/nu18010105"
     },
     {
       "id": "n13",
-      "theme": "climat",
-      "subtopic": "climate_week",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Climate Week NYC ouvre",
-      "title": "Climate Week NYC 2026 s'ouvre à New York",
-      "summary": "Le plus grand événement climatique mondial ouvre ses portes le 20 septembre à New York pour une semaine de conférences réunissant dirigeants politiques et industriels autour de l'énergie, la finance, l'industrie et l'IA, avec une cérémonie d'ouverture le 21. Les organisateurs veulent faire de cette édition un moment de bascule des engagements vers l'exécution concrète, un message proche de celui porté par l'UE à l'approche de la COP31 d'Antalya.",
-      "source": "Climate Week NYC",
-      "url": "https://www.climateweeknyc.org/"
+      "short_title": "Rapamycine peu probante",
+      "title": "L'essai PEARL nuance les promesses de la rapamycine pour la longévité",
+      "summary": "Les résultats de l'essai clinique PEARL montrent qu'un faible dosage intermittent de rapamycine est bien toléré sur un an et produit des changements modestes de biomarqueurs du vieillissement biologique, sans démontrer de bénéfice clinique à long terme. L'usage hors AMM progresse pourtant dans les cliniques de longévité malgré l'absence de dose standardisée et une innocuité à long terme encore incertaine. Ces résultats mitigés rappellent ceux, tout aussi incertains, obtenus avec la metformine dans l'essai TAME en cours.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12226543/"
     },
     {
       "id": "n14",
       "theme": "sciences",
       "subtopic": "neurosciences",
-      "importance": 1,
-      "short_title": "Axones en chapelet",
-      "title": "Les axones ressembleraient à des chapelets de perles",
-      "summary": "De nouvelles techniques d'imagerie remettent en cause la représentation vieille d'un siècle des axones neuronaux comme de simples tubes cylindriques lisses, révélant plutôt une structure faite de renflements réguliers en \"perles\" le long de la fibre nerveuse. Ces variations de diamètre, modulées notamment par le cholestérol de la membrane, influenceraient directement la vitesse de propagation de l'influx nerveux.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm"
+      "importance": 2,
+      "short_title": "Un gène pilote l'axone",
+      "title": "Un interrupteur génétique central orienterait la croissance des axones",
+      "summary": "Des neuroscientifiques de l'université Brown ont cartographié le profil transcriptionnel de plus de 12 000 neurones en développement et découvert qu'un interrupteur génétique situé dans le corps cellulaire, et non uniquement des signaux locaux captés par l'extrémité de l'axone, orienterait sa trajectoire aux carrefours critiques. Publiée dans PNAS le 15 septembre, cette étude fournit un « atlas génétique » du développement neuronal. Les auteurs y voient une piste pour mieux comprendre comment réparer des connexions neuronales sectionnées après un AVC ou une lésion de la moelle épinière.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-09-neuron-cell-bodies-gene-axons.html"
     },
     {
       "id": "n15",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "OpenAI DevDay 29 sept",
-      "title": "OpenAI annonce son DevDay pour le 29 septembre",
-      "summary": "OpenAI a confirmé la tenue de sa conférence développeurs annuelle, DevDay 2026, le 29 septembre à San Francisco. L'événement est attendu comme une vitrine des évolutions autour de GPT-6 Astra, des outils d'agents et de la tarification de l'API, dans un contexte de compétition accrue avec Anthropic et Google DeepMind sur le rythme des annonces.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/devday-2026/"
+      "theme": "climat",
+      "subtopic": "chine",
+      "importance": 2,
+      "short_title": "Solaire dépasse charbon",
+      "title": "En Chine, la capacité solaire dépasse pour la première fois celle du charbon",
+      "summary": "Selon l'Administration nationale de l'énergie chinoise, la capacité installée solaire a atteint 1 286 GW fin juillet, dépassant les 1 285 GW de capacité charbon, une première historique. La production électrique solaire a bondi de 15,5% sur un an mais ne représente encore qu'environ un huitième de la production totale, le charbon continuant de fournir bien plus d'électricité grâce à un facteur de charge très supérieur. Ce basculement symbolique illustre l'ampleur du déploiement renouvelable chinois sans encore renverser la dépendance réelle au charbon.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/solar-surpasses-coal-as-china-s-top-source-of-power-capacity"
     },
     {
       "id": "n16",
-      "theme": "sciences",
-      "subtopic": "astronomie",
+      "theme": "climat",
+      "subtopic": "regulation_ue",
       "importance": 1,
-      "short_title": "Exoplanète naissante",
-      "title": "La plus jeune exoplanète jamais confirmée",
-      "summary": "Des astronomes ont confirmé l'existence d'Elias 2-24 b, une planète gazeuse de la taille de Jupiter âgée de moins d'un million d'années, ce qui en fait l'exoplanète la plus jeune jamais détectée, à 450 années-lumière dans le nuage de Rho Ophiuchi. Toujours nichée dans le disque de gaz et de poussière qui l'a vue naître, elle offre aux chercheurs une occasion rare d'observer un monde géant en cours de formation.",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/space/exoplanets/this-million-year-old-baby-planet-is-the-youngest-world-scientists-have-ever-discovered"
+      "short_title": "UE simplifie le CSRD",
+      "title": "L'UE poursuit la simplification de ses règles de reporting climat (CSRD/ESRS)",
+      "summary": "La Commission européenne avance sur la simplification de la directive CSRD, des normes ESRS et de la taxonomie verte, avec une consultation de l'EFRAG sur les coûts et bénéfices d'une norme allégée pour certaines entités non-européennes. L'ESMA a par ailleurs mis à jour ses listes de notification transitoire pour les petits fournisseurs de notations ESG. Ce mouvement de simplification traduit un arbitrage politique entre compétitivité des entreprises et ambition de transparence climatique.",
+      "source": "Cleary Gottlieb",
+      "url": "https://www.clearygottlieb.com/news-and-insights/publication-listing/climate-energy-eu-policy-regulation-update-2026-09-16"
     },
     {
       "id": "n17",
-      "theme": "geopol",
-      "subtopic": "europe",
+      "theme": "learn",
+      "subtopic": "metacognition",
       "importance": 1,
-      "short_title": "Thaçi condamné 25 ans",
-      "title": "Hashim Thaçi condamné à 25 ans pour crimes de guerre",
-      "summary": "Un tribunal spécial soutenu par l'Union européenne a reconnu le 16 septembre l'ex-président kosovar Hashim Thaçi coupable de meurtre, torture, traitements cruels et détention arbitraire pendant la guerre d'indépendance du Kosovo, et l'a condamné à 25 ans de prison. Le verdict a suscité une vive émotion à Pristina, où de nombreux Kosovars considèrent Thaçi et l'ex-guérilla UCK comme des figures héroïques de la lutte contre la Serbie.",
-      "source": "NPR",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/09/16/g-s1-143560/kosovos-ex-president-thaci-convicted-of-war-crimes-sentenced-to-25-years-in-prison/"
+      "short_title": "Métacognition et IA",
+      "title": "Une étude relie conscience métacognitive et adoption des outils d'IA par les étudiants",
+      "summary": "Une étude menée auprès de 236 étudiants de l'Université de Ha'il montre que l'intention d'utiliser des outils d'IA pour apprendre dépend surtout de leur utilité perçue et de leur facilité d'usage, la conscience métacognitive agissant comme facteur indirect en façonnant ces perceptions. Les auteurs mobilisent le cadre du Technology Acceptance Model et une modélisation par équations structurelles. Ce travail rejoint un champ de recherche plus large qui interroge si l'IA renforce ou court-circuite l'autorégulation cognitive des apprenants.",
+      "source": "Education Sciences (MDPI)",
+      "url": "https://doi.org/10.3390/educsci16091457"
     }
   ],
   "edges": [
     {
       "source": "n01",
-      "target": "n04",
-      "type": "cause",
-      "explanation": "L'élargissement du conflit vers les zones pétrolières et la menace directe sur l'oléoduc saoudien Est-Ouest expliquent mécaniquement l'envolée du diesel américain à un niveau record."
-    },
-    {
-      "source": "n04",
-      "target": "n05",
+      "target": "n02",
       "type": "tension",
-      "explanation": "Le diesel atteint un record alors même que le brut Brent poursuit son repli, un découplage qui illustre la tension entre resserrement du marché des produits raffinés et excédent de brut."
-    },
-    {
-      "source": "n05",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "Le nouveau repli du Brent allège les craintes inflationnistes et alimente directement la propagation du rallye de soulagement de Wall Street vers les marchés asiatiques."
+      "explanation": "Alors que Téhéran affirme rechercher une issue négociée avec Washington, ses alliés houthis intensifient au même moment leurs attaques contre l'Arabie saoudite, brouillant la cohérence du front iranien."
     },
     {
       "source": "n02",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "Les deux initiatives traduisent une même semaine de recomposition des alliances européennes: un nouveau forum régional autour de l'Ukraine d'un côté, une ouverture inédite vers le Canada de l'autre."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
+      "target": "n04",
       "type": "cause",
-      "explanation": "Les interrogations soulevées par l'ampleur de l'automatisation de la R&D de Claude poussent Anthropic à financer, dans la foulée, un dispositif d'évaluation indépendante avec Accenture."
-    },
-    {
-      "source": "n07",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Les deux publications du même jour convergent sur un même constat: le rythme des progrès de l'IA continue de dépasser la capacité des humains et des organisations à en assurer le contrôle."
-    },
-    {
-      "source": "n09",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "OpenAI accélère la monétisation publicitaire de ses agents conversationnels au moment même où Anthropic investit dans le ralentissement et le contrôle indépendant de l'autonomie de ses propres agents, deux paris stratégiques opposés sur le risque agentique."
-    },
-    {
-      "source": "n15",
-      "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "L'annonce du DevDay d'OpenAI et la publication de l'index de R&D d'Anthropic relèvent toutes deux d'une même course des laboratoires à démontrer leur avance face à la concurrence."
-    },
-    {
-      "source": "n11",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Les deux études publiées la même semaine explorent, l'une par la pharmacologie, l'autre par une protéine cérébrale, des pistes mécanistiques pour ralentir le vieillissement chez la souris."
-    },
-    {
-      "source": "n13",
-      "target": "n01",
-      "type": "tension",
-      "explanation": "L'ouverture de Climate Week NYC et son appel à accélérer la sortie des fossiles contrastent avec une semaine où une guerre au Moyen-Orient tire au contraire les prix du pétrole et du diesel vers leurs plus hauts niveaux depuis des mois."
+      "explanation": "L'élargissement de l'offensive houthiste vers les infrastructures pétrolières saoudiennes maintient une prime de risque sur le baril, même quand les marchés choisissent d'en relativiser l'impact immédiat."
     },
     {
       "source": "n04",
-      "target": "n13",
-      "type": "tension",
-      "explanation": "Le record du prix du diesel fragilise l'argument du coût de la transition énergétique au moment même où s'ouvre Climate Week NYC."
+      "target": "n03",
+      "type": "cause",
+      "explanation": "La hausse cumulée d'environ 55% du Brent depuis février a nourri l'inflation importée que la Fed a explicitement citée pour justifier son premier relèvement de taux depuis 2023."
+    },
+    {
+      "source": "n03",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "Le resserrement monétaire américain tire vers le haut l'ensemble des taux souverains, aggravant le coût de refinancement de la dette française déjà fragilisée par des déficits élevés."
+    },
+    {
+      "source": "n03",
+      "target": "n06",
+      "type": "cause",
+      "explanation": "La remontée des taux et la volatilité qu'elle induit augmentent les ajustements de valorisation de contrepartie que le cadre FRTB est conçu pour capitaliser, renforçant l'urgence de son intégration dans les desks XVA."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "LSVP et Astra for Law illustrent tous deux le basculement des labs IA d'un accès grand public généraliste vers des accès sectoriels vérifiés, en biologie comme en droit."
+    },
+    {
+      "source": "n08",
+      "target": "n10",
+      "type": "meme_sujet",
+      "explanation": "La plainte antitrust et l'institut lancé par DeepMind découlent tous deux du même appel collectif des dirigeants de l'IA à ralentir et encadrer le rythme des modèles frontières, l'un le contestant en justice, l'autre en l'étudiant."
     },
     {
       "source": "n09",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Astra for Law et Figma Weave illustrent tous deux des outils d'IA qui évoluent d'assistants génériques vers des plateformes extensibles dotées de leur propre écosystème de plugins ou de communauté."
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Streetlifting et rapamycine relèvent d'une même quête de performance et de longévité fondée sur des preuves, avec des résultats scientifiques encore incomplets dans les deux cas."
+    },
+    {
+      "source": "n15",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "Alors que la Chine accélère massivement le déploiement de capacités solaires, l'UE allège au même moment ses exigences de reporting climatique, illustrant des trajectoires réglementaires opposées."
+    },
+    {
+      "source": "n04",
       "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Le pilote d'agents sponsorisés et l'annonce du DevDay relèvent d'une même stratégie d'OpenAI consistant à accélérer visibilité et monétisation de ChatGPT avant l'échéance de sa conférence développeurs."
+      "explanation": "La flambée des prix du pétrole liée au risque géopolitique et la percée de la capacité solaire chinoise illustrent deux faces de la même recomposition énergétique mondiale de 2026."
+    },
+    {
+      "source": "n17",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "Les deux sujets interrogent le déplacement de la frontière entre travail cognitif humain et IA: des étudiants qui délèguent leur métacognition, des designers qui délèguent l'exécution créative à des outils génératifs."
     }
   ]
 }

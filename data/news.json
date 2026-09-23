@@ -1,181 +1,181 @@
 {
-  "generated_at": "2026-09-22T07:30:00Z",
+  "generated_at": "2026-09-23T04:14:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Hormuz: talks reportés",
-      "title": "Oman reporte les pourparlers régionaux sur le détroit d'Ormuz",
-      "summary": "Une réunion prévue entre l'Iran et plusieurs pays du Golfe pour discuter de la réouverture du détroit d'Ormuz a été repoussée sine die, Oman évoquant un besoin de consensus régional. Le report intervient après la fermeture de l'oléoduc saoudien Est-Ouest, frappé par des tirs de drones, et sur fond de lassitude de Riyad face aux attaques répétées des Houthis soutenus par l'Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need"
+      "importance": 3,
+      "short_title": "Ormuz: IRGC menace",
+      "title": "L'Iran menace d'élargir la guerre au Moyen-Orient",
+      "summary": "Le porte-parole des Gardiens de la révolution a averti que Téhéran \"changerait la géographie de la guerre\" en cas de nouvelle escalade américaine, tandis que les rebelles Houthis, alliés de l'Iran, se sont emparés d'un port stratégique au Yémen. Des émissaires américains ont toutefois rencontré une délégation iranienne pendant trois heures dans la même journée, un contact que Washington a qualifié de constructif.",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-september-22-2026/"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Houthis: Bab al-Mandab",
-      "title": "Les Houthis prennent le contrôle total du détroit de Bab al-Mandab",
-      "summary": "Les rebelles houthis soutenus par l'Iran ont achevé la prise du littoral yéménite de la mer Rouge, s'emparant du port de Moka et des îles Hanish et consolidant leur emprise sur ce goulet d'étranglement qui concentre près de 10% du commerce mondial. Washington semble pour l'instant se contenter d'observer, alors que cette avancée renforce le levier de négociation de Téhéran dans sa guerre d'usure avec les États-Unis.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines"
+      "short_title": "Brent proche $100",
+      "title": "Le blocus du détroit d'Ormuz fait flamber le pétrole",
+      "summary": "Après près de sept mois de blocus quasi ininterrompu du détroit d'Ormuz, le Brent se maintient au-dessus de 100 dollars, avec des pointes proches de 107 dollars mi-septembre. Les exportations cumulées perdues avoisinent 2,8 milliards de barils, ce qui en fait la plus grave disruption de l'histoire du marché pétrolier selon les analystes.",
+      "source": "Discovery Alert",
+      "url": "https://discoveryalert.com/analysis/hormuz-blockade-oil-supply-crisis-september-2026/"
     },
     {
       "id": "n03",
-      "theme": "geopol",
-      "subtopic": "japon",
-      "importance": 2,
-      "short_title": "Japon: taux à 30 ans",
-      "title": "Japon: les taux longs au plus haut sur fond de budget défense",
-      "summary": "Les rendements obligataires japonais à 10 et 30 ans ont atteint leur plus haut niveau depuis trente ans après des informations selon lesquelles Tokyo envisagerait de porter son budget défense à 3,5% du PIB sous la pression américaine, soit environ 24 000 milliards de yens. Le ministère de la Défense a démenti tout engagement chiffré, mais les investisseurs restent inquiets d'un alourdissement de la dette alors que la Première ministre Takaichi pousse simultanément pour des baisses d'impôts.",
-      "source": "Eastern Herald",
-      "url": "https://easternherald.com/2026/09/21/japan-defense-gdp-target-us-pressure-bond-yields/"
-    },
-    {
-      "id": "n04",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Trêve énergie Ukraine",
-      "title": "Trump annonce une trêve énergétique Russie-Ukraine",
-      "summary": "Donald Trump a affirmé sur Truth Social que Kiev et Moscou avaient accepté de cesser de frapper leurs infrastructures énergétiques respectives, alors que les prix des carburants mondiaux grimpent. Zelensky s'est dit prêt à un arrêt réciproque mais reste sceptique sur la volonté russe de le respecter, et l'annonce est aussi lue comme une tentative de Trump de détourner l'attention de la guerre en Iran, principale responsable de la hausse des prix.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/14/trump-says-ukraine-and-russia-agree-to-halt-strikes-on-energy-targets"
-    },
-    {
-      "id": "n05",
       "theme": "finance",
-      "subtopic": "energie",
-      "importance": 2,
-      "short_title": "Brent repasse sous 100$",
-      "title": "Le Brent repasse sous 100 dollars",
-      "summary": "Le baril de Brent a chuté pour une quatrième séance consécutive, effaçant une partie de la prime de risque accumulée depuis le début de la guerre en Iran, après que Trump a renoncé à des frappes saoudiennes contre les Houthis et s'est dit ouvert à rencontrer le président iranien en marge de l'Assemblée générale de l'ONU. Les exportations saoudiennes via le détroit d'Ormuz se sont aussi révélées plus résilientes que prévu malgré la fermeture de l'oléoduc Est-Ouest.",
-      "source": "World Oil",
-      "url": "https://www.worldoil.com/news/2026/9/21/brent-falls-to-100-as-strait-of-hormuz-oil-flows-increase/"
-    },
-    {
-      "id": "n06",
-      "theme": "finance",
-      "subtopic": "taux",
+      "subtopic": "fed",
       "importance": 3,
       "short_title": "Fed relève ses taux",
-      "title": "La Fed relève ses taux à 3,75-4%",
-      "summary": "Le FOMC a voté à l'unanimité une hausse de 25 points de base, la première depuis 2023, portant le taux directeur américain à une fourchette de 3,75-4%, face à une inflation ravivée par la flambée des prix de l'énergie liée au conflit au Moyen-Orient. Seize des dix-huit membres du comité anticipent au moins une nouvelle hausse d'ici la fin de l'année, signe que la banque centrale reste sur la défensive face au choc pétrolier.",
+      "title": "La Fed relève ses taux à 3,75-4%, une première depuis 2023",
+      "summary": "Le FOMC a voté à l'unanimité une hausse d'un quart de point, portant son taux directeur à 3,75-4%, pour contrer une inflation que son président Kevin Warsh juge \"trop élevée depuis trop longtemps\". La flambée des prix de l'énergie liée à la guerre Iran-USA et un marché du travail encore résilient ont pesé dans la décision; la majorité des membres du comité anticipe au moins une nouvelle hausse d'ici la fin de l'année.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
     },
     {
-      "id": "n07",
+      "id": "n04",
       "theme": "finance",
-      "subtopic": "taux",
+      "subtopic": "ccr_xva",
       "importance": 2,
-      "short_title": "RBA: inflation monte",
-      "title": "RBA: les risques d'inflation se matérialisent",
-      "summary": "À une semaine de la réunion des 28-29 septembre, la gouverneure de la Reserve Bank of Australia Michele Bullock a averti que les risques haussiers sur l'inflation identifiés en août commencent à se concrétiser, ouvrant la voie à une possible hausse de 25 points de base qui porterait le taux directeur au-delà de 4,35%. Cette déclaration s'inscrit dans un mouvement mondial de resserrement monétaire face aux tensions énergétiques persistantes.",
-      "source": "investingLive",
-      "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-tuesday-september-22-2026-rba-governor-bullock-speaking/"
+      "short_title": "FRTB reporté à 2027",
+      "title": "Le troisième report du FRTB entre en vigueur dans l'UE",
+      "summary": "L'acte délégué européen repoussant à nouveau l'application du Fundamental Review of the Trading Book, cette fois au 1er janvier 2027, est entré en vigueur le 20 septembre afin de préserver un level playing field avec les autres juridictions. Les praticiens CVA/XVA restent inquiets d'une charge de calcul disproportionnée une fois le texte réellement appliqué.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/regulation/7007591/european-frtb-proposals-spark-xva-overload-fears"
+    },
+    {
+      "id": "n05",
+      "theme": "geopol",
+      "subtopic": "chine-usa",
+      "importance": 3,
+      "short_title": "Xi à la Maison Blanche",
+      "title": "Xi Jinping entame sa visite d'État à Washington",
+      "summary": "Le président chinois est arrivé aux États-Unis pour une visite d'État du 23 au 25 septembre, un format protocolaire rare depuis des années. L'ambassadeur chinois a rappelé avant la rencontre que Taïwan, les droits humains, le système politique chinois et son droit au développement restent des \"lignes rouges\", alors que droits de douane, terres rares et intelligence artificielle doivent mettre à l'épreuve la trêve commerciale fragile entre les deux pays.",
+      "source": "US News",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-22/chinas-us-ambassador-warns-on-red-lines-ahead-of-trump-xi-meeting"
+    },
+    {
+      "id": "n06",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Trump-Zelensky à l'ONU",
+      "title": "Trump et Zelensky se rencontrent en marge de l'ONU",
+      "summary": "En marge de l'Assemblée générale des Nations unies, Trump et Zelensky ont tenu une rencontre de 40 minutes qualifiée de \"positive et productive\" par le président ukrainien. Zelensky a proposé une trêve mutuelle sur les frappes visant les infrastructures énergétiques russes et ukrainiennes, dans l'espoir de mettre fin à la guerre avant l'hiver.",
+      "source": "Meduza",
+      "url": "https://meduza.io/en/feature/2026/09/22/trump-is-expected-to-press-zelensky-to-accept-a-russia-ukraine-energy-truce-at-their-nyc-meeting"
+    },
+    {
+      "id": "n07",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "UE: sanctions +36 mois",
+      "title": "L'UE prolonge ses sanctions individuelles anti-russes",
+      "summary": "Les ambassadeurs de l'UE ont trouvé un accord préliminaire pour prolonger de 36 mois les sanctions visant les personnes jugées responsables d'atteintes à la souveraineté ukrainienne, tout en retirant les oligarques Alisher Usmanov et Mikhail Fridman de la liste. Ce cycle allongé réduit la fréquence des votes unanimes à 27 nécessaires pour maintenir la liste en vigueur.",
+      "source": "EU Today",
+      "url": "https://eutoday.net/eu-russia-sanctions-usmanov-fridman-3-year-extension/"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "frtb",
-      "importance": 2,
-      "short_title": "EBA assouplit le FRTB",
-      "title": "L'EBA assouplit temporairement le FRTB",
-      "summary": "L'Autorité bancaire européenne a publié une lettre de tolérance invitant les superviseurs nationaux à ne pas sanctionner les manquements sur la frontière entre portefeuille de négociation et portefeuille bancaire jusqu'à fin 2029, en attendant l'entrée en vigueur de l'acte délégué modifiant le calcul des exigences de fonds propres pour risque de marché. La mesure vise à harmoniser la mise en œuvre du Fundamental Review of the Trading Book dans l'UE et concerne directement les équipes de calcul CCR/XVA des banques européennes.",
-      "source": "European Banking Authority",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-no-action-letter-and-technical-considerations-support-implementation-market-risk"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Opus 5.5 lancé",
+      "title": "Anthropic lance Claude Opus 5.5",
+      "summary": "Le nouveau modèle phare d'Anthropic égale les performances de Claude Fable 5.1 sur la plupart des tâches, tout en coûtant 40% moins cher à faire tourner que Opus 5 et en générant ses réponses plus de 30% plus vite. Anthropic revendique de meilleures performances que GPT-5.6 Sol d'OpenAI sur un benchmark de développement logiciel, pour environ un tiers du coût.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-opus-5-5"
     },
     {
       "id": "n09",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Claude dirige 26% R&D",
-      "title": "Claude dirige 26% de la R&D d'Anthropic",
-      "summary": "Anthropic a annoncé que Claude conduit désormais de façon autonome 26% des travaux de recherche et développement sur ses propres futurs modèles, contre une part quasi nulle en février, le modèle pouvant mener à bien la majorité d'une tâche de bout en bout à partir d'un prompt de haut niveau sous supervision humaine. Cette annonce intervient alors que plusieurs figures de l'IA, à commencer par le patron d'Anthropic Dario Amodei, appellent par ailleurs à ralentir le rythme de développement du secteur pour des raisons de sécurité.",
-      "source": "TechXplore",
-      "url": "https://techxplore.com/news/2026-09-anthropic-claude-version.html"
+      "short_title": "OpenAI ouvre l'audit",
+      "title": "OpenAI ouvre l'entraînement de ses modèles à des auditeurs externes",
+      "summary": "OpenAI annonce vouloir permettre à des organisations tierces, potentiellement METR et Redwood Research, d'évaluer la sécurité de ses modèles dès la phase d'entraînement et non plus seulement après leur déploiement. Quatre priorités sont visées: les cas de sécurité, les garde-fous critiques, les évaluations de capacités et l'investigation d'incidents de désalignement, mais aucun partenaire ni calendrier précis n'est encore fixé.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments/"
     },
     {
       "id": "n10",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Mistral dans Firefox",
-      "title": "Mistral propulse l'assistant IA de Firefox",
-      "summary": "Mozilla et Mistral ont annoncé un partenariat pour intégrer les modèles Mistral Small 4 dans Firefox Smart Window, l'assistant de navigation par IA de Firefox, avec un engagement de zéro conservation des données et un routage via des proxys Mozilla pour préserver la vie privée. Le déploiement démarre en France, première extension hors Amérique du Nord, avant le Royaume-Uni et l'Allemagne, et illustre la stratégie de Mistral consistant à diffuser ses modèles via des partenaires plutôt qu'à posséder son propre navigateur.",
-      "source": "Mozilla Blog",
-      "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/"
+      "short_title": "Sémaglutide +100j souris",
+      "title": "Le sémaglutide prolonge la vie de souris âgées",
+      "summary": "Une étude publiée dans Nature par une équipe de Berkeley montre que des souris femelles de 20 mois traitées au sémaglutide jusqu'à leur mort ont vécu, en médiane, environ 100 jours de plus que les témoins non traités. Les animaux traités ont aussi conservé de meilleures capacités de mémoire spatiale et une meilleure régulation de la glycémie, avec des effets qui rappellent, voire dépassent, ceux de la restriction calorique.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10940-7"
     },
     {
       "id": "n11",
-      "theme": "tech",
-      "subtopic": "design",
+      "theme": "climat",
+      "subtopic": "energie",
       "importance": 2,
-      "short_title": "Figma ouvre Weave",
-      "title": "Figma ouvre Weave à la communauté",
-      "summary": "Figma permet désormais à ses utilisateurs de publier leurs propres outils Weave, des workflows d'IA générative pour l'image et le vecteur, sur la Figma Community afin que d'autres designers puissent les réutiliser directement dans Figma Design. L'entreprise met en avant les premiers outils communautaires, du rendu de pièces au reframing d'image, signe d'une bascule de l'IA générative vers des outils partagés et réutilisables plutôt que des prompts isolés.",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/"
+      "short_title": "Dessalement sans saumure",
+      "title": "Un dessalement solaire qui élimine le rejet de saumure",
+      "summary": "Des chercheurs de l'Université de Rochester ont mis au point un panneau métallique texturé au laser qui évapore l'eau de mer grâce au soleil tout en cristallisant le sel en un solide facilement récupérable, plutôt qu'en une saumure liquide polluante, en exploitant l'effet dit \"de la tache de café\". Une extraction de lithium associée, testée sur des échantillons du Grand Lac Salé, en récupère environ 50%.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm"
     },
     {
       "id": "n12",
       "theme": "climat",
-      "subtopic": "transition_energetique",
+      "subtopic": "politique_climatique",
       "importance": 2,
-      "short_title": "Chine: solaire>charbon",
-      "title": "Le solaire dépasse le charbon en Chine",
-      "summary": "La capacité installée d'énergie solaire en Chine a franchi les 1286 gigawatts fin juillet, dépassant légèrement les 1285 GW de charbon et devenant ainsi la première source de puissance installée du pays. Le charbon reste toutefois dominant en production réelle, avec près de 50% de l'électricité générée contre environ 13% pour le solaire, en raison d'un facteur de charge bien plus faible pour les panneaux photovoltaïques.",
-      "source": "Caixin Global",
-      "url": "https://www.caixinglobal.com/2026-09-02/solar-overtakes-coal-as-chinas-biggest-power-source-by-capacity-102481113.html"
+      "short_title": "COP31: pacte IA-climat",
+      "title": "La présidence de la COP31 dévoile son agenda pour Antalya",
+      "summary": "À moins de deux mois de la conférence d'Antalya, la présidence turque a présenté ses priorités: un objectif de 35% d'électrification mondiale d'ici 2035 (\"35-by-35\"), et un nouveau \"Pacte d'Antalya sur l'intelligence artificielle\" destiné à encadrer la consommation énergétique croissante des centres de données tout en mobilisant l'IA pour l'action climatique.",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/turkey-cop31-summit/"
     },
     {
       "id": "n13",
-      "theme": "sciences",
-      "subtopic": "biotech",
+      "theme": "finance",
+      "subtopic": "ia_bulle",
       "importance": 2,
-      "short_title": "FDA: maladie Alexander",
-      "title": "La FDA approuve un traitement pour la maladie d'Alexander",
-      "summary": "La FDA a approuvé le zilganersen (Zanvastro) d'Ionis Pharmaceuticals, premier traitement modificateur de la maladie pour la maladie d'Alexander, une pathologie neurologique rare et souvent fatale touchant enfants et adultes. L'essai pivot a montré une stabilisation statistiquement significative de la vitesse de marche par rapport au groupe témoin, qui continuait lui à se détériorer.",
-      "source": "Endpoints News",
-      "url": "https://endpoints.news/ionis-wins-fda-approval-of-alexander-disease-drug-zilganersen/"
+      "short_title": "Nvidia doute sur l'IA",
+      "title": "Le doute s'installe sur la valorisation des géants de l'IA",
+      "summary": "Mi-septembre, les valeurs liées à l'IA ont plongé en bourse, Nvidia perdant à elle seule plus de 176 milliards de dollars de capitalisation en une séance, après que plusieurs dirigeants de laboratoires d'IA eux-mêmes ont appelé à ralentir le rythme des déploiements. Des stratèges de Wall Street comparent désormais le poids des méga-capitalisations liées à l'IA dans le S&P 500, qui dépasse 30%, à la bulle internet de 1999.",
+      "source": "GuruFocus",
+      "url": "https://www.gurufocus.com/news/9080578/chip-stocks-decline-amid-ai-development-concerns"
     },
     {
       "id": "n14",
       "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 1,
-      "short_title": "1ère thérapie Sanfilippo",
-      "title": "Première thérapie génique pour le syndrome de Sanfilippo A",
-      "summary": "La FDA a accordé son approbation complète à FAYUVI (UX111) d'Ultragenyx, une thérapie génique AAV9 administrée en une fois, devenant le tout premier traitement approuvé pour le syndrome de Sanfilippo de type A, une maladie lysosomale rare et neurodégénérative à début précoce. Les données cliniques, portant sur jusqu'à huit ans de suivi, montrent une amélioration durable par rapport à la dégradation observée dans l'évolution naturelle de la maladie.",
-      "source": "Endpoints News",
-      "url": "https://endpoints.news/fda-approves-ultragenyxs-gene-therapy-for-sanfilippo-syndrome-type-a/"
+      "subtopic": "neurosciences",
+      "importance": 2,
+      "short_title": "ADN et Alzheimer",
+      "title": "L'architecture 3D de l'ADN bouleversée dans la maladie d'Alzheimer",
+      "summary": "En combinant analyse cellule par cellule, transcriptomique spatiale et intelligence artificielle sur des tissus cérébraux post-mortem, une équipe internationale a montré que le repliement tridimensionnel de l'ADN diffère nettement dans plusieurs types de cellules du cortex préfrontal chez les personnes atteintes d'Alzheimer, modifiant l'activation de gènes clés. Cette couche jusqu'ici sous-explorée de la maladie s'ajoute aux plaques amyloïdes et à la protéine tau comme piste de recherche.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Muscu: mortalité -13%",
-      "title": "Musculation: -13% de mortalité toutes causes",
-      "summary": "Une étude sur le suivi à long terme de la musculation montre que 90 à 120 minutes d'entraînement de force par semaine sont associées à une baisse de 13% du risque de mortalité toutes causes, 19% pour les causes cardiovasculaires et 27% pour les maladies neurologiques, comparé à l'absence totale d'entraînement de force. L'étude souligne aussi les bénéfices additionnels obtenus en combinant musculation et activité aérobie plutôt que l'une ou l'autre isolément.",
-      "source": "PMC / British Journal of Sports Medicine",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13397323/"
+      "theme": "sciences",
+      "subtopic": "biodiversite",
+      "importance": 1,
+      "short_title": "4 espèces de manchots",
+      "title": "Le manchot papou se révèle être quatre espèces distinctes",
+      "summary": "En analysant le génome complet de 64 manchots papous provenant de dix colonies de l'océan Austral, une équipe internationale a identifié quatre lignées génétiquement distinctes, dont une espèce totalement nouvelle pour la science, endémique des îles Kerguelen. Il s'agit de la première nouvelle espèce de manchot décrite depuis plus d'un siècle, avec des implications importantes pour la conservation de ces populations insulaires menacées.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm"
     },
     {
       "id": "n16",
-      "theme": "learn",
-      "subtopic": "metacognition",
-      "importance": 1,
-      "short_title": "IA tutrice: métacognition",
-      "title": "L'IA tutrice renforce la métacognition des apprenants",
-      "summary": "Une étude publiée dans Frontiers in Psychology, basée sur les traces d'usage de systèmes de tutorat intelligent, montre que l'utilisation de l'IA renforce la régulation métacognitive et l'engagement des apprenants, mesurés via la persévérance après erreur et l'espacement des révisions. Le transfert des connaissances vers de nouveaux contextes reste en revanche conditionné à la présence de mécanismes de vérification et d'abstraction dans les outils utilisés.",
-      "source": "Frontiers in Psychology",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811065/full"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Anthropic contre abus",
+      "title": "Anthropic détaille ses efforts contre le détournement de Claude",
+      "summary": "Dans son rapport de renseignement sur les menaces de septembre, Anthropic décrit plusieurs opérations malveillantes utilisant Claude qu'elle affirme avoir perturbées, et documente l'évolution des tactiques d'acteurs cherchant à contourner ses garde-fous. Le rapport s'inscrit dans une série d'annonces récentes de l'entreprise sur l'alignement et la sécurité de ses modèles.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
     }
   ],
   "edges": [
@@ -183,67 +183,61 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "Le report des pourparlers, provoqué par la frustration saoudienne face aux attaques houthies et à la fermeture de son oléoduc Est-Ouest, a laissé le champ libre à l'offensive houthie qui a ensuite consolidé son emprise sur le détroit."
+      "explanation": "La saisie d'un port yéménite et les tirs visant des pétroliers renforcent le blocus du détroit d'Ormuz, resserrant l'offre mondiale de brut et alimentant la hausse des cours."
     },
     {
       "source": "n02",
-      "target": "n05",
-      "type": "tension",
-      "explanation": "Malgré la prise de contrôle houthie du détroit, Trump a renoncé à frapper le mouvement et s'est dit ouvert à rencontrer le président iranien à l'ONU, ce qui a fait reculer la prime de risque pétrolière en dépit de l'escalade sur le terrain."
-    },
-    {
-      "source": "n02",
-      "target": "n06",
+      "target": "n03",
       "type": "cause",
-      "explanation": "La flambée pétrolière alimentée par l'escalade au Yémen et en Iran ces derniers mois a nourri les pressions inflationnistes qui ont conduit la Fed à relever ses taux pour la première fois depuis 2023."
+      "explanation": "La flambée du pétrole et du diesel nourrit directement l'inflation américaine, poussant la Fed à relever ses taux malgré les risques pour l'emploi."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "Les deux rencontres s'inscrivent dans la même semaine de diplomatie intense de Trump à New York et Washington, entre apaisement commercial avec Pékin et pression pour une trêve en Ukraine."
     },
     {
       "source": "n06",
       "target": "n07",
-      "type": "meme_sujet",
-      "explanation": "Fed et RBA font face au même dilemme: une inflation ravivée par le choc énergétique mondial qui les pousse à durcir leur politique monétaire malgré les risques pour la croissance."
-    },
-    {
-      "source": "n06",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "La remontée des taux américains fait écho à la tension sur les obligations souveraines japonaises, deux symptômes distincts d'un même resserrement mondial des conditions de financement."
-    },
-    {
-      "source": "n04",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Ukraine/Russie et Houthis/Arabie saoudite illustrent deux trêves énergétiques fragiles en 2026, où les engagements affichés peinent à tenir sur le terrain."
-    },
-    {
-      "source": "n04",
-      "target": "n06",
       "type": "tension",
-      "explanation": "Trump a utilisé l'accord annoncé avec Kiev et Moscou pour reporter la responsabilité de la hausse des prix du carburant sur la guerre en Ukraine plutôt que sur le conflit iranien, alors que c'est bien ce dernier qui pèse sur les décisions de la Fed."
+      "explanation": "Pendant que Trump pousse Zelensky vers une trêve négociée avec Moscou, l'UE durcit au même moment sa ligne en prolongeant ses sanctions individuelles pour trois ans: deux approches occidentales divergentes face à la Russie."
     },
     {
-      "source": "n09",
-      "target": "n10",
-      "type": "meme_sujet",
-      "explanation": "Anthropic et Mistral illustrent deux stratégies rivales de diffusion de l'IA générative: l'autonomisation interne de la R&D d'un côté, la distribution via un navigateur grand public de l'autre."
+      "source": "n08",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Anthropic accélère son rythme de sortie de modèles alors que son propre PDG avait appelé à ralentir la course aux capacités, quand OpenAI choisit au contraire de formaliser un contrôle de sécurité externe: deux réponses opposées à la même pression concurrentielle."
     },
     {
-      "source": "n10",
-      "target": "n11",
-      "type": "meme_sujet",
-      "explanation": "Mistral dans Firefox et Figma Weave partagé en communauté marquent la même bascule de l'IA générative vers des outils grand public intégrés au quotidien plutôt que réservés aux seuls labs."
+      "source": "n08",
+      "target": "n13",
+      "type": "tension",
+      "explanation": "Le marché avait sanctionné les valeurs IA quelques jours plus tôt sur des doutes de rythme et de rentabilité; Anthropic répond en livrant un modèle à la fois plus rapide et 40% moins cher, à rebours du scepticisme boursier."
     },
     {
       "source": "n13",
-      "target": "n14",
+      "target": "n03",
       "type": "meme_sujet",
-      "explanation": "Les deux thérapies, approuvées la même semaine par la FDA, illustrent l'accélération des autorisations de traitements géniques et ARN pour des maladies ultra-rares."
+      "explanation": "La nervosité sur les valorisations de l'IA et la hausse des taux de la Fed relèvent du même climat de marché: taux plus élevés et multiples boursiers tendus se nourrissent mutuellement dans l'inquiétude des investisseurs."
     },
     {
-      "source": "n12",
-      "target": "n05",
+      "source": "n16",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "Les deux laboratoires publient à quelques jours d'intervalle des annonces sur la sécurité de leurs modèles, l'un sur la lutte contre les usages malveillants, l'autre sur l'audit externe pendant l'entraînement."
+    },
+    {
+      "source": "n08",
+      "target": "n12",
       "type": "tension",
-      "explanation": "Alors que le pétrole reste sous tension à cause du Moyen-Orient, la Chine découple partiellement sa trajectoire électrique des combustibles fossiles en faisant du solaire sa première source de puissance installée."
+      "explanation": "La course à des modèles toujours plus performants et moins chers à faire tourner accroît la demande en centres de données, ce que la présidence de la COP31 cherche justement à encadrer avec son nouveau pacte IA-climat."
+    },
+    {
+      "source": "n10",
+      "target": "n14",
+      "type": "meme_sujet",
+      "explanation": "Les deux études avancent en parallèle la compréhension du vieillissement et du cerveau au niveau moléculaire, l'une via une molécule qui ralentit le vieillissement systémique, l'autre via l'architecture du génome dans les cellules cérébrales."
     }
   ]
 }

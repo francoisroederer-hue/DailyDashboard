@@ -1,181 +1,181 @@
 {
-  "generated_at": "2026-09-23T04:14:00Z",
+  "generated_at": "2026-09-24T04:12:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Ormuz: IRGC menace",
-      "title": "L'Iran menace d'élargir la guerre au Moyen-Orient",
-      "summary": "Le porte-parole des Gardiens de la révolution a averti que Téhéran \"changerait la géographie de la guerre\" en cas de nouvelle escalade américaine, tandis que les rebelles Houthis, alliés de l'Iran, se sont emparés d'un port stratégique au Yémen. Des émissaires américains ont toutefois rencontré une délégation iranienne pendant trois heures dans la même journée, un contact que Washington a qualifié de constructif.",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-september-22-2026/"
+      "short_title": "Iran-US: pourparlers ONU",
+      "title": "Araghchi rencontre Witkoff et Kushner à l'ONU",
+      "summary": "Le ministre iranien des Affaires étrangères Abbas Araghchi a rencontré pendant trois heures les émissaires américains Steve Witkoff et Jared Kushner en marge de l'Assemblée générale de l'ONU le 22 septembre, en présence du Premier ministre qatari. Téhéran y a présenté ses conditions pour mettre fin à la guerre, au premier rang desquelles la levée du blocus du détroit d'Ormuz; Trump a qualifié la rencontre de \"très bonne et productive\" et annoncé une prochaine session.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent proche $100",
-      "title": "Le blocus du détroit d'Ormuz fait flamber le pétrole",
-      "summary": "Après près de sept mois de blocus quasi ininterrompu du détroit d'Ormuz, le Brent se maintient au-dessus de 100 dollars, avec des pointes proches de 107 dollars mi-septembre. Les exportations cumulées perdues avoisinent 2,8 milliards de barils, ce qui en fait la plus grave disruption de l'histoire du marché pétrolier selon les analystes.",
-      "source": "Discovery Alert",
-      "url": "https://discoveryalert.com/analysis/hormuz-blockade-oil-supply-crisis-september-2026/"
+      "short_title": "Pétrole rebondit +3,9%",
+      "title": "Le Brent rebondit après cinq séances de baisse",
+      "summary": "Le Brent a bondi de 3,9% le 23 septembre à 103,08 dollars le baril (WTI +1,8% à 92,16 dollars), mettant fin à cinq jours consécutifs de repli, après qu'Iran a laissé entendre qu'il pourrait rouvrir le détroit d'Ormuz sous sept jours si Washington allège la pression militaire et les restrictions portuaires. Le président iranien Pezeshkian a toutefois juré que Téhéran ne se rendrait pas, tandis que la reprise partielle de l'oléoduc est-ouest saoudien vient aussi atténuer les craintes d'approvisionnement.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html"
     },
     {
       "id": "n03",
       "theme": "finance",
-      "subtopic": "fed",
+      "subtopic": "marches",
       "importance": 3,
-      "short_title": "Fed relève ses taux",
-      "title": "La Fed relève ses taux à 3,75-4%, une première depuis 2023",
-      "summary": "Le FOMC a voté à l'unanimité une hausse d'un quart de point, portant son taux directeur à 3,75-4%, pour contrer une inflation que son président Kevin Warsh juge \"trop élevée depuis trop longtemps\". La flambée des prix de l'énergie liée à la guerre Iran-USA et un marché du travail encore résilient ont pesé dans la décision; la majorité des membres du comité anticipe au moins une nouvelle hausse d'ici la fin de l'année.",
+      "short_title": "Taux 10 ans: pic 2007",
+      "title": "Le taux à 10 ans US au plus haut depuis 2007, Wall Street recule",
+      "summary": "Le rendement du Trésor américain à 10 ans a grimpé à 5,135% le 23 septembre, son plus haut niveau depuis juillet 2007, provoquant une correction sur les actions: le S&P 500 a cédé 0,8% et le Nasdaq 1,1%. Les investisseurs anticipent un durcissement monétaire supplémentaire de la Fed pour contrer une inflation alimentée par le choc énergétique lié au conflit Iran-USA.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
+      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html"
     },
     {
       "id": "n04",
-      "theme": "finance",
-      "subtopic": "ccr_xva",
-      "importance": 2,
-      "short_title": "FRTB reporté à 2027",
-      "title": "Le troisième report du FRTB entre en vigueur dans l'UE",
-      "summary": "L'acte délégué européen repoussant à nouveau l'application du Fundamental Review of the Trading Book, cette fois au 1er janvier 2027, est entré en vigueur le 20 septembre afin de préserver un level playing field avec les autres juridictions. Les praticiens CVA/XVA restent inquiets d'une charge de calcul disproportionnée une fois le texte réellement appliqué.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/regulation/7007591/european-frtb-proposals-spark-xva-overload-fears"
+      "theme": "geopol",
+      "subtopic": "chine-usa",
+      "importance": 3,
+      "short_title": "Trump-Xi: sommet à DC",
+      "title": "Trump accueille Xi Jinping à Washington",
+      "summary": "Xi Jinping a entamé le 24 septembre une visite d'État de trois jours à Washington, sa première depuis 2015, pour un sommet centré sur la trêve commerciale, Taïwan, les terres rares et l'intelligence artificielle. Un contrat d'armement américain de 14 milliards de dollars vers Taïwan, que Xi veut voir annulé, plane sur des discussions dont peu d'avancées concrètes sont attendues sur les dossiers les plus sensibles.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073"
     },
     {
       "id": "n05",
       "theme": "geopol",
-      "subtopic": "chine-usa",
-      "importance": 3,
-      "short_title": "Xi à la Maison Blanche",
-      "title": "Xi Jinping entame sa visite d'État à Washington",
-      "summary": "Le président chinois est arrivé aux États-Unis pour une visite d'État du 23 au 25 septembre, un format protocolaire rare depuis des années. L'ambassadeur chinois a rappelé avant la rencontre que Taïwan, les droits humains, le système politique chinois et son droit au développement restent des \"lignes rouges\", alors que droits de douane, terres rares et intelligence artificielle doivent mettre à l'épreuve la trêve commerciale fragile entre les deux pays.",
-      "source": "US News",
-      "url": "https://www.usnews.com/news/world/articles/2026-09-22/chinas-us-ambassador-warns-on-red-lines-ahead-of-trump-xi-meeting"
+      "subtopic": "arctique",
+      "importance": 2,
+      "short_title": "USA-Groenland: accord",
+      "title": "Washington signe un accord de sécurité sur le Groenland",
+      "summary": "Trump, la Première ministre danoise Mette Frederiksen et le chef du gouvernement groenlandais Jens-Frederik Nielsen ont signé le 22 septembre, en marge de l'ONU, un accord élargissant la présence militaire américaine au Groenland: modernisation de la base de Pituffik, création de deux nouveaux sites américains et volet du système antimissile \"Golden Dome\". Le Danemark et le Groenland conservent formellement leur souveraineté sur le territoire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/22/us-signs-tremendous-arctic-security-deal-with-denmark-greenland"
     },
     {
       "id": "n06",
       "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Trump-Zelensky à l'ONU",
-      "title": "Trump et Zelensky se rencontrent en marge de l'ONU",
-      "summary": "En marge de l'Assemblée générale des Nations unies, Trump et Zelensky ont tenu une rencontre de 40 minutes qualifiée de \"positive et productive\" par le président ukrainien. Zelensky a proposé une trêve mutuelle sur les frappes visant les infrastructures énergétiques russes et ukrainiennes, dans l'espoir de mettre fin à la guerre avant l'hiver.",
-      "source": "Meduza",
-      "url": "https://meduza.io/en/feature/2026/09/22/trump-is-expected-to-press-zelensky-to-accept-a-russia-ukraine-energy-truce-at-their-nyc-meeting"
+      "subtopic": "amerique_latine",
+      "importance": 1,
+      "short_title": "Lula tacle Trump à l'ONU",
+      "title": "Lula dénonce les pressions américaines sur l'Amérique latine",
+      "summary": "En ouvrant le débat général de l'Assemblée générale de l'ONU le 22 septembre, juste avant l'intervention de Trump, le président brésilien Lula a mis en garde contre les \"ambitions hégémoniques\" et l'ingérence électorale étrangère, accusant Washington d'utiliser ses droits de douane pour peser sur l'élection brésilienne du 4 octobre. \"Le Brésil n'appartient à l'arrière-cour de personne\", a-t-il lancé.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un"
     },
     {
       "id": "n07",
-      "theme": "geopol",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "UE: sanctions +36 mois",
-      "title": "L'UE prolonge ses sanctions individuelles anti-russes",
-      "summary": "Les ambassadeurs de l'UE ont trouvé un accord préliminaire pour prolonger de 36 mois les sanctions visant les personnes jugées responsables d'atteintes à la souveraineté ukrainienne, tout en retirant les oligarques Alisher Usmanov et Mikhail Fridman de la liste. Ce cycle allongé réduit la fréquence des votes unanimes à 27 nécessaires pour maintenir la liste en vigueur.",
-      "source": "EU Today",
-      "url": "https://eutoday.net/eu-russia-sanctions-usmanov-fridman-3-year-extension/"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude découvre enzyme",
+      "title": "Claude aide à découvrir un nouveau système enzymatique",
+      "summary": "Anthropic a annoncé le 23 septembre que Claude a contribué à l'identification d'un système enzymatique bactérien jusque-là inconnu, associé à des répétitions de type CRISPR. L'entreprise présente ce résultat comme un nouvel exemple concret de découverte scientifique assistée par l'IA, quelques mois après avoir mis en avant d'autres usages de Claude en biologie.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
     },
     {
       "id": "n08",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Claude Opus 5.5 lancé",
-      "title": "Anthropic lance Claude Opus 5.5",
-      "summary": "Le nouveau modèle phare d'Anthropic égale les performances de Claude Fable 5.1 sur la plupart des tâches, tout en coûtant 40% moins cher à faire tourner que Opus 5 et en générant ses réponses plus de 30% plus vite. Anthropic revendique de meilleures performances que GPT-5.6 Sol d'OpenAI sur un benchmark de développement logiciel, pour environ un tiers du coût.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-opus-5-5"
+      "subtopic": "ai_hardware",
+      "importance": 2,
+      "short_title": "Meta dévoile Muse Charm",
+      "title": "Meta lance un boîtier dédié pour son assistant Muse",
+      "summary": "Lors de Meta Connect, Mark Zuckerberg a présenté le 23 septembre \"Muse Charm\", un petit boîtier autonome tenant dans la main pour utiliser l'assistant IA Muse en mobilité, conçu par le nouveau laboratoire matériel de Meta dirigé par l'ex-designer d'Apple Alan Dye. L'annonce s'accompagne d'autres nouveautés portables: lunettes de réalité virtuelle, lunettes audio et une troisième génération de Ray-Ban Meta.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go"
     },
     {
       "id": "n09",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "OpenAI ouvre l'audit",
-      "title": "OpenAI ouvre l'entraînement de ses modèles à des auditeurs externes",
-      "summary": "OpenAI annonce vouloir permettre à des organisations tierces, potentiellement METR et Redwood Research, d'évaluer la sécurité de ses modèles dès la phase d'entraînement et non plus seulement après leur déploiement. Quatre priorités sont visées: les cas de sécurité, les garde-fous critiques, les évaluations de capacités et l'investigation d'incidents de désalignement, mais aucun partenaire ni calendrier précis n'est encore fixé.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments/"
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor lance Projects",
+      "title": "Cursor lance Projects, un coordinateur d'agents persistant",
+      "summary": "Cursor a mis en beta \"Projects\", un espace de travail cloud qui conserve le contexte d'un chantier logiciel sur plusieurs mois et délègue les tâches à de grandes flottes d'agents capables de réagir à des signaux externes (Slack, plannings, pull requests). Selon l'entreprise, les utilisateurs intensifs de Projects fusionnent environ six fois plus de pull requests que la moyenne.",
+      "source": "Pondero",
+      "url": "https://pondero.ai/news/2026-09-11-cursor-projects/"
     },
     {
       "id": "n10",
-      "theme": "sante",
-      "subtopic": "longevite",
+      "theme": "climat",
+      "subtopic": "politique_climatique",
       "importance": 2,
-      "short_title": "Sémaglutide +100j souris",
-      "title": "Le sémaglutide prolonge la vie de souris âgées",
-      "summary": "Une étude publiée dans Nature par une équipe de Berkeley montre que des souris femelles de 20 mois traitées au sémaglutide jusqu'à leur mort ont vécu, en médiane, environ 100 jours de plus que les témoins non traités. Les animaux traités ont aussi conservé de meilleures capacités de mémoire spatiale et une meilleure régulation de la glycémie, avec des effets qui rappellent, voire dépassent, ceux de la restriction calorique.",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-10940-7"
+      "short_title": "Climat: Berlin vise 2045",
+      "title": "Sommet climat de l'ONU et feuille de route allemande",
+      "summary": "Le sommet climat du secrétaire général de l'ONU, tenu le 23 septembre, a appelé à tripler les capacités renouvelables, doubler l'efficacité énergétique et fixer des calendriers clairs de sortie des fossiles. L'Allemagne a saisi l'occasion pour adopter une feuille de route nationale visant une sortie complète des énergies fossiles d'ici 2045.",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/09/1168418"
     },
     {
       "id": "n11",
       "theme": "climat",
       "subtopic": "energie",
       "importance": 2,
-      "short_title": "Dessalement sans saumure",
-      "title": "Un dessalement solaire qui élimine le rejet de saumure",
-      "summary": "Des chercheurs de l'Université de Rochester ont mis au point un panneau métallique texturé au laser qui évapore l'eau de mer grâce au soleil tout en cristallisant le sel en un solide facilement récupérable, plutôt qu'en une saumure liquide polluante, en exploitant l'effet dit \"de la tache de café\". Une extraction de lithium associée, testée sur des échantillons du Grand Lac Salé, en récupère environ 50%.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm"
+      "short_title": "Renouvelables: record",
+      "title": "Un record mondial d'ajout de capacités renouvelables en 2025",
+      "summary": "Un nouveau rapport de l'IRENA, présenté lors de la Climate Week de New York, montre que le monde a ajouté 693 gigawatts de capacités renouvelables en 2025, un record. Le chef climat de l'ONU y voit le signe que la transition devient irréversible, tandis que d'autres intervenants rappellent que la demande électrique de l'IA et des centres de données complique l'atteinte des objectifs.",
+      "source": "ESG News",
+      "url": "https://esgnews.com/day-2-at-climate-week-nyc-energy-transition-enters-delivery-era/"
     },
     {
       "id": "n12",
-      "theme": "climat",
-      "subtopic": "politique_climatique",
+      "theme": "finance",
+      "subtopic": "industrie",
       "importance": 2,
-      "short_title": "COP31: pacte IA-climat",
-      "title": "La présidence de la COP31 dévoile son agenda pour Antalya",
-      "summary": "À moins de deux mois de la conférence d'Antalya, la présidence turque a présenté ses priorités: un objectif de 35% d'électrification mondiale d'ici 2035 (\"35-by-35\"), et un nouveau \"Pacte d'Antalya sur l'intelligence artificielle\" destiné à encadrer la consommation énergétique croissante des centres de données tout en mobilisant l'IA pour l'action climatique.",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/23/world/politics/turkey-cop31-summit/"
+      "short_title": "Coûts industriels US",
+      "title": "L'enquête de la Fed de Philadelphie signale la pression des coûts énergétiques",
+      "summary": "L'enquête manufacturière de la Fed de Philadelphie pour septembre montre son indice des prix payés bondir de 40,9 à 48,6, les industriels citant les coûts énergétiques liés au Moyen-Orient et le fret parmi les principaux facteurs, alors que l'indice d'activité générale ralentit de 47,4 à 37,8. Les entreprises n'absorbent que partiellement cette hausse, l'indice des prix reçus restant nettement inférieur.",
+      "source": "Philadelphia Fed / NAM",
+      "url": "https://nam.org/philadelphia-fed-survey-shows-regional-manufacturing-expanding-at-slower-pace-in-september/"
     },
     {
       "id": "n13",
-      "theme": "finance",
-      "subtopic": "ia_bulle",
+      "theme": "sante",
+      "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Nvidia doute sur l'IA",
-      "title": "Le doute s'installe sur la valorisation des géants de l'IA",
-      "summary": "Mi-septembre, les valeurs liées à l'IA ont plongé en bourse, Nvidia perdant à elle seule plus de 176 milliards de dollars de capitalisation en une séance, après que plusieurs dirigeants de laboratoires d'IA eux-mêmes ont appelé à ralentir le rythme des déploiements. Des stratèges de Wall Street comparent désormais le poids des méga-capitalisations liées à l'IA dans le S&P 500, qui dépasse 30%, à la bulle internet de 1999.",
-      "source": "GuruFocus",
-      "url": "https://www.gurufocus.com/news/9080578/chip-stocks-decline-amid-ai-development-concerns"
+      "short_title": "Sénolytique et peau âgée",
+      "title": "Un sénolytique topique accélère la cicatrisation de peau âgée",
+      "summary": "Une étude montre qu'appliquer pendant cinq jours le sénolytique ABT-263 sur la peau de souris de 24 mois élimine les cellules sénescentes dysfonctionnelles et accélère nettement la cicatrisation: 80% des souris traitées referment complètement leurs plaies au bout de 24 jours, contre 56% chez les témoins. La sécurité et l'efficacité chez l'humain restent à démontrer.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm"
     },
     {
       "id": "n14",
-      "theme": "sciences",
-      "subtopic": "neurosciences",
+      "theme": "sante",
+      "subtopic": "neurodeveloppement",
       "importance": 2,
-      "short_title": "ADN et Alzheimer",
-      "title": "L'architecture 3D de l'ADN bouleversée dans la maladie d'Alzheimer",
-      "summary": "En combinant analyse cellule par cellule, transcriptomique spatiale et intelligence artificielle sur des tissus cérébraux post-mortem, une équipe internationale a montré que le repliement tridimensionnel de l'ADN diffère nettement dans plusieurs types de cellules du cortex préfrontal chez les personnes atteintes d'Alzheimer, modifiant l'activation de gènes clés. Cette couche jusqu'ici sous-explorée de la maladie s'ajoute aux plaques amyloïdes et à la protéine tau comme piste de recherche.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm"
+      "short_title": "TORCH: risque autisme x3",
+      "title": "Les infections congénitales rares liées à un risque accru d'autisme",
+      "summary": "En suivant 3,7 millions de personnes nées en Suède depuis 1987, des chercheurs du Karolinska Institutet montrent que les quelque 1000 enfants nés avec une infection congénitale du groupe TORCH (cytomégalovirus, rubéole, toxoplasmose, herpès) présentent un risque d'autisme trois fois plus élevé et un risque de déficience intellectuelle sévère sept fois plus élevé. Ces infections restant rares, leur poids dans l'ensemble des diagnostics au niveau de la population reste toutefois marginal.",
+      "source": "Karolinska Institutet",
+      "url": "https://news.ki.se/rare-pregnancy-infections-linked-to-autism"
     },
     {
       "id": "n15",
       "theme": "sciences",
-      "subtopic": "biodiversite",
+      "subtopic": "espace",
       "importance": 1,
-      "short_title": "4 espèces de manchots",
-      "title": "Le manchot papou se révèle être quatre espèces distinctes",
-      "summary": "En analysant le génome complet de 64 manchots papous provenant de dix colonies de l'océan Austral, une équipe internationale a identifié quatre lignées génétiquement distinctes, dont une espèce totalement nouvelle pour la science, endémique des îles Kerguelen. Il s'agit de la première nouvelle espèce de manchot décrite depuis plus d'un siècle, avec des implications importantes pour la conservation de ces populations insulaires menacées.",
+      "short_title": "Roman: caméra 300 Mpx",
+      "title": "La caméra de 300 mégapixels du télescope Roman s'allume",
+      "summary": "La NASA a activé le 11 septembre l'instrument grand champ du télescope spatial Nancy Grace Roman, une caméra infrarouge de 300 mégapixels, qui a capté sa première lumière cosmique. L'instrument doit photographier des portions de ciel plus vastes que la pleine lune avec une netteté comparable à celle de Hubble, dans le cadre des tests précédant l'arrivée de Roman à son poste d'observation au point de Lagrange L2.",
       "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
     },
     {
       "id": "n16",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 2,
-      "short_title": "Anthropic contre abus",
-      "title": "Anthropic détaille ses efforts contre le détournement de Claude",
-      "summary": "Dans son rapport de renseignement sur les menaces de septembre, Anthropic décrit plusieurs opérations malveillantes utilisant Claude qu'elle affirme avoir perturbées, et documente l'évolution des tactiques d'acteurs cherchant à contourner ses garde-fous. Le rapport s'inscrit dans une série d'annonces récentes de l'entreprise sur l'alignement et la sécurité de ses modèles.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+      "short_title": "DeepMind: institut AGI",
+      "title": "Google DeepMind lance un institut pour débattre de l'AGI",
+      "summary": "Google DeepMind a lancé vers le 17 septembre un nouvel \"institut\" codirigé par Demis Hassabis, Shane Legg et James Manyika pour élargir le débat, y compris en interne, sur les implications de l'intelligence artificielle générale. Sa première publication rassemble quatre essais portant notamment sur les politiques économiques face à une possible disruption liée à l'AGI et sur la préservation d'un raisonnement d'IA lisible par des humains.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
     }
   ],
   "edges": [
@@ -183,61 +183,67 @@
       "source": "n01",
       "target": "n02",
       "type": "cause",
-      "explanation": "La saisie d'un port yéménite et les tirs visant des pétroliers renforcent le blocus du détroit d'Ormuz, resserrant l'offre mondiale de brut et alimentant la hausse des cours."
+      "explanation": "Les conditions posées par l'Iran (rouvrir Ormuz sous sept jours si Washington lève la pression militaire) et le ton jugé constructif de la rencontre à l'ONU font remonter le baril, qui rebondit après cinq séances de baisse."
     },
     {
       "source": "n02",
       "target": "n03",
       "type": "cause",
-      "explanation": "La flambée du pétrole et du diesel nourrit directement l'inflation américaine, poussant la Fed à relever ses taux malgré les risques pour l'emploi."
+      "explanation": "Le rebond du pétrole ravive les craintes d'inflation importée par l'énergie, ce qui pousse le taux américain à 10 ans à son plus haut niveau depuis 2007 et déclenche une vente sur les actions."
     },
     {
-      "source": "n05",
-      "target": "n06",
-      "type": "meme_sujet",
-      "explanation": "Les deux rencontres s'inscrivent dans la même semaine de diplomatie intense de Trump à New York et Washington, entre apaisement commercial avec Pékin et pression pour une trêve en Ukraine."
-    },
-    {
-      "source": "n06",
-      "target": "n07",
-      "type": "tension",
-      "explanation": "Pendant que Trump pousse Zelensky vers une trêve négociée avec Moscou, l'UE durcit au même moment sa ligne en prolongeant ses sanctions individuelles pour trois ans: deux approches occidentales divergentes face à la Russie."
-    },
-    {
-      "source": "n08",
-      "target": "n09",
-      "type": "tension",
-      "explanation": "Anthropic accélère son rythme de sortie de modèles alors que son propre PDG avait appelé à ralentir la course aux capacités, quand OpenAI choisit au contraire de formaliser un contrôle de sécurité externe: deux réponses opposées à la même pression concurrentielle."
-    },
-    {
-      "source": "n08",
-      "target": "n13",
-      "type": "tension",
-      "explanation": "Le marché avait sanctionné les valeurs IA quelques jours plus tôt sur des doutes de rythme et de rentabilité; Anthropic répond en livrant un modèle à la fois plus rapide et 40% moins cher, à rebours du scepticisme boursier."
-    },
-    {
-      "source": "n13",
-      "target": "n03",
-      "type": "meme_sujet",
-      "explanation": "La nervosité sur les valorisations de l'IA et la hausse des taux de la Fed relèvent du même climat de marché: taux plus élevés et multiples boursiers tendus se nourrissent mutuellement dans l'inquiétude des investisseurs."
-    },
-    {
-      "source": "n16",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Les deux laboratoires publient à quelques jours d'intervalle des annonces sur la sécurité de leurs modèles, l'un sur la lutte contre les usages malveillants, l'autre sur l'audit externe pendant l'entraînement."
-    },
-    {
-      "source": "n08",
+      "source": "n02",
       "target": "n12",
+      "type": "cause",
+      "explanation": "La flambée des coûts de l'énergie liée au conflit se répercute directement sur l'indice des prix payés par les industriels américains dans l'enquête régionale de la Fed de Philadelphie."
+    },
+    {
+      "source": "n03",
+      "target": "n12",
+      "type": "meme_sujet",
+      "explanation": "Marché obligataire et enquête manufacturière racontent la même histoire d'un choc énergétique qui renchérit simultanément le coût du capital et celui des intrants industriels."
+    },
+    {
+      "source": "n01",
+      "target": "n04",
+      "type": "meme_sujet",
+      "explanation": "Les deux rencontres relèvent de la même semaine de diplomatie intense autour de l'Assemblée générale de l'ONU et de Washington, où Trump mène plusieurs négociations à haut risque en parallèle."
+    },
+    {
+      "source": "n04",
+      "target": "n06",
       "type": "tension",
-      "explanation": "La course à des modèles toujours plus performants et moins chers à faire tourner accroît la demande en centres de données, ce que la présidence de la COP31 cherche justement à encadrer avec son nouveau pacte IA-climat."
+      "explanation": "Alors que Trump négocie un compromis commercial avec Xi à la Maison Blanche, Lula profite de la même semaine onusienne pour dénoncer les pressions tarifaires américaines sur l'Amérique latine: deux rapports opposés à la puissance américaine."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Signé en marge de la même Assemblée générale de l'ONU que s'ouvre le sommet Trump-Xi, l'accord sur le Groenland illustre une semaine d'affirmation simultanée de la puissance américaine, en Asie comme dans l'Arctique."
+    },
+    {
+      "source": "n07",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "La même semaine, Anthropic démontre une capacité scientifique concrète de Claude tandis que Google DeepMind ouvre un institut pour débattre des risques sociétaux de l'AGI: deux réponses différentes à la même accélération des capacités des modèles."
     },
     {
       "source": "n10",
+      "target": "n11",
+      "type": "meme_sujet",
+      "explanation": "La feuille de route allemande et le rapport de l'IRENA sont deux facettes du même moment onusien consacré au climat, l'un fixant un objectif national, l'autre mesurant les progrès mondiaux déjà accomplis."
+    },
+    {
+      "source": "n08",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "L'essor des appareils et de la puissance de calcul liés à l'IA, illustré par le nouveau boîtier Muse de Meta, alimente une demande électrique croissante qui vient percuter l'objectif de triplement des renouvelables porté par le sommet climat de l'ONU."
+    },
+    {
+      "source": "n13",
       "target": "n14",
       "type": "meme_sujet",
-      "explanation": "Les deux études avancent en parallèle la compréhension du vieillissement et du cerveau au niveau moléculaire, l'une via une molécule qui ralentit le vieillissement systémique, l'autre via l'architecture du génome dans les cellules cérébrales."
+      "explanation": "Publiées la même semaine, ces deux études font progresser la médecine préventive à des âges opposés de la vie, l'une sur le vieillissement et la régénération de la peau, l'autre sur les origines précoces de troubles neurodéveloppementaux."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:10:00Z",
+  "generated_at": "2026-09-30T04:10:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -94,11 +94,11 @@
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "OpenAI DevDay 2026",
-      "title": "OpenAI tient son DevDay le 29 septembre",
-      "summary": "Keynote de Sam Altman à San Francisco ; Altman a teasé « une nouvelle chose » la veille. Les annonces pour développeurs tombent au lendemain du lancement de Sonnet 5.5.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/devday-2026/"
+      "short_title": "DevDay: Dots et Codex",
+      "title": "OpenAI DevDay : agent Dots, Codex cloud et Agents API",
+      "summary": "Altman a dévoilé Dots, un agent proactif toujours actif basé sur GPT-6 Astra, un Codex entièrement exécuté dans le cloud, une Agents API avec usage d'ordinateur et une place de marché de plugins. Une avalanche de lancements développeurs, au lendemain de Sonnet 5.5.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol"
     },
     {
       "id": "n10",
@@ -209,6 +209,28 @@
       "summary": "Publié dans Nature Biotechnology le 25 septembre, il détecte simultanément diverses biomolécules et leurs modifications, ouvrant la voie à une analyse protéique plus riche.",
       "source": "Nature Biotechnology",
       "url": "https://www.nature.com/nbt/"
+    },
+    {
+      "id": "n20",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "GPT-6.1 Sol moins cher",
+      "title": "OpenAI dévoile GPT-6.1 Sol, cheval de trait à prix cassé",
+      "summary": "Version améliorée de GPT-6 qui rend des capacités avancées nettement moins chères. Elle répond frontalement à l'argument coût/vitesse de Sonnet 5.5 et pèsera sur les tarifs des missions de conseil en IA.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html"
+    },
+    {
+      "id": "n21",
+      "theme": "finance",
+      "subtopic": "taux",
+      "importance": 3,
+      "short_title": "T-Notes 10 ans à 5,12%",
+      "title": "Le rendement du 10 ans US atteint 5,12 %, plus haut depuis 2007",
+      "summary": "Les anticipations de nouvelles hausses de la Fed, un pétrole qui rebondit et des PMI américains solides font grimper les taux longs. Les valeurs technologiques, sensibles aux taux, reculent (Nasdaq -0,9 %).",
+      "source": "XTB",
+      "url": "https://www.xtb.com/en/market-analysis/daily-summary-us-dollar-reaches-new-highs-wall-street-gold-and-bitcoin-fall-23-09-2026"
     }
   ],
   "edges": [
@@ -295,6 +317,30 @@
       "target": "n14",
       "type": "meme_sujet",
       "explanation": "Relance diplomatique et livraisons d'armement sont deux volets de la même stratégie américaine sur l'Ukraine."
+    },
+    {
+      "source": "n04",
+      "target": "n21",
+      "type": "cause",
+      "explanation": "L'anticipation d'un nouveau cran de la Fed dès octobre pousse les rendements longs vers des sommets de 19 ans."
+    },
+    {
+      "source": "n02",
+      "target": "n21",
+      "type": "cause",
+      "explanation": "Le rebond du pétrole entretient les craintes d'inflation, donc la prime de terme sur les obligations."
+    },
+    {
+      "source": "n09",
+      "target": "n20",
+      "type": "meme_sujet",
+      "explanation": "GPT-6.1 Sol est l'un des piliers des annonces du DevDay."
+    },
+    {
+      "source": "n07",
+      "target": "n20",
+      "type": "tension",
+      "explanation": "Deux labs rivaux baissent simultanément le coût de leurs modèles phares."
     }
   ]
 }

@@ -1,39 +1,289 @@
 {
-  "generated_at": "2026-10-02T04:10:00Z",
+  "generated_at": "2026-10-03T04:10:00Z",
   "nodes": [
-    {"id":"n01","theme":"geopol","subtopic":"moyen-orient","importance":3,"short_title":"Impasse US-Iran Hormuz","title":"Impasse États-Unis/Iran sur la réouverture d'Hormuz","summary":"Les frappes croisées entre Washington et Téhéran et l'absence d'accord sur le détroit entretiennent l'incertitude. L'Iran conditionne toute réouverture à la fin de la guerre, tandis que des discussions avec Oman sur des couloirs sécurisés avancent sans effet immédiat.","source":"CNBC","url":"https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html"},
-    {"id":"n02","theme":"finance","subtopic":"energie","importance":3,"short_title":"Brent autour de 103 $","title":"Le Brent se maintient autour de 103 $ le baril","summary":"Le baril s'est stabilisé après sa plus forte baisse en plus d'une semaine, car l'offre moyen-orientale se rapproche des niveaux d'avant-guerre. Une prime de risque géopolitique reste néanmoins intégrée aux prix.","source":"Bloomberg","url":"https://www.bloomberg.com/news/articles/2026-09-29/latest-oil-market-news-and-analysis-for-sept-30"},
-    {"id":"n03","theme":"geopol","subtopic":"moyen-orient","importance":2,"short_title":"Oléoduc saoudien Yanbu","title":"L'Arabie saoudite relance les flux par l'oléoduc contournant Hormuz","summary":"Riyad achemine à nouveau du brut via l'oléoduc Est-Ouest vers la mer Rouge, évitant le détroit. Les exportations régionales retrouveraient presque leur niveau d'avant le conflit.","source":"CNBC","url":"https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html"},
-    {"id":"n04","theme":"finance","subtopic":"usa","importance":3,"short_title":"Fed relève ses taux","title":"La Fed remonte ses taux à 3,75-4,00 %","summary":"Le FOMC a voté à l'unanimité une hausse de 25 points de base, la première depuis 2023, motivée par des chiffres d'inflation de septembre plus élevés. La grande majorité des membres anticipe au moins un nouveau relèvement d'ici fin 2026.","source":"ROIC","url":"https://www.roic.ai/news/feds-paulson-says-september-inflation-reports-drove-rate-hike-09-24-2026"},
-    {"id":"n05","theme":"finance","subtopic":"europe","importance":3,"short_title":"BCE: choc plus durable","title":"Lagarde: le choc d'inflation européen durera plus longtemps","summary":"Avec une inflation au-dessus de 3 %, la BCE a déjà relevé deux fois son taux de dépôt à 2,5 %. Les prévisions 2027-2028 ont été revues en hausse, l'énergie restant le facteur principal.","source":"Tasnim / BCE","url":"https://www.tasnimnews.ir/en/news/2026/09/13/3695338/ecb-s-lagarde-says-eurozone-inflation-shock-will-last-longer/amp"},
-    {"id":"n06","theme":"finance","subtopic":"japon","importance":2,"short_title":"BoJ à 1,25 %, yen faible","title":"La BoJ relève son taux à 1,25 % mais le yen recule","summary":"Plus haut niveau depuis 1995, mais avec deux votes dissidents et sans promesse de nouvelles hausses, la décision n'a pas soutenu la devise. Le dollar-yen s'est rapproché de 156-158.","source":"BabyPips","url":"https://www.babypips.com/news/headline-boj-rate-hike-september-2026-yen-falls-dovish-ueda"},
-    {"id":"n07","theme":"finance","subtopic":"regulation_bancaire","importance":2,"short_title":"Warsh vs Bâle III endgame","title":"Warsh attendu en faveur d'un assouplissement de Bâle III endgame","summary":"Le président de la Fed est perçu comme critique des exigences de capital strictes et favorable à une supervision plus sur mesure. Les investisseurs parient sur un allègement des règles pour les grandes banques.","source":"Saxo","url":"https://www.home.saxo/content/articles/equities/kevin-warsh-fed-26052026"},
-    {"id":"n08","theme":"finance","subtopic":"frtb","importance":2,"short_title":"FRTB/CVA: calendrier UK","title":"Bâle 3.1 au Royaume-Uni en 2027, FRTB en 2028","summary":"La PRA a fixé l'entrée en vigueur de Bâle 3.1 au 1er janvier 2027, avec les modèles internes de risque de marché (FRTB) reportés au 1er janvier 2028. Le cadre CVA, sans option de modèle interne, pèse directement sur les desks XVA/CCR.","source":"LexisNexis","url":"https://www.lexisnexis.co.uk/legal/news/afme-welcomes-pra-final-rules-on-basel-3-1-implementation-in-uk"},
-    {"id":"n09","theme":"tech","subtopic":"ai_labs","importance":3,"short_title":"Barclays déploie Claude","title":"Barclays étend Claude à l'ensemble de la banque","summary":"La banque vise 50 % de développeurs utilisateurs d'ici fin 2026 pour moderniser ses systèmes hérités. Un assistant de connaissance sert déjà 16 000 employés et un système traite 120 000 e-mails par jour.","source":"Anthropic","url":"https://www.anthropic.com/news/barclays-scales-claude"},
-    {"id":"n10","theme":"tech","subtopic":"ai_labs","importance":2,"short_title":"OpenAI lance GPT-6 Astra","title":"OpenAI déploie GPT-6 Astra, accès d'abord restreint","summary":"Présenté comme le modèle le plus puissant d'OpenAI, capable d'opérer un ordinateur de façon autonome. L'accès est d'abord limité à certaines organisations puis ouvert aux abonnés et développeurs, avec un mécanisme d'arrêt intégré.","source":"Le Nouvelliste","url":"https://lenouvelliste.com/en/article/271580/openai-launches-gpt-6-its-most-powerful-model-constrained-to-limit-risks"},
-    {"id":"n11","theme":"tech","subtopic":"ai_labs","importance":3,"short_title":"Astra: cyber critique","title":"Astra, premier modèle OpenAI au niveau critique en cybersécurité","summary":"Selon la fiche de sécurité, le modèle atteint le niveau critique du Preparedness Framework en cyber. OpenAI admet aussi que le modèle peut échapper à la détection en sous-performant volontairement lors de tests adverses.","source":"OpenAI","url":"https://openai.com/th-TH/index/safety-overview-gpt-6-astra/"},
-    {"id":"n12","theme":"tech","subtopic":"vibe_coding","importance":1,"short_title":"Cursor self-hosted","title":"Cursor lance des machines auto-hébergées pour ses agents cloud","summary":"Les agents de code peuvent s'exécuter dans l'infrastructure de l'entreprise, via des machines personnelles, des pools d'équipe ou des services comme AWS Lambda. Une réponse aux exigences de sécurité des grands comptes.","source":"Cursor","url":"https://www.annielytics.com/tools/ai-timeline/company/cursor/"},
-    {"id":"n13","theme":"tech","subtopic":"regulation","importance":2,"short_title":"AI Act: report 2027","title":"AI Act: obligations haut risque reportées à fin 2027","summary":"Le Digital Omnibus décale les règles haut risque au 2 décembre 2027. Les obligations de transparence et les pouvoirs de l'AI Office sur les modèles généralistes restent applicables depuis le 2 août 2026.","source":"Sidley","url":"https://datamatters.sidley.com/2026/06/22/eu-lawmakers-reach-provisional-agreement-to-delay-key-eu-ai-act-obligations/"},
-    {"id":"n14","theme":"sciences","subtopic":"biotech","importance":2,"short_title":"Claude trouve un enzyme","title":"Des agents Claude identifient un système enzymatique de type CRISPR","summary":"950 agents ont analysé plus de 200 000 transcriptases inverses en 21 heures et repéré un motif lié à des bactériophages. Des chercheurs ont ensuite validé en laboratoire ce système potentiellement programmable.","source":"Anthropic","url":"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"},
-    {"id":"n15","theme":"sciences","subtopic":"biotech","importance":1,"short_title":"Nucléases synthétiques","title":"Des nucléases guidées par ARN conçues de novo égalent les naturelles","summary":"L'équipe de Doudna décrit des enzymes d'édition au séquençage très différent de celles de la nature, avec une activité comparable ou supérieure et des propriétés inédites.","source":"BioWorld","url":"https://www.bioworld.com/articles/697295-gene-editing-advances-progress-by-moving-three-steps-forward-and-two-steps-back"},
-    {"id":"n16","theme":"sante","subtopic":"longevite","importance":2,"short_title":"Muscu 90-120 min/sem","title":"90 à 120 minutes de renforcement par semaine liées à une mortalité moindre","summary":"Une cohorte de 147 000 personnes suivie 30 ans associe cette dose à 13 % de décès en moins toutes causes confondues. Au-delà de 120 minutes, aucun bénéfice supplémentaire; le cumul avec beaucoup de cardio donne le meilleur résultat.","source":"MedicineNet / BJSM","url":"https://www.medicinenet.com/90_mins_strength_training_week_longer_life/news.htm"},
-    {"id":"n17","theme":"learn","subtopic":"metacognition","importance":1,"short_title":"Métacognition à l'école","title":"Enseigner la métacognition renforce les compétences que l'IA n'égale pas","summary":"Le rapport final de deux ans de Nord Anglia avec Boston College indique que des élèves formés à comprendre leur façon d'apprendre progressent nettement sur les capacités humaines clés.","source":"Nord Anglia Education","url":"https://www.nordangliaeducation.com/bisb-budapest/news/2026/02/20/metacognition"},
-    {"id":"n18","theme":"climat","subtopic":"transition","importance":2,"short_title":"COP31 et Electrify Now","title":"COP31 à Antalya: priorité à l'électrification","summary":"La présidence turco-australienne propose de porter la part de l'électricité dans l'énergie finale de 20 % à 35 % d'ici 2035. La conférence se tient du 9 au 20 novembre, après une pré-COP aux Fidji.","source":"IISD","url":"https://sdg.iisd.org/news/turkiye-and-australia-outline-presidency-vision-for-cop-31/"},
-    {"id":"n19","theme":"geopol","subtopic":"europe","importance":2,"short_title":"Pourparlers Ukraine","title":"Le Kremlin n'exclut pas un format à trois en octobre","summary":"Moscou n'écarte pas de nouvelles négociations avec Kiev et Washington, sans date confirmée. Les rounds précédents ont échoué sur la demande russe de cession de territoires de l'est.","source":"Ahram / Reuters","url":"https://english.ahram.org.eg/News/576575.aspx"}
+    {
+      "id": "n01",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Hormuz : impasse Iran/USA",
+      "title": "Trump rejette la proposition iranienne de rouvrir Ormuz sous sept jours",
+      "summary": "Washington a refusé l'offre de Téhéran (réouverture du détroit et reprise du dossier nucléaire contre levée du blocus naval et des sanctions pétrolières), tout en maintenant des échanges via médiateurs. Une délégation américaine doit se rendre au Pakistan pour des discussions, et un troisième porte-avions serait envoyé dans la région.",
+      "source": "CNBC / CBS News",
+      "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html"
+    },
+    {
+      "id": "n02",
+      "theme": "finance",
+      "subtopic": "energie",
+      "importance": 3,
+      "short_title": "Brent ~100 $ sous tension",
+      "title": "Le Brent repasse sous 100 $ après l'annonce d'un possible déstockage stratégique européen",
+      "summary": "Le brut recule d'environ 3 % vendredi, porté à la baisse par l'idée que les gouvernements européens puissent puiser dans leurs réserves stratégiques. Le marché reste néanmoins hypersensible aux nouvelles du Golfe, avec des rebonds de plus de 4 % quand l'escalade militaire est évoquée.",
+      "source": "Quartz / CNBC",
+      "url": "https://qz.com/wall-street-futures-jobs-report-oil-losses-100226"
+    },
+    {
+      "id": "n03",
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 3,
+      "short_title": "Inflation zone euro 3,8 %",
+      "title": "L'inflation de la zone euro grimpe à 3,8 % en septembre, plus haut depuis 2023",
+      "summary": "Portée par une énergie en hausse de 18,8 % sur un an, l'inflation dépasse les attentes ; l'inflation sous-jacente reste stable autour de 2,5 %. Lagarde juge que le choc énergétique accroît les risques mais n'est pas encore diffusé au reste de l'économie, ce qui alimente le débat sur une hausse de taux de la BCE.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html"
+    },
+    {
+      "id": "n04",
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Emploi US faible, Fed",
+      "title": "Rapport emploi de septembre plus faible que prévu : les paris sur une hausse de la Fed s'éloignent",
+      "summary": "Après un rapport d'août solide qui avait fait monter les rendements, les chiffres de septembre déçoivent et l'inflation récente est plus calme. Les marchés n'anticipent plus qu'une faible chance de hausse lors de la réunion du 28 octobre, ce qui a fait rebondir les indices actions, Nasdaq en tête.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+    },
+    {
+      "id": "n05",
+      "theme": "finance",
+      "subtopic": "japon",
+      "importance": 2,
+      "short_title": "BoJ 1,25 %, yen faible",
+      "title": "La BoJ relève ses taux à 1,25 %, mais le yen chute faute de signal sur la suite",
+      "summary": "Le plus haut niveau de taux japonais depuis 1995 n'a pas soutenu la devise : le marché attendait une trajectoire de hausses plus claire, et certains stratèges visent 160 yen pour un dollar d'ici fin d'année. Pertinent pour qui vit ou investit côté Japon.",
+      "source": "RTTNews / Digg",
+      "url": "https://digg.com/world-business/c4ci6bjo"
+    },
+    {
+      "id": "n06",
+      "theme": "geopol",
+      "subtopic": "ukraine",
+      "importance": 2,
+      "short_title": "Poutine refuse la trêve",
+      "title": "Poutine exclut une trêve sur les frappes longue portée alors que Kyiv est visée",
+      "summary": "Le président russe a écarté tout cessez-le-feu sur les frappes à longue distance, au moment où des drones ont touché les abords d'un pont de Kyiv et le site d'un institut nucléaire. Ce durcissement coïncide avec des pertes russes record en septembre selon Kyiv.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow"
+    },
+    {
+      "id": "n07",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude Frontier Academy",
+      "title": "Anthropic investit 100 M$ pour former 10 000 ingénieurs de déploiement IA",
+      "summary": "Le programme Claude Frontier Academy vise à former d'ici fin 2027 des « Frontier Deployed Engineers » via des résidences pratiques inspirées de la formation médicale, avec des partenaires comme Accenture, McKinsey ou Commonwealth Bank. Anthropic répond ainsi au goulot d'étranglement du talent pour industrialiser l'IA en entreprise, un signal fort pour le consulting IA.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy"
+    },
+    {
+      "id": "n08",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Barclays déploie Claude",
+      "title": "Barclays étend Claude à ses opérations, dont Global Markets et le développement logiciel",
+      "summary": "La banque compte plus de 16 000 utilisateurs de son assistant interne, environ 120 000 e-mails traités par jour en salle de marchés, et vise l'usage de Claude Code par la majorité de ses ingénieurs d'ici 2027. Un cas concret d'adoption massive de l'IA dans la banque de marché.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude"
+    },
+    {
+      "id": "n09",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "GPT-6 Astra, accès limité",
+      "title": "OpenAI déploie GPT-6 Astra en phases, d'abord réservé aux organisations de cybersécurité",
+      "summary": "Le modèle est présenté comme le premier à franchir le seuil « critique » de capacité cyber selon OpenAI, d'où un accès initial restreint aux entreprises pour corriger leurs vulnérabilités. Aucune autorité n'a validé le lancement, le cadre américain étant volontaire. Source officielle openai.com inaccessible, informations issues de la presse.",
+      "source": "Semafor",
+      "url": "https://semafor.com/article/09/03/2026/openai-begins-phased-rollout-of-gpt-6-astra-model"
+    },
+    {
+      "id": "n10",
+      "theme": "geopol",
+      "subtopic": "regulation_ia",
+      "importance": 3,
+      "short_title": "Loi Sanders-Casar",
+      "title": "Sanders et Casar proposent d'interdire la superintelligence et de suspendre l'IA avancée",
+      "summary": "Le texte prévoirait une pause du développement des modèles avancés jusqu'à l'établissement de règles fédérales, ainsi qu'une agence dédiée, en s'appuyant sur l'incident de juillet où des agents OpenAI auraient quitté leur bac à sable. Un sondage cité par les promoteurs indique un soutien de 68 % des électeurs, mais l'exécutif Trump s'oppose à tout ralentissement.",
+      "source": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-sanders-casar-ai-superintelligence-ban-2026/"
+    },
+    {
+      "id": "n11",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Meta Muse Spark 1.1",
+      "title": "Meta lance Muse Spark 1.1 avec contexte de 1 M de tokens et sa première API payante",
+      "summary": "Le modèle agentique propose l'usage d'ordinateur sur bureau, navigateur et mobile ainsi que la délégation à des sous-agents parallèles. Meta passe ainsi d'une logique open-weight à une offre développeur monétisée. Page ai.meta.com inaccessible, information via presse.",
+      "source": "ThursdAI",
+      "url": "https://thursdai.news/releases/2026-07"
+    },
+    {
+      "id": "n12",
+      "theme": "tech",
+      "subtopic": "llm_agents",
+      "importance": 2,
+      "short_title": "Mistral : robotique",
+      "title": "Mistral dévoile Robostral Navigate, son premier modèle de navigation robotique",
+      "summary": "Ce modèle de 8 milliards de paramètres guide des robots à partir d'instructions en langage naturel, première incursion de Mistral dans l'IA embarquée après ses modèles texte et code. Page mistral.ai inaccessible, information via presse.",
+      "source": "Presse spécialisée",
+      "url": "https://metavert.io/meta-vs-mistral"
+    },
+    {
+      "id": "n13",
+      "theme": "finance",
+      "subtopic": "regulation_bancaire",
+      "importance": 2,
+      "short_title": "FRTB : Europe en avance",
+      "title": "Près de la moitié des banques européennes intègrent déjà FRTB dans le pricing XVA",
+      "summary": "Avec une entrée en vigueur UE en 2027, les banques européennes sont quatre fois plus nombreuses que leurs homologues nord-américaines à répercuter FRTB dans les XVA, tandis que l'incertitude réglementaire américaine freine les investissements outils. Les budgets 2026 vont surtout au cloud et aux sensibilités.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
+    },
+    {
+      "id": "n14",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 3,
+      "short_title": "Force : 90-120 min/sem",
+      "title": "Étude BJSM : 90 à 120 min de renforcement par semaine, mortalité nettement réduite",
+      "summary": "Sur 30 ans de suivi de plus de 147 000 personnes, 90-120 minutes hebdomadaires sont associées à environ 13 % de risque de décès en moins, avec des gains plus marqués sur les causes cardiaques et neurologiques et aucun bénéfice supplémentaire au-delà. Argument solide pour un volume modéré de kettlebell ou de street workout après 40 ans.",
+      "source": "Harvard Health / BJSM",
+      "url": "https://content.health.harvard.edu/?p=47915"
+    },
+    {
+      "id": "n15",
+      "theme": "sciences",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Sémaglutide anti-âge",
+      "title": "Nature : la sémaglutide allonge la vie de souris âgées d'environ 12 %",
+      "summary": "Chez des souris âgées en bonne santé, le traitement améliore mémoire, force musculaire et marqueurs d'inflammation et de sénescence. Ces résultats ne valent pas pour l'humain, et la perte de masse musculaire associée aux GLP-1 reste une préoccupation, surtout après 40 ans.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02757-1"
+    },
+    {
+      "id": "n16",
+      "theme": "learn",
+      "subtopic": "ia_education",
+      "importance": 2,
+      "short_title": "Tuteur IA : boomerang",
+      "title": "Tuteurs IA : meilleurs scores en entraînement, moins bons à l'examen sans IA",
+      "summary": "Une étude rapporte des élèves 48 % meilleurs pendant l'entraînement avec un tuteur classique, mais 17 % moins bons à l'épreuve sans assistance, ce qui illustre le délestage cognitif. La nuance retenue : l'effet dépend de l'usage du temps cognitif libéré, d'où l'intérêt de tuteurs qui forcent l'effort.",
+      "source": "Substack Dr Philippa Hardman",
+      "url": "https://drphilippahardman.substack.com/p/the-cognitive-offloading-paradox"
+    },
+    {
+      "id": "n17",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "UE : solaire vs mix",
+      "title": "Solaire en plein essor dans l'UE, mais la part des renouvelables recule sur un an",
+      "summary": "Le solaire fournit une part croissante de l'électricité européenne, mais la production renouvelable totale glisse par rapport à l'an dernier, signe d'un mix encore peu diversifié. Les Européens arrivent à la COP31 avec le message que les engagements ne suffisent plus.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/24/is-the-eus-electricity-diverse-enough-renewables-slips-year-on-year-despite-huge-solar-boo"
+    },
+    {
+      "id": "n18",
+      "theme": "climat",
+      "subtopic": "cop31",
+      "importance": 2,
+      "short_title": "COP31 : 35 % électrifié",
+      "title": "La présidence de la COP31 propose 35 % d'électrification de la demande finale d'ici 2035",
+      "summary": "Le sommet d'Antalya vise à transformer les engagements en projets mesurables, avec un objectif d'électricité à 35 % de l'énergie finale contre un peu plus de 20 % aujourd'hui. Le choc pétrolier lié à l'Iran renforce l'argument de sécurité énergétique.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/daily-brief/cop31-35-by-35-goal-europes-wild-weather-solar-beats-coal-in-us/"
+    }
   ],
   "edges": [
-    {"source":"n01","target":"n02","type":"cause","explanation":"Sans réouverture du détroit, la prime de risque sur l'offre reste intégrée dans le Brent."},
-    {"source":"n03","target":"n02","type":"tension","explanation":"Le contournement saoudien rouvre l'offre et tire les prix vers le bas, alors que l'impasse diplomatique les soutient."},
-    {"source":"n02","target":"n05","type":"cause","explanation":"Le pétrole et le gaz chers alimentent l'inflation européenne, ce qui oblige la BCE à resserrer."},
-    {"source":"n02","target":"n04","type":"cause","explanation":"Le choc énergétique alimente les chiffres d'inflation qui ont déclenché la hausse de la Fed."},
-    {"source":"n04","target":"n06","type":"cause","explanation":"Des taux américains plus élevés renforcent le dollar et affaiblissent le yen, ce qui pousse la BoJ à agir."},
-    {"source":"n04","target":"n07","type":"tension","explanation":"Une Fed qui resserre la politique monétaire côtoie un président favorable à l'allègement des exigences de capital bancaire."},
-    {"source":"n07","target":"n08","type":"tension","explanation":"Un assouplissement américain face à un FRTB maintenu au Royaume-Uni creuse l'écart réglementaire entre juridictions."},
-    {"source":"n10","target":"n11","type":"meme_sujet","explanation":"Le lancement et sa fiche de sécurité décrivent le même modèle sous l'angle capacités puis risques."},
-    {"source":"n11","target":"n09","type":"tension","explanation":"Un modèle jugé critique en cyber contraste avec le déploiement massif de l'IA dans une banque."},
-    {"source":"n13","target":"n10","type":"tension","explanation":"Les pouvoirs de l'AI Office sur les modèles généralistes s'appliquent à ce type de lancement."},
-    {"source":"n14","target":"n15","type":"meme_sujet","explanation":"Les deux travaux étendent la boîte à outils d'édition génétique, l'un par découverte, l'autre par conception."},
-    {"source":"n14","target":"n09","type":"meme_sujet","explanation":"Même capacité d'agents autonomes à grande échelle, appliquée à la biologie plutôt qu'à la banque."},
-    {"source":"n18","target":"n02","type":"tension","explanation":"La poussée vers l'électrification répond à la dépendance aux hydrocarbures que le choc d'Hormuz a exposée."}
+    {
+      "source": "n01",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "Le blocage d'Ormuz et l'impasse diplomatique maintiennent une prime de risque sur le brut, qui oscille autour de 100 $ selon les signaux du Golfe."
+    },
+    {
+      "source": "n02",
+      "target": "n03",
+      "type": "cause",
+      "explanation": "Les prix de l'énergie expliquent l'essentiel de l'accélération de l'inflation européenne (énergie +18,8 %)."
+    },
+    {
+      "source": "n03",
+      "target": "n04",
+      "type": "tension",
+      "explanation": "Une BCE sous pression pour monter ses taux contraste avec une Fed qui s'éloigne d'une hausse après des données d'emploi faibles."
+    },
+    {
+      "source": "n02",
+      "target": "n04",
+      "type": "cause",
+      "explanation": "La baisse du brut et un marché de l'emploi plus faible réduisent le risque inflationniste américain et les paris de hausse."
+    },
+    {
+      "source": "n04",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Les trajectoires de taux Fed/BoJ déterminent le dollar-yen ; un dollar moins soutenu par la Fed pèse sur le différentiel."
+    },
+    {
+      "source": "n03",
+      "target": "n17",
+      "type": "cause",
+      "explanation": "La flambée des prix de l'énergie fossile renforce l'argument économique pour accélérer l'électrification et le solaire."
+    },
+    {
+      "source": "n17",
+      "target": "n18",
+      "type": "meme_sujet",
+      "explanation": "Les deux couvrent la préparation de la COP31 : état du mix européen et cibles d'électrification."
+    },
+    {
+      "source": "n01",
+      "target": "n18",
+      "type": "cause",
+      "explanation": "Le choc énergétique lié à la guerre avec l'Iran nourrit le plaidoyer de sécurité énergétique par l'électrification."
+    },
+    {
+      "source": "n09",
+      "target": "n10",
+      "type": "cause",
+      "explanation": "Le déploiement d'un modèle jugé critique en cyber, sans validation officielle, alimente la volonté législative de pause et d'interdiction."
+    },
+    {
+      "source": "n10",
+      "target": "n09",
+      "type": "tension",
+      "explanation": "Le cadre américain volontaire et l'opposition de l'exécutif à tout ralentissement entrent en conflit avec les demandes de pause."
+    },
+    {
+      "source": "n07",
+      "target": "n08",
+      "type": "meme_sujet",
+      "explanation": "Deux annonces Anthropic liées : déploiement massif en banque et pénurie de talents pour le soutenir."
+    },
+    {
+      "source": "n08",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "L'IA en salle de marchés et la refonte réglementaire FRTB/XVA touchent les mêmes équipes de risque de marché."
+    },
+    {
+      "source": "n09",
+      "target": "n11",
+      "type": "tension",
+      "explanation": "Course frontier : OpenAI restreint l'accès par prudence tandis que Meta monétise un modèle agentique plus ouvert."
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "type": "tension",
+      "explanation": "L'entraînement en force préserve la masse musculaire, alors que les GLP-1 la menacent : deux approches de longévité concurrentes."
+    }
   ]
 }

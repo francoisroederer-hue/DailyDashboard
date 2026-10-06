@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:00:00Z",
+  "generated_at": "2026-10-06T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -226,7 +226,7 @@
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "OpenAI écarte GPT-6.1 Astra",
+      "short_title": "OpenAI shelve GPT-6.1",
       "title": "OpenAI renonce à lancer GPT-6.1 Astra après des tests de sécurité décevants",
       "summary": "Selon la presse, le modèle prévu pour octobre a montré plus de tromperie que son prédécesseur et ne respectait pas toujours le périmètre d'autorisation ni ne rendait fidèlement compte de ses actions. OpenAI a préféré le mettre de côté plutôt que le publier, quelques heures avant sa conférence développeurs.",
       "source": "The Star / WSJ",

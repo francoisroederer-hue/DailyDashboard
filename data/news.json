@@ -1,40 +1,288 @@
 {
-  "generated_at": "2026-10-08T04:30:00Z",
-  "nodes": [
-    {"id":"n01","theme":"tech","subtopic":"ai_labs","importance":3,"short_title":"Claude Haiku 5.5","title":"Anthropic lance Claude Haiku 5.5","summary":"Nouveau petit modèle d'Anthropic, présenté comme son plus rapide et son moins cher, pour les tâches à gros volume et comme sous-agent rapide en codage. Tarif d'entrée à 0,10 $ par million de tokens, disponible sur la plateforme Claude, AWS, Google Cloud et Azure.","source":"Anthropic","url":"https://www.anthropic.com/claude-haiku-5-5"},
-    {"id":"n02","theme":"tech","subtopic":"ai_labs","importance":2,"short_title":"Cyber Verification","title":"Anthropic élargit son Cyber Verification Program","summary":"Les professionnels de la sécurité vérifiés obtiennent un accès à des capacités cyber avancées avec des classifieurs de blocage allégés. Un compromis entre usage défensif et risque d'abus.","source":"Anthropic","url":"https://www.anthropic.com/news/cyber-verification-program"},
-    {"id":"n03","theme":"tech","subtopic":"ai_labs","importance":2,"short_title":"Frontier Academy","title":"Anthropic investit 100 M$ pour former 10 000 ingénieurs","summary":"Programme de formation combinant cours en présentiel et résidence de 12 semaines où les participants pilotent un vrai projet Claude chez leur employeur. Des cohortes d'Accenture, Deloitte ou McKinsey sont déjà en cours.","source":"Anthropic","url":"https://www.anthropic.com/news/claude-frontier-academy"},
-    {"id":"n04","theme":"finance","subtopic":"consulting","importance":2,"short_title":"Barclays x Claude","title":"Barclays généralise Claude dans ses opérations","summary":"La banque vise la moitié de ses développeurs sous Claude Code d'ici fin 2026 et déploie déjà un assistant interne pour plus de 16 000 collaborateurs. Global Markets route environ 120 000 emails clients par jour avec l'outil.","source":"Anthropic","url":"https://www.anthropic.com/news/barclays-scales-claude"},
-    {"id":"n05","theme":"tech","subtopic":"ai_labs","importance":1,"short_title":"Claude Sonnet 5.5","title":"Claude Sonnet 5.5 : plus rapide, moins cher","summary":"Mise à jour de Sonnet environ 30 % plus rapide et jusqu'à 30 % moins chère pour la plupart des usages. Elle complète la gamme Opus 5.5 et Haiku 5.5.","source":"Anthropic","url":"https://www.anthropic.com/claude-sonnet-5-5"},
-    {"id":"n06","theme":"tech","subtopic":"ai_labs","importance":2,"short_title":"Gemini 4 imminent","title":"Google prépare la sortie de Gemini 4","summary":"Selon des informations de presse non confirmées officiellement, le nouveau patron de DeepMind veut sortir vite une première version post-entraînée de Gemini 4. Un lancement en octobre est évoqué.","source":"Let's Data Science","url":"https://letsdatascience.com/news/google-deepmind-nears-gemini-4-release-bee31f0a"},
-    {"id":"n07","theme":"geopol","subtopic":"moyen-orient","importance":3,"short_title":"Hormuz sous tension","title":"Détroit d'Ormuz : attaques de navires et négociations bloquées","summary":"Les attaques de navires marchands se multiplient dans le détroit alors que les flux approchaient leurs niveaux d'avant-guerre. Washington exige une réduction de l'enrichissement iranien, ligne rouge pour Téhéran, ce qui fige le dossier diplomatique.","source":"Al Jazeera","url":"https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening"},
-    {"id":"n08","theme":"finance","subtopic":"energie","importance":3,"short_title":"Brent au-dessus de 100 $","title":"Le Brent repasse autour de 100 $ sur les risques maritimes","summary":"Le brut évolue autour de 100-102 $ du fait des attaques sur les pétroliers et de la prime de risque sur la navigation. Les primes d'assurance et le fret maritime augmentent en parallèle.","source":"ShipUniverse","url":"https://www.shipuniverse.com/?p=16307"},
-    {"id":"n09","theme":"geopol","subtopic":"europe","importance":3,"short_title":"Frappes russes massives","title":"Frappes russes sur Kyiv et une douzaine de régions","summary":"Une attaque de missiles et de drones annoncée par le renseignement ukrainien a fait au moins 21 morts. Moscou promet d'intensifier les frappes en représailles aux attaques ukrainiennes sur ses raffineries.","source":"NBC News","url":"https://nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068"},
-    {"id":"n10","theme":"geopol","subtopic":"europe","importance":2,"short_title":"Pourparlers trilatéraux","title":"Washington pousse des pourparlers trilatéraux sur l'Ukraine","summary":"Les États-Unis proposent une réunion technique avec Kyiv et Moscou, possiblement aux Émirats, avant fin octobre. Moscou n'a pas répondu et les attentes de résultats rapides sont faibles.","source":"CNBC","url":"https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html"},
-    {"id":"n11","theme":"finance","subtopic":"usa","importance":3,"short_title":"Emploi US décevant","title":"Emploi US : seulement 29 000 créations en septembre","summary":"Le chômage monte à 4,2 % et les marchés voient peu de chances de hausse de taux de la Fed en octobre. Une hausse reste attendue en décembre.","source":"CNBC","url":"https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"},
-    {"id":"n12","theme":"finance","subtopic":"usa","importance":2,"short_title":"Fed entre deux feux","title":"Fed : inflation persistante contre marché du travail faible","summary":"La banquière centrale Lisa Cook anticipe une pression inflationniste liée au boom de l'IA et au pétrole. Le prochain CPI tombe le 13 octobre et le FOMC le 28.","source":"Yahoo Finance","url":"https://finance.yahoo.com/economy/policy/articles/october-fed-rate-hike-hinges-232828169.html"},
-    {"id":"n13","theme":"finance","subtopic":"frtb","importance":3,"short_title":"FRTB-CVA et XVA","title":"Banques européennes : le FRTB déjà intégré au pricing XVA","summary":"Les banques européennes intègrent bien plus que leurs homologues nord-américaines le FRTB dans leur capital XVA, car le régime UE est attendu en 2027 contre un flou américain. Le nouveau cadre CVA, sans modèle interne, soulève la question d'une hausse des charges en capital.","source":"Risk.net","url":"https://www.risk.net/node/7962533"},
-    {"id":"n14","theme":"finance","subtopic":"japon","importance":2,"short_title":"BoJ et yen","title":"Japon : taux à 1 % et rendements JGB longs au-dessus de 4 %","summary":"La BoJ a relevé ses taux à 1 % en juin, mais la politique budgétaire expansionniste de Takaichi fait grimper les rendements longs. Le yen reste faible face au dollar.","source":"Model Diplomat","url":"https://modeldiplomat.com/story/japans-1-rate-takaichis-fiscal-challenge"},
-    {"id":"n15","theme":"sciences","subtopic":"chimie","importance":2,"short_title":"Nobel de chimie","title":"Nobel de chimie : Kagan et Soai pour l'homochiralité","summary":"Le prix récompense les effets non linéaires et l'autocatalyse en synthèse asymétrique. Ces travaux éclairent pourquoi le vivant n'utilise qu'une seule image miroir des molécules.","source":"CNN","url":"https://www.cnn.com/2026/10/07/science/nobel-prize-chemistry-2026-henri-kagan-kenso-soai-winner-intl"},
-    {"id":"n16","theme":"sciences","subtopic":"physique","importance":2,"short_title":"Nobel de physique","title":"Nobel de physique : Francis Halzen et IceCube","summary":"Récompense pour la détection de neutrinos cosmiques grâce à un observatoire d'un kilomètre cube dans la glace du pôle Sud.","source":"CNN","url":"https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl"},
-    {"id":"n17","theme":"sciences","subtopic":"medecine","importance":1,"short_title":"Nobel de médecine","title":"Nobel de médecine pour l'optogénétique","summary":"Selon une source secondaire, Deisseroth, Hegemann et Nagel sont récompensés pour l'optogénétique. À confirmer sur le site officiel.","source":"NobelPrize.org","url":"https://www.nobelprize.org/prizes/medicine/2026/prize-announcement/"},
-    {"id":"n18","theme":"sciences","subtopic":"ia_science","importance":2,"short_title":"Enzyme CRISPR-like","title":"Claude identifie un système enzymatique de type CRISPR","summary":"Anthropic indique que Claude a aidé à découvrir un système enzymatique inédit avec des répétitions proches du CRISPR. Illustration de l'IA comme outil de découverte en biologie.","source":"Anthropic","url":"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"},
-    {"id":"n19","theme":"sante","subtopic":"longevite","importance":3,"short_title":"Muscu et longévité","title":"Musculation : 90-119 min par semaine liées à moins de mortalité","summary":"Une étude BJSM sur 147 000 adultes suivis jusqu'à 30 ans associe cette dose à 13 % de mortalité en moins, avec de meilleurs effets en combinant cardio. Observationnelle, donc corrélative.","source":"Harvard Health","url":"https://www.health.harvard.edu/exercise-and-fitness/strength-training-over-decades-linked-to-longer-life"},
-    {"id":"n20","theme":"learn","subtopic":"ia_education","importance":2,"short_title":"IA et métacognition","title":"Tuteurs IA : risque de paresse métacognitive","summary":"Un preprint 2026 montre que l'usage de l'IA sans réflexion désengage les élèves, alors que des approches guidant planification et auto-explication protègent l'apprentissage.","source":"arXiv","url":"https://arxiv.org/pdf/2607.20047"},
-    {"id":"n21","theme":"climat","subtopic":"cop31","importance":2,"short_title":"COP31 Antalya","title":"COP31 : la Turquie vise 35 % d'électricité d'ici 2035","summary":"La conférence se tient du 9 au 20 novembre à Antalya, avec une pré-COP prévue à Fiji en octobre. La crise énergétique renforce l'argument d'une électrification accélérée.","source":"IISD","url":"https://sdg.iisd.org/news/turkiye-and-australia-outline-presidency-vision-for-cop-31/"}
-  ],
-  "edges": [
-    {"source":"n07","target":"n08","type":"cause","explanation":"Les attaques sur les navires dans le détroit alimentent la prime de risque et le fret, ce qui tire le prix du Brent vers 100 $."},
-    {"source":"n08","target":"n12","type":"cause","explanation":"Un pétrole cher entretient l'inflation et complique la décision de la Fed, comme le souligne Lisa Cook."},
-    {"source":"n11","target":"n12","type":"tension","explanation":"Un marché du travail qui flanche pousse à la pause, alors que l'inflation persistante plaide pour de nouvelles hausses."},
-    {"source":"n09","target":"n10","type":"tension","explanation":"L'escalade militaire russe contraste avec la tentative diplomatique américaine et en réduit les chances."},
-    {"source":"n08","target":"n21","type":"cause","explanation":"Le choc pétrolier renforce l'argument de sécurité énergétique pour accélérer l'électrification."},
-    {"source":"n08","target":"n14","type":"cause","explanation":"Le pétrole cher alimente l'inflation importée au Japon, et pèse sur le yen et la trajectoire de la BoJ."},
-    {"source":"n01","target":"n05","type":"meme_sujet","explanation":"Haiku 5.5 et Sonnet 5.5 sont deux volets de la même offensive de baisse de coûts de la gamme Claude."},
-    {"source":"n04","target":"n03","type":"meme_sujet","explanation":"Barclays et la Frontier Academy illustrent l'industrialisation de Claude en entreprise et le besoin de profils pour la déployer."},
-    {"source":"n20","target":"n03","type":"tension","explanation":"Former à grande échelle à l'IA s'oppose au risque de déqualification et de paresse métacognitive."},
-    {"source":"n15","target":"n16","type":"meme_sujet","explanation":"Les deux prix Nobel de la semaine récompensent des découvertes fondamentales sur la nature."},
-    {"source":"n15","target":"n18","type":"meme_sujet","explanation":"Les deux illustrent la compréhension de mécanismes moléculaires, l'une par Nobel, l'autre aidée par l'IA."},
-    {"source":"n06","target":"n01","type":"tension","explanation":"La course aux sorties de modèles entre Google et Anthropic pousse chacun à accélérer."}
-  ]
+ "generated_at": "2026-10-09T04:30:00Z",
+ "nodes": [
+  {
+   "id": "n02",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 2,
+   "short_title": "Cyber Verification",
+   "title": "Anthropic élargit son Cyber Verification Program",
+   "summary": "Les professionnels de la sécurité vérifiés obtiennent un accès à des capacités cyber avancées avec des classifieurs de blocage allégés. Un compromis entre usage défensif et risque d'abus.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/cyber-verification-program"
+  },
+  {
+   "id": "n03",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 2,
+   "short_title": "Frontier Academy",
+   "title": "Anthropic investit 100 M$ pour former 10 000 ingénieurs",
+   "summary": "Programme de formation combinant cours en présentiel et résidence de 12 semaines où les participants pilotent un vrai projet Claude chez leur employeur. Des cohortes d'Accenture, Deloitte ou McKinsey sont déjà en cours.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/claude-frontier-academy"
+  },
+  {
+   "id": "n06",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 2,
+   "short_title": "Gemini 4 imminent",
+   "title": "Google prépare la sortie de Gemini 4",
+   "summary": "Selon des informations de presse non confirmées officiellement, le nouveau patron de DeepMind veut sortir vite une première version post-entraînée de Gemini 4. Un lancement en octobre est évoqué.",
+   "source": "Let's Data Science",
+   "url": "https://letsdatascience.com/news/google-deepmind-nears-gemini-4-release-bee31f0a"
+  },
+  {
+   "id": "n07",
+   "theme": "geopol",
+   "subtopic": "moyen-orient",
+   "importance": 3,
+   "short_title": "Hormuz sous tension",
+   "title": "Détroit d'Ormuz : attaques de navires et négociations bloquées",
+   "summary": "Les attaques de navires marchands se multiplient dans le détroit alors que les flux approchaient leurs niveaux d'avant-guerre. Washington exige une réduction de l'enrichissement iranien, ligne rouge pour Téhéran, ce qui fige le dossier diplomatique.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening"
+  },
+  {
+   "id": "n08",
+   "theme": "finance",
+   "subtopic": "energie",
+   "importance": 3,
+   "short_title": "Brent au-dessus de 100 $",
+   "title": "Le Brent repasse autour de 100 $ sur les risques maritimes",
+   "summary": "Le brut évolue autour de 100-102 $ du fait des attaques sur les pétroliers et de la prime de risque sur la navigation. Les primes d'assurance et le fret maritime augmentent en parallèle.",
+   "source": "ShipUniverse",
+   "url": "https://www.shipuniverse.com/?p=16307"
+  },
+  {
+   "id": "n09",
+   "theme": "geopol",
+   "subtopic": "europe",
+   "importance": 3,
+   "short_title": "Frappes russes massives",
+   "title": "Frappes russes sur Kyiv et une douzaine de régions",
+   "summary": "Une attaque de missiles et de drones annoncée par le renseignement ukrainien a fait au moins 21 morts. Moscou promet d'intensifier les frappes en représailles aux attaques ukrainiennes sur ses raffineries.",
+   "source": "NBC News",
+   "url": "https://nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068"
+  },
+  {
+   "id": "n10",
+   "theme": "geopol",
+   "subtopic": "europe",
+   "importance": 2,
+   "short_title": "Pourparlers trilatéraux",
+   "title": "Washington pousse des pourparlers trilatéraux sur l'Ukraine",
+   "summary": "Les États-Unis proposent une réunion technique avec Kyiv et Moscou, possiblement aux Émirats, avant fin octobre. Moscou n'a pas répondu et les attentes de résultats rapides sont faibles.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html"
+  },
+  {
+   "id": "n11",
+   "theme": "finance",
+   "subtopic": "usa",
+   "importance": 3,
+   "short_title": "Emploi US décevant",
+   "title": "Emploi US : seulement 29 000 créations en septembre",
+   "summary": "Le chômage monte à 4,2 % et les marchés voient peu de chances de hausse de taux de la Fed en octobre. Une hausse reste attendue en décembre.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+  },
+  {
+   "id": "n12",
+   "theme": "finance",
+   "subtopic": "usa",
+   "importance": 2,
+   "short_title": "Fed entre deux feux",
+   "title": "Fed : inflation persistante contre marché du travail faible",
+   "summary": "La banquière centrale Lisa Cook anticipe une pression inflationniste liée au boom de l'IA et au pétrole. Le prochain CPI tombe le 13 octobre et le FOMC le 28.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/economy/policy/articles/october-fed-rate-hike-hinges-232828169.html"
+  },
+  {
+   "id": "n13",
+   "theme": "finance",
+   "subtopic": "frtb",
+   "importance": 3,
+   "short_title": "FRTB-CVA et XVA",
+   "title": "Banques européennes : le FRTB déjà intégré au pricing XVA",
+   "summary": "Les banques européennes intègrent bien plus que leurs homologues nord-américaines le FRTB dans leur capital XVA, car le régime UE est attendu en 2027 contre un flou américain. Le nouveau cadre CVA, sans modèle interne, soulève la question d'une hausse des charges en capital.",
+   "source": "Risk.net",
+   "url": "https://www.risk.net/node/7962533"
+  },
+  {
+   "id": "n14",
+   "theme": "finance",
+   "subtopic": "japon",
+   "importance": 2,
+   "short_title": "BoJ et yen",
+   "title": "Japon : taux à 1 % et rendements JGB longs au-dessus de 4 %",
+   "summary": "La BoJ a relevé ses taux à 1 % en juin, mais la politique budgétaire expansionniste de Takaichi fait grimper les rendements longs. Le yen reste faible face au dollar.",
+   "source": "Model Diplomat",
+   "url": "https://modeldiplomat.com/story/japans-1-rate-takaichis-fiscal-challenge"
+  },
+  {
+   "id": "n15",
+   "theme": "sciences",
+   "subtopic": "chimie",
+   "importance": 2,
+   "short_title": "Nobel de chimie",
+   "title": "Nobel de chimie : Kagan et Soai pour l'homochiralité",
+   "summary": "Le prix récompense les effets non linéaires et l'autocatalyse en synthèse asymétrique. Ces travaux éclairent pourquoi le vivant n'utilise qu'une seule image miroir des molécules.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/07/science/nobel-prize-chemistry-2026-henri-kagan-kenso-soai-winner-intl"
+  },
+  {
+   "id": "n16",
+   "theme": "sciences",
+   "subtopic": "physique",
+   "importance": 2,
+   "short_title": "Nobel de physique",
+   "title": "Nobel de physique : Francis Halzen et IceCube",
+   "summary": "Récompense pour la détection de neutrinos cosmiques grâce à un observatoire d'un kilomètre cube dans la glace du pôle Sud.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl"
+  },
+  {
+   "id": "n19",
+   "theme": "sante",
+   "subtopic": "longevite",
+   "importance": 3,
+   "short_title": "Muscu et longévité",
+   "title": "Musculation : 90-119 min par semaine liées à moins de mortalité",
+   "summary": "Une étude BJSM sur 147 000 adultes suivis jusqu'à 30 ans associe cette dose à 13 % de mortalité en moins, avec de meilleurs effets en combinant cardio. Observationnelle, donc corrélative.",
+   "source": "Harvard Health",
+   "url": "https://www.health.harvard.edu/exercise-and-fitness/strength-training-over-decades-linked-to-longer-life"
+  },
+  {
+   "id": "n20",
+   "theme": "learn",
+   "subtopic": "ia_education",
+   "importance": 2,
+   "short_title": "IA et métacognition",
+   "title": "Tuteurs IA : risque de paresse métacognitive",
+   "summary": "Un preprint 2026 montre que l'usage de l'IA sans réflexion désengage les élèves, alors que des approches guidant planification et auto-explication protègent l'apprentissage.",
+   "source": "arXiv",
+   "url": "https://arxiv.org/pdf/2607.20047"
+  },
+  {
+   "id": "n21",
+   "theme": "climat",
+   "subtopic": "cop31",
+   "importance": 2,
+   "short_title": "COP31 Antalya",
+   "title": "COP31 : la Turquie vise 35 % d'électricité d'ici 2035",
+   "summary": "La conférence se tient du 9 au 20 novembre à Antalya, avec une pré-COP prévue à Fiji en octobre. La crise énergétique renforce l'argument d'une électrification accélérée.",
+   "source": "IISD",
+   "url": "https://sdg.iisd.org/news/turkiye-and-australia-outline-presidency-vision-for-cop-31/"
+  },
+  {
+   "id": "n22",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 3,
+   "short_title": "Anthropic Cyber Mission",
+   "title": "Anthropic lance la Cyber Mission pour les défenseurs",
+   "summary": "Anthropic lance un effort de long terme pour aider à sécuriser les infrastructures critiques et les logiciels open source. Il combine modèles Claude, ingénieurs sur site et recherche sur les menaces avec des partenaires industriels, plus des scans de vulnérabilités gratuits pour les projets open source.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+  },
+  {
+   "id": "n23",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 2,
+   "short_title": "Usage Policy 2026",
+   "title": "Anthropic met à jour sa politique d'usage (effective le 12 nov.)",
+   "summary": "La mise à jour clarifie surtout les règles existantes : section unifiée sur les campagnes trompeuses, élections recentrées sur la tromperie des électeurs, règles armes et surveillance précisées. Elle ajoute des exigences de supervision humaine et d'arrêt d'urgence pour le matériel piloté par Claude.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+  },
+  {
+   "id": "n24",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 3,
+   "short_title": "Genesis Mission 150 M$",
+   "title": "Anthropic engage 150 M$ pour la Genesis Mission américaine",
+   "summary": "Sur trois ans, Anthropic met Claude à disposition de plus de 15 agences fédérales (NASA, NIH, NSF) et fournit crédits API et soutien à plusieurs centaines de projets de recherche. Priorités citées : fusion et informatique quantique.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+  }
+ ],
+ "edges": [
+  {
+   "source": "n07",
+   "target": "n08",
+   "type": "cause",
+   "explanation": "Les attaques sur les navires dans le détroit alimentent la prime de risque et le fret, ce qui tire le prix du Brent vers 100 $."
+  },
+  {
+   "source": "n08",
+   "target": "n12",
+   "type": "cause",
+   "explanation": "Un pétrole cher entretient l'inflation et complique la décision de la Fed, comme le souligne Lisa Cook."
+  },
+  {
+   "source": "n11",
+   "target": "n12",
+   "type": "tension",
+   "explanation": "Un marché du travail qui flanche pousse à la pause, alors que l'inflation persistante plaide pour de nouvelles hausses."
+  },
+  {
+   "source": "n09",
+   "target": "n10",
+   "type": "tension",
+   "explanation": "L'escalade militaire russe contraste avec la tentative diplomatique américaine et en réduit les chances."
+  },
+  {
+   "source": "n08",
+   "target": "n21",
+   "type": "cause",
+   "explanation": "Le choc pétrolier renforce l'argument de sécurité énergétique pour accélérer l'électrification."
+  },
+  {
+   "source": "n08",
+   "target": "n14",
+   "type": "cause",
+   "explanation": "Le pétrole cher alimente l'inflation importée au Japon, et pèse sur le yen et la trajectoire de la BoJ."
+  },
+  {
+   "source": "n20",
+   "target": "n03",
+   "type": "tension",
+   "explanation": "Former à grande échelle à l'IA s'oppose au risque de déqualification et de paresse métacognitive."
+  },
+  {
+   "source": "n15",
+   "target": "n16",
+   "type": "meme_sujet",
+   "explanation": "Les deux prix Nobel de la semaine récompensent des découvertes fondamentales sur la nature."
+  },
+  {
+   "source": "n22",
+   "target": "n02",
+   "type": "meme_sujet",
+   "explanation": "Le Cyber Verification Program et la Cyber Mission relèvent de la même stratégie : ouvrir des capacités cyber aux défenseurs vérifiés tout en encadrant l'accès."
+  },
+  {
+   "source": "n23",
+   "target": "n22",
+   "type": "meme_sujet",
+   "explanation": "La politique d'usage fixe le cadre des usages sensibles (cyber, surveillance, matériel physique) dans lequel s'inscrit l'offre aux défenseurs."
+  },
+  {
+   "source": "n24",
+   "target": "n03",
+   "type": "meme_sujet",
+   "explanation": "Deux engagements financiers d'Anthropic (talent entreprise, science publique américaine) pour ancrer Claude dans les institutions."
+  },
+  {
+   "source": "n24",
+   "target": "n16",
+   "type": "meme_sujet",
+   "explanation": "Même fil sur la science fondamentale : financement public de la fusion et du quantique d'un côté, physique des neutrinos primée de l'autre."
+  }
+ ]
 }

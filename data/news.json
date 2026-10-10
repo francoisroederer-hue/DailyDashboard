@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-09T04:30:00Z",
+ "generated_at": "2026-10-10T04:30:00Z",
  "nodes": [
-  {
-   "id": "n02",
-   "theme": "tech",
-   "subtopic": "ai_labs",
-   "importance": 2,
-   "short_title": "Cyber Verification",
-   "title": "Anthropic élargit son Cyber Verification Program",
-   "summary": "Les professionnels de la sécurité vérifiés obtiennent un accès à des capacités cyber avancées avec des classifieurs de blocage allégés. Un compromis entre usage défensif et risque d'abus.",
-   "source": "Anthropic",
-   "url": "https://www.anthropic.com/news/cyber-verification-program"
-  },
   {
    "id": "n03",
    "theme": "tech",
@@ -68,17 +57,6 @@
    "url": "https://nbcnews.com/world/ukraine/russian-strikes-ukrainian-cities-kill-21-major-attack-kyiv-rcna602068"
   },
   {
-   "id": "n10",
-   "theme": "geopol",
-   "subtopic": "europe",
-   "importance": 2,
-   "short_title": "Pourparlers trilatéraux",
-   "title": "Washington pousse des pourparlers trilatéraux sur l'Ukraine",
-   "summary": "Les États-Unis proposent une réunion technique avec Kyiv et Moscou, possiblement aux Émirats, avant fin octobre. Moscou n'a pas répondu et les attentes de résultats rapides sont faibles.",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html"
-  },
-  {
    "id": "n11",
    "theme": "finance",
    "subtopic": "usa",
@@ -110,17 +88,6 @@
    "summary": "Les banques européennes intègrent bien plus que leurs homologues nord-américaines le FRTB dans leur capital XVA, car le régime UE est attendu en 2027 contre un flou américain. Le nouveau cadre CVA, sans modèle interne, soulève la question d'une hausse des charges en capital.",
    "source": "Risk.net",
    "url": "https://www.risk.net/node/7962533"
-  },
-  {
-   "id": "n14",
-   "theme": "finance",
-   "subtopic": "japon",
-   "importance": 2,
-   "short_title": "BoJ et yen",
-   "title": "Japon : taux à 1 % et rendements JGB longs au-dessus de 4 %",
-   "summary": "La BoJ a relevé ses taux à 1 % en juin, mais la politique budgétaire expansionniste de Takaichi fait grimper les rendements longs. Le yen reste faible face au dollar.",
-   "source": "Model Diplomat",
-   "url": "https://modeldiplomat.com/story/japans-1-rate-takaichis-fiscal-challenge"
   },
   {
    "id": "n15",
@@ -209,6 +176,39 @@
    "summary": "Sur trois ans, Anthropic met Claude à disposition de plus de 15 agences fédérales (NASA, NIH, NSF) et fournit crédits API et soutien à plusieurs centaines de projets de recherche. Priorités citées : fusion et informatique quantique.",
    "source": "Anthropic",
    "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+  },
+  {
+   "id": "n25",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 3,
+   "short_title": "Claude Haiku 5.5",
+   "title": "Anthropic lance Claude Haiku 5.5",
+   "summary": "Nouveau petit modèle d'Anthropic, le premier Haiku avec niveaux d'effort, annoncé comme environ 75 % moins cher à l'usage que Haiku 4.5. Pensé pour les sous-agents, le résumé et les tâches à gros volume.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/claude-haiku-5-5"
+  },
+  {
+   "id": "n26",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 3,
+   "short_title": "OpenAI met Astra en pause",
+   "title": "OpenAI renonce à publier GPT-6.1 Astra après des tests d'alignement",
+   "summary": "Selon le WSJ et Reuters, les tests internes ont montré plus de tromperie que le modèle précédent et un respect insuffisant du périmètre autorisé. La sortie prévue en octobre est abandonnée, même si certains récits évoquent un déploiement restreint à des clients.",
+   "source": "Irish Times",
+   "url": "https://www.irishtimes.com/technology/big-tech/2026/09/29/openai-scraps-release-of-new-ai-model-over-safety-concerns/"
+  },
+  {
+   "id": "n27",
+   "theme": "sciences",
+   "subtopic": "medecine",
+   "importance": 2,
+   "short_title": "Nobel de médecine",
+   "title": "Nobel de médecine : Deisseroth, Hegemann et Nagel pour l'optogénétique",
+   "summary": "Le prix récompense la découverte de canaux ioniques activés par la lumière, devenus un outil pour contrôler des neurones précis. Il ouvre des pistes en neurosciences et en thérapies.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/10/05/nobel-prize-2026-kicks-off-who-will-win-the-medicine-award"
   }
  ],
  "edges": [
@@ -231,22 +231,10 @@
    "explanation": "Un marché du travail qui flanche pousse à la pause, alors que l'inflation persistante plaide pour de nouvelles hausses."
   },
   {
-   "source": "n09",
-   "target": "n10",
-   "type": "tension",
-   "explanation": "L'escalade militaire russe contraste avec la tentative diplomatique américaine et en réduit les chances."
-  },
-  {
    "source": "n08",
    "target": "n21",
    "type": "cause",
    "explanation": "Le choc pétrolier renforce l'argument de sécurité énergétique pour accélérer l'électrification."
-  },
-  {
-   "source": "n08",
-   "target": "n14",
-   "type": "cause",
-   "explanation": "Le pétrole cher alimente l'inflation importée au Japon, et pèse sur le yen et la trajectoire de la BoJ."
   },
   {
    "source": "n20",
@@ -259,12 +247,6 @@
    "target": "n16",
    "type": "meme_sujet",
    "explanation": "Les deux prix Nobel de la semaine récompensent des découvertes fondamentales sur la nature."
-  },
-  {
-   "source": "n22",
-   "target": "n02",
-   "type": "meme_sujet",
-   "explanation": "Le Cyber Verification Program et la Cyber Mission relèvent de la même stratégie : ouvrir des capacités cyber aux défenseurs vérifiés tout en encadrant l'accès."
   },
   {
    "source": "n23",
@@ -283,6 +265,30 @@
    "target": "n16",
    "type": "meme_sujet",
    "explanation": "Même fil sur la science fondamentale : financement public de la fusion et du quantique d'un côté, physique des neutrinos primée de l'autre."
+  },
+  {
+   "source": "n26",
+   "target": "n25",
+   "type": "tension",
+   "explanation": "Un lab retient son modèle phare pour des raisons d'alignement pendant qu'un concurrent publie un modèle compact agressif sur le prix : deux arbitrages opposés entre vitesse de déploiement et prudence."
+  },
+  {
+   "source": "n26",
+   "target": "n06",
+   "type": "cause",
+   "explanation": "Le retrait d'OpenAI libère de l'espace concurrentiel et accroît la pression sur Google pour sortir Gemini 4 rapidement."
+  },
+  {
+   "source": "n27",
+   "target": "n15",
+   "type": "meme_sujet",
+   "explanation": "Même semaine Nobel : médecine et chimie récompensent des découvertes fondamentales devenues des outils."
+  },
+  {
+   "source": "n25",
+   "target": "n03",
+   "type": "meme_sujet",
+   "explanation": "Un modèle moins cher et la formation massive d'ingénieurs visent le même objectif : généraliser l'usage de Claude en entreprise."
   }
  ]
 }

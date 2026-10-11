@@ -1,17 +1,6 @@
 {
- "generated_at": "2026-10-10T04:30:00Z",
+ "generated_at": "2026-10-11T04:30:00Z",
  "nodes": [
-  {
-   "id": "n03",
-   "theme": "tech",
-   "subtopic": "ai_labs",
-   "importance": 2,
-   "short_title": "Frontier Academy",
-   "title": "Anthropic investit 100 M$ pour former 10 000 ingénieurs",
-   "summary": "Programme de formation combinant cours en présentiel et résidence de 12 semaines où les participants pilotent un vrai projet Claude chez leur employeur. Des cohortes d'Accenture, Deloitte ou McKinsey sont déjà en cours.",
-   "source": "Anthropic",
-   "url": "https://www.anthropic.com/news/claude-frontier-academy"
-  },
   {
    "id": "n06",
    "theme": "tech",
@@ -29,10 +18,10 @@
    "subtopic": "moyen-orient",
    "importance": 3,
    "short_title": "Hormuz sous tension",
-   "title": "Détroit d'Ormuz : attaques de navires et négociations bloquées",
-   "summary": "Les attaques de navires marchands se multiplient dans le détroit alors que les flux approchaient leurs niveaux d'avant-guerre. Washington exige une réduction de l'enrichissement iranien, ligne rouge pour Téhéran, ce qui fige le dossier diplomatique.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening"
+   "title": "Record d'attaques de pétroliers à Ormuz",
+   "summary": "Les attaques contre les tankers atteignent un rythme record et le trafic dans le détroit s'effondre, avec moins de la moitié de la moyenne habituelle de passages. Washington évoque des discussions « productives » avec Téhéran, qui examine une proposition de réouverture sous sept jours.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/10/08/business/oil-diesel-prices-tanker-attacks-hormuz-intl"
   },
   {
    "id": "n08",
@@ -40,10 +29,10 @@
    "subtopic": "energie",
    "importance": 3,
    "short_title": "Brent au-dessus de 100 $",
-   "title": "Le Brent repasse autour de 100 $ sur les risques maritimes",
-   "summary": "Le brut évolue autour de 100-102 $ du fait des attaques sur les pétroliers et de la prime de risque sur la navigation. Les primes d'assurance et le fret maritime augmentent en parallèle.",
-   "source": "ShipUniverse",
-   "url": "https://www.shipuniverse.com/?p=16307"
+   "title": "Brent autour de 103-105 $",
+   "summary": "Le Brent oscille entre 103 et 105 $ cette semaine, porté par les perturbations d'Ormuz avant un léger repli vendredi. Les marchés pricent l'espoir d'une désescalade diplomatique autant que le risque d'offre.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/article/oil-prices-climb-above-100-on-strait-of-hormuz-attacks-gulf-storm-threat-122612488.html"
   },
   {
    "id": "n09",
@@ -209,6 +198,39 @@
    "summary": "Le prix récompense la découverte de canaux ioniques activés par la lumière, devenus un outil pour contrôler des neurones précis. Il ouvre des pistes en neurosciences et en thérapies.",
    "source": "Euronews",
    "url": "https://www.euronews.com/2026/10/05/nobel-prize-2026-kicks-off-who-will-win-the-medicine-award"
+  },
+  {
+   "id": "n28",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 3,
+   "short_title": "GPT-6 déployé",
+   "title": "OpenAI déploie GPT-6 avec une interface générative",
+   "summary": "GPT-6 arrive d'abord chez les abonnés payants puis dans les offres gratuites, avec une interface qui génère boutons, calculateurs et graphiques éditables dans la conversation. Une API Decisions en bêta renvoie des réponses typées, par exemple des probabilités. Information issue d'un agrégateur, à confirmer sur openai.com (inaccessible depuis l'environnement).",
+   "source": "AI Weekly",
+   "url": "https://aiweekly.co/ai-news-today/edition/2026-10-08"
+  },
+  {
+   "id": "n29",
+   "theme": "finance",
+   "subtopic": "france",
+   "importance": 3,
+   "short_title": "OAT 10 ans près de 5 %",
+   "title": "Taux français sous tension avant le budget 2027",
+   "summary": "Le rendement de l'OAT 10 ans a frôlé 5 % avant la présentation du budget 2027, avec un écart face au Bund au plus haut depuis 2011 selon certaines sources. Les marchés guettent la décision de Moody's le 23 octobre.",
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/france/government-bond-yield/news/590139"
+  },
+  {
+   "id": "n30",
+   "theme": "finance",
+   "subtopic": "energie",
+   "importance": 2,
+   "short_title": "Pénurie de diesel",
+   "title": "Le diesel, produit le plus tendu du marché pétrolier",
+   "summary": "L'offre de diesel est étranglée par la baisse des exportations du Golfe et par les frappes de drones ukrainiens sur des raffineries russes. Le G7 prépare une libération de 100 millions de barils via l'AIE.",
+   "source": "Admirals",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/diesel-shortage-october-2026"
   }
  ],
  "edges": [
@@ -237,12 +259,6 @@
    "explanation": "Le choc pétrolier renforce l'argument de sécurité énergétique pour accélérer l'électrification."
   },
   {
-   "source": "n20",
-   "target": "n03",
-   "type": "tension",
-   "explanation": "Former à grande échelle à l'IA s'oppose au risque de déqualification et de paresse métacognitive."
-  },
-  {
    "source": "n15",
    "target": "n16",
    "type": "meme_sujet",
@@ -253,12 +269,6 @@
    "target": "n22",
    "type": "meme_sujet",
    "explanation": "La politique d'usage fixe le cadre des usages sensibles (cyber, surveillance, matériel physique) dans lequel s'inscrit l'offre aux défenseurs."
-  },
-  {
-   "source": "n24",
-   "target": "n03",
-   "type": "meme_sujet",
-   "explanation": "Deux engagements financiers d'Anthropic (talent entreprise, science publique américaine) pour ancrer Claude dans les institutions."
   },
   {
    "source": "n24",
@@ -285,10 +295,28 @@
    "explanation": "Même semaine Nobel : médecine et chimie récompensent des découvertes fondamentales devenues des outils."
   },
   {
-   "source": "n25",
-   "target": "n03",
-   "type": "meme_sujet",
-   "explanation": "Un modèle moins cher et la formation massive d'ingénieurs visent le même objectif : généraliser l'usage de Claude en entreprise."
+   "source": "n07",
+   "target": "n30",
+   "type": "cause",
+   "explanation": "La quasi-fermeture d'Ormuz réduit fortement les exportations de produits raffinés du Golfe, ce qui tend le marché du diesel."
+  },
+  {
+   "source": "n09",
+   "target": "n30",
+   "type": "cause",
+   "explanation": "Les frappes ukrainiennes sur le raffinage russe retirent une autre source d'offre de diesel au moment où le Golfe est contraint."
+  },
+  {
+   "source": "n12",
+   "target": "n29",
+   "type": "cause",
+   "explanation": "La remontée mondiale des rendements (Treasuries à plus de 5 %, hausses BCE anticipées) pèse sur la dette française déjà fragilisée par le budget."
+  },
+  {
+   "source": "n28",
+   "target": "n26",
+   "type": "tension",
+   "explanation": "OpenAI généralise GPT-6 tout en gelant un modèle plus avancé pour raisons de sécurité : deux arbitrages opposés entre vitesse et prudence."
   }
  ]
 }

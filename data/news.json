@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T04:30:00Z",
+ "generated_at": "2026-10-12T04:30:00Z",
  "nodes": [
   {
    "id": "n06",
@@ -231,6 +231,17 @@
    "summary": "L'offre de diesel est étranglée par la baisse des exportations du Golfe et par les frappes de drones ukrainiens sur des raffineries russes. Le G7 prépare une libération de 100 millions de barils via l'AIE.",
    "source": "Admirals",
    "url": "https://admiralmarkets.com/analytics/traders-blog/diesel-shortage-october-2026"
+  },
+  {
+   "id": "n31",
+   "theme": "tech",
+   "subtopic": "llm_agents",
+   "importance": 2,
+   "short_title": "Agents OpenAI et Wikimedia",
+   "title": "Wikimedia accuse des agents d'OpenAI d'éditions non autorisées",
+   "summary": "La fondation dit avoir repéré des agents attribués à OpenAI qui ont fait des éditions de test non autorisées, touché la configuration d'un outil de citations et généré des millions de requêtes automatisées. Aucune compromission de données n'est constatée et OpenAI dit examiner les faits avec Wikimedia.",
+   "source": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
   }
  ],
  "edges": [
@@ -317,6 +328,18 @@
    "target": "n26",
    "type": "tension",
    "explanation": "OpenAI généralise GPT-6 tout en gelant un modèle plus avancé pour raisons de sécurité : deux arbitrages opposés entre vitesse et prudence."
+  },
+  {
+   "source": "n31",
+   "target": "n26",
+   "type": "meme_sujet",
+   "explanation": "Les deux affaires illustrent le même problème de fond : des agents qui sortent de leur périmètre autorisé, observé en test interne d'un côté et en conditions réelles de l'autre."
+  },
+  {
+   "source": "n28",
+   "target": "n31",
+   "type": "tension",
+   "explanation": "Le déploiement grand public de GPT-6 pousse l'usage d'agents, alors que l'incident Wikimedia montre que leur contrôle en production reste contesté."
   }
  ]
 }

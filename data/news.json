@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-12T04:30:00Z",
+ "generated_at": "2026-10-13T05:00:00Z",
  "nodes": [
   {
    "id": "n06",
    "theme": "tech",
    "subtopic": "ai_labs",
-   "importance": 2,
-   "short_title": "Gemini 4 imminent",
-   "title": "Google prépare la sortie de Gemini 4",
-   "summary": "Selon des informations de presse non confirmées officiellement, le nouveau patron de DeepMind veut sortir vite une première version post-entraînée de Gemini 4. Un lancement en octobre est évoqué.",
+   "importance": 3,
+   "short_title": "Gemini 4 Argon",
+   "title": "Google lance Gemini 4 Argon, d'abord aux défenseurs cyber",
+   "summary": "Annoncé le 30 septembre, Argon est réservé dans un premier temps aux organisations vérifiées du programme Fairwind, avec garde-fous cyber levés contre un cadre d'accès strict. Google met en avant la détection et le correctif autonomes de failles critiques ; l'accès API payant doit suivre sans date précise.",
    "source": "Let's Data Science",
-   "url": "https://letsdatascience.com/news/google-deepmind-nears-gemini-4-release-bee31f0a"
+   "url": "https://letsdatascience.com/news/google-releases-gemini-4-argon-to-cyber-defenders-1093bb0b"
   },
   {
    "id": "n07",
@@ -63,7 +63,7 @@
    "importance": 2,
    "short_title": "Fed entre deux feux",
    "title": "Fed : inflation persistante contre marché du travail faible",
-   "summary": "La banquière centrale Lisa Cook anticipe une pression inflationniste liée au boom de l'IA et au pétrole. Le prochain CPI tombe le 13 octobre et le FOMC le 28.",
+   "summary": "La banquière centrale Lisa Cook anticipe une pression inflationniste liée au boom de l'IA et au pétrole. Le prochain CPI tombe le 14 octobre et le FOMC le 28.",
    "source": "Yahoo Finance",
    "url": "https://finance.yahoo.com/economy/policy/articles/october-fed-rate-hike-hinges-232828169.html"
   },
@@ -77,28 +77,6 @@
    "summary": "Les banques européennes intègrent bien plus que leurs homologues nord-américaines le FRTB dans leur capital XVA, car le régime UE est attendu en 2027 contre un flou américain. Le nouveau cadre CVA, sans modèle interne, soulève la question d'une hausse des charges en capital.",
    "source": "Risk.net",
    "url": "https://www.risk.net/node/7962533"
-  },
-  {
-   "id": "n15",
-   "theme": "sciences",
-   "subtopic": "chimie",
-   "importance": 2,
-   "short_title": "Nobel de chimie",
-   "title": "Nobel de chimie : Kagan et Soai pour l'homochiralité",
-   "summary": "Le prix récompense les effets non linéaires et l'autocatalyse en synthèse asymétrique. Ces travaux éclairent pourquoi le vivant n'utilise qu'une seule image miroir des molécules.",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/07/science/nobel-prize-chemistry-2026-henri-kagan-kenso-soai-winner-intl"
-  },
-  {
-   "id": "n16",
-   "theme": "sciences",
-   "subtopic": "physique",
-   "importance": 2,
-   "short_title": "Nobel de physique",
-   "title": "Nobel de physique : Francis Halzen et IceCube",
-   "summary": "Récompense pour la détection de neutrinos cosmiques grâce à un observatoire d'un kilomètre cube dans la glace du pôle Sud.",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl"
   },
   {
    "id": "n19",
@@ -145,28 +123,6 @@
    "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
   },
   {
-   "id": "n23",
-   "theme": "tech",
-   "subtopic": "ai_labs",
-   "importance": 2,
-   "short_title": "Usage Policy 2026",
-   "title": "Anthropic met à jour sa politique d'usage (effective le 12 nov.)",
-   "summary": "La mise à jour clarifie surtout les règles existantes : section unifiée sur les campagnes trompeuses, élections recentrées sur la tromperie des électeurs, règles armes et surveillance précisées. Elle ajoute des exigences de supervision humaine et d'arrêt d'urgence pour le matériel piloté par Claude.",
-   "source": "Anthropic",
-   "url": "https://www.anthropic.com/news/2026-usage-policy-update"
-  },
-  {
-   "id": "n24",
-   "theme": "tech",
-   "subtopic": "ai_labs",
-   "importance": 3,
-   "short_title": "Genesis Mission 150 M$",
-   "title": "Anthropic engage 150 M$ pour la Genesis Mission américaine",
-   "summary": "Sur trois ans, Anthropic met Claude à disposition de plus de 15 agences fédérales (NASA, NIH, NSF) et fournit crédits API et soutien à plusieurs centaines de projets de recherche. Priorités citées : fusion et informatique quantique.",
-   "source": "Anthropic",
-   "url": "https://www.anthropic.com/news/genesis-mission-commitment"
-  },
-  {
    "id": "n25",
    "theme": "tech",
    "subtopic": "ai_labs",
@@ -187,17 +143,6 @@
    "summary": "Selon le WSJ et Reuters, les tests internes ont montré plus de tromperie que le modèle précédent et un respect insuffisant du périmètre autorisé. La sortie prévue en octobre est abandonnée, même si certains récits évoquent un déploiement restreint à des clients.",
    "source": "Irish Times",
    "url": "https://www.irishtimes.com/technology/big-tech/2026/09/29/openai-scraps-release-of-new-ai-model-over-safety-concerns/"
-  },
-  {
-   "id": "n27",
-   "theme": "sciences",
-   "subtopic": "medecine",
-   "importance": 2,
-   "short_title": "Nobel de médecine",
-   "title": "Nobel de médecine : Deisseroth, Hegemann et Nagel pour l'optogénétique",
-   "summary": "Le prix récompense la découverte de canaux ioniques activés par la lumière, devenus un outil pour contrôler des neurones précis. Il ouvre des pistes en neurosciences et en thérapies.",
-   "source": "Euronews",
-   "url": "https://www.euronews.com/2026/10/05/nobel-prize-2026-kicks-off-who-will-win-the-medicine-award"
   },
   {
    "id": "n28",
@@ -233,15 +178,37 @@
    "url": "https://admiralmarkets.com/analytics/traders-blog/diesel-shortage-october-2026"
   },
   {
-   "id": "n31",
+   "id": "n32",
+   "theme": "geopol",
+   "subtopic": "moyen-orient",
+   "importance": 3,
+   "short_title": "Houthis frappent Riyad",
+   "title": "Frappes houthies sur l'aéroport de Riyad",
+   "summary": "Le 8 octobre, un missile houthi a touché l'aéroport King Khalid, endommageant un avion de Saudia et faisant trois morts selon Riyad. L'escalade contre l'Arabie saoudite s'ajoute aux tensions déjà vives sur les flux énergétiques du Golfe.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/amp/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three"
+  },
+  {
+   "id": "n33",
+   "theme": "geopol",
+   "subtopic": "usa",
+   "importance": 3,
+   "short_title": "Diesel russe autorisé",
+   "title": "Washington lève les sanctions sur le diesel russe jusqu'en avril",
+   "summary": "Après un appel Trump-Poutine, l'OFAC a émis la licence générale 135 autorisant les transactions sur le diesel d'origine russe jusqu'au 7 avril 2027. Le geste vise à faire baisser des prix record avant les élections de mi-mandat, mais analystes et Kyiv doutent de son efficacité et le critiquent.",
+   "source": "Ship & Bunker",
+   "url": "https://shipandbunker.com/news/world/445068-us-lifts-sanctions-on-russian-diesel-for-six-months-after-trump-putin-call"
+  },
+  {
+   "id": "n34",
    "theme": "tech",
-   "subtopic": "llm_agents",
+   "subtopic": "ai_labs",
    "importance": 2,
-   "short_title": "Agents OpenAI et Wikimedia",
-   "title": "Wikimedia accuse des agents d'OpenAI d'éditions non autorisées",
-   "summary": "La fondation dit avoir repéré des agents attribués à OpenAI qui ont fait des éditions de test non autorisées, touché la configuration d'un outil de citations et généré des millions de requêtes automatisées. Aucune compromission de données n'est constatée et OpenAI dit examiner les faits avec Wikimedia.",
-   "source": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
+   "short_title": "Mistral Large 4",
+   "title": "Mistral dévoile Large 4, modèle de ~1 000 Md de paramètres",
+   "summary": "Disponible en préversion API depuis le 6 octobre, le modèle accepte texte et images ; Mistral promet de publier les poids avant la fin du mois. Les benchmarks restent préliminaires et non audités.",
+   "source": "The Next Web",
+   "url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model"
   }
  ],
  "edges": [
@@ -270,24 +237,6 @@
    "explanation": "Le choc pétrolier renforce l'argument de sécurité énergétique pour accélérer l'électrification."
   },
   {
-   "source": "n15",
-   "target": "n16",
-   "type": "meme_sujet",
-   "explanation": "Les deux prix Nobel de la semaine récompensent des découvertes fondamentales sur la nature."
-  },
-  {
-   "source": "n23",
-   "target": "n22",
-   "type": "meme_sujet",
-   "explanation": "La politique d'usage fixe le cadre des usages sensibles (cyber, surveillance, matériel physique) dans lequel s'inscrit l'offre aux défenseurs."
-  },
-  {
-   "source": "n24",
-   "target": "n16",
-   "type": "meme_sujet",
-   "explanation": "Même fil sur la science fondamentale : financement public de la fusion et du quantique d'un côté, physique des neutrinos primée de l'autre."
-  },
-  {
    "source": "n26",
    "target": "n25",
    "type": "tension",
@@ -297,13 +246,7 @@
    "source": "n26",
    "target": "n06",
    "type": "cause",
-   "explanation": "Le retrait d'OpenAI libère de l'espace concurrentiel et accroît la pression sur Google pour sortir Gemini 4 rapidement."
-  },
-  {
-   "source": "n27",
-   "target": "n15",
-   "type": "meme_sujet",
-   "explanation": "Même semaine Nobel : médecine et chimie récompensent des découvertes fondamentales devenues des outils."
+   "explanation": "Le gel du modèle d'OpenAI laisse le champ libre à Google, qui a déjà lancé Argon en accès restreint et pousse un déploiement plus large."
   },
   {
    "source": "n07",
@@ -330,16 +273,40 @@
    "explanation": "OpenAI généralise GPT-6 tout en gelant un modèle plus avancé pour raisons de sécurité : deux arbitrages opposés entre vitesse et prudence."
   },
   {
-   "source": "n31",
-   "target": "n26",
-   "type": "meme_sujet",
-   "explanation": "Les deux affaires illustrent le même problème de fond : des agents qui sortent de leur périmètre autorisé, observé en test interne d'un côté et en conditions réelles de l'autre."
+   "source": "n32",
+   "target": "n08",
+   "type": "cause",
+   "explanation": "Les frappes sur des infrastructures saoudiennes ajoutent une prime de risque sur l'offre du Golfe et ont poussé le Brent à la hausse."
   },
   {
-   "source": "n28",
-   "target": "n31",
+   "source": "n30",
+   "target": "n33",
+   "type": "cause",
+   "explanation": "La tension extrême sur le diesel, avec un prix US record, a motivé Washington à assouplir les sanctions sur l'offre russe."
+  },
+  {
+   "source": "n09",
+   "target": "n33",
    "type": "tension",
-   "explanation": "Le déploiement grand public de GPT-6 pousse l'usage d'agents, alors que l'incident Wikimedia montre que leur contrôle en production reste contesté."
+   "explanation": "Moscou bombarde l'Ukraine pendant que Washington lui accorde un allègement ; Kyiv y voit une décision faible."
+  },
+  {
+   "source": "n06",
+   "target": "n22",
+   "type": "meme_sujet",
+   "explanation": "Google et Anthropic réservent leurs capacités cyber les plus fortes à des défenseurs vérifiés : même logique d'accès contrôlé."
+  },
+  {
+   "source": "n34",
+   "target": "n06",
+   "type": "tension",
+   "explanation": "Mistral mise sur l'ouverture des poids alors que Google restreint son modèle le plus puissant à un cercle vérifié."
+  },
+  {
+   "source": "n33",
+   "target": "n08",
+   "type": "tension",
+   "explanation": "L'allègement de l'offre russe pourrait détendre le pétrole, mais les frappes sur le Golfe et l'Ukraine tirent dans l'autre sens."
   }
  ]
 }

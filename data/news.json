@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T05:00:00Z",
+ "generated_at": "2026-10-14T05:00:00Z",
  "nodes": [
   {
    "id": "n06",
@@ -28,11 +28,11 @@
    "theme": "finance",
    "subtopic": "energie",
    "importance": 3,
-   "short_title": "Brent au-dessus de 100 $",
-   "title": "Brent autour de 103-105 $",
-   "summary": "Le Brent oscille entre 103 et 105 $ cette semaine, porté par les perturbations d'Ormuz avant un léger repli vendredi. Les marchés pricent l'espoir d'une désescalade diplomatique autant que le risque d'offre.",
-   "source": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/markets/article/oil-prices-climb-above-100-on-strait-of-hormuz-attacks-gulf-storm-threat-122612488.html"
+   "short_title": "Brent ~105 $",
+   "title": "Brent à 105,7 $ : le diesel russe pèse, les Houthis soutiennent",
+   "summary": "Le Brent a reculé d'environ 1 $ mardi à 105,69 $ après trois séances de hausse, les opérateurs prenant leurs bénéfices. Le possible retour de diesel russe sur le marché pèse, tandis que le conflit saoudo-houthi limite la baisse.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html"
   },
   {
    "id": "n09",
@@ -209,6 +209,17 @@
    "summary": "Disponible en préversion API depuis le 6 octobre, le modèle accepte texte et images ; Mistral promet de publier les poids avant la fin du mois. Les benchmarks restent préliminaires et non audités.",
    "source": "The Next Web",
    "url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model"
+  },
+  {
+   "id": "n35",
+   "theme": "tech",
+   "subtopic": "ai_labs",
+   "importance": 2,
+   "short_title": "Usage Policy Anthropic",
+   "title": "Anthropic révise sa Usage Policy (effet 12 novembre)",
+   "summary": "La nouvelle version regroupe les règles contre les campagnes trompeuses, resserre le volet électoral, étend l'interdiction des armes aux logiciels et composants associés et encadre la surveillance. Elle ajoute des exigences de supervision humaine pour les usages à haut risque ou connectés au matériel.",
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update"
   }
  ],
  "edges": [
@@ -307,6 +318,12 @@
    "target": "n08",
    "type": "tension",
    "explanation": "L'allègement de l'offre russe pourrait détendre le pétrole, mais les frappes sur le Golfe et l'Ukraine tirent dans l'autre sens."
+  },
+  {
+   "source": "n22",
+   "target": "n35",
+   "type": "meme_sujet",
+   "explanation": "Cyber Mission et nouvelle Usage Policy publiées le même jour : l'ouverture aux défenseurs cyber s'accompagne d'un durcissement des règles d'usage (surveillance, armes, supervision humaine)."
   }
  ]
 }

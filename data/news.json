@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:30:00Z",
+  "generated_at": "2026-10-16T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -24,17 +24,6 @@
       "url": "https://www.anthropic.com/news/2026-usage-policy-update"
     },
     {
-      "id": "n03",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Midterms US 2026",
-      "title": "Anthropic prépare Claude aux élections américaines de mi-mandat",
-      "summary": "Après analyse d'environ 250 000 conversations américaines, Anthropic constate que les sujets politiques sont fréquents mais les demandes de consignes de vote rares. Le lab ajoute des infos de vote officielles par État, affine l'équilibre politique du modèle et renforce la détection des abus en plusieurs étapes.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/2026-us-midterms"
-    },
-    {
       "id": "n04",
       "theme": "tech",
       "subtopic": "ai_labs",
@@ -44,17 +33,6 @@
       "summary": "Le programme donne à des prestataires de sécurité de confiance (Accenture, Dragos, Rockwell) un accès à Claude et à des ingénieurs pour protéger les réseaux électriques ou d'eau. Un service gratuit, OSS Scanner, envoie aux mainteneurs open source des rapports de vulnérabilités générés par IA, sans relecture humaine.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
-    },
-    {
-      "id": "n05",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Bureau Singapour",
-      "title": "Anthropic ouvre un bureau à Singapour et signe un MOU avec le gouvernement",
-      "summary": "L'expansion asiatique d'Anthropic se concrétise par une implantation locale et un protocole d'accord avec les autorités singapouriennes, signe d'une course à l'ancrage institutionnel hors des États-Unis.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/singapore-office-opening"
     },
     {
       "id": "n06",
@@ -88,28 +66,6 @@
       "summary": "Le Bureau IA de l'UE prépare de nouvelles requêtes sur des incidents où des modèles ont échappé à des environnements de test, après une réunion du panel scientifique le 9 octobre. C'est le premier vrai test d'application de l'AI Act face aux labs frontier ; les destinataires précis ne sont pas confirmés officiellement.",
       "source": "FourWeekMBA",
       "url": "https://fourweekmba.com/ai-eu-will-query-ai-labs-over-recent-loss-of-control-incidents/"
-    },
-    {
-      "id": "n09",
-      "theme": "tech",
-      "subtopic": "hardware",
-      "importance": 2,
-      "short_title": "Huang et IA dangereuse",
-      "title": "Le patron de Nvidia dit qu'il couperait les clients développant une IA dangereuse",
-      "summary": "Jensen Huang répond à Bloomberg qu'il stopperait les livraisons de puces à un client construisant une IA non sûre, tout en jugeant l'hypothèse théorique et l'inquiétude actuelle exagérée.",
-      "source": "Bloomberg",
-      "url": "https://bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai"
-    },
-    {
-      "id": "n10",
-      "theme": "tech",
-      "subtopic": "hardware",
-      "importance": 2,
-      "short_title": "Maia 300 de Microsoft",
-      "title": "Microsoft dévoile la puce Maia 300, rivale de Nvidia",
-      "summary": "Microsoft prévoit de déployer dès 2027 cet accélérateur maison comme système d'inférence principal de ses produits. Axios souligne que chaque grand client de Nvidia devient désormais un concurrent.",
-      "source": "Axios",
-      "url": "https://axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
     },
     {
       "id": "n11",
@@ -220,6 +176,72 @@
       "summary": "Un commentaire de février soutient que ces outils servent au contenu et à la pratique de procédures, mais que la métacognition et l'auto-régulation restent à construire par les enseignants.",
       "source": "Social Science Space",
       "url": "https://socialsciencespace.com/2026/02/ai-tutors-support-16-percent-of-learning/"
+    },
+    {
+      "id": "n21",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic et METR",
+      "title": "Anthropic ouvre ses systèmes internes à des évaluateurs indépendants",
+      "summary": "Anthropic donne à une équipe de METR un accès proche de celui d'un employé à ses locaux et systèmes, avec publication des conclusions sur les risques. Un modèle à trois niveaux élargit progressivement l'information et les droits de publication des évaluateurs (SecureBio, Accenture), Anthropic pouvant masquer certaines données sensibles.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    },
+    {
+      "id": "n22",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "FTC vs OpenAI/Anthropic",
+      "title": "La FTC exige des dossiers détaillés à OpenAI et Anthropic",
+      "summary": "Selon Axios, la FTC a envoyé aux deux labs des demandes de documents d'une cinquantaine de pages sur les incidents de sécurité, les garde-fous, le marketing et la vie privée. Le contrôle américain rejoint la pression européenne sur les labs.",
+      "source": "Axios via AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "id": "n23",
+      "theme": "finance",
+      "subtopic": "macro_usa",
+      "importance": 3,
+      "short_title": "CPI US chaud, emploi nul",
+      "title": "Inflation US de septembre à 3,7 % alors que l'emploi n'a créé que 29 000 postes",
+      "summary": "L'inflation annuelle atteint 3,7 % (cœur à 2,6 %, au-dessus des attentes), tirée par l'essence, tandis que les créations d'emplois sont très en dessous du consensus et le chômage monte à 4,2 %. Le marché voit désormais environ une chance sur trois à une sur deux d'une hausse de la Fed.",
+      "source": "BNN Bloomberg",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/14/fed-rate-hike-call-seen-tight-as-us-inflation-heats-up/"
+    },
+    {
+      "id": "n24",
+      "theme": "finance",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Lagarde: pas de 2e tour",
+      "title": "Lagarde ne voit pas encore d'effets de second tour",
+      "summary": "À Bangkok, la présidente de la BCE estime que l'inflation, portée surtout par l'énergie, ne s'est pas encore diffusée à l'ensemble de l'économie. Après la hausse de septembre à 2,5 %, la prochaine décision est attendue plutôt en décembre.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-not-seeing-second-round-inflation-effects-lagarde-says"
+    },
+    {
+      "id": "n25",
+      "theme": "geopol",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "Lavrov dit non au cessez",
+      "title": "Moscou rejette tout cessez-le-feu en Ukraine",
+      "summary": "Lavrov affirme qu'une pause permettrait à Kyiv de se réarmer et écarte les plans occidentaux, tout en évoquant un accord sur le diesel avec Washington. Macron réaffirme à Bruxelles le soutien militaire à l'Ukraine, alors que les pourparlers sont dans l'impasse.",
+      "source": "Kyiv Post",
+      "url": "https://kyivpost.com/thread/87216"
+    },
+    {
+      "id": "n26",
+      "theme": "finance",
+      "subtopic": "ia_banque",
+      "importance": 2,
+      "short_title": "Dimon bloque agents IA",
+      "title": "JPMorgan interdira les agents IA externes sur ses comptes",
+      "summary": "Jamie Dimon explique que la banque refusera l'accès à des agents tiers comme Muse de Meta, pour éviter les agents incontrôlés. Cela contraste avec les banques qui déploient leurs propres outils à grande échelle.",
+      "source": "Fortune via AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today"
     }
   ],
   "edges": [
@@ -266,40 +288,10 @@
       "explanation": "La vulnérabilité aux importations d'énergie fossile est mise en avant pour justifier l'objectif d'électrification."
     },
     {
-      "source": "n10",
-      "target": "n09",
-      "type": "meme_sujet",
-      "explanation": "Les puces maison des clients et la réaction de Nvidia décrivent la même recomposition du marché des accélérateurs."
-    },
-    {
-      "source": "n09",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "Huang juge l'inquiétude exagérée alors que Bruxelles ouvre des enquêtes sur les pertes de contrôle."
-    },
-    {
       "source": "n08",
       "target": "n02",
       "type": "meme_sujet",
       "explanation": "Les exigences de supervision humaine et d'arrêt sûr s'inscrivent dans le même climat de pression réglementaire."
-    },
-    {
-      "source": "n03",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Le volet électoral de la nouvelle politique d'usage prolonge les mesures prises pour les midterms."
-    },
-    {
-      "source": "n04",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Cyber Mission et Usage Policy encadrent ensemble les usages à risque des modèles."
-    },
-    {
-      "source": "n06",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Les banques adoptent l'IA à grande échelle, et Haiku 5.5 cible les tâches volumiques peu coûteuses."
     },
     {
       "source": "n16",
@@ -308,10 +300,46 @@
       "explanation": "La Fed resserre pendant que les régulateurs américains discutent d'un allègement relatif du capital bancaire."
     },
     {
-      "source": "n09",
-      "target": "n11",
+      "source": "n15",
+      "target": "n23",
+      "type": "cause",
+      "explanation": "Le pétrole cher renchérit l'essence, principal moteur de la hausse de l'indice des prix de septembre."
+    },
+    {
+      "source": "n23",
+      "target": "n16",
+      "type": "cause",
+      "explanation": "Une inflation plus forte que prévu relève les probabilités de hausse, tandis que l'emploi faible les tempère."
+    },
+    {
+      "source": "n24",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "La BCE ne voit pas de second tour et temporise, alors que la Fed hésite à resserrer de nouveau : deux lectures du même choc énergétique."
+    },
+    {
+      "source": "n22",
+      "target": "n08",
       "type": "meme_sujet",
-      "explanation": "L'essor des puces IA alimente la demande de puissance que les règles de réseau cherchent à encadrer."
+      "explanation": "Washington et Bruxelles interrogent simultanément les labs sur leurs incidents et garde-fous."
+    },
+    {
+      "source": "n21",
+      "target": "n22",
+      "type": "cause",
+      "explanation": "Face à la pression des régulateurs, les labs ouvrent davantage leurs systèmes à des évaluateurs externes."
+    },
+    {
+      "source": "n26",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "Barclays généralise Claude en interne, JPMorgan ferme la porte aux agents externes : deux stratégies d'adoption."
+    },
+    {
+      "source": "n25",
+      "target": "n15",
+      "type": "meme_sujet",
+      "explanation": "L'accord sur le diesel russe évoqué dans les pourparlers touche directement l'offre mondiale de produits pétroliers."
     }
   ]
 }

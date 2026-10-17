@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:30:00Z",
+  "generated_at": "2026-10-17T04:10:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -242,6 +242,28 @@
       "summary": "Jamie Dimon explique que la banque refusera l'accès à des agents tiers comme Muse de Meta, pour éviter les agents incontrôlés. Cela contraste avec les banques qui déploient leurs propres outils à grande échelle.",
       "source": "Fortune via AI Weekly",
       "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "id": "n27",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Anthropic ouvre Singapour",
+      "title": "Anthropic ouvre un bureau à Singapour et signe un MOU avec le gouvernement",
+      "summary": "Le 14 octobre, Anthropic a annoncé l'ouverture d'un bureau à Singapour, accompagnée d'un protocole d'accord avec les autorités locales. L'entreprise renforce sa présence en Asie-Pacifique tout en s'alignant sur les cadres publics de coopération sur l'IA.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/singapore-office-opening"
+    },
+    {
+      "id": "n28",
+      "theme": "geopol",
+      "subtopic": "usa",
+      "importance": 2,
+      "short_title": "IA et midterms 2026",
+      "title": "Anthropic détaille sa préparation aux élections américaines de mi-mandat",
+      "summary": "Anthropic présente les mesures prévues autour des midterms de 2026 pour limiter les usages abusifs de Claude (désinformation, manipulation). Le sujet s'ajoute à la mise à jour de la politique d'usage et à la pression réglementaire sur les labs.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/2026-us-midterms"
     }
   ],
   "edges": [
@@ -340,6 +362,18 @@
       "target": "n15",
       "type": "meme_sujet",
       "explanation": "L'accord sur le diesel russe évoqué dans les pourparlers touche directement l'offre mondiale de produits pétroliers."
+    },
+    {
+      "source": "n28",
+      "target": "n02",
+      "type": "meme_sujet",
+      "explanation": "Les mesures électorales s'appuient sur le cadre de la politique d'usage révisée : les deux textes encadrent les usages sensibles de Claude."
+    },
+    {
+      "source": "n28",
+      "target": "n22",
+      "type": "cause",
+      "explanation": "Le risque de manipulation électorale par l'IA nourrit la pression des régulateurs américains, dont les demandes de documents de la FTC sur les garde-fous."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:10:00Z",
+  "generated_at": "2026-10-18T04:10:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -116,11 +116,11 @@
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 106 $",
-      "title": "Le Brent oscille autour de 105-107 $",
-      "summary": "Le brut a touché 106,58 $ le 14 octobre sur les craintes pour les infrastructures saoudiennes et le détroit d'Ormuz, avant de reculer vers 104,7 $ à l'idée d'un assouplissement américain des sanctions sur les pétroliers de la flotte fantôme.",
-      "source": "Sunday Guardian",
-      "url": "https://sundayguardianlive.com/world/crude-oil-prices-today-october-14-why-are-oil-prices-rising-today-brent-crude-hits-10658-as-saudi-aramco-attack-and-strait-of-hormuz-risks-offset-hopes-of-higher-russian-diesel-exports-305338/"
+      "short_title": "Brent à 110 $",
+      "title": "Le Brent touche 110 $, plus haut depuis mai",
+      "summary": "Le Brent a clôturé vendredi à environ 109,9 $ (+3,7 %), son plus haut niveau de clôture depuis mai, porté par les tensions au Moyen-Orient (missile intercepté visant Yanbu) et les doutes sur l'offre de diesel russe après une frappe de drone sur une raffinerie. Les États-Unis sollicitent par ailleurs des offres pour échanger jusqu'à 17 M de barils de la réserve stratégique.",
+      "source": "Reuters (via Arkansas Online)",
+      "url": "https://www.arkansasonline.com/news/2026/oct/17/oil-at-110-per-barrel-its-highest-since-may/"
     },
     {
       "id": "n16",

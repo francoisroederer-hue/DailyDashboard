@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:10:00Z",
+  "generated_at": "2026-10-19T04:15:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -264,6 +264,28 @@
       "summary": "Anthropic présente les mesures prévues autour des midterms de 2026 pour limiter les usages abusifs de Claude (désinformation, manipulation). Le sujet s'ajoute à la mise à jour de la politique d'usage et à la pression réglementaire sur les labs.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/2026-us-midterms"
+    },
+    {
+      "id": "n29",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Fonds d'intérêt public",
+      "title": "Anthropic crée un Public Benefit Fund doté de 5 % de son capital",
+      "summary": "Anthropic veut affecter 5 % de ses actions à un nouveau fonds, sous réserve de l'accord des actionnaires, avec jusqu'à 2 % supplémentaires à chaque doublement de valeur au-delà d'un seuil. Le fonds pourra financer des ONG ou traiter les chocs de l'IA sur le marché du travail. Avec les engagements des cofondateurs et l'abondement des salariés, environ 20 % du capital serait dédié au bien commun.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/public-benefit-fund"
+    },
+    {
+      "id": "n30",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Mistral Large 4",
+      "title": "Mistral publie Large 4 en préversion, poids annoncés le 27 octobre",
+      "summary": "Mistral a lancé le 6 octobre Large 4, un modèle multimodal d'environ mille milliards de paramètres entraîné en Europe sur GPU Nvidia Blackwell. L'entreprise annonce de meilleurs scores que DeepSeek V4 Pro sur un indice de codage agentique et prévoit d'ouvrir les poids fin octobre.",
+      "source": "Techmeme (VentureBeat)",
+      "url": "https://www.techmeme.com/261006/p38"
     }
   ],
   "edges": [
@@ -374,6 +396,12 @@
       "target": "n22",
       "type": "cause",
       "explanation": "Le risque de manipulation électorale par l'IA nourrit la pression des régulateurs américains, dont les demandes de documents de la FTC sur les garde-fous."
+    },
+    {
+      "source": "n21",
+      "target": "n29",
+      "type": "meme_sujet",
+      "explanation": "Ouverture aux évaluateurs indépendants et fonds d'intérêt public relèvent d'une même stratégie de légitimité et de gouvernance face à la pression des régulateurs."
     }
   ]
 }

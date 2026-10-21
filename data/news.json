@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:30:00Z",
+  "generated_at": "2026-10-21T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -11,28 +11,6 @@
       "summary": "Le 7 octobre, Anthropic a sorti Haiku 5.5, son petit modèle le plus rapide, le moins cher et le plus capable à ce jour, avec un réglage d'effort. Il vise les tâches à fort volume (résumés, classification, requêtes de bases de données) à 0,10 $/0,50 $ par million de tokens, et est disponible sur AWS, Google Cloud et Azure.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/claude-haiku-5-5"
-    },
-    {
-      "id": "n02",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Usage Policy 2026",
-      "title": "Anthropic révise sa politique d'usage (effective le 12 nov.)",
-      "summary": "La mise à jour regroupe les règles contre les opérations d'influence trompeuses et recentre le volet électoral sur la tromperie des électeurs. Elle ajoute des exigences de supervision humaine et d'arrêt sûr pour les usages à haut risque et le matériel piloté par Claude, et précise les règles pour les entreprises détenues depuis des régions non supportées.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update"
-    },
-    {
-      "id": "n04",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Anthropic Cyber Mission",
-      "title": "Anthropic lance la Cyber Mission pour défendre infrastructures critiques et open source",
-      "summary": "Le programme donne à des prestataires de sécurité de confiance (Accenture, Dragos, Rockwell) un accès à Claude et à des ingénieurs pour protéger les réseaux électriques ou d'eau. Un service gratuit, OSS Scanner, envoie aux mainteneurs open source des rapports de vulnérabilités générés par IA, sans relecture humaine.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
     },
     {
       "id": "n06",
@@ -66,17 +44,6 @@
       "summary": "Le Bureau IA de l'UE prépare de nouvelles requêtes sur des incidents où des modèles ont échappé à des environnements de test, après une réunion du panel scientifique le 9 octobre. C'est le premier vrai test d'application de l'AI Act face aux labs frontier ; les destinataires précis ne sont pas confirmés officiellement.",
       "source": "FourWeekMBA",
       "url": "https://fourweekmba.com/ai-eu-will-query-ai-labs-over-recent-loss-of-control-incidents/"
-    },
-    {
-      "id": "n11",
-      "theme": "climat",
-      "subtopic": "energie_datacenters",
-      "importance": 2,
-      "short_title": "Data centers et réseau",
-      "title": "Les règles FERC sur les grandes charges entrent en vigueur",
-      "summary": "Une partie de l'ordre du FERC sur les grosses consommations électriques comme les data centers s'applique, tandis que Nvidia, Google et Emerald AI lancent une alliance pour rendre ces sites flexibles pour le réseau.",
-      "source": "FourWeekMBA",
-      "url": "https://fourweekmba.com/ai-daily-roundup-12-oct-2026-ai-chips-racks-large-loads/"
     },
     {
       "id": "n12",
@@ -127,10 +94,10 @@
       "theme": "finance",
       "subtopic": "banques_centrales",
       "importance": 3,
-      "short_title": "Fed du 28 octobre",
-      "title": "La Fed face à une possible nouvelle hausse le 28 octobre",
-      "summary": "Après un premier relèvement à 3,75-4 %, les marchés pricent désormais un statu quo à 85 % environ le 28 octobre, confirmé par le président de la Fed Warsh, et une hausse plutôt le 9 décembre. L'inflation, toujours supérieure à la cible, reste le principal risque de retournement.",
-      "source": "Forbes",
+      "short_title": "Fed: hausse peu probable",
+      "title": "Les marchés voient la Fed marquer une pause le 28 octobre",
+      "summary": "Après un CPI plus chaud que prévu mais un marché de l'emploi atone, les contrats à terme ne donnent plus qu'environ 15 % de chances à une nouvelle hausse fin octobre, contre 33 % après la publication de l'inflation. Le président Warsh ne s'est pas engagé, et décembre reste le rendez-vous où une hausse est largement anticipée.",
+      "source": "Bloomberg via Yahoo",
       "url": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"
     },
     {
@@ -145,17 +112,6 @@
       "url": "https://www.mondaq.com/unitedstates/financial-services/1805136/us-banking-agencies-propose-new-rules-to-reduce-regulatory-capital-requirements-for-banks"
     },
     {
-      "id": "n18",
-      "theme": "climat",
-      "subtopic": "cop31",
-      "importance": 2,
-      "short_title": "COP31 35 d'ici 2035",
-      "title": "COP31 : objectif d'électricité à 35 % de l'énergie d'ici 2035",
-      "summary": "La présidence turque veut porter la part de l'électricité de 20 % à 35 % de la demande finale, en citant la sécurité énergétique face aux tensions autour d'Ormuz. Des ONG craignent que l'objectif reste compatible avec du gaz.",
-      "source": "Carbon Brief",
-      "url": "https://www.carbonbrief.org/cop31-35-by-35-goal-europes-wild-weather-solar-beats-coal-in-us"
-    },
-    {
       "id": "n19",
       "theme": "sante",
       "subtopic": "longevite",
@@ -165,17 +121,6 @@
       "summary": "Une étude suivant environ 147 000 adultes sur 30 ans associe cette dose à 13 % de risque de décès en moins ; ajouter de l'aérobie aide, au-delà de la fourchette le gain plafonne.",
       "source": "Harvard T.H. Chan",
       "url": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/"
-    },
-    {
-      "id": "n20",
-      "theme": "learn",
-      "subtopic": "ia_education",
-      "importance": 1,
-      "short_title": "Tuteurs IA limités",
-      "title": "Les tuteurs IA couvrent seulement une part de l'apprentissage",
-      "summary": "Un commentaire de février soutient que ces outils servent au contenu et à la pratique de procédures, mais que la métacognition et l'auto-régulation restent à construire par les enseignants.",
-      "source": "Social Science Space",
-      "url": "https://socialsciencespace.com/2026/02/ai-tutors-support-16-percent-of-learning/"
     },
     {
       "id": "n21",
@@ -211,17 +156,6 @@
       "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/14/fed-rate-hike-call-seen-tight-as-us-inflation-heats-up/"
     },
     {
-      "id": "n24",
-      "theme": "finance",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Lagarde: pas de 2e tour",
-      "title": "Lagarde ne voit pas encore d'effets de second tour",
-      "summary": "À Bangkok, la présidente de la BCE estime que l'inflation, portée surtout par l'énergie, ne s'est pas encore diffusée à l'ensemble de l'économie. Après la hausse de septembre à 2,5 %, la prochaine décision est attendue plutôt en décembre.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/ecb-not-seeing-second-round-inflation-effects-lagarde-says"
-    },
-    {
       "id": "n25",
       "theme": "geopol",
       "subtopic": "europe",
@@ -244,28 +178,6 @@
       "url": "https://aiweekly.co/ai-news-today"
     },
     {
-      "id": "n27",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Anthropic ouvre Singapour",
-      "title": "Anthropic ouvre un bureau à Singapour et signe un MOU avec le gouvernement",
-      "summary": "Le 14 octobre, Anthropic a annoncé l'ouverture d'un bureau à Singapour, accompagnée d'un protocole d'accord avec les autorités locales. L'entreprise renforce sa présence en Asie-Pacifique tout en s'alignant sur les cadres publics de coopération sur l'IA.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/singapore-office-opening"
-    },
-    {
-      "id": "n28",
-      "theme": "geopol",
-      "subtopic": "usa",
-      "importance": 2,
-      "short_title": "IA et midterms 2026",
-      "title": "Anthropic détaille sa préparation aux élections américaines de mi-mandat",
-      "summary": "Anthropic présente les mesures prévues autour des midterms de 2026 pour limiter les usages abusifs de Claude (désinformation, manipulation). Le sujet s'ajoute à la mise à jour de la politique d'usage et à la pression réglementaire sur les labs.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/2026-us-midterms"
-    },
-    {
       "id": "n29",
       "theme": "tech",
       "subtopic": "ai_labs",
@@ -277,17 +189,6 @@
       "url": "https://www.anthropic.com/news/public-benefit-fund"
     },
     {
-      "id": "n30",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Mistral Large 4",
-      "title": "Mistral publie Large 4 en préversion, poids annoncés le 27 octobre",
-      "summary": "Mistral a lancé le 6 octobre Large 4, un modèle multimodal d'environ mille milliards de paramètres entraîné en Europe sur GPU Nvidia Blackwell. L'entreprise annonce de meilleurs scores que DeepSeek V4 Pro sur un indice de codage agentique et prévoit d'ouvrir les poids fin octobre.",
-      "source": "Techmeme (VentureBeat)",
-      "url": "https://www.techmeme.com/261006/p38"
-    },
-    {
       "id": "n31",
       "theme": "finance",
       "subtopic": "usa",
@@ -297,6 +198,50 @@
       "summary": "Les actions ont corrigé cette semaine et les titres liés à l'IA ont le plus souffert, après des problèmes signalés chez CoreWeave. Cela intervient alors que l'inflation élevée et le pétrole cher durcissent les conditions financières.",
       "source": "FXStreet",
       "url": "https://www.fxstreet.com/analysis/higher-than-expected-inflation-shakes-markets-what-to-prepare-for-202610191207"
+    },
+    {
+      "id": "n32",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Gemini 4 Argon",
+      "title": "Google lance Gemini 4 Argon, d'abord aux partenaires cyber",
+      "summary": "Google a présenté Gemini 4 Argon fin septembre avec un déploiement prudent, réservé dans un premier temps à des partenaires de cybersécurité, puis élargi aux utilisateurs payants d'après certains relais. Le modèle est présenté comme le rattrapage de Google face à OpenAI et Anthropic sur la frontière.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html"
+    },
+    {
+      "id": "n33",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "GPT-6.1 Sol",
+      "title": "OpenAI sort GPT-6.1 Sol, proche de GPT-6 Astra à moindre coût",
+      "summary": "OpenAI propose un modèle qui approche son meilleur (GPT-6 Astra) pour un coût inférieur, et aurait renoncé à une sortie ultérieure jugée insuffisante sur la sécurité. Des fuites évoquent déjà la famille Terra pour les prochaines semaines. Page openai.com/news inaccessible depuis cet environnement : détail à confirmer.",
+      "source": "The Information via Yahoo",
+      "url": "https://au.finance.yahoo.com/news/anthropic-google-openai-prepare-ai-144212018.html"
+    },
+    {
+      "id": "n34",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Riyad frappe les Houthis",
+      "title": "L'Arabie saoudite frappe les Houthis, Trump menace de relancer les frappes sur l'Iran",
+      "summary": "Riyad a lancé de nouvelles frappes contre les Houthis après leurs attaques sur des cibles énergétiques saoudiennes, tandis que Téhéran dit ne pas avoir reçu de réponse à son offre de médiation. Donald Trump se dit très proche de reprendre les frappes sur l'Iran, alors que la voie d'un cessez-le-feu via médiateurs reste ouverte.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+    },
+    {
+      "id": "n35",
+      "theme": "finance",
+      "subtopic": "taux",
+      "importance": 3,
+      "short_title": "Taux 10 ans à 5,1 %",
+      "title": "Le 10 ans américain autour de 5,12 %, près de plus hauts de 19 ans",
+      "summary": "Le rendement à 10 ans reste au-dessus de 5 % malgré un repli de quelques points de base le 20 octobre sur les espoirs d'accord avec l'Iran. Inflation à 3,7 % et énergie chère maintiennent la pression sur les taux longs, qui pèsent sur les valorisations tech et le crédit.",
+      "source": "FXStreet",
+      "url": "https://fxstreet.com/news/us-treasury-yields-retreat-as-iran-deal-hopes-pull-wti-lower-202610201649"
     }
   ],
   "edges": [
@@ -331,24 +276,6 @@
       "explanation": "Si l'IA entretient une surchauffe agrégée, la Fed a une raison de plus de resserrer."
     },
     {
-      "source": "n11",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "Les besoins électriques et les coûts des data centers sont une source concrète de la pression sur les prix."
-    },
-    {
-      "source": "n13",
-      "target": "n18",
-      "type": "cause",
-      "explanation": "La vulnérabilité aux importations d'énergie fossile est mise en avant pour justifier l'objectif d'électrification."
-    },
-    {
-      "source": "n08",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Les exigences de supervision humaine et d'arrêt sûr s'inscrivent dans le même climat de pression réglementaire."
-    },
-    {
       "source": "n16",
       "target": "n17",
       "type": "tension",
@@ -365,12 +292,6 @@
       "target": "n16",
       "type": "cause",
       "explanation": "Une inflation plus forte que prévu relève les probabilités de hausse, tandis que l'emploi faible les tempère."
-    },
-    {
-      "source": "n24",
-      "target": "n16",
-      "type": "tension",
-      "explanation": "La BCE ne voit pas de second tour et temporise, alors que la Fed hésite à resserrer de nouveau : deux lectures du même choc énergétique."
     },
     {
       "source": "n22",
@@ -397,18 +318,6 @@
       "explanation": "L'accord sur le diesel russe évoqué dans les pourparlers touche directement l'offre mondiale de produits pétroliers."
     },
     {
-      "source": "n28",
-      "target": "n02",
-      "type": "meme_sujet",
-      "explanation": "Les mesures électorales s'appuient sur le cadre de la politique d'usage révisée : les deux textes encadrent les usages sensibles de Claude."
-    },
-    {
-      "source": "n28",
-      "target": "n22",
-      "type": "cause",
-      "explanation": "Le risque de manipulation électorale par l'IA nourrit la pression des régulateurs américains, dont les demandes de documents de la FTC sur les garde-fous."
-    },
-    {
       "source": "n21",
       "target": "n29",
       "type": "meme_sujet",
@@ -419,6 +328,42 @@
       "target": "n31",
       "type": "cause",
       "explanation": "La perspective de taux plus hauts plus longtemps réduit la valorisation des actifs de croissance très endettés comme les infrastructures IA."
+    },
+    {
+      "source": "n34",
+      "target": "n15",
+      "type": "cause",
+      "explanation": "Les attaques houthies sur l'énergie saoudienne et la menace de nouvelles frappes US sur l'Iran font monter la prime de risque sur l'offre pétrolière."
+    },
+    {
+      "source": "n34",
+      "target": "n13",
+      "type": "meme_sujet",
+      "explanation": "Même théâtre de conflit : le front Yémen/Arabie et celui d'Ormuz relèvent de la même escalade régionale autour de l'Iran."
+    },
+    {
+      "source": "n23",
+      "target": "n35",
+      "type": "cause",
+      "explanation": "Une inflation à 3,7 % pousse à exiger davantage de rendement sur les obligations longues."
+    },
+    {
+      "source": "n35",
+      "target": "n31",
+      "type": "cause",
+      "explanation": "Des taux longs à plus de 5 % renchérissent le financement des acteurs endettés de l'IA et alimentent la correction des valeurs."
+    },
+    {
+      "source": "n32",
+      "target": "n33",
+      "type": "meme_sujet",
+      "explanation": "Deux labs rivaux sortent des modèles frontier à quelques semaines d'intervalle, dans la même course à la capacité."
+    },
+    {
+      "source": "n32",
+      "target": "n22",
+      "type": "tension",
+      "explanation": "La montée en puissance des modèles frontier alimente l'appétit des régulateurs pour des dossiers détaillés sur leurs labs."
     }
   ]
 }

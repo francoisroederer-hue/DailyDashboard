@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-10-21T04:30:00Z",
+  "generated_at": "2026-10-22T04:30:00Z",
   "nodes": [
-    {
-      "id": "n01",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Haiku 5.5 lancé",
-      "title": "Anthropic lance Claude Haiku 5.5",
-      "summary": "Le 7 octobre, Anthropic a sorti Haiku 5.5, son petit modèle le plus rapide, le moins cher et le plus capable à ce jour, avec un réglage d'effort. Il vise les tâches à fort volume (résumés, classification, requêtes de bases de données) à 0,10 $/0,50 $ par million de tokens, et est disponible sur AWS, Google Cloud et Azure.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-haiku-5-5"
-    },
     {
       "id": "n06",
       "theme": "finance",
@@ -22,17 +11,6 @@
       "summary": "La banque britannique étend l'usage de Claude pour améliorer ses opérations et l'expérience client, un signal de l'adoption de l'IA générative dans les grandes banques de détail et d'investissement.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/barclays-scales-claude"
-    },
-    {
-      "id": "n07",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Enzyme type CRISPR",
-      "title": "Claude identifie un système enzymatique de type CRISPR",
-      "summary": "Des chercheurs ont lancé Claude sur une grande base de séquences ADN pour repérer des transcriptases inverses inhabituelles ; il a reconnu un système associant une transcriptase, un gène partenaire et un réseau de répétitions. Les premiers tests montrent que le réseau produit plusieurs petits ARN, mais la fonction et l'utilité en édition génomique restent à établir.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system"
     },
     {
       "id": "n08",
@@ -110,17 +88,6 @@
       "summary": "Les trois agences proposent un nouveau cadre de capital incluant une charge CVA dédiée et une version de la FRTB pour les activités de marché. L'ISDA juge l'approche constructive mais insuffisamment sensible au risque, avec environ +89 % de capital de marché en standardisé selon son étude d'impact.",
       "source": "Mondaq",
       "url": "https://www.mondaq.com/unitedstates/financial-services/1805136/us-banking-agencies-propose-new-rules-to-reduce-regulatory-capital-requirements-for-banks"
-    },
-    {
-      "id": "n19",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 1,
-      "short_title": "Muscu et longévité",
-      "title": "90 à 120 minutes de renforcement par semaine, lié à moins de mortalité",
-      "summary": "Une étude suivant environ 147 000 adultes sur 30 ans associe cette dose à 13 % de risque de décès en moins ; ajouter de l'aérobie aide, au-delà de la fourchette le gain plafonne.",
-      "source": "Harvard T.H. Chan",
-      "url": "https://hsph.harvard.edu/news/moderate-amount-of-strength-training-each-week-could-boost-longevity/"
     },
     {
       "id": "n21",
@@ -242,6 +209,17 @@
       "summary": "Le rendement à 10 ans reste au-dessus de 5 % malgré un repli de quelques points de base le 20 octobre sur les espoirs d'accord avec l'Iran. Inflation à 3,7 % et énergie chère maintiennent la pression sur les taux longs, qui pèsent sur les valorisations tech et le crédit.",
       "source": "FXStreet",
       "url": "https://fxstreet.com/news/us-treasury-yields-retreat-as-iran-deal-hopes-pull-wti-lower-202610201649"
+    },
+    {
+      "id": "n36",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Stubbs rejoint le LTBT",
+      "title": "Le physicien Christopher Stubbs rejoint le Long-Term Benefit Trust d'Anthropic",
+      "summary": "Anthropic nomme un physicien de Harvard au comité qui supervise sa gouvernance à long terme et élit une partie de son conseil. Cette arrivée s'inscrit dans une série de gestes de gouvernance après l'ouverture aux évaluateurs indépendants et le fonds d'intérêt public.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
     }
   ],
   "edges": [
@@ -364,6 +342,12 @@
       "target": "n22",
       "type": "tension",
       "explanation": "La montée en puissance des modèles frontier alimente l'appétit des régulateurs pour des dossiers détaillés sur leurs labs."
+    },
+    {
+      "source": "n36",
+      "target": "n29",
+      "type": "meme_sujet",
+      "explanation": "Renforcement du LTBT et fonds d'intérêt public participent de la même architecture de gouvernance d'Anthropic."
     }
   ]
 }

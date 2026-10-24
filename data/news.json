@@ -1,255 +1,310 @@
 {
-  "generated_at": "2026-10-23T04:15:00Z",
+  "generated_at": "2026-10-24T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Attaques tankers Ormuz",
-      "title": "Attaques de tankers dans le Golfe persique",
-      "summary": "Une vingtaine d'attaques sur des pétroliers en deux semaines (données Kpler) ont fait chuter les flux transitant par la région à environ 8,5 Mb/j contre plus de 20 la semaine précédente. Le risque d'approvisionnement domine les marchés de l'énergie.",
-      "source": "OilPrice",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html"
+      "short_title": "Ormuz fermé, Iran bloqué",
+      "title": "Détroit d'Ormuz fermé, pourparlers US-Iran au point mort",
+      "summary": "Téhéran maintient la fermeture du détroit et conditionne sa réouverture à la levée du blocus américain de ses ports. Trump a rejeté une proposition de cessez-le-feu ; Pakistan et Qatar tentent de relancer la médiation.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/"
     },
     {
       "id": "n02",
-      "theme": "geopol",
-      "subtopic": "usa",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Iran: talks démentis",
-      "title": "Washington dément négocier avec l'Iran, Téhéran parle de contacts indirects",
-      "summary": "Trump nie toute négociation tandis que l'Iran évoque des échanges indirects via le Pakistan et le Qatar. Selon le NYT, des planificateurs américains et israéliens préparent de nouvelles frappes après les midterms.",
-      "source": "Outlook India",
-      "url": "https://www.outlookindia.com/international/no-talks-but-an-end-very-soon-trumps-iran-war-claims-face-tehrans-account"
+      "short_title": "Brent à 116 $",
+      "title": "Le Brent clôture à 116,7 $, 3e semaine de hausse",
+      "summary": "Le baril atteint un plus haut de six mois, les opérateurs intégrant le risque d'escalade au Moyen-Orient. Le WTI dépasse 103 $, et Wall Street termine la semaine en baisse.",
+      "source": "NewsLooks",
+      "url": "https://www.newslooks.com/wall-street-falls-as-brent-oil-tops-116-spacex-report-hits-telecom-stocks/"
     },
     {
       "id": "n03",
       "theme": "geopol",
-      "subtopic": "usa",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Defense Production Act",
-      "title": "Trump active le Defense Production Act pour le pétrole",
-      "summary": "À douze jours des midterms, la Maison-Blanche recourt au DPA face à la hausse des prix à la pompe. Le geste montre la pression politique intérieure créée par le choc énergétique.",
-      "source": "InvestingLive",
-      "url": "https://investinglive.com/commodities/trump-invokes-defense-production-act-for-oil-as-pump-prices-bite-12-days-before-midterms"
+      "short_title": "Ukraine : pourparlers",
+      "title": "Putin prêt à reprendre les pourparlers en novembre malgré les frappes",
+      "summary": "Après sa rencontre avec Witkoff, Poutine dit accepter de relancer la médiation américaine, alors que les frappes sur les infrastructures énergétiques se poursuivent. Un échange de 270 prisonniers de chaque côté a eu lieu.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html"
     },
     {
       "id": "n04",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 113 $",
-      "title": "Le Brent atteint son plus haut depuis mai",
-      "summary": "Le baril a gagné environ 4% jeudi pour se rapprocher de 113 $, avec une courbe très inversée (échéances proches nettement plus chères que 2027). Le marché price une rareté physique immédiate.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"
+      "short_title": "Gaz TTF > 90 €/MWh",
+      "title": "Le gaz européen dépasse 90 €, plus haut depuis 2022",
+      "summary": "Le TTF a triplé par rapport à son niveau d'avant-guerre, soutenu par des flux de GNL qatari restreints. Les stocks européens sont remplis à environ 74 %, bien sous la moyenne saisonnière.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/european-gas-prices-rise-above-90-for-first-time-since-2022"
     },
     {
       "id": "n05",
       "theme": "finance",
-      "subtopic": "europe",
+      "subtopic": "banques-centrales",
       "importance": 3,
-      "short_title": "BCE hausse à 2,5%",
-      "title": "La BCE relève ses taux à 2,5% sous l'effet du choc énergétique",
-      "summary": "Deuxième hausse de l'année après juin : l'inflation énergétique grimpe à 14,3% et la BCE anticipe environ 3% d'inflation moyenne en 2026. La banque centrale arbitre entre inflation importée et croissance plus faible.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/10/ecb-hikes-rates-to-25-as-energy-shock-pushes-eurozone-inflation-higher"
+      "short_title": "BCE du 29 octobre",
+      "title": "La BCE se réunit sous pression énergie et crise française",
+      "summary": "Après la hausse de septembre à 2,5 %, l'inflation zone euro est à 3,8 % tirée par l'énergie. Lagarde ne voit pas encore d'effets de second tour, mais la réunion se tient sur fond de turbulences en France.",
+      "source": "US News / Reuters",
+      "url": "https://money.usnews.com/investing/news/articles/2026-10-23/ready-for-a-french-test-five-questions-for-the-ecb"
     },
     {
       "id": "n06",
       "theme": "finance",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "Inflation zone euro 3,8%",
-      "title": "Inflation européenne : un seul taux, trois réalités",
-      "summary": "L'inflation moyenne de la zone euro atteint 3,8% (2,3% hors énergie) avec de fortes disparités entre pays. Philip Lane parle d'une seconde vague du choc d'offre énergétique.",
-      "source": "Euronews",
-      "url": "https://euronews.com/2026/10/22/one-interest-rate-three-inflation-realities-why-europes-price-shock-is-so-uneven"
+      "subtopic": "france",
+      "importance": 3,
+      "short_title": "OAT 10 ans à 5 %",
+      "title": "Le taux français à 10 ans touche 5 %, record depuis 2002",
+      "summary": "Manifestations massives, budget 2027 contesté et risque de dégradation Moody's pèsent sur la dette française. Le spread contre le Bund approche 157 pb, proche des niveaux de 2011.",
+      "source": "Political.org",
+      "url": "https://political.org/2026/10/21/french-10-year-bond-yield-hits-5-highest-since-2002-amid-political-unrest/"
     },
     {
       "id": "n07",
       "theme": "finance",
-      "subtopic": "frtb",
+      "subtopic": "marches",
       "importance": 3,
-      "short_title": "FRTB au 1er janv. 2027",
-      "title": "La DNB appelle à se préparer à l'entrée en vigueur de FRTB",
-      "summary": "Le superviseur néerlandais rappelle que les exigences révisées de risque de marché s'appliquent au 1er janvier 2027, avec un multiplicateur transitoire optionnel. Les mesures de supervision sur la frontière banking/trading book sont repoussées jusqu'à fin 2029, en ligne avec l'EBA.",
-      "source": "DNB",
-      "url": "https://www.dnb.nl/en/sector-news/supervision-2026/q4/dnb-calls-on-institutions-to-prepare-in-a-timely-manner-for-the-introduction-of-frtb-on-1-january-2027/"
+      "short_title": "Nasdaq -2,6 % (IA)",
+      "title": "Le Nasdaq chute de 2,6 % sur les craintes de dépenses IA",
+      "summary": "Pire séance depuis juin, menée par les valeurs IA et semi-conducteurs (AMD, Micron, Nvidia). Huang reconnaît que le capital se raréfie pour le secteur, et le pétrole cher aggrave l'aversion au risque.",
+      "source": "Reuters / Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180"
     },
     {
       "id": "n08",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Agent Skills donné à AAIF",
-      "title": "Anthropic donne le standard Agent Skills à l'Agentic AI Foundation",
-      "summary": "Le standard ouvert, adopté par plus de 70 plateformes d'agents depuis fin 2025, passe sous gouvernance Linux Foundation avec nom, logo et organisation GitHub. La feuille de route prévoit versions, processus de proposition et guide de sécurité.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+      "importance": 2,
+      "short_title": "Meta : capex IA",
+      "title": "Meta chute de 7 % malgré de bons résultats, inquiétude sur le capex IA",
+      "summary": "Les investisseurs sanctionnent la hausse des dépenses IA et un flux de trésorerie devenu négatif, ainsi que le projet d'actions sans droit de vote. Le titre a été le point focal de la séance.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
     },
     {
       "id": "n09",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "banques-centrales",
       "importance": 2,
-      "short_title": "Guest investigators bio",
-      "title": "Anthropic ouvre un appel à chercheurs invités en sciences du vivant",
-      "summary": "Des équipes académiques ou publiques pourront travailler 8 à 12 semaines avec les chercheurs d'Anthropic, avec Claude gratuit, et publier code et données en open source. Programme lié à AI for Science.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
+      "short_title": "Fed : statu quo attendu",
+      "title": "Fed la semaine prochaine : pas de hausse attendue",
+      "summary": "Le pétrole élevé avait fait craindre un resserrement, mais la probabilité d'une hausse en octobre est tombée à environ 5 %. Les rendements américains montent mais restent sous 5 % à 10 ans.",
+      "source": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4"
     },
     {
       "id": "n10",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Stubbs rejoint le LTBT",
-      "title": "Le physicien Christopher Stubbs rejoint le Long-Term Benefit Trust d'Anthropic",
-      "summary": "Nomination au trust qui participe à la gouvernance d'Anthropic. Un signal sur la structure de contrôle du lab.",
+      "importance": 3,
+      "short_title": "Anti-distillation Claude",
+      "title": "Anthropic renforce ses défenses contre la distillation",
+      "summary": "Anthropic dit avoir réduit de 10 à 100 fois ce que les distilleurs extraient du raisonnement de Claude, via restriction du raisonnement, classifieurs et bannissements. L'enjeu est présenté comme sécuritaire et de sécurité nationale.",
       "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
+      "url": "https://www.anthropic.com/news/distillation-defenses"
     },
     {
       "id": "n11",
       "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor Projects",
-      "title": "Cursor lance Projects, un agent coordinateur de sous-agents",
-      "summary": "Cette bêta garde le contexte sur des chantiers de plusieurs mois et délègue à de nombreux sous-agents, avec déclenchement par Slack ou PR. S'ajoutent des mises à jour des agents cloud (API Environments, 300 dépôts).",
-      "source": "Cursor Releasebot",
-      "url": "https://releasebot.io/updates/cursor"
+      "subtopic": "llm_agents",
+      "importance": 3,
+      "short_title": "Agent Skills à la LF",
+      "title": "Anthropic cède Agent Skills à l'Agentic AI Foundation",
+      "summary": "Le standard de packaging d'instructions pour agents passe sous gouvernance de la Linux Foundation, avec plus de 70 plateformes déjà compatibles. Au programme : versions, processus de proposition et guide de sécurité.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
     },
     {
       "id": "n12",
-      "theme": "tech",
-      "subtopic": "design",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "Figma agents et code",
-      "title": "Figma ancre ses agents IA et le design code-native",
-      "summary": "Config 2026 introduit code layers, specs partagés et un backend hébergé pour Figma Make, tout en définissant comment les agents opèrent dans la plateforme.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      "short_title": "Appel Claude sciences vie",
+      "title": "Anthropic ouvre un appel à chercheurs en sciences de la vie",
+      "summary": "Des équipes académiques ou publiques peuvent travailler 8 à 12 semaines avec les chercheurs d'Anthropic, en gardant leurs données. Candidatures ouvertes environ deux semaines.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
     },
     {
       "id": "n13",
       "theme": "tech",
       "subtopic": "ai_labs",
-      "importance": 1,
-      "short_title": "OpenAI Terra (rumeur)",
-      "title": "Rumeur : OpenAI préparerait le modèle Terra",
-      "summary": "Un reporter évoque un modèle censé surpasser GPT-6.1 Sol à moindre coût. Non confirmé officiellement ; openai.com/news inaccessible lors du run.",
-      "source": "Testing Catalog",
-      "url": "https://www.testingcatalog.com/openai-prepares-gpt-6-1-terra-microsoft-code.md"
+      "importance": 2,
+      "short_title": "GPT-6 pour tous",
+      "title": "OpenAI déploie GPT-6 à tous les utilisateurs de ChatGPT",
+      "summary": "Le modèle arrive avec une interface dite intelligente, mêlant visuels et interactions, après un déploiement initial payant. Le nommage des variantes reste confus selon les sources.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone/"
     },
     {
       "id": "n14",
-      "theme": "learn",
-      "subtopic": "tutorat_ia",
+      "theme": "tech",
+      "subtopic": "design",
       "importance": 2,
-      "short_title": "Tuteur IA vs cours",
-      "title": "Étude Harvard : un tuteur IA double l'apprentissage en physique",
-      "summary": "Sur 194 étudiants en alternance, l'apprentissage a été environ deux fois supérieur avec un tuteur conçu sur des principes pédagogiques. Les critiques notent que l'effet reflète peut-être la faiblesse du cours magistral comparé.",
-      "source": "CO/AI",
-      "url": "https://getcoai.com/news/ai-tutors-double-student-learning-in-harvard-study"
+      "short_title": "Figma et agents",
+      "title": "Figma définit comment les agents travaillent sur sa plateforme",
+      "summary": "Un éditeur en Markdown permet d'encoder des règles de design pour les agents, et les calques de code passent en bêta ouverte. L'agent Figma est disponible en général depuis début octobre.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
     },
     {
       "id": "n15",
-      "theme": "sante",
-      "subtopic": "longevite",
-      "importance": 2,
-      "short_title": "Muscu 90-119 min/sem",
-      "title": "La musculation hebdomadaire liée à une moindre mortalité",
-      "summary": "Étude BJSM sur 147 000 adultes : 90 à 119 minutes par semaine associées à 13% de mortalité en moins, davantage avec de l'aérobie. Données auto-déclarées et observationnelles.",
-      "source": "MedicineNet",
-      "url": "https://www.medicinenet.com/90_mins_strength_training_week_longer_life/news.htm"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 1,
+      "short_title": "Cursor Origin",
+      "title": "Cursor lance sa place de marché Origin",
+      "summary": "La place de marché relie les agents à plus de 20 intégrations dont Linear et Cloudflare. Source secondaire : les chiffres de PR fusionnées sont à prendre avec prudence.",
+      "source": "tech-insider.org",
+      "url": "https://tech-insider.org/cursor-ai-agents-56-percent-merged-prs-2026/"
     },
     {
       "id": "n16",
       "theme": "climat",
-      "subtopic": "politique_climatique",
+      "subtopic": "politique-climatique",
       "importance": 2,
       "short_title": "COP31 à Antalya",
-      "title": "COP31 à Antalya du 9 au 20 novembre",
-      "summary": "Présidée par la Türkiye avec l'Australie aux négociations, elle se tient dans un contexte de crise énergétique, avec l'électrification et la sortie des fossiles à l'agenda.",
-      "source": "WRI",
-      "url": "https://www.wri.org/news/advisory-wri-press-call-expectations-cop31"
+      "title": "COP31 en préparation : électrification et NDC en jeu",
+      "summary": "La conférence se tient du 9 au 20 novembre en Turquie. La présidence pousse l'objectif d'électrification « 35 d'ici 2035 » et réclame les NDC manquantes, tandis que l'UE défend 1,5 °C.",
+      "source": "Lovguiden / UE",
+      "url": "https://www.lovguiden.dk/en/det-offentlige/eu-udenrigstjenesten/2026-10-16-eus-fem-prioriteter-forud-for-cop31-15-grader-og-klimafinansiering"
+    },
+    {
+      "id": "n17",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "UE : économies d'énergie",
+      "title": "L'UE envisage des mesures de réduction de la demande",
+      "summary": "Les ministres de l'énergie en discuteront le 29 octobre si les perturbations d'Ormuz persistent. Le surcoût d'importation énergétique dépasse déjà 100 milliards d'euros selon une estimation citée.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/21/europe-weighs-energy-saving-measures-as-middle-east-crisis-deepens"
+    },
+    {
+      "id": "n18",
+      "theme": "sante",
+      "subtopic": "longevite",
+      "importance": 2,
+      "short_title": "Muscu 90 min/semaine",
+      "title": "90 à 119 min de musculation par semaine liées à une mortalité moindre",
+      "summary": "Une cohorte d'environ 147 000 adultes suivie jusqu'à 30 ans associe ce volume à 13 % de risque de décès en moins. Étude observationnelle et auto-déclarée, donc à nuancer.",
+      "source": "Outside Online",
+      "url": "https://www.outsideonline.com/health/training-performance/strength-training-minutes-longevity/?scope=anon"
+    },
+    {
+      "id": "n19",
+      "theme": "sante",
+      "subtopic": "nutrition",
+      "importance": 1,
+      "short_title": "GLP-1 et exercice",
+      "title": "Exercice et GLP-1 : bénéfices cardiovasculaires et articulaires à long terme",
+      "summary": "Une étude multinationale estime que coupler entraînement structuré et traitements GLP-1 éviterait des dizaines de milliers d'événements cardiaques. Un abstract ENDO montre aussi que l'activité baisse sous GLP-1.",
+      "source": "Health & Fitness Association",
+      "url": "https://www.healthandfitness.org/exercise-improves-the-long-term-benefits-of-glp-1-drugs-new-multinational-study-finds/"
+    },
+    {
+      "id": "n20",
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
+      "importance": 1,
+      "short_title": "Essais tuteur IA",
+      "title": "Micro-essais randomisés d'une plateforme de tutorat IA en sciences",
+      "summary": "Un preprint teste par petites itérations un tuteur IA auprès d'élèves de GCSE. Il s'inscrit dans les revues qui constatent un effet positif, variable selon le contexte.",
+      "source": "arXiv",
+      "url": "https://arxiv.org/pdf/2609.14789"
+    },
+    {
+      "id": "n21",
+      "theme": "finance",
+      "subtopic": "ccr_xva",
+      "importance": 2,
+      "short_title": "FRTB dans le pricing XVA",
+      "title": "La moitié des banques européennes intègrent déjà FRTB dans le XVA",
+      "summary": "Les banques européennes sont quatre fois plus susceptibles que les nord-américaines d'intégrer FRTB au capital de leur XVA, du fait des retards américains. Entrée en vigueur UE attendue en 2027.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
     }
   ],
   "edges": [
     {
       "source": "n01",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "La fermeture d'Ormuz et le blocus coupent une part majeure de l'offre mondiale, ce qui pousse directement le prix du brut."
+    },
+    {
+      "source": "n01",
       "target": "n04",
       "type": "cause",
-      "explanation": "Les attaques réduisent les flux physiques transitant par le Golfe, ce qui tire les prix du brut et la prime de court terme."
+      "explanation": "Les flux de GNL qatari transitant par Ormuz sont restreints, ce qui fait tripler le prix du gaz européen."
     },
     {
       "source": "n02",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Le flou diplomatique et la préparation de frappes alimentent l'escalade maritime dans la même crise."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
+      "target": "n09",
       "type": "cause",
-      "explanation": "La hausse des prix à la pompe issue du choc d'offre pousse l'exécutif américain à des mesures d'urgence."
-    },
-    {
-      "source": "n04",
-      "target": "n06",
-      "type": "cause",
-      "explanation": "Le pétrole cher nourrit l'inflation énergétique qui porte l'inflation européenne."
-    },
-    {
-      "source": "n06",
-      "target": "n05",
-      "type": "cause",
-      "explanation": "L'inflation énergétique est la raison du resserrement de la BCE."
+      "explanation": "Un pétrole cher relance l'inflation, d'où la crainte d'un resserrement de la Fed, finalement écartée pour octobre."
     },
     {
       "source": "n04",
       "target": "n05",
       "type": "cause",
-      "explanation": "Le choc pétrolier se transmet à la politique monétaire via les anticipations d'inflation."
+      "explanation": "L'énergie tire l'inflation zone euro à 3,8 % et force la BCE à arbitrer entre hausse de taux et croissance fragile."
     },
     {
-      "source": "n01",
-      "target": "n16",
+      "source": "n02",
+      "target": "n07",
       "type": "cause",
-      "explanation": "Le choc d'Ormuz sert d'argument à la sécurité énergétique et à l'électrification discutées à la COP31."
-    },
-    {
-      "source": "n03",
-      "target": "n02",
-      "type": "tension",
-      "explanation": "Mesures internes d'urgence et dénégation de négociations contrastent avec un conflit que Washington dit proche de la fin."
+      "explanation": "Le pétrole cher s'ajoute aux doutes sur l'IA et amplifie l'aversion au risque sur le Nasdaq."
     },
     {
       "source": "n08",
-      "target": "n12",
-      "type": "meme_sujet",
-      "explanation": "Standardisation des skills et cadrage des agents chez Figma traduisent la même structuration des écosystèmes d'agents."
+      "target": "n07",
+      "type": "cause",
+      "explanation": "Les résultats de Meta et son capex IA ont déclenché la réévaluation des valeurs IA et semi-conducteurs."
+    },
+    {
+      "source": "n05",
+      "target": "n06",
+      "type": "tension",
+      "explanation": "La BCE veut contenir l'inflation alors que resserrer fragilise une dette française déjà sous tension politique et budgétaire."
+    },
+    {
+      "source": "n04",
+      "target": "n17",
+      "type": "cause",
+      "explanation": "Des prix du gaz élevés et des stocks bas poussent Bruxelles vers des mesures de réduction de la demande."
+    },
+    {
+      "source": "n17",
+      "target": "n16",
+      "type": "tension",
+      "explanation": "La sécurité d'approvisionnement à court terme (gaz, charbon) entre en friction avec les ambitions climat à la COP31."
     },
     {
       "source": "n11",
-      "target": "n12",
+      "target": "n15",
       "type": "meme_sujet",
-      "explanation": "Cursor et Figma poussent des agents qui relient design et code."
+      "explanation": "Standardisation des skills et place de marché d'intégrations illustrent la même structuration de l'écosystème d'agents."
     },
     {
-      "source": "n08",
-      "target": "n11",
+      "source": "n11",
+      "target": "n14",
       "type": "meme_sujet",
-      "explanation": "Les skills ouverts sont une brique de l'orchestration d'agents comme celle de Cursor Projects."
+      "explanation": "Skills ouverts et règles de design pour agents répondent au même besoin : cadrer le comportement des agents."
     },
     {
-      "source": "n13",
-      "target": "n08",
-      "type": "tension",
-      "explanation": "Course entre labs : modèles frontier propriétaires d'un côté, standards ouverts donnés à une fondation de l'autre."
+      "source": "n18",
+      "target": "n19",
+      "type": "meme_sujet",
+      "explanation": "Entraînement en résistance et GLP-1 se rejoignent sur la préservation de la masse musculaire et la santé à long terme."
     }
   ]
 }

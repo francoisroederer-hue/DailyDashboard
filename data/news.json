@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:30:00Z",
+  "generated_at": "2026-10-25T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -7,21 +7,21 @@
       "subtopic": "moyen-orient",
       "importance": 3,
       "short_title": "Ormuz fermé, Iran bloqué",
-      "title": "Détroit d'Ormuz fermé, pourparlers US-Iran au point mort",
-      "summary": "Téhéran maintient la fermeture du détroit et conditionne sa réouverture à la levée du blocus américain de ses ports. Trump a rejeté une proposition de cessez-le-feu ; Pakistan et Qatar tentent de relancer la médiation.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/"
+      "title": "Ormuz toujours fermé, Iran fixe ses conditions aux pourparlers",
+      "summary": "Téhéran exige levée des sanctions et fin des menaces avant toute négociation, et refuse que de l'uranium enrichi quitte le pays. Le CENTCOM maintient le blocus des ports iraniens ; les échanges restent indirects via le Pakistan, avec des navires touchés par des mines ou attaques.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20"
     },
     {
       "id": "n02",
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 116 $",
-      "title": "Le Brent clôture à 116,7 $, 3e semaine de hausse",
-      "summary": "Le baril atteint un plus haut de six mois, les opérateurs intégrant le risque d'escalade au Moyen-Orient. Le WTI dépasse 103 $, et Wall Street termine la semaine en baisse.",
-      "source": "NewsLooks",
-      "url": "https://www.newslooks.com/wall-street-falls-as-brent-oil-tops-116-spacex-report-hits-telecom-stocks/"
+      "short_title": "Brent à 112 $",
+      "title": "Le Brent bondit de 2,8 % à 111,7 $, plus haut depuis mars",
+      "summary": "Le baril est passé de moins de 97 $ début octobre à près de 112 $ vendredi, porté par les tensions autour d'Ormuz. Wall Street a fini la semaine en baisse.",
+      "source": "Washington Times / AP",
+      "url": "https://www.washingtontimes.com/news/2026/oct/23/wall-street-loses-ground-friday-pressure-rising-oil-prices/"
     },
     {
       "id": "n03",
@@ -72,11 +72,11 @@
       "theme": "finance",
       "subtopic": "marches",
       "importance": 3,
-      "short_title": "Nasdaq -2,6 % (IA)",
-      "title": "Le Nasdaq chute de 2,6 % sur les craintes de dépenses IA",
-      "summary": "Pire séance depuis juin, menée par les valeurs IA et semi-conducteurs (AMD, Micron, Nvidia). Huang reconnaît que le capital se raréfie pour le secteur, et le pétrole cher aggrave l'aversion au risque.",
-      "source": "Reuters / Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-drop-over-1-as-ai-worries-resurface-oil-climbs-4965180"
+      "short_title": "Wall Street en repli",
+      "title": "Wall Street recule vendredi, Dow -1,2 % sous la pression du pétrole",
+      "summary": "Le Dow perd 652 points, le S&P 500 0,5 % et le Nasdaq 0,2 % ; sur la semaine, le Nasdaq cède 0,7 %. Le pétrole cher et les doutes sur les dépenses IA pèsent sur l'appétit pour le risque.",
+      "source": "Washington Times / AP",
+      "url": "https://www.washingtontimes.com/news/2026/oct/23/wall-street-loses-ground-friday-pressure-rising-oil-prices/"
     },
     {
       "id": "n08",
@@ -94,11 +94,11 @@
       "theme": "finance",
       "subtopic": "banques-centrales",
       "importance": 2,
-      "short_title": "Fed : statu quo attendu",
-      "title": "Fed la semaine prochaine : pas de hausse attendue",
-      "summary": "Le pétrole élevé avait fait craindre un resserrement, mais la probabilité d'une hausse en octobre est tombée à environ 5 %. Les rendements américains montent mais restent sous 5 % à 10 ans.",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4"
+      "short_title": "Fed : statu quo",
+      "title": "Fed le 28 octobre : statu quo attendu, hausse en décembre envisagée",
+      "summary": "Un maintien à 3,75-4,00 % est quasi acquis, mais le marché parie plutôt sur une hausse en décembre. Le 10 ans américain repasse à 5 % et le PCE de septembre est attendu à 3,7 % sur un an.",
+      "source": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
     },
     {
       "id": "n10",
@@ -159,12 +159,12 @@
       "id": "n15",
       "theme": "tech",
       "subtopic": "vibe_coding",
-      "importance": 1,
-      "short_title": "Cursor Origin",
-      "title": "Cursor lance sa place de marché Origin",
-      "summary": "La place de marché relie les agents à plus de 20 intégrations dont Linear et Cloudflare. Source secondaire : les chiffres de PR fusionnées sont à prendre avec prudence.",
-      "source": "tech-insider.org",
-      "url": "https://tech-insider.org/cursor-ai-agents-56-percent-merged-prs-2026/"
+      "importance": 2,
+      "short_title": "Cursor Computer Use",
+      "title": "Cursor lance Computer Use pour ses agents de code",
+      "summary": "Les agents de Cursor peuvent désormais cliquer et saisir dans n'importe quelle application de bureau, pas seulement le navigateur. Il faut une version à jour et les permissions d'accessibilité et d'enregistrement d'écran sous macOS.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today"
     },
     {
       "id": "n16",
@@ -231,6 +231,17 @@
       "summary": "Les banques européennes sont quatre fois plus susceptibles que les nord-américaines d'intégrer FRTB au capital de leur XVA, du fait des retards américains. Entrée en vigueur UE attendue en 2027.",
       "source": "Risk.net",
       "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
+    },
+    {
+      "id": "n22",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Texas poursuit OpenAI",
+      "title": "Le procureur du Texas attaque OpenAI et Sam Altman",
+      "summary": "Ken Paxton reproche à ChatGPT d'avoir trompé les consommateurs sur sa sécurité et d'avoir rendu des mineurs dépendants. Une action de plus du côté réglementaire visant un lab frontier.",
+      "source": "AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today"
     }
   ],
   "edges": [
@@ -305,6 +316,18 @@
       "target": "n19",
       "type": "meme_sujet",
       "explanation": "Entraînement en résistance et GLP-1 se rejoignent sur la préservation de la masse musculaire et la santé à long terme."
+    },
+    {
+      "source": "n13",
+      "target": "n22",
+      "type": "cause",
+      "explanation": "Le déploiement massif de GPT-6 auprès du grand public élargit l'exposition aux mineurs et alimente les poursuites sur la sécurité des produits."
+    },
+    {
+      "source": "n09",
+      "target": "n06",
+      "type": "meme_sujet",
+      "explanation": "Remontée des taux américains (10 ans à 5 %) et français (OAT à 5 %) : même pression mondiale sur les obligations souveraines."
     }
   ]
 }

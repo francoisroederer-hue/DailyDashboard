@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:00:00Z",
+  "generated_at": "2026-10-27T06:00:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -52,9 +52,9 @@
       "importance": 3,
       "short_title": "BCE du 29 octobre",
       "title": "La BCE se réunit sous pression énergie et crise française",
-      "summary": "Après la hausse de septembre à 2,5 %, l'inflation zone euro est à 3,8 % tirée par l'énergie. Lagarde ne voit pas encore d'effets de second tour, mais la réunion se tient sur fond de turbulences en France.",
-      "source": "US News / Reuters",
-      "url": "https://money.usnews.com/investing/news/articles/2026-10-23/ready-for-a-french-test-five-questions-for-the-ecb"
+      "summary": "Après un taux de dépôt à 2,5 %, les marchés anticipent une hausse vers 2,7 % d'ici décembre, avec une inflation zone euro tirée par l'énergie. Lagarde écarte un sauvetage de la France, dont la dette cristallise les tensions avant la réunion.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/23/frances-bond-drama-takes-centre-stage-ahead-of-ecb-rate-decision"
     },
     {
       "id": "n06",
@@ -63,7 +63,7 @@
       "importance": 3,
       "short_title": "OAT 10 ans à 5 %",
       "title": "Le taux français à 10 ans touche 5 %, record depuis 2002",
-      "summary": "Manifestations massives, budget 2027 contesté et risque de dégradation Moody's pèsent sur la dette française. Le spread contre le Bund approche 157 pb, proche des niveaux de 2011.",
+      "summary": "Manifestations, budget 2027 bloqué et dégradation Moody's de Aa3 vers A1 attendue pèsent sur la dette française. Le rendement à 10 ans a dépassé 5 %, un record depuis 2002, avec un écart au Bund très élevé.",
       "source": "Political.org",
       "url": "https://political.org/2026/10/21/french-10-year-bond-yield-hits-5-highest-since-2002-amid-political-unrest/"
     },
@@ -211,17 +211,6 @@
       "url": "https://www.healthandfitness.org/exercise-improves-the-long-term-benefits-of-glp-1-drugs-new-multinational-study-finds/"
     },
     {
-      "id": "n20",
-      "theme": "learn",
-      "subtopic": "tutorat_ia",
-      "importance": 1,
-      "short_title": "Essais tuteur IA",
-      "title": "Micro-essais randomisés d'une plateforme de tutorat IA en sciences",
-      "summary": "Un preprint teste par petites itérations un tuteur IA auprès d'élèves de GCSE. Il s'inscrit dans les revues qui constatent un effet positif, variable selon le contexte.",
-      "source": "arXiv",
-      "url": "https://arxiv.org/pdf/2609.14789"
-    },
-    {
       "id": "n21",
       "theme": "finance",
       "subtopic": "ccr_xva",
@@ -242,6 +231,17 @@
       "summary": "Ken Paxton reproche à ChatGPT d'avoir trompé les consommateurs sur sa sécurité et d'avoir rendu des mineurs dépendants. Une action de plus du côté réglementaire visant un lab frontier.",
       "source": "AI Weekly",
       "url": "https://aiweekly.co/ai-news-today"
+    },
+    {
+      "id": "n23",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Anthropic dépose son S-1",
+      "title": "Anthropic dépose son S-1 pour une introduction en Bourse au Nasdaq",
+      "summary": "Anthropic a déposé le 26 octobre un formulaire S-1 auprès de la SEC pour une cotation sur le Nasdaq sous le symbole ANT, avec Goldman Sachs et Morgan Stanley comme banques. Le nombre d'actions et la fourchette de prix ne sont pas fixés. C'est un test grandeur nature de l'appétit des marchés pour les labs frontier.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/s1-sec"
     }
   ],
   "edges": [
@@ -301,12 +301,6 @@
     },
     {
       "source": "n11",
-      "target": "n15",
-      "type": "meme_sujet",
-      "explanation": "Standardisation des skills et place de marché d'intégrations illustrent la même structuration de l'écosystème d'agents."
-    },
-    {
-      "source": "n11",
       "target": "n14",
       "type": "meme_sujet",
       "explanation": "Skills ouverts et règles de design pour agents répondent au même besoin : cadrer le comportement des agents."
@@ -328,6 +322,12 @@
       "target": "n06",
       "type": "meme_sujet",
       "explanation": "Remontée des taux américains (10 ans à 5 %) et français (OAT à 5 %) : même pression mondiale sur les obligations souveraines."
+    },
+    {
+      "source": "n08",
+      "target": "n23",
+      "type": "tension",
+      "explanation": "Les investisseurs sanctionnent déjà le capex IA de Meta, alors qu'Anthropic demande au marché de valoriser un lab frontier encore très consommateur de capital."
     }
   ]
 }

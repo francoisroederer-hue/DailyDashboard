@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:00:00Z",
+  "generated_at": "2026-10-28T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -17,11 +17,11 @@
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 112 $",
-      "title": "Le Brent bondit de 2,8 % à 111,7 $, plus haut depuis mars",
-      "summary": "Le baril est passé de moins de 97 $ début octobre à près de 112 $ vendredi, porté par les tensions autour d'Ormuz. Wall Street a fini la semaine en baisse.",
-      "source": "Washington Times / AP",
-      "url": "https://www.washingtontimes.com/news/2026/oct/23/wall-street-loses-ground-friday-pressure-rising-oil-prices/"
+      "short_title": "Brent à 115 $",
+      "title": "Le Brent reste autour de 115 $ malgré un léger repli",
+      "summary": "Le baril de Brent s'échange vers 114,7 $ mardi, en baisse d'environ 1 % grâce aux signaux de diplomatie régionale, mais il reste en hausse d'environ 5 % sur une semaine. Les flux par Ormuz demeurent nettement sous la normale, ce qui maintient la prime de risque.",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-114-68-tuesday-fomc-day-one-after-monday-round-trip-tehran-talks-bull-120-bear-108/"
     },
     {
       "id": "n03",
@@ -52,7 +52,7 @@
       "importance": 3,
       "short_title": "BCE du 29 octobre",
       "title": "La BCE se réunit sous pression énergie et crise française",
-      "summary": "Après un taux de dépôt à 2,5 %, les marchés anticipent une hausse vers 2,7 % d'ici décembre, avec une inflation zone euro tirée par l'énergie. Lagarde écarte un sauvetage de la France, dont la dette cristallise les tensions avant la réunion.",
+      "summary": "La BCE devrait laisser son taux de dépôt à 2,5 % jeudi, après les hausses de juin et septembre. Les marchés misent à environ 80 % sur une nouvelle hausse de 25 pb en décembre, avec une inflation à 3,8 % portée par l'énergie et le stress sur la dette française.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/10/23/frances-bond-drama-takes-centre-stage-ahead-of-ecb-rate-decision"
     },
@@ -123,17 +123,6 @@
       "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
     },
     {
-      "id": "n12",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Appel Claude sciences vie",
-      "title": "Anthropic ouvre un appel à chercheurs en sciences de la vie",
-      "summary": "Des équipes académiques ou publiques peuvent travailler 8 à 12 semaines avec les chercheurs d'Anthropic, en gardant leurs données. Candidatures ouvertes environ deux semaines.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences"
-    },
-    {
       "id": "n13",
       "theme": "tech",
       "subtopic": "ai_labs",
@@ -154,17 +143,6 @@
       "summary": "Un éditeur en Markdown permet d'encoder des règles de design pour les agents, et les calques de code passent en bêta ouverte. L'agent Figma est disponible en général depuis début octobre.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-    },
-    {
-      "id": "n15",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor Computer Use",
-      "title": "Cursor lance Computer Use pour ses agents de code",
-      "summary": "Les agents de Cursor peuvent désormais cliquer et saisir dans n'importe quelle application de bureau, pas seulement le navigateur. Il faut une version à jour et les permissions d'accessibilité et d'enregistrement d'écran sous macOS.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/ai-news-today"
     },
     {
       "id": "n16",
@@ -200,17 +178,6 @@
       "url": "https://www.outsideonline.com/health/training-performance/strength-training-minutes-longevity/?scope=anon"
     },
     {
-      "id": "n19",
-      "theme": "sante",
-      "subtopic": "nutrition",
-      "importance": 1,
-      "short_title": "GLP-1 et exercice",
-      "title": "Exercice et GLP-1 : bénéfices cardiovasculaires et articulaires à long terme",
-      "summary": "Une étude multinationale estime que coupler entraînement structuré et traitements GLP-1 éviterait des dizaines de milliers d'événements cardiaques. Un abstract ENDO montre aussi que l'activité baisse sous GLP-1.",
-      "source": "Health & Fitness Association",
-      "url": "https://www.healthandfitness.org/exercise-improves-the-long-term-benefits-of-glp-1-drugs-new-multinational-study-finds/"
-    },
-    {
       "id": "n21",
       "theme": "finance",
       "subtopic": "ccr_xva",
@@ -227,10 +194,10 @@
       "subtopic": "ai_labs",
       "importance": 2,
       "short_title": "Texas poursuit OpenAI",
-      "title": "Le procureur du Texas attaque OpenAI et Sam Altman",
-      "summary": "Ken Paxton reproche à ChatGPT d'avoir trompé les consommateurs sur sa sécurité et d'avoir rendu des mineurs dépendants. Une action de plus du côté réglementaire visant un lab frontier.",
-      "source": "AI Weekly",
-      "url": "https://aiweekly.co/ai-news-today"
+      "title": "Le Texas poursuit OpenAI et Sam Altman (23 oct.)",
+      "summary": "Le procureur général du Texas accuse OpenAI et son PDG de pratiques commerciales trompeuses et d'atteintes à la sécurité des enfants. La plainte demande notamment qu'un tribunal puisse encadrer la mise en ligne de nouveaux modèles au Texas ; elle s'ajoute à une vague d'actions d'autres États.",
+      "source": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/"
     },
     {
       "id": "n23",
@@ -242,6 +209,39 @@
       "summary": "Anthropic a déposé le 26 octobre un formulaire S-1 auprès de la SEC pour une cotation sur le Nasdaq sous le symbole ANT, avec Goldman Sachs et Morgan Stanley comme banques. Le nombre d'actions et la fourchette de prix ne sont pas fixés. C'est un test grandeur nature de l'appétit des marchés pour les labs frontier.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/s1-sec"
+    },
+    {
+      "id": "n24",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Claude : -40 % État US",
+      "title": "Anthropic étend son partenariat avec la GSA : -40 % pour les administrations",
+      "summary": "Anthropic propose une remise de 40 % sur Claude à tous les niveaux d'administration américaine, sans minimum d'achat, pour une économie estimée à 1 Md$. L'offre s'appuie sur l'autorisation FedRAMP High de Claude for Government.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+    },
+    {
+      "id": "n25",
+      "theme": "sciences",
+      "subtopic": "biotech",
+      "importance": 2,
+      "short_title": "Claude et médicaments",
+      "title": "Premiers résultats de Claude dans le développement de médicaments",
+      "summary": "Avec six développeurs dont BigHat et Bristol Myers Squibb, Claude a servi à concevoir des thérapies et des dizaines de milliers d'anticorps en un mois, et à réduire fortement le temps de revue documentaire. Les projets restent surtout précliniques, avec une extension aux essais cliniques prévue.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+    },
+    {
+      "id": "n26",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Diplomatie régionale Iran",
+      "title": "Arabie saoudite, Turquie et Pakistan rencontrent la direction iranienne à Téhéran",
+      "summary": "Premier contact de haut niveau à quatre lundi, avec l'engagement de poursuivre les discussions. Les attentes d'une possible réouverture d'Ormuz ont fait reculer légèrement le pétrole.",
+      "source": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/business/crude-oil-prices-fall-for-second-day-as-brent-slips-below-115-amid-us-iran-diplomatic-talks"
     }
   ],
   "edges": [
@@ -306,12 +306,6 @@
       "explanation": "Skills ouverts et règles de design pour agents répondent au même besoin : cadrer le comportement des agents."
     },
     {
-      "source": "n18",
-      "target": "n19",
-      "type": "meme_sujet",
-      "explanation": "Entraînement en résistance et GLP-1 se rejoignent sur la préservation de la masse musculaire et la santé à long terme."
-    },
-    {
       "source": "n13",
       "target": "n22",
       "type": "cause",
@@ -328,6 +322,36 @@
       "target": "n23",
       "type": "tension",
       "explanation": "Les investisseurs sanctionnent déjà le capex IA de Meta, alors qu'Anthropic demande au marché de valoriser un lab frontier encore très consommateur de capital."
+    },
+    {
+      "source": "n26",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "L'espoir d'une réouverture d'Ormuz via la médiation régionale retire une partie de la prime de risque, d'où le repli du Brent."
+    },
+    {
+      "source": "n26",
+      "target": "n01",
+      "type": "tension",
+      "explanation": "La médiation des voisins du Golfe se heurte aux conditions maximalistes de Téhéran (levée des sanctions, uranium conservé)."
+    },
+    {
+      "source": "n24",
+      "target": "n23",
+      "type": "meme_sujet",
+      "explanation": "La commande publique américaine alimente la trajectoire de revenus mise en avant dans le dossier d'introduction en Bourse."
+    },
+    {
+      "source": "n25",
+      "target": "n23",
+      "type": "meme_sujet",
+      "explanation": "Les cas d'usage en sciences de la vie participent au récit de diversification des revenus avant l'IPO."
+    },
+    {
+      "source": "n09",
+      "target": "n05",
+      "type": "meme_sujet",
+      "explanation": "Fed et BCE anticipent toutes deux un resserrement possible en décembre face à l'inflation énergétique."
     }
   ]
 }

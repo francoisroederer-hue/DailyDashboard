@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:30:00Z",
+  "generated_at": "2026-10-29T04:10:21Z",
   "nodes": [
     {
       "id": "n01",
@@ -8,7 +8,7 @@
       "importance": 3,
       "short_title": "Ormuz fermé, Iran bloqué",
       "title": "Ormuz toujours fermé, Iran fixe ses conditions aux pourparlers",
-      "summary": "Téhéran exige levée des sanctions et fin des menaces avant toute négociation, et refuse que de l'uranium enrichi quitte le pays. Le CENTCOM maintient le blocus des ports iraniens ; les échanges restent indirects via le Pakistan, avec des navires touchés par des mines ou attaques.",
+      "summary": "Téhéran exige levée des sanctions et fin des menaces avant toute négociation, et refuse que de l'uranium enrichi quitte le pays. Le CENTCOM maintient le blocus des ports iraniens ; les échanges restent indirects via le Pakistan, avec des navires touchés par des mines ou attaques. Trump dit hésiter entre un accord et de nouvelles frappes, alors que Téhéran propose de rouvrir le détroit contre la levée du blocus.",
       "source": "Fox News",
       "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20"
     },
@@ -52,7 +52,7 @@
       "importance": 3,
       "short_title": "BCE du 29 octobre",
       "title": "La BCE se réunit sous pression énergie et crise française",
-      "summary": "La BCE devrait laisser son taux de dépôt à 2,5 % jeudi, après les hausses de juin et septembre. Les marchés misent à environ 80 % sur une nouvelle hausse de 25 pb en décembre, avec une inflation à 3,8 % portée par l'énergie et le stress sur la dette française.",
+      "summary": "La BCE se réunit ce jeudi avec un maintien du taux de dépôt à 2,5 % largement attendu et un possible signal de hausse en décembre. L'attention porte sur les obligations françaises, l'éventuel recours au TPI et les spéculations sur l'avenir de Lagarde.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/10/23/frances-bond-drama-takes-centre-stage-ahead-of-ecb-rate-decision"
     },
@@ -94,11 +94,11 @@
       "theme": "finance",
       "subtopic": "banques-centrales",
       "importance": 2,
-      "short_title": "Fed : statu quo",
-      "title": "Fed le 28 octobre : statu quo attendu, hausse en décembre envisagée",
-      "summary": "Un maintien à 3,75-4,00 % est quasi acquis, mais le marché parie plutôt sur une hausse en décembre. Le 10 ans américain repasse à 5 % et le PCE de septembre est attendu à 3,7 % sur un an.",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
+      "short_title": "Fed : statu quo, 2 voix",
+      "title": "La Fed maintient ses taux à 3,75–4,00 %, deux membres voulaient hausser",
+      "summary": "La Fed a laissé son taux directeur inchangé le 28 octobre après la hausse de septembre, mais deux votants (Cook et Hammack) auraient préféré +25 pb. Le communiqué juge l'inflation toujours élevée ; les marchés misent sur un possible relèvement en décembre.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
     },
     {
       "id": "n10",
@@ -206,7 +206,7 @@
       "importance": 3,
       "short_title": "Anthropic dépose son S-1",
       "title": "Anthropic dépose son S-1 pour une introduction en Bourse au Nasdaq",
-      "summary": "Anthropic a déposé le 26 octobre un formulaire S-1 auprès de la SEC pour une cotation sur le Nasdaq sous le symbole ANT, avec Goldman Sachs et Morgan Stanley comme banques. Le nombre d'actions et la fourchette de prix ne sont pas fixés. C'est un test grandeur nature de l'appétit des marchés pour les labs frontier.",
+      "summary": "Anthropic a déposé le 26 octobre un formulaire S-1 auprès de la SEC pour une cotation sur le Nasdaq sous le symbole ANT, avec Goldman Sachs et Morgan Stanley comme banques. Le nombre d'actions et la fourchette de prix ne sont pas fixés. C'est un test grandeur nature de l'appétit des marchés pour les labs frontier. Selon une source unique non recoupée, le dépôt évoque un chiffre d'affaires de 19,7 Md$ sur 12 mois et un lancement du marketing dès la semaine du 9 novembre.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/s1-sec"
     },
@@ -242,6 +242,17 @@
       "summary": "Premier contact de haut niveau à quatre lundi, avec l'engagement de poursuivre les discussions. Les attentes d'une possible réouverture d'Ormuz ont fait reculer légèrement le pétrole.",
       "source": "Free Press Journal",
       "url": "https://www.freepressjournal.in/business/crude-oil-prices-fall-for-second-day-as-brent-slips-below-115-amid-us-iran-diplomatic-talks"
+    },
+    {
+      "id": "n27",
+      "theme": "sciences",
+      "subtopic": "ai_science",
+      "importance": 2,
+      "short_title": "Anthropic AI for Science",
+      "title": "Anthropic élargit son programme AI for Science à 20 groupes de recherche",
+      "summary": "Le programme accueille vingt groupes scientifiques dans le monde, fondations et instituts de recherche inclus. Il prolonge les partenariats en santé et sciences du vivant, au moment où Claude affiche ses premiers résultats en développement de médicaments.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
     }
   ],
   "edges": [
@@ -352,6 +363,12 @@
       "target": "n05",
       "type": "meme_sujet",
       "explanation": "Fed et BCE anticipent toutes deux un resserrement possible en décembre face à l'inflation énergétique."
+    },
+    {
+      "source": "n27",
+      "target": "n25",
+      "type": "meme_sujet",
+      "explanation": "Les deux annonces relèvent de la même stratégie d'Anthropic : placer Claude dans les laboratoires, de l'accès académique aux partenariats pharma."
     }
   ]
 }

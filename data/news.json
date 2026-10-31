@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:15:00Z",
+  "generated_at": "2026-10-31T04:20:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -17,11 +17,11 @@
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 115 $",
-      "title": "Le Brent reste autour de 115 $ malgré un léger repli",
-      "summary": "Le baril de Brent s'échange vers 114,7 $ mardi, en baisse d'environ 1 % grâce aux signaux de diplomatie régionale, mais il reste en hausse d'environ 5 % sur une semaine. Les flux par Ormuz demeurent nettement sous la normale, ce qui maintient la prime de risque.",
-      "source": "FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-114-68-tuesday-fomc-day-one-after-monday-round-trip-tehran-talks-bull-120-bear-108/"
+      "short_title": "Brent à 117 $",
+      "title": "Le Brent grimpe vers 117 $, plus haut depuis avril",
+      "summary": "Le Brent a bondi vendredi, porté par les incidents de tankers autour d'Ormuz, et affiche environ +13 % sur octobre. Les flux restent plus de 40 % sous la normale d'avant-guerre selon Kpler. Le contrat de décembre expirait, ce qui décale le benchmark sur janvier, environ 4 $ moins cher.",
+      "source": "OilPrice / FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-116-friday-hormuz-mine-strikes-december-expiry-fourth-monthly-gain-bull-120-bear-108/"
     },
     {
       "id": "n04",
@@ -66,39 +66,6 @@
       "summary": "La Fed a laissé son taux directeur inchangé le 28 octobre après la hausse de septembre, mais deux votants (Cook et Hammack) auraient préféré +25 pb. Le communiqué juge l'inflation toujours élevée ; les marchés misent sur un possible relèvement en décembre.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
-    },
-    {
-      "id": "n10",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 3,
-      "short_title": "Anti-distillation Claude",
-      "title": "Anthropic renforce ses défenses contre la distillation",
-      "summary": "Anthropic dit avoir réduit de 10 à 100 fois ce que les distilleurs extraient du raisonnement de Claude, via restriction du raisonnement, classifieurs et bannissements. L'enjeu est présenté comme sécuritaire et de sécurité nationale.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/distillation-defenses"
-    },
-    {
-      "id": "n11",
-      "theme": "tech",
-      "subtopic": "llm_agents",
-      "importance": 3,
-      "short_title": "Agent Skills à la LF",
-      "title": "Anthropic cède Agent Skills à l'Agentic AI Foundation",
-      "summary": "Le standard de packaging d'instructions pour agents passe sous gouvernance de la Linux Foundation, avec plus de 70 plateformes déjà compatibles. Au programme : versions, processus de proposition et guide de sécurité.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    },
-    {
-      "id": "n13",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "GPT-6 pour tous",
-      "title": "OpenAI déploie GPT-6 à tous les utilisateurs de ChatGPT",
-      "summary": "Le modèle arrive avec une interface dite intelligente, mêlant visuels et interactions, après un déploiement initial payant. Le nommage des variantes reste confus selon les sources.",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-for-everyone/"
     },
     {
       "id": "n16",
@@ -189,28 +156,6 @@
       "url": "https://www.anthropic.com/research/early-progress-drug-development"
     },
     {
-      "id": "n26",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
-      "importance": 2,
-      "short_title": "Diplomatie régionale Iran",
-      "title": "Arabie saoudite, Turquie et Pakistan rencontrent la direction iranienne à Téhéran",
-      "summary": "Premier contact de haut niveau à quatre lundi, avec l'engagement de poursuivre les discussions. Les attentes d'une possible réouverture d'Ormuz ont fait reculer légèrement le pétrole.",
-      "source": "Free Press Journal",
-      "url": "https://www.freepressjournal.in/business/crude-oil-prices-fall-for-second-day-as-brent-slips-below-115-amid-us-iran-diplomatic-talks"
-    },
-    {
-      "id": "n27",
-      "theme": "sciences",
-      "subtopic": "ai_science",
-      "importance": 2,
-      "short_title": "Anthropic AI for Science",
-      "title": "Anthropic élargit son programme AI for Science à 20 groupes de recherche",
-      "summary": "Le programme accueille vingt groupes scientifiques dans le monde, fondations et instituts de recherche inclus. Il prolonge les partenariats en santé et sciences du vivant, au moment où Claude affiche ses premiers résultats en développement de médicaments.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
-    },
-    {
       "id": "n28",
       "theme": "finance",
       "subtopic": "banques-centrales",
@@ -242,6 +187,61 @@
       "summary": "Trump dit avoir approuvé un contact de Vance avec Téhéran sur les besoins médicaux, tout en niant relancer des pourparlers de paix. Araghchi affirme rester en contact étroit avec les médiateurs sur son plan de réouverture d'Ormuz en sept jours.",
       "source": "Al Jazeera",
       "url": "https://aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?update=5097245"
+    },
+    {
+      "id": "n32",
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 3,
+      "short_title": "Mines sur tankers Ormuz",
+      "title": "Quatre tankers touchés par des mines près d'Ormuz selon les Gardiens",
+      "summary": "Les Gardiens de la révolution affirment que quatre tankers ont heurté des mines en 24 h dans et près du détroit ; le CENTCOM conteste que la voie principale soit minée. Un autre navire aurait été touché par un projectile non identifié. Le trafic continue malgré le risque.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html"
+    },
+    {
+      "id": "n33",
+      "theme": "finance",
+      "subtopic": "inflation",
+      "importance": 3,
+      "short_title": "Inflation zone euro",
+      "title": "Inflation d'octobre : Italie 5,4 %, Espagne 4,9 %, France 3,4 %, Allemagne 2,8 %",
+      "summary": "Les chiffres nationaux d'octobre confirment une inflation tirée par l'énergie, après 3,8 % pour la zone euro en septembre. Le flash agrégé sort le 4 novembre, avec des prévisions entre 3,7 et 4 %. La dispersion entre pays complique la tâche de la BCE.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october"
+    },
+    {
+      "id": "n34",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Mistral Large 4 open",
+      "title": "Mistral publie les poids de Large 4",
+      "summary": "Mistral ouvre les poids de son modèle Large 4 (calendrier exact des poids à confirmer selon les sources), avec une licence qui impose un accord commercial aux revendeurs en mode service. Page mistral.ai non accessible depuis cette session : info issue d'un digest secondaire.",
+      "source": "Kingy AI (digest)",
+      "url": "https://kingy.ai/news/2026-10-30-ai-launch-radar"
+    },
+    {
+      "id": "n35",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 3,
+      "short_title": "Gemini 4 Carbon restreint",
+      "title": "Google déploie Gemini 4 Carbon à un cercle restreint de défenseurs cyber",
+      "summary": "Le modèle est d'abord réservé à des défenseurs cyber de confiance et déjà testé par le gouvernement américain. Google l'annonce au-dessus de Claude Opus 5.5 sur l'indice Artificial Analysis. Google ouvre aussi Genie 4 à des testeurs. Source secondaire, page DeepMind non accessible.",
+      "source": "AI Daily Digest",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7"
+    },
+    {
+      "id": "n36",
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "GPT-6.1 Terra",
+      "title": "OpenAI lance GPT-6.1 Terra, modèle intermédiaire pour apps et écran",
+      "summary": "Modèle milieu de gamme annoncé autour de 1 $ / 5 $ par million de tokens, déployé dans les modes Work et Codex de ChatGPT. Source secondaire, openai.com non accessible depuis cette session.",
+      "source": "The Neuron (digest)",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/"
     }
   ],
   "edges": [
@@ -288,28 +288,10 @@
       "explanation": "La sécurité d'approvisionnement à court terme (gaz, charbon) entre en friction avec les ambitions climat à la COP31."
     },
     {
-      "source": "n13",
-      "target": "n22",
-      "type": "cause",
-      "explanation": "Le déploiement massif de GPT-6 auprès du grand public élargit l'exposition aux mineurs et alimente les poursuites sur la sécurité des produits."
-    },
-    {
       "source": "n09",
       "target": "n06",
       "type": "meme_sujet",
       "explanation": "Remontée des taux américains (10 ans à 5 %) et français (OAT à 5 %) : même pression mondiale sur les obligations souveraines."
-    },
-    {
-      "source": "n26",
-      "target": "n02",
-      "type": "cause",
-      "explanation": "L'espoir d'une réouverture d'Ormuz via la médiation régionale retire une partie de la prime de risque, d'où le repli du Brent."
-    },
-    {
-      "source": "n26",
-      "target": "n01",
-      "type": "tension",
-      "explanation": "La médiation des voisins du Golfe se heurte aux conditions maximalistes de Téhéran (levée des sanctions, uranium conservé)."
     },
     {
       "source": "n24",
@@ -328,12 +310,6 @@
       "target": "n05",
       "type": "meme_sujet",
       "explanation": "Fed et BCE anticipent toutes deux un resserrement possible en décembre face à l'inflation énergétique."
-    },
-    {
-      "source": "n27",
-      "target": "n25",
-      "type": "meme_sujet",
-      "explanation": "Les deux annonces relèvent de la même stratégie d'Anthropic : placer Claude dans les laboratoires, de l'accès académique aux partenariats pharma."
     },
     {
       "source": "n29",
@@ -360,10 +336,40 @@
       "explanation": "Un geste humanitaire américain coexiste avec le blocus maintenu et les conditions maximalistes de Téhéran."
     },
     {
-      "source": "n30",
-      "target": "n26",
+      "source": "n32",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "Les incidents de mines et de tirs sur les tankers réintroduisent une prime de risque sur l'offre transitant par Ormuz, ce qui pousse le Brent vers 117 $."
+    },
+    {
+      "source": "n32",
+      "target": "n01",
       "type": "meme_sujet",
-      "explanation": "Contact américain et médiation régionale convergent vers le même plan de réouverture d'Ormuz."
+      "explanation": "Ces incidents sont l'épisode maritime du même blocage d'Ormuz et du bras de fer sur les conditions de négociation."
+    },
+    {
+      "source": "n02",
+      "target": "n33",
+      "type": "cause",
+      "explanation": "Le renchérissement de l'énergie se répercute sur les prix à la consommation, d'où l'inflation à 3,8 % en septembre et les écarts nationaux d'octobre."
+    },
+    {
+      "source": "n33",
+      "target": "n05",
+      "type": "cause",
+      "explanation": "Une inflation énergétique qui persiste limite la marge de la BCE et nourrit la possibilité d'une hausse en décembre."
+    },
+    {
+      "source": "n34",
+      "target": "n35",
+      "type": "tension",
+      "explanation": "Poids ouverts chez Mistral contre accès gaté pour raisons de sécurité chez Google : deux stratégies opposées de diffusion des modèles frontier."
+    },
+    {
+      "source": "n35",
+      "target": "n36",
+      "type": "meme_sujet",
+      "explanation": "Même journée de lancements chez les grands labs, avec un positionnement différent : haut de gamme restreint contre milieu de gamme déployé largement."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:20:00Z",
+  "generated_at": "2026-11-01T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -242,6 +242,17 @@
       "summary": "Modèle milieu de gamme annoncé autour de 1 $ / 5 $ par million de tokens, déployé dans les modes Work et Codex de ChatGPT. Source secondaire, openai.com non accessible depuis cette session.",
       "source": "The Neuron (digest)",
       "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/"
+    },
+    {
+      "id": "n37",
+      "theme": "sciences",
+      "subtopic": "ai_for_science",
+      "importance": 2,
+      "short_title": "IA pour la science",
+      "title": "Anthropic étend son programme AI for Science aux fondations et instituts",
+      "summary": "Le programme d'accès à Claude pour la recherche s'ouvre désormais aux fondations et aux institutions de recherche, pas seulement aux laboratoires individuels. Cela s'inscrit dans l'effort de l'entreprise pour positionner ses modèles comme outils de découverte scientifique, en parallèle des travaux sur le développement de médicaments.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
     }
   ],
   "edges": [
@@ -370,6 +381,12 @@
       "target": "n36",
       "type": "meme_sujet",
       "explanation": "Même journée de lancements chez les grands labs, avec un positionnement différent : haut de gamme restreint contre milieu de gamme déployé largement."
+    },
+    {
+      "source": "n37",
+      "target": "n25",
+      "type": "meme_sujet",
+      "explanation": "Deux volets de la même stratégie : faire de Claude un outil de recherche, du programme académique ouvert aux institutions jusqu'aux premiers résultats en pharma."
     }
   ]
 }

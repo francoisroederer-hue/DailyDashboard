@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T04:30:00Z",
+  "generated_at": "2026-11-02T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -17,11 +17,11 @@
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent à 117 $",
-      "title": "Le Brent grimpe vers 117 $, plus haut depuis avril",
-      "summary": "Le Brent a bondi vendredi, porté par les incidents de tankers autour d'Ormuz, et affiche environ +13 % sur octobre. Les flux restent plus de 40 % sous la normale d'avant-guerre selon Kpler. Le contrat de décembre expirait, ce qui décale le benchmark sur janvier, environ 4 $ moins cher.",
-      "source": "OilPrice / FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-116-friday-hormuz-mine-strikes-december-expiry-fourth-monthly-gain-bull-120-bear-108/"
+      "short_title": "Brent ~112 $, en repli",
+      "title": "Le Brent reste autour de 112 $ mais recule sur les pourparlers de Doha",
+      "summary": "Le baril s'inscrit en légère baisse lundi, les discussions Iran–Qatar se prolongeant sur un troisième jour, après un pic proche de 117 $. Le marché reste très volatil : le détroit d'Ormuz est toujours perturbé et le risque d'une reprise des frappes américaines après le scrutin pèse sur les prix.",
+      "source": "Reuters / FX Leaders",
+      "url": "https://www.fxleaders.com/news/2026/11/01/wti-and-brent-crude-oil-prices-fall-2-as-u-s-iran-peace-talks-raise-hopes-of-de-escalation/"
     },
     {
       "id": "n04",
@@ -68,17 +68,6 @@
       "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
     },
     {
-      "id": "n16",
-      "theme": "climat",
-      "subtopic": "politique-climatique",
-      "importance": 2,
-      "short_title": "COP31 à Antalya",
-      "title": "COP31 en préparation : électrification et NDC en jeu",
-      "summary": "La conférence se tient du 9 au 20 novembre en Turquie. La présidence pousse l'objectif d'électrification « 35 d'ici 2035 » et réclame les NDC manquantes, tandis que l'UE défend 1,5 °C.",
-      "source": "Lovguiden / UE",
-      "url": "https://www.lovguiden.dk/en/det-offentlige/eu-udenrigstjenesten/2026-10-16-eus-fem-prioriteter-forud-for-cop31-15-grader-og-klimafinansiering"
-    },
-    {
       "id": "n17",
       "theme": "climat",
       "subtopic": "europe",
@@ -99,17 +88,6 @@
       "summary": "Une cohorte d'environ 147 000 adultes suivie jusqu'à 30 ans associe ce volume à 13 % de risque de décès en moins. Étude observationnelle et auto-déclarée, donc à nuancer.",
       "source": "Outside Online",
       "url": "https://www.outsideonline.com/health/training-performance/strength-training-minutes-longevity/?scope=anon"
-    },
-    {
-      "id": "n21",
-      "theme": "finance",
-      "subtopic": "ccr_xva",
-      "importance": 2,
-      "short_title": "FRTB dans le pricing XVA",
-      "title": "La moitié des banques européennes intègrent déjà FRTB dans le XVA",
-      "summary": "Les banques européennes sont quatre fois plus susceptibles que les nord-américaines d'intégrer FRTB au capital de leur XVA, du fait des retards américains. Entrée en vigueur UE attendue en 2027.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/benchmarking/xvas/7962533/half-of-european-banks-already-embed-frtb%C2%A0into-xva-pricing"
     },
     {
       "id": "n22",
@@ -182,11 +160,11 @@
       "theme": "geopol",
       "subtopic": "moyen-orient",
       "importance": 2,
-      "short_title": "Vance sonde Téhéran",
-      "title": "Trump valide une approche de Vance sur les fournitures médicales iraniennes",
-      "summary": "Trump dit avoir approuvé un contact de Vance avec Téhéran sur les besoins médicaux, tout en niant relancer des pourparlers de paix. Araghchi affirme rester en contact étroit avec les médiateurs sur son plan de réouverture d'Ormuz en sept jours.",
-      "source": "Al Jazeera",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?update=5097245"
+      "short_title": "Vance relance Téhéran",
+      "title": "Vance contacte le CSSN iranien pour relancer les pourparlers",
+      "summary": "Le vice-président américain a pris contact avec le secrétaire du Conseil suprême de sécurité nationale iranien. Parallèlement, Téhéran consulte des médiateurs qataris à Doha et conditionne sa proposition de réouverture d'Ormuz à la réponse de Washington.",
+      "source": "OilPrice",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html"
     },
     {
       "id": "n32",
@@ -253,6 +231,17 @@
       "summary": "Le programme d'accès à Claude pour la recherche s'ouvre désormais aux fondations et aux institutions de recherche, pas seulement aux laboratoires individuels. Cela s'inscrit dans l'effort de l'entreprise pour positionner ses modèles comme outils de découverte scientifique, en parallèle des travaux sur le développement de médicaments.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
+      "id": "n38",
+      "theme": "geopol",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Midterms US le 3 nov",
+      "title": "Élections de mi-mandat américaines mardi 3 novembre",
+      "summary": "Tous les sièges de la Chambre et 35 sénateurs sont en jeu. Les marchés de prédiction donnent environ 92 % de chances aux démocrates à la Chambre et près de 65 % au Sénat ; les analystes anticipent plus de volatilité autour du vote.",
+      "source": "Capital.com / Rio Times",
+      "url": "https://www.riotimesonline.com/us-midterms-2026/"
     }
   ],
   "edges": [
@@ -293,52 +282,16 @@
       "explanation": "Des prix du gaz élevés et des stocks bas poussent Bruxelles vers des mesures de réduction de la demande."
     },
     {
-      "source": "n17",
-      "target": "n16",
-      "type": "tension",
-      "explanation": "La sécurité d'approvisionnement à court terme (gaz, charbon) entre en friction avec les ambitions climat à la COP31."
-    },
-    {
-      "source": "n09",
-      "target": "n06",
-      "type": "meme_sujet",
-      "explanation": "Remontée des taux américains (10 ans à 5 %) et français (OAT à 5 %) : même pression mondiale sur les obligations souveraines."
-    },
-    {
       "source": "n24",
       "target": "n23",
       "type": "meme_sujet",
       "explanation": "La commande publique américaine alimente la trajectoire de revenus mise en avant dans le dossier d'introduction en Bourse."
     },
     {
-      "source": "n25",
-      "target": "n23",
-      "type": "meme_sujet",
-      "explanation": "Les cas d'usage en sciences de la vie participent au récit de diversification des revenus avant l'IPO."
-    },
-    {
-      "source": "n09",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Fed et BCE anticipent toutes deux un resserrement possible en décembre face à l'inflation énergétique."
-    },
-    {
       "source": "n29",
       "target": "n23",
       "type": "tension",
       "explanation": "Le marché punit les labs et hyperscalers dont le capex IA ne se traduit pas en cash, au moment où Anthropic sollicite la Bourse."
-    },
-    {
-      "source": "n28",
-      "target": "n05",
-      "type": "meme_sujet",
-      "explanation": "Le départ annoncé de Lagarde se superpose à un hold hawkish et complique la lecture de la trajectoire de la BCE."
-    },
-    {
-      "source": "n28",
-      "target": "n06",
-      "type": "tension",
-      "explanation": "Une transition à la tête de la BCE ajoute de l'incertitude alors que la dette française approche 5 % sans filet clair."
     },
     {
       "source": "n30",
@@ -353,22 +306,10 @@
       "explanation": "Les incidents de mines et de tirs sur les tankers réintroduisent une prime de risque sur l'offre transitant par Ormuz, ce qui pousse le Brent vers 117 $."
     },
     {
-      "source": "n32",
-      "target": "n01",
-      "type": "meme_sujet",
-      "explanation": "Ces incidents sont l'épisode maritime du même blocage d'Ormuz et du bras de fer sur les conditions de négociation."
-    },
-    {
       "source": "n02",
       "target": "n33",
       "type": "cause",
       "explanation": "Le renchérissement de l'énergie se répercute sur les prix à la consommation, d'où l'inflation à 3,8 % en septembre et les écarts nationaux d'octobre."
-    },
-    {
-      "source": "n33",
-      "target": "n05",
-      "type": "cause",
-      "explanation": "Une inflation énergétique qui persiste limite la marge de la BCE et nourrit la possibilité d'une hausse en décembre."
     },
     {
       "source": "n34",
@@ -377,16 +318,16 @@
       "explanation": "Poids ouverts chez Mistral contre accès gaté pour raisons de sécurité chez Google : deux stratégies opposées de diffusion des modèles frontier."
     },
     {
-      "source": "n35",
-      "target": "n36",
-      "type": "meme_sujet",
-      "explanation": "Même journée de lancements chez les grands labs, avec un positionnement différent : haut de gamme restreint contre milieu de gamme déployé largement."
+      "source": "n38",
+      "target": "n30",
+      "type": "cause",
+      "explanation": "Trump a laissé entendre qu'aucune nouvelle attaque n'aurait lieu avant le scrutin : le calendrier électoral ouvre une fenêtre diplomatique pour Vance."
     },
     {
-      "source": "n37",
-      "target": "n25",
-      "type": "meme_sujet",
-      "explanation": "Deux volets de la même stratégie : faire de Claude un outil de recherche, du programme académique ouvert aux institutions jusqu'aux premiers résultats en pharma."
+      "source": "n38",
+      "target": "n02",
+      "type": "tension",
+      "explanation": "Les prix du pétrole intègrent à la fois l'espoir d'un accord et la crainte d'une reprise des frappes juste après le vote."
     }
   ]
 }

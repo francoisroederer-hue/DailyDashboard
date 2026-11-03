@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:30:00Z",
+  "generated_at": "2026-11-03T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -8,7 +8,7 @@
       "importance": 3,
       "short_title": "Ormuz fermé, Iran bloqué",
       "title": "Ormuz toujours fermé, Iran fixe ses conditions aux pourparlers",
-      "summary": "Téhéran exige levée des sanctions et fin des menaces avant toute négociation, et refuse que de l'uranium enrichi quitte le pays. Le CENTCOM maintient le blocus des ports iraniens ; les échanges restent indirects via le Pakistan, avec des navires touchés par des mines ou attaques. Trump dit hésiter entre un accord et de nouvelles frappes, alors que Téhéran propose de rouvrir le détroit contre la levée du blocus.",
+      "summary": "Téhéran se dit prêt à rouvrir Ormuz sous deux jours si Washington met fin à la guerre sur tous les fronts, mais exige levée du blocus et des sanctions. Le CENTCOM maintient le blocus ; aucun accord n'est signé et des informations font état d'une frappe américaine sur l'île de Qeshm.",
       "source": "Fox News",
       "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20"
     },
@@ -17,11 +17,11 @@
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent ~112 $, en repli",
-      "title": "Le Brent reste autour de 112 $ mais recule sur les pourparlers de Doha",
-      "summary": "Le baril s'inscrit en légère baisse lundi, les discussions Iran–Qatar se prolongeant sur un troisième jour, après un pic proche de 117 $. Le marché reste très volatil : le détroit d'Ormuz est toujours perturbé et le risque d'une reprise des frappes américaines après le scrutin pèse sur les prix.",
-      "source": "Reuters / FX Leaders",
-      "url": "https://www.fxleaders.com/news/2026/11/01/wti-and-brent-crude-oil-prices-fall-2-as-u-s-iran-peace-talks-raise-hopes-of-de-escalation/"
+      "short_title": "Brent -7 % à 105 $",
+      "title": "Le Brent chute de plus de 7 % à ~105 $ sur les signaux de dialogue US–Iran",
+      "summary": "Lundi, le baril a connu sa plus forte baisse depuis juillet, la Maison Blanche et Téhéran laissant entrevoir une voie diplomatique avant les élections. Mardi, il remonte légèrement après des informations sur une frappe américaine à Qeshm. Goldman relève pourtant sa prévision Brent de décembre à 105 $.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-slide-trump-hope-iran-talks-rcna607107"
     },
     {
       "id": "n04",
@@ -239,9 +239,20 @@
       "importance": 3,
       "short_title": "Midterms US le 3 nov",
       "title": "Élections de mi-mandat américaines mardi 3 novembre",
-      "summary": "Tous les sièges de la Chambre et 35 sénateurs sont en jeu. Les marchés de prédiction donnent environ 92 % de chances aux démocrates à la Chambre et près de 65 % au Sénat ; les analystes anticipent plus de volatilité autour du vote.",
+      "summary": "Tous les sièges de la Chambre et 35 sénateurs sont en jeu, sur fond d'économie et de prix en tête des préoccupations. Les démocrates sont favoris à la Chambre ; certains analystes jugent les signaux de détente de Trump tactiques avant le vote.",
       "source": "Capital.com / Rio Times",
       "url": "https://www.riotimesonline.com/us-midterms-2026/"
+    },
+    {
+      "id": "n39",
+      "theme": "finance",
+      "subtopic": "ia_marches",
+      "importance": 2,
+      "short_title": "Nasdaq -10 %, OpenAI",
+      "title": "Repli de ~10 % du Nasdaq 100 et levée d'OpenAI revue à la baisse",
+      "summary": "Les craintes de bulle IA ont fait reculer le Nasdaq 100 d'environ 10 % en trois semaines. OpenAI chercherait désormais ~20 Md$ au lieu de 30, tout en explorant les TPU de Google comme seconde source de puces. Le contexte pèse sur l'IPO d'Anthropic.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/"
     }
   ],
   "edges": [
@@ -328,6 +339,18 @@
       "target": "n02",
       "type": "tension",
       "explanation": "Les prix du pétrole intègrent à la fois l'espoir d'un accord et la crainte d'une reprise des frappes juste après le vote."
+    },
+    {
+      "source": "n29",
+      "target": "n39",
+      "type": "cause",
+      "explanation": "Les doutes sur la rentabilité du capex IA alimentent la correction des valeurs tech et durcissent le financement des labs."
+    },
+    {
+      "source": "n39",
+      "target": "n23",
+      "type": "tension",
+      "explanation": "Une fenêtre de marché dégradée complique le pari d'une IPO de plusieurs centaines de milliards pour Anthropic."
     }
   ]
 }

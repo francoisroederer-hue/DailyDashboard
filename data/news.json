@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:30:00Z",
+  "generated_at": "2026-11-04T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -8,7 +8,7 @@
       "importance": 3,
       "short_title": "Ormuz fermé, Iran bloqué",
       "title": "Ormuz toujours fermé, Iran fixe ses conditions aux pourparlers",
-      "summary": "Téhéran se dit prêt à rouvrir Ormuz sous deux jours si Washington met fin à la guerre sur tous les fronts, mais exige levée du blocus et des sanctions. Le CENTCOM maintient le blocus ; aucun accord n'est signé et des informations font état d'une frappe américaine sur l'île de Qeshm.",
+      "summary": "Téhéran se dit prêt à rouvrir Ormuz rapidement si Washington lève blocus et sanctions, mais reconnaît que le dernier cycle de pourparlers médiés par le Qatar s'est achevé sans percée et juge la réponse américaine insatisfaisante. Des frappes américaines sur l'île de Qeshm sont rapportées.",
       "source": "Fox News",
       "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20"
     },
@@ -19,9 +19,9 @@
       "importance": 3,
       "short_title": "Brent -7 % à 105 $",
       "title": "Le Brent chute de plus de 7 % à ~105 $ sur les signaux de dialogue US–Iran",
-      "summary": "Lundi, le baril a connu sa plus forte baisse depuis juillet, la Maison Blanche et Téhéran laissant entrevoir une voie diplomatique avant les élections. Mardi, il remonte légèrement après des informations sur une frappe américaine à Qeshm. Goldman relève pourtant sa prévision Brent de décembre à 105 $.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/energy/oil-prices-slide-trump-hope-iran-talks-rcna607107"
+      "summary": "Le baril est passé sous 105 $ lundi sur les espoirs de dialogue, puis a rebondi vers 106-107 $ mardi après les frappes sur Qeshm et l'échec des pourparlers qataris. Le marché oscille au gré des signaux contradictoires de Washington et Téhéran.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_conflicting_iran_signals-03-nov-2026-185001-article/"
     },
     {
       "id": "n04",
@@ -237,11 +237,11 @@
       "theme": "geopol",
       "subtopic": "usa",
       "importance": 3,
-      "short_title": "Midterms US le 3 nov",
-      "title": "Élections de mi-mandat américaines mardi 3 novembre",
-      "summary": "Tous les sièges de la Chambre et 35 sénateurs sont en jeu, sur fond d'économie et de prix en tête des préoccupations. Les démocrates sont favoris à la Chambre ; certains analystes jugent les signaux de détente de Trump tactiques avant le vote.",
-      "source": "Capital.com / Rio Times",
-      "url": "https://www.riotimesonline.com/us-midterms-2026/"
+      "short_title": "Démocrates reprennent Chambre",
+      "title": "Midterms : les démocrates reprennent la Chambre et arrachent le Texas au Sénat",
+      "summary": "Selon les projections de CNN, NBC et CBS, les démocrates remportent la Chambre avec une large majorité et basculent plusieurs sièges sénatoriaux, dont le Texas et la Caroline du Nord. Le contrôle du Sénat reste incertain au moment de la rédaction. Ce résultat redessine l'équilibre des pouvoirs pour la fin du mandat de Trump.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress"
     },
     {
       "id": "n39",

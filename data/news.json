@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:30:00Z",
+  "generated_at": "2026-11-05T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -17,11 +17,11 @@
       "theme": "finance",
       "subtopic": "energie",
       "importance": 3,
-      "short_title": "Brent -7 % à 105 $",
-      "title": "Le Brent chute de plus de 7 % à ~105 $ sur les signaux de dialogue US–Iran",
-      "summary": "Le baril est passé sous 105 $ lundi sur les espoirs de dialogue, puis a rebondi vers 106-107 $ mardi après les frappes sur Qeshm et l'échec des pourparlers qataris. Le marché oscille au gré des signaux contradictoires de Washington et Téhéran.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_conflicting_iran_signals-03-nov-2026-185001-article/"
+      "short_title": "Brent sous 100 $",
+      "title": "Le Brent passe sous 100 $, vers 93 $, sur les espoirs de deal US–Iran",
+      "summary": "Après un recul de plus de 7 % lundi, le baril a encore chuté mercredi d'environ 8 % et évolue jeudi autour de 93 $, plus bas depuis deux mois. Le marché price une désescalade via la médiation du Qatar, malgré le refus iranien de toute diplomatie sous contrainte.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
     },
     {
       "id": "n04",
@@ -88,17 +88,6 @@
       "summary": "Une cohorte d'environ 147 000 adultes suivie jusqu'à 30 ans associe ce volume à 13 % de risque de décès en moins. Étude observationnelle et auto-déclarée, donc à nuancer.",
       "source": "Outside Online",
       "url": "https://www.outsideonline.com/health/training-performance/strength-training-minutes-longevity/?scope=anon"
-    },
-    {
-      "id": "n22",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "Texas poursuit OpenAI",
-      "title": "Le Texas poursuit OpenAI et Sam Altman (23 oct.)",
-      "summary": "Le procureur général du Texas accuse OpenAI et son PDG de pratiques commerciales trompeuses et d'atteintes à la sécurité des enfants. La plainte demande notamment qu'un tribunal puisse encadrer la mise en ligne de nouveaux modèles au Texas ; elle s'ajoute à une vague d'actions d'autres États.",
-      "source": "Texas Tribune",
-      "url": "https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/"
     },
     {
       "id": "n23",
@@ -222,17 +211,6 @@
       "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/"
     },
     {
-      "id": "n37",
-      "theme": "sciences",
-      "subtopic": "ai_for_science",
-      "importance": 2,
-      "short_title": "IA pour la science",
-      "title": "Anthropic étend son programme AI for Science aux fondations et instituts",
-      "summary": "Le programme d'accès à Claude pour la recherche s'ouvre désormais aux fondations et aux institutions de recherche, pas seulement aux laboratoires individuels. Cela s'inscrit dans l'effort de l'entreprise pour positionner ses modèles comme outils de découverte scientifique, en parallèle des travaux sur le développement de médicaments.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
-    },
-    {
       "id": "n38",
       "theme": "geopol",
       "subtopic": "usa",
@@ -253,6 +231,28 @@
       "summary": "Les craintes de bulle IA ont fait reculer le Nasdaq 100 d'environ 10 % en trois semaines. OpenAI chercherait désormais ~20 Md$ au lieu de 30, tout en explorant les TPU de Google comme seconde source de puces. Le contexte pèse sur l'IPO d'Anthropic.",
       "source": "SiliconANGLE",
       "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/"
+    },
+    {
+      "id": "n40",
+      "theme": "geopol",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Trump : pas de frappe",
+      "title": "Trump écarte une frappe immédiate sur l'Iran après la défaite aux midterms",
+      "summary": "Après la perte de la Chambre, Trump dit n'avoir aucun plan immédiat de frappes et pèse entre option militaire et accord, tandis que Vance pousse pour un deal. Un projet d'accord négocié par le Qatar pourrait relancer des pourparlers directs sous quelques jours.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+    },
+    {
+      "id": "n41",
+      "theme": "climat",
+      "subtopic": "europe",
+      "importance": 2,
+      "short_title": "COP31 à Antalya",
+      "title": "COP31 : ouverture le 9 novembre à Antalya, priorité à l'électrification",
+      "summary": "La conférence climat se tient du 9 au 20 novembre en Turquie, avec un agenda centré sur l'électrification (de ~20 % à 35 % de la demande finale d'énergie d'ici 2035), la finance climat et la sortie des fossiles. La crise énergétique du Golfe pèse sur les débats.",
+      "source": "Clifford Chance / WRI",
+      "url": "https://climate.ec.europa.eu/eu-cop31_en"
     }
   ],
   "edges": [
@@ -351,6 +351,24 @@
       "target": "n23",
       "type": "tension",
       "explanation": "Une fenêtre de marché dégradée complique le pari d'une IPO de plusieurs centaines de milliards pour Anthropic."
+    },
+    {
+      "source": "n40",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "L'absence de frappe imminente et la perspective d'un accord réduisent la prime de risque sur Ormuz, d'où la chute du baril."
+    },
+    {
+      "source": "n38",
+      "target": "n40",
+      "type": "cause",
+      "explanation": "La défaite aux midterms affaiblit la marge de manœuvre de Trump et renforce le camp favorable à un accord avec Téhéran."
+    },
+    {
+      "source": "n17",
+      "target": "n41",
+      "type": "meme_sujet",
+      "explanation": "Choc énergétique et sobriété européenne nourrissent l'agenda d'électrification et de transition porté à la COP31."
     }
   ]
 }

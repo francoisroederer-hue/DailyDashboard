@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:30:00Z",
+  "generated_at": "2026-11-06T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -18,10 +18,10 @@
       "subtopic": "energie",
       "importance": 3,
       "short_title": "Brent sous 100 $",
-      "title": "Le Brent passe sous 100 $, vers 93 $, sur les espoirs de deal US–Iran",
-      "summary": "Après un recul de plus de 7 % lundi, le baril a encore chuté mercredi d'environ 8 % et évolue jeudi autour de 93 $, plus bas depuis deux mois. Le marché price une désescalade via la médiation du Qatar, malgré le refus iranien de toute diplomatie sous contrainte.",
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+      "title": "Le Brent retombe sous 100 $ puis rebondit vers 96-98 $",
+      "summary": "Le Brent a chuté d'environ 9 % mercredi pour clôturer près de 94-95 $, son premier passage sous 100 $ en près d'un mois, les marchés pariant sur une sortie de guerre après la défaite républicaine. Jeudi, le baril a rebondi vers 96-98 $, signe d'une forte volatilité.",
+      "source": "Latin Times / TradersUnion",
+      "url": "https://www.latintimes.com/oil-prices-plunge-after-us-election-iran-talks-600929"
     },
     {
       "id": "n04",
@@ -215,7 +215,7 @@
       "theme": "geopol",
       "subtopic": "usa",
       "importance": 3,
-      "short_title": "Démocrates reprennent Chambre",
+      "short_title": "Démocrates: Chambre",
       "title": "Midterms : les démocrates reprennent la Chambre et arrachent le Texas au Sénat",
       "summary": "Selon les projections de CNN, NBC et CBS, les démocrates remportent la Chambre avec une large majorité et basculent plusieurs sièges sénatoriaux, dont le Texas et la Caroline du Nord. Le contrôle du Sénat reste incertain au moment de la rédaction. Ce résultat redessine l'équilibre des pouvoirs pour la fin du mandat de Trump.",
       "source": "CNN",
@@ -225,12 +225,12 @@
       "id": "n39",
       "theme": "finance",
       "subtopic": "ia_marches",
-      "importance": 2,
-      "short_title": "Nasdaq -10 %, OpenAI",
-      "title": "Repli de ~10 % du Nasdaq 100 et levée d'OpenAI revue à la baisse",
-      "summary": "Les craintes de bulle IA ont fait reculer le Nasdaq 100 d'environ 10 % en trois semaines. OpenAI chercherait désormais ~20 Md$ au lieu de 30, tout en explorant les TPU de Google comme seconde source de puces. Le contexte pèse sur l'IPO d'Anthropic.",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/"
+      "importance": 3,
+      "short_title": "Nasdaq en correction",
+      "title": "Le Nasdaq plonge en correction, les valeurs IA et tech en tête",
+      "summary": "Au lendemain des midterms, les actions tech et IA ont été vendues massivement ; le Nasdaq a lâché plusieurs points et, selon CBS, le Dow a perdu plus de 1 800 points. Les investisseurs craignent un durcissement de la régulation et du soutien aux data centers.",
+      "source": "CBS News",
+      "url": "https://cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers"
     },
     {
       "id": "n40",
@@ -253,6 +253,17 @@
       "summary": "La conférence climat se tient du 9 au 20 novembre en Turquie, avec un agenda centré sur l'électrification (de ~20 % à 35 % de la demande finale d'énergie d'ici 2035), la finance climat et la sortie des fossiles. La crise énergétique du Golfe pèse sur les débats.",
       "source": "Clifford Chance / WRI",
       "url": "https://climate.ec.europa.eu/eu-cop31_en"
+    },
+    {
+      "id": "n42",
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "OpenAI coupe Cursor",
+      "title": "OpenAI prévoit de couper l'accès de Cursor à ses modèles le 12 novembre",
+      "summary": "Après le rachat de Cursor par SpaceX, OpenAI a activé la clause de changement de contrôle pour mettre fin à la fourniture de ses modèles, au plus tard le 12 novembre. Les futurs modèles, dont Astra, ne seront pas proposés ; Cursor garde Grok, Anthropic et Google.",
+      "source": "AlternativeTo",
+      "url": "https://alternativeto.net/news/2026/8/openai-says-it-will-cut-off-cursor-s-access-to-its-ai-models-starting-november-12-2026/"
     }
   ],
   "edges": [
@@ -369,6 +380,12 @@
       "target": "n41",
       "type": "meme_sujet",
       "explanation": "Choc énergétique et sobriété européenne nourrissent l'agenda d'électrification et de transition porté à la COP31."
+    },
+    {
+      "source": "n42",
+      "target": "n34",
+      "type": "tension",
+      "explanation": "Le retrait d'OpenAI de Cursor pousse les outils de vibe coding vers d'autres fournisseurs, dont les modèles ouverts comme Mistral."
     }
   ]
 }

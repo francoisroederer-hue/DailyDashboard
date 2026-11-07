@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:30:00Z",
+  "generated_at": "2026-11-07T04:30:00Z",
   "nodes": [
     {
       "id": "n01",
@@ -96,7 +96,7 @@
       "importance": 3,
       "short_title": "Anthropic dépose son S-1",
       "title": "Anthropic dépose son S-1 pour une introduction en Bourse au Nasdaq",
-      "summary": "Anthropic a déposé le 26 octobre un formulaire S-1 auprès de la SEC pour une cotation sur le Nasdaq sous le symbole ANT, avec Goldman Sachs et Morgan Stanley comme banques. Le nombre d'actions et la fourchette de prix ne sont pas fixés. C'est un test grandeur nature de l'appétit des marchés pour les labs frontier. Selon une source unique non recoupée, le dépôt évoque un chiffre d'affaires de 19,7 Md$ sur 12 mois et un lancement du marketing dès la semaine du 9 novembre.",
+      "summary": "Anthropic a déposé le 26 octobre un formulaire S-1 auprès de la SEC pour une cotation sur le Nasdaq sous le symbole ANT, avec Goldman Sachs et Morgan Stanley comme banques. Le nombre d'actions et la fourchette de prix ne sont pas fixés. C'est un test grandeur nature de l'appétit des marchés pour les labs frontier. Selon une source unique non recoupée, le dépôt évoque un chiffre d'affaires de 19,7 Md$ sur 12 mois et un lancement du marketing dès la semaine du 9 novembre. Un amendement du 2 novembre fait état d'environ 895 Md$ d'engagements d'achats et de locations, surtout de calcul.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/s1-sec"
     },
@@ -110,28 +110,6 @@
       "summary": "Anthropic propose une remise de 40 % sur Claude à tous les niveaux d'administration américaine, sans minimum d'achat, pour une économie estimée à 1 Md$. L'offre s'appuie sur l'autorisation FedRAMP High de Claude for Government.",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
-    },
-    {
-      "id": "n25",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Claude et médicaments",
-      "title": "Premiers résultats de Claude dans le développement de médicaments",
-      "summary": "Avec six développeurs dont BigHat et Bristol Myers Squibb, Claude a servi à concevoir des thérapies et des dizaines de milliers d'anticorps en un mois, et à réduire fortement le temps de revue documentaire. Les projets restent surtout précliniques, avec une extension aux essais cliniques prévue.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development"
-    },
-    {
-      "id": "n28",
-      "theme": "finance",
-      "subtopic": "banques-centrales",
-      "importance": 2,
-      "short_title": "Lagarde part en février",
-      "title": "Lagarde quittera la BCE le 7 février 2027, avant la fin de son mandat",
-      "summary": "La présidente annonce son départ anticipé environ neuf mois avant le terme de son mandat, le jour même de la réunion de politique monétaire. Le calendrier ouvre une succession en pleine crise énergétique et de dette française.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/29/i-cannot-remain-neutral-lagarde-finally-explains-her-early-ecb-exit"
     },
     {
       "id": "n29",
@@ -150,10 +128,10 @@
       "subtopic": "moyen-orient",
       "importance": 2,
       "short_title": "Vance relance Téhéran",
-      "title": "Vance contacte le CSSN iranien pour relancer les pourparlers",
-      "summary": "Le vice-président américain a pris contact avec le secrétaire du Conseil suprême de sécurité nationale iranien. Parallèlement, Téhéran consulte des médiateurs qataris à Doha et conditionne sa proposition de réouverture d'Ormuz à la réponse de Washington.",
-      "source": "OilPrice",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html"
+      "title": "Vance mène une diplomatie discrète avec l'Iran",
+      "summary": "Selon Axios, le vice-président Vance pilote depuis deux semaines des pourparlers indirects, quasi quotidiens avec le Qatar et le Pakistan, pour un cessez-le-feu et une reprise du dossier nucléaire. Doha dément avoir parlé d'échec et reste optimiste, mais aucun accord n'est annoncé.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal"
     },
     {
       "id": "n32",
@@ -200,17 +178,6 @@
       "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7"
     },
     {
-      "id": "n36",
-      "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "GPT-6.1 Terra",
-      "title": "OpenAI lance GPT-6.1 Terra, modèle intermédiaire pour apps et écran",
-      "summary": "Modèle milieu de gamme annoncé autour de 1 $ / 5 $ par million de tokens, déployé dans les modes Work et Codex de ChatGPT. Source secondaire, openai.com non accessible depuis cette session.",
-      "source": "The Neuron (digest)",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/"
-    },
-    {
       "id": "n38",
       "theme": "geopol",
       "subtopic": "usa",
@@ -226,11 +193,11 @@
       "theme": "finance",
       "subtopic": "ia_marches",
       "importance": 3,
-      "short_title": "Nasdaq en correction",
-      "title": "Le Nasdaq plonge en correction, les valeurs IA et tech en tête",
-      "summary": "Au lendemain des midterms, les actions tech et IA ont été vendues massivement ; le Nasdaq a lâché plusieurs points et, selon CBS, le Dow a perdu plus de 1 800 points. Les investisseurs craignent un durcissement de la régulation et du soutien aux data centers.",
-      "source": "CBS News",
-      "url": "https://cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers"
+      "short_title": "Nasdaq : rebond fragile",
+      "title": "Le Nasdaq rebondit après une correction brutale sur l'IA",
+      "summary": "Jeudi, les valeurs IA et semi-conducteurs ont subi leur pire séance depuis 2020, effaçant environ 2 500 Md$ de capitalisation du Nasdaq. Vendredi, le Nasdaq a regagné environ 1 % grâce aux puces, mais les indices restent en baisse sur la semaine.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
     },
     {
       "id": "n40",
@@ -264,6 +231,17 @@
       "summary": "Après le rachat de Cursor par SpaceX, OpenAI a activé la clause de changement de contrôle pour mettre fin à la fourniture de ses modèles, au plus tard le 12 novembre. Les futurs modèles, dont Astra, ne seront pas proposés ; Cursor garde Grok, Anthropic et Google.",
       "source": "AlternativeTo",
       "url": "https://alternativeto.net/news/2026/8/openai-says-it-will-cut-off-cursor-s-access-to-its-ai-models-starting-november-12-2026/"
+    },
+    {
+      "id": "n43",
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Emploi US : +165 000",
+      "title": "Les créations d'emplois US d'octobre surprennent à la hausse",
+      "summary": "L'économie américaine a créé 165 000 emplois en octobre, bien au-dessus des quelque 60 000 attendus, et le chômage recule à 4,1 %. Les rendements obligataires remontent, pesant sur le Dow, et renforcent l'idée d'un nouveau relèvement de la Fed en décembre.",
+      "source": "Schwab",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open"
     }
   ],
   "edges": [
@@ -386,6 +364,18 @@
       "target": "n34",
       "type": "tension",
       "explanation": "Le retrait d'OpenAI de Cursor pousse les outils de vibe coding vers d'autres fournisseurs, dont les modèles ouverts comme Mistral."
+    },
+    {
+      "source": "n43",
+      "target": "n09",
+      "type": "cause",
+      "explanation": "Un marché du travail plus solide nourrit l'inflation de services et pousse la Fed vers un nouveau relèvement en décembre."
+    },
+    {
+      "source": "n43",
+      "target": "n39",
+      "type": "tension",
+      "explanation": "Des rendements plus élevés pèsent sur les valorisations tech, mais le rebond des puces montre que le marché dissocie l'IA de la macro à court terme."
     }
   ]
 }

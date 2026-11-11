@@ -1,317 +1,333 @@
 {
-  "generated_at": "2026-11-10T04:20:00Z",
+  "generated_at": "2026-11-11T04:12:35Z",
   "nodes": [
     {
       "id": "n01",
       "theme": "tech",
       "subtopic": "ai_labs",
       "importance": 3,
-      "short_title": "Claude Fable/Mythos 5.2",
-      "title": "Anthropic lance Claude Fable 5.2 et Mythos 5.2",
-      "summary": "Anthropic sort une mise à jour de Fable et Mythos (même modèle sous-jacent) : gains en code, raisonnement et vision, 55 % de blocages en moins par rapport à la 5.1. Mythos 5.2, sans garde-fous, reste réservé aux organisations vérifiées (cyber, sciences de la vie), tandis que Fable 5.2 est disponible partout à 8/40 $ par million de tokens.",
+      "short_title": "Anthropic lance son IPO",
+      "title": "Anthropic lance le roadshow de son introduction en Bourse (Nasdaq: ANT)",
+      "summary": "Anthropic a ouvert le 10 novembre sa tournée investisseurs : 825 millions d'actions de classe A proposées entre 70 et 78 $, avec Goldman Sachs et Morgan Stanley en tête. La cotation sur le Nasdaq sous le ticker ANT est attendue autour du 18-19 novembre, ce qui en ferait l'une des plus grosses IPO de l'histoire.",
       "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      "url": "https://www.anthropic.com/news/roadshow-launch"
     },
     {
       "id": "n02",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "finance",
+      "subtopic": "ipo",
       "importance": 3,
-      "short_title": "Anthropic : S-1 / IPO",
-      "title": "Anthropic prépare son IPO au Nasdaq (ticker ANT)",
-      "summary": "Après le dépôt du S-1 le 26 octobre puis un amendement le 2 novembre, la cotation pourrait intervenir dès la semaine du 16 novembre, selon des médias non confirmés par la société. Goldman Sachs et Morgan Stanley pilotent l'opération ; le calendrier peut encore glisser.",
-      "source": "Anthropic / presse",
-      "url": "https://www.anthropic.com/news/s1-sec"
+      "short_title": "ANT valorisé ~1,3 T$",
+      "title": "Anthropic vise jusqu'à 1,3-1,4 T$ de valorisation, en baisse face au repli des valeurs IA",
+      "summary": "La fourchette implique une valorisation d'environ 1 T$ sur les actions en circulation et jusqu'à 1,4 T$ en base totalement diluée, bien en deçà des 1,8-2 T$ évoqués il y a quelques semaines. En ajoutant un placement privé de 26 Md$ auprès de Google, Nvidia et AMD, la levée totale pourrait atteindre 90 Md$.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
     },
     {
       "id": "n03",
       "theme": "tech",
-      "subtopic": "ai_labs",
-      "importance": 2,
-      "short_title": "OpenAI : Astra retardé",
-      "title": "OpenAI retient son modèle phare GPT-6.1 Astra pour raisons de sécurité",
-      "summary": "Lors du DevDay fin septembre, OpenAI a lancé GPT-6.1 Sol et les agents Dots, mais a gardé son modèle phare Astra, invoquant des risques de sécurité. L'IPO d'OpenAI serait repoussée à l'an prochain au plus tôt.",
-      "source": "TechCrunch / Axios",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+      "subtopic": "semis",
+      "importance": 3,
+      "short_title": "Nvidia -5,5 % : enquête",
+      "title": "Nvidia chute de 5,5 % après l'ouverture d'une enquête du conseil visant Jensen Huang",
+      "summary": "Le conseil d'administration de Nvidia a mandaté un cabinet indépendant après des révélations de presse sur une relation entre Jensen Huang et une personne soupçonnée d'espionnage pour la Chine, accusée d'avoir facilité l'accès à des puces. Les allégations ne sont pas vérifiées, mais le titre a perdu sa deuxième place mondiale au profit de Microsoft, une semaine avant ses résultats du 17 novembre.",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-nvidia-stock-plunges-5-5-as-ceo-scandal-overshadows-its-upcoming-earnings-report/"
     },
     {
       "id": "n04",
-      "theme": "tech",
-      "subtopic": "vibe_coding",
-      "importance": 2,
-      "short_title": "Cursor 3 vs Claude Code",
-      "title": "Cursor 3 mise sur l'orchestration d'agents face à Claude Code",
-      "summary": "Cursor a reconstruit son produit autour de la gestion d'agents parallèles alors que Claude Code serait en tête du marché du codage IA (chiffre de 54 % issu d'une source secondaire). La compétition se joue sur l'autonomie versus l'ergonomie.",
-      "source": "Implicator",
-      "url": "https://www.implicator.ai/cursor-3-shifts-to-agent-orchestration-as-claude-code-claims-54-of-coding-market/"
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "CPI US octobre : +0,4 %",
+      "title": "L'inflation américaine d'octobre dépasse les attentes (+0,4 % sur un mois)",
+      "summary": "Les prix à la consommation ont progressé de 0,4 % en octobre et l'inflation sous-jacente de 0,3 %, au-dessus des 0,2 % attendus pour le troisième mois consécutif. Le glissement annuel, non publié officiellement faute de base de comparaison, est estimé autour de 4 %, tiré par l'essence, l'électricité et le logement.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
     },
     {
       "id": "n05",
-      "theme": "sciences",
-      "subtopic": "biotech",
-      "importance": 2,
-      "short_title": "Claude et médicaments",
-      "title": "Premiers progrès de Claude dans le développement de médicaments",
-      "summary": "Anthropic publie des résultats préliminaires sur l'usage de Claude pour accélérer la découverte et le développement de médicaments (27 octobre).",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development"
+      "theme": "finance",
+      "subtopic": "usa",
+      "importance": 3,
+      "short_title": "Fed : hausse de 50 pb ?",
+      "title": "Après le CPI, une hausse de taux de la Fed en décembre devient le scénario central",
+      "summary": "Les marchés de taux intègrent désormais une forte probabilité de relèvement en décembre, alors que la fourchette des Fed funds est à 3,75-4,00 %. Le gouverneur Waller a même évoqué un mouvement de 50 points de base si l'inflation ne cède pas, ce qui a fait reculer Wall Street (S&P 500 -0,4 %, Nasdaq -0,7 %).",
+      "source": "Babypips",
+      "url": "https://www.babypips.com/analysis/headline-us-cpi-october-fed-hike-december-2026-11-11"
     },
     {
       "id": "n06",
-      "theme": "geopol",
-      "subtopic": "moyen-orient",
+      "theme": "finance",
+      "subtopic": "energie",
       "importance": 3,
-      "short_title": "Guerre Iran/USA",
-      "title": "Guerre Iran : frappes US et espoirs d'accord",
-      "summary": "Les signaux contradictoires se poursuivent : frappes américaines sur l'île de Qeshm début novembre, puis déclarations de Trump jugeant un accord possible et doutant de nouvelles frappes après les midterms. Le marché pétrolier réagit à chaque inflexion.",
-      "source": "FXStreet",
-      "url": "https://www.fxstreet.com/analysis/us-voters-go-to-the-polls-as-us-strikes-qeshm-hours-after-brents-76-drop-on-peace-hopes-202611031051"
+      "short_title": "Brent passe sous 90 $",
+      "title": "Le Brent passe brièvement sous 90 $, au plus bas depuis août",
+      "summary": "Le baril de Brent a touché 89,16 $ en séance avant de clôturer vers 91,5 $, prolongeant la chute entamée après les élections de mi-mandat. Le marché anticipe une désescalade avec l'Iran et une reprise progressive des flux pétroliers dans la région.",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/11/10/oil-prices-trump-iran.html"
     },
     {
       "id": "n07",
       "theme": "geopol",
-      "subtopic": "usa",
+      "subtopic": "moyen-orient",
       "importance": 3,
-      "short_title": "Midterms : Congrès bleu",
-      "title": "Les démocrates remportent la Chambre et le Sénat",
-      "summary": "Les midterms du 3 novembre mettent fin au contrôle républicain du Congrès, avec une large majorité démocrate à la Chambre et au Sénat selon les décomptes initiaux (quelques courses encore ouvertes). Le coût politique de la guerre en Iran a pesé dans le scrutin.",
-      "source": "NBC News / Fox",
-      "url": "https://www.fox2detroit.com/news/democrats-win-control-congress-2026-midterm-elections"
+      "short_title": "Iran : Trump veut finir",
+      "title": "Trump annonce une fin prochaine de la guerre avec l'Iran et écarte de nouvelles frappes",
+      "summary": "Donald Trump estime que la guerre est militairement terminée et que Téhéran négocie, tandis que Rubio juge inutile toute reprise des opérations majeures puisque la pression économique fonctionne. Washington maintient néanmoins son blocus naval et l'étend aux routes terrestres avec la nouvelle Task Force Iron Gate.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html"
     },
     {
       "id": "n08",
-      "theme": "finance",
-      "subtopic": "energie",
-      "importance": 3,
-      "short_title": "Brent -8,7%",
-      "title": "Le Brent chute sous 95 $ après les élections",
-      "summary": "Le Brent a perdu environ 8,7 % le 5 novembre, sa plus forte baisse depuis le début de la guerre, les marchés pariant sur une pression politique américaine pour sortir du conflit. Wall Street a connu sa meilleure séance depuis avril 2025.",
-      "source": "FXStreet",
-      "url": "https://www.fxstreet.com/analysis/dow-has-best-day-since-april-2025-as-brent-drops-87-after-vance-blames-the-iran-war-202611051038"
+      "theme": "geopol",
+      "subtopic": "moyen-orient",
+      "importance": 2,
+      "short_title": "Ormuz : pétroliers minés",
+      "title": "Quatre pétroliers touchés par des mines dans le détroit d'Ormuz",
+      "summary": "Selon l'armée iranienne, quatre tankers ont pris feu après avoir heurté des mines en empruntant une route jugée non autorisée par les Gardiens de la révolution. Oman poursuit en parallèle ses efforts pour un mécanisme conjoint de contrôle du détroit qui mettrait fin à l'état de guerre.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
     },
     {
       "id": "n09",
-      "theme": "finance",
-      "subtopic": "macro",
+      "theme": "geopol",
+      "subtopic": "europe",
       "importance": 3,
-      "short_title": "Emploi US : +165 000",
-      "title": "Les États-Unis créent 165 000 emplois en octobre",
-      "summary": "Les créations d'emplois battent largement le consensus (~65 000) et le chômage recule à 4,1 %, avec des salaires en hausse de 3,1 % sur un an. Ce regain complique la tâche de la Fed alors que l'inflation reste proche de 3,5 %.",
-      "source": "Fox Business",
-      "url": "https://foxbusiness.com/economy/us-jobs-report-october-2026"
+      "short_title": "Ukraine : Abu Dhabi",
+      "title": "Russie et Ukraine reprennent des pourparlers sous médiation américaine à Abu Dhabi",
+      "summary": "Premier cycle trilatéral depuis neuf mois, la séance du 10 novembre a duré près de quatre heures sous l'égide de Witkoff et Kushner. Kyiv et Washington la jugent constructive, mais les positions restent éloignées sur les territoires et Moscou refuse pour l'instant la présence des Européens ; les frappes de drones ont continué pendant les discussions.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
     },
     {
       "id": "n10",
       "theme": "finance",
-      "subtopic": "usa",
+      "subtopic": "europe",
       "importance": 2,
-      "short_title": "Fed : inflation haute",
-      "title": "Fed : Williams juge l'inflation trop élevée",
-      "summary": "Le message de la Fed reste restrictif tandis que le 10 ans américain tourne autour de 4,86 %. Le recul du pétrole n'efface pas encore la préoccupation inflationniste des banquiers centraux.",
-      "source": "TMGM Daily Financial Breakfast",
-      "url": "https://www.tmgm.com/en/analysis/market-insight/morning-brief-2026-11-05"
+      "short_title": "BCE : hausse en décembre",
+      "title": "La BCE prépare les esprits à une hausse de taux en décembre",
+      "summary": "Après avoir laissé le taux de dépôt à 2,5 % fin octobre, la BCE a ouvert la porte à un relèvement le 17 décembre pour contrer l'inflation alimentée par le choc énergétique. La réunion a aussi été marquée par l'annonce du départ anticipé de Christine Lagarde au 7 février 2027.",
+      "source": "Euronews",
+      "url": "https://fr.euronews.com/2026/10/29/la-bce-maintient-les-taux-a-25-alors-que-lagarde-annonce-un-depart-anticipe"
     },
     {
       "id": "n11",
       "theme": "finance",
-      "subtopic": "europe",
-      "importance": 3,
-      "short_title": "BoE relève à 4%",
-      "title": "La Banque d'Angleterre relève son taux à 4,00 %",
-      "summary": "Hausse de 25 pb, la première depuis 2023, motivée par la crainte d'une inflation importée via le choc énergétique lié au conflit au Moyen-Orient. Les détails du vote varient selon les sources.",
-      "source": "InvestingLive",
-      "url": "https://investinglive.com/news/investinglive-european-news-wrap-boe-raises-bank-rate-to-4-00-as-expected/"
+      "subtopic": "france",
+      "importance": 2,
+      "short_title": "Budget 2027 rejeté",
+      "title": "L'Assemblée rejette la partie recettes du budget 2027, le texte part au Sénat",
+      "summary": "Les députés ont rejeté à l'unanimité une partie recettes profondément remaniée, si bien que le Sénat examinera la version initiale du gouvernement. Sans majorité, l'exécutif de Sébastien Lecornu vise un compromis en décembre et pourrait recourir au 49.3, avec un objectif de déficit à 5 % du PIB.",
+      "source": "LCP",
+      "url": "https://lcp.fr/actualites/budget-2027-l-assemblee-rejette-a-l-unanimite-la-partie-recettes-le-projet-de-loi-de"
     },
     {
       "id": "n12",
-      "theme": "finance",
-      "subtopic": "europe",
-      "importance": 2,
-      "short_title": "BCE : hausse en vue",
-      "title": "BCE : débat ouvert sur de nouvelles hausses",
-      "summary": "Plusieurs membres du Conseil évoquent publiquement la nécessité de relever les taux si l'inflation énergétique persiste, et un nouveau mouvement dès décembre est évoqué. Les dates exactes sont à recouper avec les communiqués officiels.",
-      "source": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/newsquawk-european-market-wrap---30th-october-2026"
+      "theme": "climat",
+      "subtopic": "cop31",
+      "importance": 3,
+      "short_title": "COP31 sans sortie fossile",
+      "title": "La COP31 s'ouvre à Antalya sans la sortie des fossiles à l'agenda",
+      "summary": "La conférence, co-pilotée par la Turquie et l'Australie jusqu'au 20 novembre, se concentre sur l'adaptation, la finance et la transition juste. La sortie des énergies fossiles ne figure pas à l'ordre du jour formel et les États-Unis n'ont pas envoyé de délégation officielle.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31"
     },
     {
       "id": "n13",
       "theme": "climat",
-      "subtopic": "cop31",
+      "subtopic": "emissions",
       "importance": 2,
-      "short_title": "COP31 s'ouvre",
-      "title": "COP31 à Antalya : ouverture sous tension sur les énergies fossiles",
-      "summary": "La conférence a débuté le 9 novembre pour durer jusqu'au 20 sous coprésidence turque et australienne. La sortie des fossiles n'est pas à l'agenda formel et les débats se concentrent sur le financement et l'électrification, dans un contexte de crise énergétique.",
-      "source": "Climate Home News",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
+      "short_title": "Émissions CO2 en recul",
+      "title": "La guerre en Iran contribue à une baisse des émissions fossiles mondiales cette année",
+      "summary": "Des projections publiées en ouverture de la COP31 anticipent un léger recul des émissions de CO2 d'origine fossile en 2026, porté par l'essor de l'éolien et du solaire mais aussi par la flambée des prix pétroliers. Les chercheurs soulignent qu'une baisse subie par choc de prix ne remet pas la planète sur une trajectoire compatible avec l'Accord de Paris.",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/planet-earth/climate-change/worlds-fossil-fuel-emissions-will-fall-this-year-scientists-say-partly-because-of-the-iran-war"
     },
     {
       "id": "n14",
-      "theme": "climat",
-      "subtopic": "electricite_ia",
-      "importance": 1,
-      "short_title": "IA vs net zero",
-      "title": "La demande électrique de l'IA teste les trajectoires net zero",
-      "summary": "Une note de Germanwatch préparée pour la COP31 souligne que l'essor de l'électricité consommée par l'IA complique les trajectoires de neutralité carbone et plaide pour une électrification accélérée.",
-      "source": "Germanwatch",
-      "url": "https://www.germanwatch.org/sites/default/files/2026-11/Electrifying%20Climate%20Action.%20Opportunities%20for%20COP31_Germanwatch.pdf"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Mistral Large 4 ouvert",
+      "title": "Mistral publie les poids complets de Mistral Large 4, un modèle d'environ 1 000 milliards de paramètres",
+      "summary": "Trois semaines après sa présentation, Mistral met en ligne sur Hugging Face les poids de son plus grand modèle sous une licence MIT modifiée. Les acteurs qui le revendent en tant que service doivent toutefois signer un accord commercial séparé.",
+      "source": "DEV Community (AI Daily Digest)",
+      "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-9-2026-mistral-opens-le-chonk-weights-grok-api-watermarks-by-default-2gdm"
     },
     {
       "id": "n15",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
-      "importance": 3,
-      "short_title": "FRTB UE : relief 2027",
-      "title": "Règlement délégué UE 2026/1221 : allègement FRTB dès 2027",
-      "summary": "La Commission compense pendant trois ans l'impact capitalistique négatif du FRTB dans le CRR, avec application au 1er janvier 2027. Les banques européennes doivent donc finaliser leurs pipelines de risque de marché avant cette échéance.",
-      "source": "A&O Shearman",
-      "url": "https://finreg.aoshearman.com/delegated-regulation-on-market-risk-prudential-requirements-for-eu-banks-published-in-oj"
+      "theme": "tech",
+      "subtopic": "ai_labs",
+      "importance": 2,
+      "short_title": "Meta Muse sur montres",
+      "title": "L'agent IA Muse de Meta arrive sur Apple Watch et Wear OS",
+      "summary": "Meta étend son assistant agentique Muse aux montres connectées, tout en déployant des versions spécialisées de ses modèles avec mémoire active. Le même jour, le groupe généralise sur Instagram son système d'estimation de l'âge par IA.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os"
     },
     {
       "id": "n16",
-      "theme": "finance",
-      "subtopic": "ccr_xva",
-      "importance": 3,
-      "short_title": "CVA : charge accrue UE",
-      "title": "FRTB/CVA : charge plus lourde pour les modélisateurs européens",
-      "summary": "Risk.net explique que certaines banques de l'UE et du Royaume-Uni pourraient subir une charge CVA nettement plus élevée que prévu, avec une incertitude sur le calendrier européen.",
-      "source": "Risk.net",
-      "url": "https://www.risk.net/our-take/7961311/frtb-may-bite-harder-for-europes-cva-modellers"
+      "theme": "tech",
+      "subtopic": "vibe_coding",
+      "importance": 2,
+      "short_title": "Cursor déploie les apps",
+      "title": "Cursor ajoute le déploiement d'applications géré, en s'appuyant sur Vercel",
+      "summary": "Cursor propose désormais d'héberger directement les applications créées par ses agents, avec un compte dédié créé automatiquement pour chaque abonné. L'éditeur s'attaque ainsi frontalement à Lovable et Replit, en utilisant l'infrastructure Vercel for Platforms.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/cursor-ai-app-deployment/"
     },
     {
       "id": "n17",
-      "theme": "finance",
-      "subtopic": "regulation_bancaire",
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
       "importance": 3,
-      "short_title": "Basel 3.1 UK 2027",
-      "title": "Basel 3.1 au Royaume-Uni : FRTB et CVA finalisés",
-      "summary": "La PRA a finalisé ses règles (dont marché FRTB et CVA/CCR), le régime principal entrant en vigueur le 1er janvier 2027. Le calendrier contraste avec les reports UE et américains.",
-      "source": "Bank of England PRA",
-      "url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2026/ss1213-january-2026-update.pdf"
+      "short_title": "Tuteur IA : notes -0,37σ",
+      "title": "Un essai randomisé universitaire trouve un effet négatif d'un tuteur IA intégré au cours",
+      "summary": "Sur près de 2 400 étudiants, l'accès à un tuteur IA intégré au cours a fait baisser les notes finales d'environ 0,37 écart-type et réduit nettement la participation, avec un effet plus marqué chez les étudiants de première génération. Le résultat suggère qu'un tuteur trop disponible peut se substituer à l'effort cognitif au lieu de le soutenir.",
+      "source": "EdWorkingPapers (Annenberg, Brown)",
+      "url": "https://edworkingpapers.com/ai26-1598"
     },
     {
       "id": "n18",
-      "theme": "finance",
-      "subtopic": "usa",
+      "theme": "learn",
+      "subtopic": "tutorat_ia",
       "importance": 2,
-      "short_title": "US Basel III révisé",
-      "title": "Les nouvelles propositions américaines abandonnent le Basel III Endgame initial",
-      "summary": "Les NPR de 2026 remplacent la proposition précédente sans date d'application précise, ce qui aggrave la fragmentation internationale des règles de capital.",
-      "source": "ISDA",
-      "url": "https://www.isda.org/a/g50iE/Basel-III-Endgame-Trading-and-Capital-Markets-Impact-2026-Update.pdf"
+      "short_title": "Tuteurs IA : bilan mitigé",
+      "title": "Deux expériences d'un même chercheur donnent des résultats opposés pour les tuteurs IA",
+      "summary": "Le Hechinger Report compare un tuteur qui a engagé des collégiens et un autre qui a nui à des étudiants, et rappelle l'essai britannique Eedi/DeepMind où l'IA égale les tuteurs humains sur la correction d'erreurs sans effet sur un test standardisé à 10 semaines. La conception pédagogique semble compter davantage que le modèle lui-même.",
+      "source": "The Hechinger Report",
+      "url": "https://hechingerreport.org/proof-points-ai-tutor-results/"
     },
     {
       "id": "n19",
       "theme": "sante",
       "subtopic": "longevite",
       "importance": 2,
-      "short_title": "Muscu : 90-119 min",
-      "title": "Musculation et mortalité : un seuil autour de 2 h par semaine",
-      "summary": "Une analyse du BJSM sur environ 147 000 adultes associe 90 à 119 minutes hebdomadaires de renforcement à une mortalité toutes causes inférieure d'environ 13 %, sans gain notable au-delà. Étude observationnelle, effet maximal en combinant cardio.",
-      "source": "Global Wellness Institute",
-      "url": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/06/23/study-finds-sweet-spot-for-strength-trainings-impact-on-longevity-90-119-minutes-per-week/"
+      "short_title": "Intensité > durée",
+      "title": "Une étude sur 96 000 adultes associe l'activité vigoureuse à une moindre mortalité",
+      "summary": "Publiée dans l'European Heart Journal, l'analyse par accéléromètre montre qu'une petite part d'effort vigoureux dans l'activité totale est liée à un risque réduit de plusieurs maladies chroniques et de décès précoce. Pour un profil 40+, cela plaide pour intégrer des blocs courts et intenses (swings, intervalles) plutôt que d'allonger seulement le volume.",
+      "source": "Men's Journal",
+      "url": "https://www.mensjournal.com/health/scientists-studied-96000-adults-and-found-a-surprising-exercise-longevity-benefit"
     },
     {
       "id": "n20",
-      "theme": "tech",
-      "subtopic": "ai_labs",
+      "theme": "sciences",
+      "subtopic": "biotech",
       "importance": 2,
-      "short_title": "Anthropic x GSA",
-      "title": "Anthropic étend son partenariat avec la GSA",
-      "summary": "Claude doit être proposé à tous les niveaux de l'administration américaine via un partenariat élargi avec la GSA (27 octobre).",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+      "short_title": "Prop 38 : 8,4 Md$ immuno",
+      "title": "La Californie approuve 8,4 Md$ d'obligations pour la recherche en immunologie",
+      "summary": "Les électeurs californiens ont validé la Proposition 38, qui finance pour moitié un institut affilié à l'Université de Californie et pour moitié des subventions de recherche en immunothérapie. Présentée comme une réponse aux coupes fédérales, la mesure est critiquée pour son coût (environ 12,5 Md$ remboursés) et la gouvernance de l'institut bénéficiaire.",
+      "source": "CalMatters",
+      "url": "https://calmatters.org/health/2026/11/california-election-2026-prop-38/"
+    },
+    {
+      "id": "n21",
+      "theme": "geopol",
+      "subtopic": "japon",
+      "importance": 2,
+      "short_title": "Japon-Chine : APEC tendue",
+      "title": "Le sommet Takaichi-Xi en marge de l'APEC reste incertain",
+      "summary": "Pékin conditionne une rencontre à un retrait des propos de Sanae Takaichi sur Taïwan et proposerait plutôt un entretien avec le Premier ministre Li Qiang. L'APEC se tient à Shenzhen les 18 et 19 novembre, avec Trump attendu, sur fond de restrictions chinoises sur les exportations et le tourisme vers le Japon.",
+      "source": "The Nation Thailand",
+      "url": "https://www.nationthailand.com/news/world/40073263"
+    },
+    {
+      "id": "n22",
+      "theme": "finance",
+      "subtopic": "ccr_xva",
+      "importance": 3,
+      "short_title": "CVA Bâle : US vs Europe",
+      "title": "La révision de la CVA bâloise convainc aux États-Unis, beaucoup moins en Europe",
+      "summary": "Risk.net analyse l'accueil contrasté de la refonte du cadre CVA : les régulateurs américains y voient une simplification acceptable, tandis que les banques européennes redoutent une charge en capital plus lourde. Le sujet s'articule avec la volonté américaine de réduire le recours aux modèles internes (IMM) pour le risque de contrepartie.",
+      "source": "Risk.net",
+      "url": "https://www.risk.net/our-take/7963698/basel%E2%80%99s-cva-upgrade-persuasive-in-the-us-less-so-in-europe"
     }
   ],
   "edges": [
     {
-      "source": "n06",
-      "target": "n08",
-      "type": "cause",
-      "explanation": "Chaque inflexion du dossier iranien (frappes, espoir d'accord) déplace immédiatement le risque de prime sur l'offre de pétrole et donc le Brent."
-    },
-    {
-      "source": "n07",
-      "target": "n08",
-      "type": "cause",
-      "explanation": "Le résultat des midterms et la mise en cause de la guerre par l'opposition ont fait baisser la probabilité d'escalade, d'où la chute du brut."
-    },
-    {
       "source": "n07",
       "target": "n06",
-      "type": "tension",
-      "explanation": "Un Congrès démocrate durcit la contrainte politique sur Trump et ses options militaires, alors que la Maison Blanche oscille entre frappes et ouverture."
-    },
-    {
-      "source": "n06",
-      "target": "n11",
       "type": "cause",
-      "explanation": "Le choc pétrolier alimente l'inflation et pousse la BoE à resserrer sa politique."
-    },
-    {
-      "source": "n06",
-      "target": "n12",
-      "type": "cause",
-      "explanation": "Le pétrole cher entretient l'inflation en zone euro et nourrit le débat sur une hausse des taux de la BCE."
-    },
-    {
-      "source": "n09",
-      "target": "n10",
-      "type": "cause",
-      "explanation": "Des créations d'emplois robustes et un chômage bas ôtent à la Fed toute urgence d'assouplir face à une inflation proche de 3,5 %."
+      "explanation": "Le renoncement de Trump à de nouvelles frappes réduit la prime de risque géopolitique intégrée dans le baril, d'où le passage sous 90 $."
     },
     {
       "source": "n08",
-      "target": "n10",
+      "target": "n06",
       "type": "tension",
-      "explanation": "La baisse du brut soulage l'inflation future, mais la Fed reste focalisée sur les prix actuels, d'où un discours toujours restrictif."
+      "explanation": "Les mines dans Ormuz rappellent que l'offre physique reste menacée, ce qui contredit le pari du marché sur une normalisation rapide des flux."
     },
     {
-      "source": "n06",
-      "target": "n13",
+      "source": "n04",
+      "target": "n05",
       "type": "cause",
-      "explanation": "La crise énergétique née du conflit recadre la COP31 autour de la sécurité énergétique et de l'électrification plutôt que de la sortie des fossiles."
+      "explanation": "Une inflation sous-jacente au-dessus des attentes pour le troisième mois oblige la Fed à envisager un resserrement plus rapide en décembre."
     },
     {
-      "source": "n13",
-      "target": "n14",
-      "type": "meme_sujet",
-      "explanation": "Les deux traitent de la contrainte climatique sur la demande électrique croissante, notamment celle de l'IA."
+      "source": "n05",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "La perspective de taux plus élevés pèse sur la valorisation des actifs de croissance longue, poussant Anthropic à fixer une fourchette plus prudente."
+    },
+    {
+      "source": "n03",
+      "target": "n02",
+      "type": "cause",
+      "explanation": "Le décrochage de Nvidia, actionnaire cornerstone du placement privé d'Anthropic, alimente le repli des valeurs IA au moment même du roadshow."
     },
     {
       "source": "n01",
       "target": "n02",
-      "type": "cause",
-      "explanation": "Un modèle frontier plus performant et un revenu en forte croissance renforcent l'argumentaire de valorisation avant l'introduction en bourse."
-    },
-    {
-      "source": "n01",
-      "target": "n04",
-      "type": "tension",
-      "explanation": "Fable 5.2 relance la concurrence en code agentique avec les outils comme Cursor 3 qui misent sur l'orchestration d'agents multi-modèles."
-    },
-    {
-      "source": "n01",
-      "target": "n03",
-      "type": "tension",
-      "explanation": "Anthropic libère un modèle plus capable avec garde-fous allégés, quand OpenAI retient Astra pour risque de sécurité : deux stratégies opposées."
-    },
-    {
-      "source": "n01",
-      "target": "n05",
       "type": "meme_sujet",
-      "explanation": "Les capacités scientifiques de Fable/Mythos 5.2 prolongent les premiers résultats de Claude en développement de médicaments."
+      "explanation": "Le lancement du roadshow et la fourchette de prix sont deux faces de la même opération : le marché teste désormais l'appétit pour un lab frontier coté."
     },
     {
-      "source": "n15",
-      "target": "n16",
+      "source": "n06",
+      "target": "n10",
       "type": "cause",
-      "explanation": "L'allègement FRTB européen modifie le calcul des charges de marché, ce qui pèse sur la modélisation CVA/XVA des banques."
+      "explanation": "La baisse du pétrole atténue le choc énergétique qui justifiait une hausse de la BCE, rendant le relèvement de décembre moins certain."
     },
     {
-      "source": "n18",
-      "target": "n17",
+      "source": "n10",
+      "target": "n11",
+      "type": "cause",
+      "explanation": "Un relèvement des taux de la BCE renchérit le service de la dette française, au moment où le budget 2027 peine à trouver une majorité."
+    },
+    {
+      "source": "n07",
+      "target": "n13",
+      "type": "cause",
+      "explanation": "Les prix pétroliers élevés provoqués par la guerre ont détruit une partie de la demande, contribuant mécaniquement au recul des émissions fossiles."
+    },
+    {
+      "source": "n13",
+      "target": "n12",
       "type": "tension",
-      "explanation": "Les États-Unis assouplissent leur Basel III tandis que le Royaume-Uni finalise FRTB/CVA, creusant la divergence réglementaire."
+      "explanation": "Les émissions baissent sous l'effet d'un choc de prix et non d'une décision politique, alors même que la COP31 n'inscrit pas la sortie des fossiles à son agenda."
+    },
+    {
+      "source": "n07",
+      "target": "n09",
+      "type": "meme_sujet",
+      "explanation": "Washington pousse simultanément deux sorties de guerre, au Moyen-Orient et en Ukraine, dans un contexte post-midterms où l'opinion réclame une baisse du coût de la vie."
+    },
+    {
+      "source": "n17",
+      "target": "n18",
+      "type": "tension",
+      "explanation": "L'essai universitaire montre un effet négatif net alors que d'autres expériences trouvent un engagement accru : la divergence pointe vers le design pédagogique du tuteur."
+    },
+    {
+      "source": "n14",
+      "target": "n01",
+      "type": "tension",
+      "explanation": "Mistral ouvre les poids de son plus grand modèle pendant qu'Anthropic monétise des modèles fermés en Bourse : deux stratégies opposées de captation de valeur."
+    },
+    {
+      "source": "n03",
+      "target": "n21",
+      "type": "meme_sujet",
+      "explanation": "Les soupçons de fuite de puces vers la Chine s'inscrivent dans la même rivalité technologique sino-américaine qui tend l'agenda de l'APEC de Shenzhen."
     }
   ]
 }
